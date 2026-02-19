@@ -14,35 +14,35 @@ Der Strom $I_1$ ist die Summe von $I_2$ und $I_L$ und damit der größte Strom.
 
 <margin>
   Zur Veranschaulichung hilft am Besten eine Rechnung mit konkreten Bauteilwerten.
-Angenommen: Alle Widerstände haben einen Wert von 1 kOhm und die Gesamtspannung $U_B$ beträgt 12 V.
+Angenommen: Alle Widerstände haben einen Wert von $\qty{1}{\kilo\ohm}$ und die Gesamtspannung $U_B$ beträgt $\qty{12}{\volt}$.
   
  *unbelasteter Fall:*
- Ohne Rechnung ist sofort zu sehen: An jedem Widerstand können 6 V gemesen werden.
- Der Gesamtwiderstand $R_{ges}$ beträgt: 2 kOhm
+ Ohne Rechnung ist sofort zu sehen: An jedem Widerstand können $\qty{6}{\volt}$ gemesen werden.
+ Der Gesamtwiderstand $R_{ges}$ beträgt: $\qty{2}{\kilo\ohm}$
  $\dfrac{U_{ges1}}{U_{2}} = \frac{R_{ges}}{R_{2}}$
  Der Gesamtstrom $I_1$ beträgt:  $I_1$ = $\frac{U_B}{R_{ges}}$ 
- $I_1$ =$ \frac{12\ \text{V}}{2\ \text{k}\Omega}$ = 6 mA.  Dieser Strom fließt auch durch $R_2$.
- Die Verlustleistung ist an beiden Widerständen gleich groß: $P_1$ = $P_2$ = 6 V $\cdot\  6 \text{mA}$ = 36 mW
+ $I_1 = \frac{\qty{12}{\volt}}{\qty{2}{\kilo\ohm}} = \qty{6}{\milli\ampere}$. Dieser Strom fließt auch durch $R_2$.
+ Die Verlustleistung ist an beiden Widerständen gleich groß: $P_1 = P_2 = \qty{6}{\volt} \cdot \qty{6}{\milli\ampere} = \qty{36}{\milli\watt}$
  
  *belasteter Fall:*
-  Die Parallelschaltung von $R_2$ und $R_L$ ergibt einen Ersatzwiderstand von 500 Ohm.
-  Der Gesamtwiderstand des Spannungsteilers beträgt nun 1, 5 kOhm. Jetzt wirkt eine Spannungsteiler mit 1 kOhm zu 500 Ohm und dementsprechend teilt sich die Gesamtspannung auf.
-  2/3 der Gesamtspannung kann an $R_1$ und 1/3 der Gesamtspannung kann an 500 Ohm gemessen werden.
+  Die Parallelschaltung von $R_2$ und $R_L$ ergibt einen Ersatzwiderstand von $\qty{500}{\ohm}$.
+  Der Gesamtwiderstand des Spannungsteilers beträgt nun $\qty{1,5}{\kilo\ohm}$. Jetzt wirkt eine Spannungsteiler mit $\qty{1}{\kilo\ohm}$ zu $\qty{500}{\ohm}$ und dementsprechend teilt sich die Gesamtspannung auf.
+  $2/3$ der Gesamtspannung kann an $R_1$ und $1/3$ der Gesamtspannung kann an $\qty{500}{\ohm}$ gemessen werden.
   Formel: $\frac{U_1}{U_{ges}} =  \frac{R_{1}}{R_{ges}}   \  \ \    U_1 = U_{ges} * \frac{R_1}{R_{ges}}$ 
-  $U_1$ = 12 V  * ${\frac {1 \ \text{k}\Omega}{1,5\  \text{k}\Omega}}$
-  $U_1$ = 8 V  und am 500 Ohm Ersatzwiderstand 12 V - 8 V = 4 V. 
+  $U_1 = \qty{12}{\volt} \cdot \frac{\qty{1}{\kilo\ohm}}{\qty{1,5}{\kilo\ohm}}$
+  $U_1 = \qty{8}{\volt}$ und am $\qty{500}{\ohm}$ Ersatzwiderstand $\qty{12}{\volt} - \qty{8}{\volt} = \qty{4}{\volt}$. 
   
 Nun betrachten wir die Ströme:
-  $I_1$ = 8 V / 1 kOhm = 8 mA. Dieser Strom steigt an.
-  An $R_2$ und $R_L$ liegen jetzt nur noch 4 V an, deshalb sinken beide Ströme auf $I_2$ = 4 V / 1 kOhm = 4 mA und $I_L$ = 4 V / 1 kOhm = 4 mA.
+  $I_1 = \qty{8}{\volt} / \qty{1}{\kilo\ohm} = \qty{8}{\milli\ampere}$. Dieser Strom steigt an.
+  An $R_2$ und $R_L$ liegen jetzt nur noch $\qty{4}{\volt}$ an, deshalb sinken beide Ströme auf $I_2 = \qty{4}{\volt} / \qty{1}{\kilo\ohm} = \qty{4}{\milli\ampere}$ und $I_L = \qty{4}{\volt} / \qty{1}{\kilo\ohm} = \qty{4}{\milli\ampere}$.
   
   Wie verändern sich die Verlustleistungen?
   *An $R_1$:*  
-  $P_1$ = $U_1$ * $I_1$ = 8 V * 8 mA = 64 mW gegenüber 36 mW im unbelasteten Fall.
+  $P_1 = U_1 \cdot I_1 = \qty{8}{\volt} \cdot \qty{8}{\milli\ampere} = \qty{64}{\milli\watt}$ gegenüber $\qty{36}{\milli\watt}$ im unbelasteten Fall.
   *An $R_2$* : 
-  $P_2$ = $U_2$ * $I_2$ = 4 V * 4mA = 16 mW gegenüber 36 mW im unbelasteten Fall.
+  $P_2 = U_2 \cdot I_2 = \qty{4}{\volt} \cdot \qty{4}{\milli\ampere} = \qty{16}{\milli\watt}$ gegenüber $\qty{36}{\milli\watt}$ im unbelasteten Fall.
   *An $R_L$:*  
-  $P_L$ = $U_L$ * $I_L$ = 4 V * 4mA = 16 mW.
+  $P_L = U_L \cdot I_L = \qty{4}{\volt} \cdot \qty{4}{\milli\ampere} = \qty{16}{\milli\watt}$.
 </margin>
 
 Merke: Bei der Dimensionierung eines Spannungsteiler ist die Stromstärke durch die Widerstände zu berücksichtigen. Der Strom $I_1$ steigt, wenn ein Lastwiderstand angeschlossen wird und dadurch wird $R_1$ wärmer.

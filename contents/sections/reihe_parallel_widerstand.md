@@ -77,7 +77,7 @@ Einige der Aufgaben enthalten Widerstandsnetzwerke, in denen sowohl eine Reihen-
 <tip>
 [picture:305:e_tipp_aufgabe:Beispielschaltung]
 
-Ein wichtiges Lösungsverfahren ist die "Methode des scharfen Hinsehens" ... da gibt es zum Beispiel eine Schaltung, die einen Widerstand $R_1$ in Reihe mit zwei parallel geschalteten Widerständen $R_2$ und $R_3$ hat. Die Werte sind $R_1 = 1\ k\Omega$, $R_2 = 2000\ \Omega$ und $R_3 = 2\ k\Omega$. Nun sind aber $2\ k\Omega = 2000\ \Omega$. Die Paralellschaltung von $R_2$ und $R_3$ ergibt einen Widerstand, der halb so groß ist: $1000\ \Omega = 1\ k\Omega$. Den schalten wir in Reihe mit $R_1$ und erhalten das Ergebnis: $R_{ges}=2\ k\Omega$. 
+Ein wichtiges Lösungsverfahren ist die "Methode des scharfen Hinsehens" ... da gibt es zum Beispiel eine Schaltung, die einen Widerstand $R_1$ in Reihe mit zwei parallel geschalteten Widerständen $R_2$ und $R_3$ hat. Die Werte sind $R_1 = \qty{1}{\kilo\ohm}$, $R_2 = \qty{2000}{\ohm}$ und $R_3 = \qty{2}{\kilo\ohm}$. Nun sind aber $\qty{2}{\kilo\ohm} = \qty{2000}{\ohm}$. Die Paralellschaltung von $R_2$ und $R_3$ ergibt einen Widerstand, der halb so groß ist: $\qty{1000}{\ohm} = \qty{1}{\kilo\ohm}$. Den schalten wir in Reihe mit $R_1$ und erhalten das Ergebnis: $R_{ges} = \qty{2}{\kilo\ohm}$.
 </tip>
 
 [question:ED111]

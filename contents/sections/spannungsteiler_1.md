@@ -57,7 +57,7 @@ $U_1 = \frac{U_2}{6}$
 
 [question:ED103]
 
-Bei dieser Frage sind konkrete Widerstandswerte angegeben, die zur Ermittlung des Spannungsteilerverhältnisses dienen. $R_1$ verhält sich zu $R_2$ wie $\qty{10}{\kilo\ohm}$ zu $\qty{20}{\kilo\ohm}$, also $1$ zu $2$. $U_2$ muss deshalb doppelt so groß sein wie $U_1$. Es ist aber die Gesamtspannung  $U_g$ angegeben. Diese liegt an einem Gesamtwiderstand von 30 kOhm und wird deshalb im Verhältnis $30$ zu $20$ (oder $3$ zu $2$) bezogen auf $R_2$ aufgeteilt. An $R_2$  muss deshalb die Spannung  2/3 von $U_g$ gemessen werden können.
+Bei dieser Frage sind konkrete Widerstandswerte angegeben, die zur Ermittlung des Spannungsteilerverhältnisses dienen. $R_1$ verhält sich zu $R_2$ wie $\qty{10}{\kilo\ohm}$ zu $\qty{20}{\kilo\ohm}$, also $1$ zu $2$. $U_2$ muss deshalb doppelt so groß sein wie $U_1$. Es ist aber die Gesamtspannung  $U_g$ angegeben. Diese liegt an einem Gesamtwiderstand von $\qty{30}{\kilo\ohm}$ und wird deshalb im Verhältnis $30$ zu $20$ (oder $3$ zu $2$) bezogen auf $R_2$ aufgeteilt. An $R_2$  muss deshalb die Spannung $2/3$ von $U_g$ gemessen werden können.
 
 Selbstverständlich kann dieses Ergebnis auch mit der Formel aus der Formelsammlung berechnet werden:
 
