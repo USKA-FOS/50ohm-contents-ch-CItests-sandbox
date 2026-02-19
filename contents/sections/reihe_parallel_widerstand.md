@@ -11,12 +11,12 @@ $U=R \cdot I$
 Die Abbildung [ref:e_spannungsteiler] zeigt zwei Widerstände $R_1$ und $R_2$, die hinter einander geschaltet werden. Sie vom gleichen Strom *I* durchflossen. An den Widerständen fallen dann die Spannungen
 
 $U_1 = R_1 \cdot I$ und  $U_2 = R_2 \cdot I$ ab. 
-Die Gesamtspannung $U_{ges}$ ist einfach die Summe dieser beiden Spannungen:
+Die Gesamtspannung $U_g$ ist einfach die Summe dieser beiden Spannungen:
 
-$U_{ges} =  U_1 + U_2 =  R_{ges} \cdot {I} = R_1 \cdot I + R_2 \cdot I$
+$U_g =  U_1 + U_2 =  R_{ges} \cdot {I} = R_1 \cdot I + R_2 \cdot I$
 
 Jetzt können wir den Widerstand berechnen, der zwischen den äußeren Klemmen zu sehen ist:
-$R_{ges} = \frac{U_{ges}}{I} = R_1 + R_2$, weil sich auf beiden Seiten der Gleichung der Strom $I$ rauskürzt.
+$R_{ges} = \frac{U_g}{I} = R_1 + R_2$, weil sich auf beiden Seiten der Gleichung der Strom $I$ rauskürzt.
 
 Das Ganze funktioniert auch bei mehr als zwei Widerständen, wie in der Formelsammlung dargestellt:
 
@@ -38,9 +38,9 @@ fließen lässt.
 
 Der im äußeren Stromkreis fließende Strom ist die Summe dieser beiden Ströme:
 
-$I_{ges} = I_1 + I_2 = \frac{U}{R_1} + \frac{U}{R_2}$
+$I = I_1 + I_2 = \frac{U}{R_1} + \frac{U}{R_2}$
 
-Wir suchen wieder einen Gesamtwiderstand $R_{ges}$, für den dann gelten muss: $I_{ges}=\frac{U}{R_{ges}}$ und folglich:
+Wir suchen wieder einen Gesamtwiderstand $R_{ges}$, für den dann gelten muss: $I=\frac{U}{R_{ges}}$ und folglich:
 
 $\dfrac{1}{R_{ges}} = \dfrac{1}{R_1} + \dfrac{1}{R_2}$
 
