@@ -35,7 +35,7 @@ $U = R_{\mathrm{ges}} \cdot I = \qty{15}{\kilo\ohm} \cdot \qty{2}{\milli\ampere}
 $R_{\mathrm{ges}} = R_1 + \frac{R_1 \cdot R_2}{R_1 + R_2} = \qty{10}{\kilo\ohm} + \frac{\qty{10}{\kilo\ohm} \cdot \qty{10}{\kilo\ohm}}{\qty{10}{\kilo\ohm} + \qty{10}{\kilo\ohm}} = \qty{15}{\kilo\ohm}$
 </fragment>
 <fragment>
-$\frac{U_3}{U} = \frac{R_{2\parallel 3}}{R_{\mathrm{ges}}} \Rightarrow U_3 = \frac{R_{2\parallel 3}}{R_{\mathrm{ges}}} \cdot U = \frac{\qty{5}{\kilo\ohm}}{\qty{15}{\kilo\ohm}} \cdot \qty{15}{\volt} = \qty{5}{\volt}$
+$\frac{U_3}{U} = \frac{R_2 \parallel R_3}{R_{\mathrm{ges}}} \Rightarrow U_3 = \frac{R_2 \parallel R_3}{R_{\mathrm{ges}}} \cdot U = \frac{\qty{5}{\kilo\ohm}}{\qty{15}{\kilo\ohm}} \cdot \qty{15}{\volt} = \qty{5}{\volt}$
 </fragment>
 <fragment>
 $I_3 = \frac{U_3}{R_3} = \frac{\qty{5}{\volt}}{\qty{10}{\kilo\ohm}} = \qty{0,5}{\milli\ampere}$
@@ -49,7 +49,7 @@ $I_3 = \frac{U_3}{R_3} = \frac{\qty{5}{\volt}}{\qty{10}{\kilo\ohm}} = \qty{0,5}{
 * gesucht: $P_2$
 
 <fragment>
-$\frac{U_2}{U} = \frac{R_{2\parallel 3}}{R_{\mathrm{ges}}} \Rightarrow U_2 = \frac{R_{2\parallel 3}}{R_{\mathrm{ges}}} \cdot U = \frac{\qty{5}{\kilo\ohm}}{\qty{15}{\kilo\ohm}} \cdot \qty{15}{\volt} = \qty{5}{\volt}$
+$\frac{U_2}{U} = \frac{R_2 \parallel R_3}{R_{\mathrm{ges}}} \Rightarrow U_2 = \frac{R_2 \parallel R_3}{R_{\mathrm{ges}}} \cdot U = \frac{\qty{5}{\kilo\ohm}}{\qty{15}{\kilo\ohm}} \cdot \qty{15}{\volt} = \qty{5}{\volt}$
 </fragment>
 <fragment>
 $P_2 = \frac{U_2^2}{R_2} = \frac{(\qty{5}{\volt})^2}{\qty{10}{\kilo\ohm}} = \qty{2,5}{\milli\watt}$
@@ -104,10 +104,10 @@ $\begin{split} R_{\mathrm{ges}} &= \frac{(R_1 + R_2) \cdot (R_3 + R_4)}{(R_1 + R
 </right>
 
 <fragment>
-$\frac{U_2}{U_B} = \frac{R_{2\parallel L}}{R_{\mathrm{ges}}}$
-$R_{2\parallel L} = \frac{R_2 \cdot R_L}{R_2 + R_L} = \frac{\qty{2,2}{\kilo\ohm} \cdot \qty{8,2}{\kilo\ohm}}{\qty{2,2}{\kilo\ohm} + \qty{8,2}{\kilo\ohm}} = \qty{1,74}{\kilo\ohm}$
-$R_{\mathrm{ges}} = R_1 + R_{2\parallel L} = \qty{10}{\kilo\ohm} + \qty{1,74}{\kilo\ohm} = \qty{11,74}{\kilo\ohm}$
+$\frac{U_2}{U_B} = \frac{R_2 \parallel R_L}{R_{\mathrm{ges}}}$
+$R_2 \parallel R_L = \frac{R_2 \cdot R_L}{R_2 + R_L} = \frac{\qty{2,2}{\kilo\ohm} \cdot \qty{8,2}{\kilo\ohm}}{\qty{2,2}{\kilo\ohm} + \qty{8,2}{\kilo\ohm}} = \qty{1,74}{\kilo\ohm}$
+$R_{\mathrm{ges}} = R_1 + R_2 \parallel R_L = \qty{10}{\kilo\ohm} + \qty{1,74}{\kilo\ohm} = \qty{11,74}{\kilo\ohm}$
 </fragment>
 <fragment>
-$U_2 = \frac{R_{2\parallel L}}{R_{\mathrm{ges}}} \cdot U_B = \frac{\qty{1,74}{\kilo\ohm}}{\qty{11,74}{\kilo\ohm}} \cdot \qty{12}{\volt} \approx \qty{1,8}{\volt}$
+$U_2 = \frac{R_2 \parallel R_L}{R_{\mathrm{ges}}} \cdot U_B = \frac{\qty{1,74}{\kilo\ohm}}{\qty{11,74}{\kilo\ohm}} \cdot \qty{12}{\volt} \approx \qty{1,8}{\volt}$
 </fragment>
