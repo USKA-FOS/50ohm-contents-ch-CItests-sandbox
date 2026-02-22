@@ -1,4 +1,4 @@
-Wie wir bereits gelernt haben, kann ein Halbwellendipol auch an einem Ende gespeist werden. Der Speisewiderstand ist bei einer Drahtlänge von $\lambda / 2$ oder Vielfachen davon hochohmig (ca. $\qty{2000}{\ohm}$ bis $\qty{2500}{\ohm}$). Eine Möglichkeit der Anpassung ist der bereits besprochene Fuchskreis.
+Wie wir bereits gelernt haben, kann ein Halbwellendipol auch an einem Ende gespeist werden. Der Speisewiderstand ist bei einer Drahtlänge von $\lambda / 2$ oder Vielfachen davon hochohmig (ca. $\qtyrange{2000}{2500}{\ohm}$). Eine Möglichkeit der Anpassung ist der bereits besprochene Fuchskreis.
 
 [question:AG419]
 
