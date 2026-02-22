@@ -12,7 +12,7 @@ $R_i = \frac{\Delta U}{\Delta I}$
 Zur Berechnung werden zwei Belastungsfälle benötigt:
 1. Leerlauf; $I = \qty{0}{\ampere}$
 2. Belastung mit $R_L$; $I_L = \frac{U_L}{R_L}$
-Über die Spannungsveränderung ($\Delta U$) an den Klemmen und die Laststromveränderung ($\Delta I$) , kann der Innenwiderstand berechnet werden. 
+Über die Spannungsveränderung ($\Delta U$) an den Klemmen und die Laststromveränderung ($\Delta I$), kann der Innenwiderstand berechnet werden.
 
 * Ideale Spannungsquellen sollen einen sehr niedrigen Innenwiderstand $R_i \ll R_L$ aufweisen, im Idealfall: $\qty{0}{\ohm}$, dann bleibt die Ausgangsspannung bei Belastung unverändert. ($\Delta U = \qty{0}{\volt}$);  $R_i = \frac{\Delta U}{\Delta I} = \frac{0}{x} = \qty{0}{\ohm}$
 
@@ -27,7 +27,7 @@ Zur Berechnung werden zwei Belastungsfälle benötigt:
 Wechselspannungsquellen, z.B. Sinusgeneratoren besitzen auch einen Innenwiderstand, der an der Ausgangsbuchse angeben ist.
 Beispiele:
 [photo:292:Sinusgenerator 50 Ohm:Sinusgenerator mit 50 Ohm Innenwiderstand]
-[photo:293:Sinusgenerator 200 Ohm:Sinusgenerator mit 200 Ohm Innenwiderstand]  
+[photo:293:Sinusgenerator 200 Ohm:Sinusgenerator mit 200 Ohm Innenwiderstand]
 </indepth>
 
 

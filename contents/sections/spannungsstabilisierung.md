@@ -96,7 +96,7 @@ $P_{in} = U_{in} \cdot I_{L} = \qty{13,8}{\volt} \cdot \qty{0,5}{\ampere} = \qty
 Ausgangsleistung = Ausgangsspannung x Laststrom
 $P_{out} = U_{out} \cdot I_{L} = \qty{5}{\volt} \cdot \qty{0,5}{\ampere} = \qty{2,5}{\watt}$
 </tip>
-Die Verlustleistung $P_V$ des Festspannungsreglers ergibt sich aus der Differenz von  $P_{in}$ und $P_{out}$.
+Die Verlustleistung $P_V$ des Festspannungsreglers ergibt sich aus der Differenz von $P_{in}$ und $P_{out}$.
 
 $P_V = P_{in} - P_{out} = \qty{6,9}{\watt} - \qty{2,5}{\watt} = \qty{4,4}{\watt}$
 
