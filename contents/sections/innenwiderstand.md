@@ -45,7 +45,7 @@ Bei Kurzschluss an den Ausgangsklemmen fließt der eingestellte maximale Strom.
 
 In Labornetzgeräten ist eine Strombegrenzung eingebaut, d.h. übersteigt der Laststrom eine maximale Stromstärke, wird die Klemmenspannung so abgesenkt, dass der Laststrom konstant bleibt. Dies entspricht der Funktion einer Konstantstromquelle.
 
-$R_i = \frac{\Delta U}{\Delta I}$; ($\Delta I$ = "Null" A);   $R_i = \frac{\Delta U}{"Null"}$ = "unendlich"  $\ \Omega$
+$R_i = \frac{\Delta U}{\Delta I}$; ($\Delta I \to \qty{0}{\ampere}$);   $R_i = \frac{\Delta U}{\Delta I} \to \qty{\infty}{\ohm}$
 * Ideale Stromquellen sollen einen sehr hohen Innenwiderstand $R_i \gg R_L$ aufweisen. Idealfall: "unendlich" Ohm, dann bleibt der Laststrom bei Änderung des  Lastwiderstandes konstant, deshalb spricht man auch von Stromanpassung.
 ---
 [question:AB201]
@@ -77,8 +77,8 @@ Hierbei gilt: $R_i = R_L$
 
 <margin>
 |c: Zusammenfassung | c: Innenwiderstand |
-| Spannungsanpassung bei einer Konstantspannungsquelle| $R_i$ =  "sehr niederhohmig" ; theoretisch  $\qty{0}{\ohm}$;  $R_i \ll R_L$ identisch mit $R_L \gg R_i$| 
-|Stromanpassung bei einer Konstantstromquelle|$R_i$ =  "sehr hochohmig" ;  $R_i \gg R_L$ identisch mit $R_L \ll R_i$ |
+| Spannungsanpassung bei einer Konstantspannungsquelle| $R_i$ ist sehr niederohmig ; theoretisch  $\qty{0}{\ohm}$;  $R_i \ll R_L$ identisch mit $R_L \gg R_i$|
+|Stromanpassung bei einer Konstantstromquelle|$R_i$ ist sehr hochohmig;  $R_i \gg R_L$ identisch mit $R_L \ll R_i$ |
 | Leistungsanpassung bei Verstärkern| $R_L = R_i$|
 [table:a_Innenwiderstand Zusammenfassung:Zusammenfassung zum Innenwiderstand]
 </margin>
