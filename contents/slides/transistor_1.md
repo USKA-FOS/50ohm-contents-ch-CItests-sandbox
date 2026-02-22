@@ -131,7 +131,7 @@ $U_{ BE } = U_{ B } - U_{ E }$
 Ist die Basis-Emitter-Spannung ausreichend und liegt sie im negativen Potential vor?
 Hier muss man auf die Vorzeichen achten und bei negativen Vorzeichen umdenken, Beispiele:
 
-* Basis $\qty{+5,6}{\volt}$ und Emitter $\qty{+6,2}{\volt}$<br/> &rArr; Die Basis-Emitter-Spannung ist ist negativ und beträgt $\qty{-0,6}{\volt}$
+* Basis $\qty{+5,6}{\volt}$ und Emitter $\qty{+6,2}{\volt}$<br/> &rArr; Die Basis-Emitter-Spannung ist negativ und beträgt $\qty{-0,6}{\volt}$
 * Basis $\qty{-2}{\volt}$ und Emitter $\qty{-1,4}{\volt}$<br/> &rArr; Die Basis-Emitter-Spannung ist negativ und beträgt $\qty{-0,6}{\volt}$
 
 ---
