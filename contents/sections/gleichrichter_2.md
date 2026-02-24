@@ -25,7 +25,7 @@ Wenn an einem Transformator die Spannung $U_a = \qty{15}{\volt}$ angegeben ist, 
 
 [question:AD302]
 
-Bei nachfolgender Frage müssen wir das Übersetzungsverhältniss vom Trafo anwenden, um unsere Ausgangsspannung zu ermitteln. Wir setzten also für die effektive Eingangsspannung $U_{\mathrm{eff}}$ ein zwanzigstel der Trafoeingangsspannung von $\qty{230}{\volt}$ ein. Von der Spitzenspannung können wir dann die Hälfte der Spannung nochmal addieren um den Sicherheitsaufschlag zu berücksichtigen.
+Bei nachfolgender Frage müssen wir das Übersetzungsverhältnis vom Trafo anwenden, um unsere Ausgangsspannung zu ermitteln. Wir setzten also für die effektive Eingangsspannung $U_{\mathrm{eff}}$ ein zwanzigstel der Trafoeingangsspannung von $\qty{230}{\volt}$ ein. Von der Spitzenspannung können wir dann die Hälfte der Spannung nochmal addieren um den Sicherheitsaufschlag zu berücksichtigen.
 
 [question:AD303]
 
