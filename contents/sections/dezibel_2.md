@@ -34,17 +34,17 @@ Mit diesen beiden Formeln können wir also leicht zwischen $\unit{\dB}$-Angaben 
 [question:AA106]
 
 <tip>
-In der Klasse E haben wir bereits folgenden Trick kennengelernt: Ganz ohne Taschenrechner lassen sich Dezibelwerte abschätzen, die auf "0" enden: Einfach die letzte Null zuhalten, die Ziffer gibt dann die Anzahl der Nullen des Verhältnisfaktors an. Beispiel: $\qty{30}{\dB} \rightarrow 3 \rightarrow \text{3 Nullen} \rightarrow \text{Verhältnisfaktor 1000}$!
+In der Klasse E haben wir bereits folgenden Trick kennengelernt: Ganz ohne Taschenrechner lassen sich Dezibelwerte abschätzen, die auf "0" enden: Einfach die letzte Null zuhalten, die Ziffer gibt dann die Anzahl der Nullen des Verhältnisfaktors an. Beispiel: $\qty{30}{\dB} \rightarrow 3 \rightarrow 3~\text{Nullen} \rightarrow \text{Verhältnisfaktor}~1000$!
 
-Auch anders herum lässt es sich leicht berechnen: Eins mit 12 Nullen ($\num{1000000000000}$) in $\unit{\dB}$ ist einfach die Anzahl der Nullen, also 12, multipliziert mit 10. Es ergibt sich so ein Verstärkungsfaktor von $\qty{120}{\dB}$.
+Auch anders herum lässt es sich leicht berechnen: Eins mit $12$ Nullen ($\num{1000000000000}$) in $\unit{\dB}$ ist einfach die Anzahl der Nullen, also $12$, multipliziert mit $10$. Es ergibt sich so ein Verstärkungsfaktor von $\qty{120}{\dB}$.
 
-Aber auch für $\unit{\dB}$-Werte die nicht auf 0 enden kann man durch Zerlegung den entsprechenden Faktor ermitteln:
+Aber auch für $\unit{\dB}$-Werte die nicht auf $0$ enden kann man durch Zerlegung den entsprechenden Faktor ermitteln:
 
 * Man kann $\qty{9}{\dB}$ in $\qty{6}{\dB} + \qty{3}{\dB}$ zerlegen, was einer Multiplikation von $4\cdot 2 = 8$ entspricht. 
 * Welcher Faktor entspricht einem Leistungsverhältnis von $\qty{17}{\dB}$? $\qty{17}{\dB} = \qty{20}{\dB} - \qty{3}{\dB}$, also Faktor $100$ durch $2$ gleich $50$.
 </tip>
 
-Das Dezibel ($\unit{\dB}$) beschreibt grundsätzlich ein dimensionsloses Verhältnis, etwa von Leistungen oder Spannungen. Deshalb wird $\unit{\dB}$ vor allem zur Angabe von Verstärkungen und Dämpfungen verwendet. In diesen Fällen ist kein weiterer Zusatz notwendig, da lediglich das Verhältnis zweier Größen angegeben wird. Negative Dezibelwerte kennzeichnen übrigens Verhältniswerte kleiner als 1. So entspricht $\qty{-3}{\dB}$ einem Verhältniswert von $\frac{1}{2} = \num{0,5}$.
+Das Dezibel ($\unit{\dB}$) beschreibt grundsätzlich ein dimensionsloses Verhältnis, etwa von Leistungen oder Spannungen. Deshalb wird $\unit{\dB}$ vor allem zur Angabe von Verstärkungen und Dämpfungen verwendet. In diesen Fällen ist kein weiterer Zusatz notwendig, da lediglich das Verhältnis zweier Größen angegeben wird. Negative Dezibelwerte kennzeichnen übrigens Verhältniswerte kleiner als $1$. So entspricht $\qty{-3}{\dB}$ einem Verhältniswert von $\frac{1}{2} = \num{0,5}$.
 
 Man kann aber auch Dezibelwerte nutzen, um einen absoluten Pegel anzugeben. Dafür ist allerdings eine feste Bezugsgröße $P_0$ erforderlich:
 
@@ -54,7 +54,7 @@ $p = 10\cdot \log_{10}\left(\frac{P}{P_0}\right)\unit{\dB}$
 
 Diese Bezugsgröße kann zum Beispiel eine Leistung von $\qty{1}{\milli\watt}$ sein. In diesem Fall erhält der Dezibelwert einen entsprechenden Zusatz: Bezieht sich der Pegel auf $\qty{1}{\milli\watt}$, spricht man von $\unit{\dBm}$. Dadurch ist eindeutig festgelegt, auf welchen absoluten Leistungswert sich der Dezibelpegel bezieht.
 
-Trifft man beispielsweise auf die Angabe „Der Sender hat eine Ausgangsleistung von $\qty{20}{\dBm}$“, lässt sich dieser Wert leicht in Milliwatt umrechnen. Ein Pegel von $\qty{20}{\dB}$ entspricht einem Leistungsfaktor von 100 (also zwei Nullen). Dieser Faktor wird mit der Bezugsgröße von $\qty{1}{\milli\watt}$ multipliziert:
+Trifft man beispielsweise auf die Angabe „Der Sender hat eine Ausgangsleistung von $\qty{20}{\dBm}$“, lässt sich dieser Wert leicht in Milliwatt umrechnen. Ein Pegel von $\qty{20}{\dB}$ entspricht einem Leistungsfaktor von $100$ (also zwei Nullen). Dieser Faktor wird mit der Bezugsgröße von $\qty{1}{\milli\watt}$ multipliziert:
 
 $ P = 100 \cdot \qty{1}{\milli\watt} = \qty{100}{\milli\watt}$
 
@@ -82,7 +82,7 @@ Warum macht man das Ganze überhaupt und gibt absolute Leistungen in $\unit{\dBm
 
 Abbildung [ref:e_signalkette] zeigt eine solche Signalkette mit drei Verstärkerstufen. Das Eingangssignal besitzt eine Leistung von $\qty{1}{\milli\watt}$, was $\qty{0}{\dBm}$ entspricht. Durch die drei Verstärkerstufen wird das Signal insgesamt auf $\qty{60}{\dBm}$ verstärkt (also $1000000\cdot \qty{1}{\milli\watt}$), was einer Leistung von $\qty{1000}{\watt}$ entspricht.
 
-Abbildung [ref:e_signalkette_2] zeigt ein weiteres Beispiel einer Signalkette, bei der zusätzlich ein Dämpfungsglied mit einer Dämpfung von $\qty{20}{\dB}$ eingesetzt wird, was einer negativen Verstärkung von $\qty{-20}{\dB}$ entspricht. Das Eingangssignal besitzt eine Leistung von $\qty{1}{\milli\watt}$, also $\qty{0}{\dBm}$. Durch die erste Verstärkerstufe wird das Signal auf $\qty{10}{\dBm}$ angehoben. Anschließend wird es durch das Dämpfungsglied auf $\qty{-10}{\dBm}$ abgeschwächt und schließlich durch die zweite Verstärkerstufe wieder auf $\qty{0}{\dBm}$ verstärkt, was wiederum $\qty{1}{\milli\watt}$ entspricht.
+Abbildung [ref:e_signalkette_2] zeigt ein weiteres Beispiel einer Signalkette, bei der zusätzlich ein Dämpfungsglied mit einer Dämpfung von $\qty{20}{\dB}$ eingesetzt wird, was einer Verstärkung von $\qty{-20}{\dB}$ entspricht. Das Eingangssignal besitzt eine Leistung von $\qty{1}{\milli\watt}$, also $\qty{0}{\dBm}$. Durch die erste Verstärkerstufe wird das Signal auf $\qty{10}{\dBm}$ angehoben. Anschließend wird es durch das Dämpfungsglied auf $\qty{-10}{\dBm}$ abgeschwächt und schließlich durch die zweite Verstärkerstufe wieder auf $\qty{0}{\dBm}$ verstärkt, was wiederum $\qty{1}{\milli\watt}$ entspricht.
 
 <margin>
 [picture:877:e_signalkette:Signalkette mit drei Verstärken]
@@ -91,7 +91,7 @@ Abbildung [ref:e_signalkette_2] zeigt ein weiteres Beispiel einer Signalkette, b
 
 <indepth>
 Wieso ist es zulässig vom Pegel $\qty{9}{\dBm}$ eine Dämpfung von $\qty{3}{\dB}$ abzuziehen? Beide Werte haben doch unterschiedliche Maßeinheiten! Bei der Einheit Bel ($\unit{\bel}$) bzw. Dezibel ($\unit{\dB}$) handelt es sich um eine Hilfsmaßeinheit (auch Pseudoeinheit).
-Im Prinzip könnte der Zahlenwert auch ohne  die Einheit $\unit{\dB}$ geschrieben werden, aber mit dem Zusatz $\unit{\dB}$ wird deutlich, dass es um ein logarithmisches Verhältnis von zwei Größen geht. Ohne diese Einheit müsste man verbal beschreiben welche Bedeutung der Zahlenwert hat.
+Im Prinzip könnte der Zahlenwert auch ohne die Einheit $\unit{\dB}$ geschrieben werden. Aber mit dem Zusatz $\unit{\dB}$ wird deutlich, dass es um ein logarithmisches Verhältnis von zwei Größen geht. Ohne diese Einheit müsste man verbal beschreiben welche Bedeutung der Zahlenwert hat.
 </indepth>
   
 Zusätzlich haben wir in der Klasse E bereits die Zusätze $\unit{\dBd}$ und $\unit{\dBi}$ kennen gelernt, die bei der Angabe von Antennengewinnen verwendet werden. In diesem Fall bezieht sich der Dezibelwert nicht auf eine Leistung oder Spannung, sondern auf einen bestimmten Referenzstrahler. Üblich sind dabei $\unit{\dBi}$, bezogen auf den isotropen Kugelstrahler, sowie $\unit{\dBd}$, bezogen auf den Halbwellendipol.
@@ -114,7 +114,7 @@ Einige einfache Rechenregeln ermöglichen die Lösung von Dezibel-Aufgaben ohne 
 
 Der Logarithmus einer quadrierten Zahl ist aber gleich zweimal dem Logarithmus der Zahl:
 
-$\lg(x^2)=2 \cdot \lg(x)$
+$\log_{10}(x^2)=2 \cdot \log_{10}(x)$
 
 Es folgt daraus:
 
@@ -122,7 +122,7 @@ $\begin{split} g &= 10 \cdot \log_{10}\left(\left(\frac{U_1}{U_2}\right)^2\right
 
 ---
 
-Daher berechnen wir ein Verhältnis *a* zweier Spannungen $U_1$ und $U_2$, indem wir den Logarithmus des Verhältnisses nicht mit dem Faktor 10, sondern mit dem Faktor 20 multiplizieren. Diese Formel finden wir auch in der Formelsammlung.
+Daher berechnen wir ein Verhältnis *a* zweier Spannungen $U_1$ und $U_2$, indem wir den Logarithmus des Verhältnisses nicht mit dem Faktor $10$, sondern mit dem Faktor $20$ multiplizieren. Diese Formel finden wir auch in der Formelsammlung.
 
 [question:AA111]
 
@@ -132,14 +132,20 @@ Bei der Dezibel-Berechnung immer genau beachten, ob es sich um Leistungs- oder S
 
 Zur Bestimmung von Spannungspegeln müssen wir wieder erst eine Bezugsspannung festlegen (vgl. Tabelle [ref:a_bezugsgroessen]). Bei Empfangssignalen messen wir die (sehr kleinen) Spannungen am Empfängereingang gern in $\unit{\micro\volt}$. Der zugehörige Spannungspegel hat dann die Einheit $\unit{\dBuV}$. Beispiel:
 
-$\qty{10}{\micro\volt} \rightarrow 20 \cdot \log\left(\frac{\qty{10}{\micro\volt}}{\qty{1}{\micro\volt}}\right)=\qty{20}{\dBuV}$
+$\qty{10}{\micro\volt} \rightarrow 20 \cdot \log_{10}\left(\frac{\qty{10}{\micro\volt}}{\qty{1}{\micro\volt}}\right)=\qty{20}{\dBuV}$
+
+---
 
 Bei der folgenden Frage ist der Bezugswert $\qty{1}{\micro\volt\per\meter}$. Versuche die Aufgabe mit deinem Wissen zu lösen.
+
+<attention>
+Achtung, hier ist $\unit{\dB(\micro\volt\per\meter)}$ gemeint und nicht $\unit{(\dB\micro\volt)/\meter}$! 
+</attention>
 
 [question:AA112]
 
 <tip>
-Auch hier kann man vieles im Kopf rechnen, denn die Formelsammlung gibt auch typische Werte für Spannungsverhältnisse an:
+Auch bei Spannungen kann man vieles im Kopf rechnen, denn die Tabelle aus der Formelsammlung:
 
 | c:dB | c:≈ Spannungsverhältnis |
 | $-20$ | $\num{0,1}$ |
