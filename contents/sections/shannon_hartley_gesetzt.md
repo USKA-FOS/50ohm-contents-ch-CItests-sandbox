@@ -10,7 +10,7 @@ $C=B \cdot \log_2 \left(1+{\dfrac{P_\text{S}}{P_\text{N}}}\right) \unit{\bit\per
 
 ---
 
-Ein leicht zu merkender Wert stellt sich bei einem Signal-Rausch-Verhältnis von $\qty{0}{\dB}$ ein. Hier entspricht die Bandbreite in $\unit{\text{Hertz}}$ genau der maximal erreichbaren Datenrate in $\unit{\text{Bit}\per\second}$. Schlechtere Signal-Rausch-Verhältnisse ermöglichen entsprechend geringere Datenraten, bessere Signal-Rausch-Verhältnisse größere Datenraten. Mit dieser Merkhilfe lassen sich die entsprechenden Prüfungsfragen auch ohne lange Rechnung schnell beantworten.
+Ein leicht zu merkender Wert stellt sich bei einem Signal-Rausch-Verhältnis von $\qty{0}{\dB}$ ein. Hier entspricht die Bandbreite in $\unit{\hertz}$ genau der maximal erreichbaren Datenrate in $\unit{\bit\per\second}$. Schlechtere Signal-Rausch-Verhältnisse ermöglichen entsprechend geringere Datenraten, bessere Signal-Rausch-Verhältnisse größere Datenraten. Mit dieser Merkhilfe lassen sich die entsprechenden Prüfungsfragen auch ohne lange Rechnung schnell beantworten.
 
 <margin>
 Setzen wir für $\frac{P_\text{S}}{P_\text{N}} = \qty{0}{\dB}$, also den Faktor $\num{1}$ ein so ergibt sich:
@@ -20,7 +20,7 @@ $\begin{split} C&=B \cdot \log_2 \left(1+1\right) \unit{\bit\per\second}\\ C&=B 
 
 ---
 
-Wenn deutlich mehr Bits pro Sekunde übertragen werden sollen, als Bandbreite in $\unit{\text{Hertz}}$ zur Verfügung steht, steigt das benötigte Signal-Rausch-Verhältnis stark an. Über schmalbandige Verbindungen auf der Kurzwelle lassen sich also praktisch keine hohen Datenraten erzielen. So wird das Hamnet als schnelles Datennetz in der Regel im oberen UHF- und unteren SHF-Bereich betrieben, wo höhere Bandbreiten zur Verfügung stehen.
+Wenn deutlich mehr Bits pro Sekunde übertragen werden sollen, als Bandbreite in $\unit{\hertz}$ zur Verfügung steht, steigt das benötigte Signal-Rausch-Verhältnis stark an. Über schmalbandige Verbindungen auf der Kurzwelle lassen sich also praktisch keine hohen Datenraten erzielen. So wird das Hamnet als schnelles Datennetz in der Regel im oberen UHF- und unteren SHF-Bereich betrieben, wo höhere Bandbreiten zur Verfügung stehen.
 
 <indepth>
 Hierbei wird nur die Rauschenergie betrachtet, die innerhalb der genutzten Bandbreite liegt. Einige Computerprogramme hingegen verwenden die Rauschenergie eines $\qty{2,4}{\kilo\hertz}$ breiten Kanals, auch wenn das eigentliche Nutzsignal deutlich schmaler ist; dies ist jedoch eine andere Größe, die sich nicht direkt in die Formel für das Shannon-Hartley-Gesetz einsetzen lässt.

@@ -6,7 +6,7 @@ Dieses Prinzip lässt sich auch wieder auf die Frequenz- und Phasenumtastung üb
 
 [question:AE402]
 
-Da bei Verfahren wie QPSK mehr als ein Bit pro Symbol übertragen wird, müssen wir mit den Einheiten aufpassen. Während wir in Hinblick auf den Datenstrom von einer Datenrate in Bit/s sprechen, wird die Rate der Abfolge unterschiedlicher Symbole in Symbolen pro Sekunde mit der Einheit Baud notiert.
+Da bei Verfahren wie QPSK mehr als ein Bit pro Symbol übertragen wird, müssen wir mit den Einheiten aufpassen. Während wir in Hinblick auf den Datenstrom von einer Datenrate in $\unit{\bit\per\second}$ sprechen, wird die Rate der Abfolge unterschiedlicher Symbole in Symbolen pro Sekunde mit der Einheit Baud notiert.
 
 [question:AA104]
 
@@ -18,7 +18,7 @@ $C$ Datenübertragungsrate in $\unit{\bit\per\second}$
 
 $R_\mathrm{S}$ Symbolrate in $\unit{\baud}$
 
-$n$ Symbolgröße in $\unit{\text{Bit}\per\text{Symbol}}$
+$n$ Symbolgröße in $\unit{\bit\per\text{Symbol}}$
 
 [question:AE405]
 [question:AE406]

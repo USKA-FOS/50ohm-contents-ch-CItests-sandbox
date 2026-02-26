@@ -18,7 +18,7 @@
 ---
 
 * Da bei Verfahren wie QPSK mehr als ein Bit pro Symbol übertragen wird, müssen wir mit den Einheiten aufpassen.
-* Werden nur zwei Symbole verwendet und somit jedes Bit einzeln gesendet, entspricht die Symbolrate in Baud der Datenrate in $\unit{\text{Bit}\per\second}$.
+* Werden nur zwei Symbole verwendet und somit jedes Bit einzeln gesendet, entspricht die Symbolrate in Baud der Datenrate in $\unit{\bit\per\second}$.
 * Werden jedoch mehr Symbole verwendet und somit mehrere Bits gleichzeitig übertragen, ist die Datenrate höher als die Symbolrate.
 
 ---
@@ -26,9 +26,9 @@
 * Die Formel $C = R_{ s } \cdot n$ stellt den Zusammenhang dar:
 
 <fragment>
-* $C$ → Datenübertragungsrate in $\unit{\text{Bit}\per\second}$
+* $C$ → Datenübertragungsrate in $\unit{\bit\per\second}$
 * $R_{ s }$ → Symbolrate in $\unit{\baud}$
-* $n$ → Symbolgröße in $\unit{\text{Bit}\per\text{Symbol}}$
+* $n$ → Symbolgröße in $\unit{\bit\per\text{Symbol}}$
 </fragment>
 
 ---
@@ -53,11 +53,11 @@ Beispiele:
 ---
 #### Lösungsweg
 * gegeben: $R_S = \qty{45,45}{\baud}$
-* gegeben: $n=\qty{1}{\text{Bit}\per\text{Symbol}}$
+* gegeben: $n=\qty{1}{\bit\per\text{Symbol}}$
 * gesucht: $C$
 
 <fragment>
-$C = R_S \cdot n = \qty{45,45}{\baud} \cdot \qty{1}{\text{Bit}\per\text{Symbol}} = \qty{45,45}{\text{Bit}\per\second}$
+$C = R_S \cdot n = \qty{45,45}{\baud} \cdot \qty{1}{\bit\per\text{Symbol}} = \qty{45,45}{\bit\per\second}$
 </fragment>
 
 ---
@@ -65,9 +65,9 @@ $C = R_S \cdot n = \qty{45,45}{\baud} \cdot \qty{1}{\text{Bit}\per\text{Symbol}}
 ---
 #### Lösungsweg
 * gegeben: $R_S = \qty{23,4}{\baud}$
-* gegeben: $n=\qty{2}{\text{Bit}\per\text{Symbol}}$
+* gegeben: $n=\qty{2}{\bit\per\text{Symbol}}$
 * gesucht: $C$
 
 <fragment>
-$C = R_S \cdot n = \qty{23,4}{\baud} \cdot \qty{2}{\text{Bit}\per\text{Symbol}} = \qty{46,8}{\text{Bit}\per\second}$
+$C = R_S \cdot n = \qty{23,4}{\baud} \cdot \qty{2}{\bit\per\text{Symbol}} = \qty{46,8}{\bit\per\second}$
 </fragment>
