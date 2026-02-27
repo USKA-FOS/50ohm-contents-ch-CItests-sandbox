@@ -18,11 +18,11 @@
 * Je lauter in das Mikrofon gesprochen wird, umso größer die Änderung der Trägerfrequenz
 * Dadurch steigt auch die belegte Bandbreite der Aussendung
 * Maximalwert der Änderung der Trägerfrequenz wird als *Frequenzhub* oder kurz *Hub* bezeichnet
-* In der Praxis kommt Schmalband-FM (englisch Narrow- FM, kurz NFM) mit 12 kHz Bandbreite zum Einsatz
+* In der Praxis kommt Schmalband-FM (englisch Narrow- FM, kurz NFM) mit $\qty{12}{\kilo\hertz}$ Bandbreite zum Einsatz
 
 <note>
 Lauter in das Mirkofon sprechen &rarr; Amplitude des Modulationssignals wird größer
-Bandplan beachten, wo maximal 12 kHz Bandbreite belegt werden darf.
+Bandplan beachten, wo maximal $\qty{12}{\kilo\hertz}$ Bandbreite belegt werden darf.
 </note>
 
 ---
@@ -34,7 +34,7 @@ Bandplan beachten, wo maximal 12 kHz Bandbreite belegt werden darf.
 [question:NE306]
 
 <note>
-Bei älteren Funkgeräten ist evtl. der Hub fest auf 25 kHz eingestellt.
+Bei älteren Funkgeräten ist evtl. der Hub fest auf $\qty{25}{\kilo\hertz}$ eingestellt.
 </note>
 
 ---
