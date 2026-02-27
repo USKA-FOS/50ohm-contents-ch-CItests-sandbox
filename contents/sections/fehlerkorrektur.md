@@ -31,7 +31,11 @@ Schauen wir uns wieder das Ganze mit unseren Daten an. Für jeden Bereich berech
 
 Tritt bei der Übertragung ein Fehler auf, kann dieser durch die Kombination der verschiedenen Bereiche der Fehler lokalisiert und korrigiert werden. 
 
-Wird zum Beispiel das Bit $k$ durch die Übertragung zu einer $\num{0}$, so werden alle Paritätsprüfungen fehlschlagen. Der Fehler muss also bei Bit $k$ liegen.
-  
-%TODO Wird das Bit ......... TODO
+Wird zum Beispiel das Bit $k$ durch die Übertragung zu einer $\num{0}$, so werden alle Paritätsprüfungen ($p_1$-$p_4$) fehlschlagen. Der Fehler muss also bei Bit $k$ liegen.
+
+Tritt z.\,B. der Fehler im Bit $a$ auf, so schlägt die Paritätsprüfung von $p_1$ und $p_2$ fehl, während die von $p_3$ und $p_4$ erfolgreich ist. Der Fehler muss also bei Bit $a$ liegen.
+
+Selbst fehler in den Parity Bits können erkannt und korrigiert werden. Tritt z.\,B. der Fehler im Bit $p_1$ auf, so schlägt die Paritätsprüfung von $p_1$ fehlschlägt, während die von $p_2$, $p_3$ und $p_4$ erfolgreich ist. Der Fehler muss also bei Bit $p_1$ liegen.
+
+Treten mehr als 1 Fehler auf, so kann der Hamming-Code diese nicht mehr korrekt erkennen und korrigieren. Es gibt aber Erweiterungen des Hamming-Codes, die auch Mehrbitfehler erkennen können.
 </indepth>
