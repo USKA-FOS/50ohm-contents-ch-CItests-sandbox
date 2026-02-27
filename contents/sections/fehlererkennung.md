@@ -1,5 +1,6 @@
 Die einfachste Art der Fehlererkennung wird durch das Hinzufügen eines zusätzlichen Bits realisiert, dem Prüfbit. Es wird auch *Parity Bit* genannt. Es gibt zwei Varianten dieses Verfahrens. Bei *Even Parity* wird der Wert dieses Bits für jeden Block so gewählt, dass die Anzahl der auf $\num{1}$ gesetzten Bits immer gerade ist. Bei *Odd Parity* hingegen muss die Anzahl immer ungerade sein. Sender und Empfänger müssen sich vor der Übertragung einig sein, welche der beiden Varianten verwendet wird.
 
+<indepth>
 Nehmen wir an, wir wollen folgendes Byte mit Even Parity übertragen:
 
 [picture:677:byte:Ein Byte]
@@ -15,6 +16,7 @@ Ein weiteres Beispiel folgt hier:
 [picture:679:even_parity:Byte mit Even Parity]
 
 Im ursprünglichen Byte zählen wir 4 Einsen, was einer geraden Anzahl entspricht. Deshalb müssen wir als Prüfbit eine $\num{0}$ einfügen.
+</indepth>
 
 Dieses Verfahren stößt schnell an seine Grenzen, nämlich dann, wenn mehr als ein Fehler bei der Übertragung passiert. Werden bei der Übertragung zwei Bits verändert, so bleibt die Anzahl der Einsen gerade. Der Empfänger kann nicht mehr erkennen, dass Fehler aufgetreten sind. Treten bei der Übertragung drei Fehler auf, so entsteht wieder eine ungerade Anzahl von Einsen und der Empfänger erkennt die Fehler.
 
