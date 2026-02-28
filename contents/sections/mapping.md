@@ -26,7 +26,7 @@ Bei QPSK hat jedes Symbol eine eigene Phase. Die Phasen werden typischerweise in
 Die Amplitude der Signale bleibt dabei konstant, und die Information wird ausschließlich durch die Phasenlage übertragen. Deshalb liegen die vier Punkte im Konstellationsdiagramm für QPSK auf einem Kreis. 
 
 <indepth>
-Genau genommen gibt es aber auch noch andere Möglichkeiten, die Phasen den Bitkombinationen zuzuordnen, solange sie eindeutig sind. Das hier gezeigte Mapping ist nur ein Beispiel.
+Genau genommen gibt es aber auch noch andere Möglichkeiten, die Phasen den Bitkombinationen zuzuordnen, solange sie eindeutig sind. Das hier gezeigte Mapping ist nur ein Beispiel. In dem hier gezeigten Beispiel wurden die Zuordnungen so gewählt, dass sich zwischen benachbarten Symbolen nur wenige Bits ändern. Das hat den Vorteil, dass unter Rauscheinfluss nur wenige Bitfehler entstehen. Dafür wird der Gray-Code verwendet, der in den meisten digitalen Übertragungsverfahren Anwendung findet.
 </indepth>
 
 ---
