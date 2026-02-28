@@ -38,7 +38,7 @@ Frequenz des Generators wird ver-3-facht: $\qty{38,666}{\mega\hertz} \cdot 3 = \
 <left>
 *TX Weg*
 * Die $\qtyrange{28}{30}{\mega\hertz}$ vom TRX werden mit $\qty{116}{\mega\hertz}$ gemischt
-* Das Signal kann $\qtyrange{80}{90}{\mega\hertz}$ oder $\qtyrange{144}{146}{\mega\hertz}$ sein
+* Das Signal kann $\qtyrange{86}{88}{\mega\hertz}$ oder $\qtyrange{144}{146}{\mega\hertz}$ sein
 </left>
 <right>
 [picture:843:e_transverter_tx:Transverter im TX-Pfad]
