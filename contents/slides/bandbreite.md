@@ -2,7 +2,7 @@
 <left>
 * Für die verschiedenen Amateurfunkbänder sind jeweils maximal zulässige Bandbreiten festgelegt
 * Besonders aufpassen muss man bei Sendungen in der Nähe der Grenzen der Amateurfunkbänder
-* Nehmen wir an, ein FM-Signal ist $\qty{15}{\kilo\hertz}$ breit und wir senden auf auf $\qty{430}{\mega\hertz}$
+* Nehmen wir an, ein FM-Signal ist $\qty{15}{\kilo\hertz}$ breit und wir senden auf $\qty{430}{\mega\hertz}$
 * Das Sendesignal befindet sich jeweils $\qty{7,5}{\kilo\hertz}$ unterhalb und oberhalb
 * Es würde sich also von $\qty{429,9925}{\mega\hertz}$ bis $\qty{430,0075}{\mega\hertz}$ erstrecken
 </left>
