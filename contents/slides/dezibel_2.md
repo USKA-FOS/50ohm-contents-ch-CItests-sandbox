@@ -12,7 +12,7 @@ Faktor 10
 *Leistung bezogen auf $\qty{1}{\milli\watt}$*
 $p = 10\cdot \log_{10}\left(\frac{P}{\qty{1}{\milli\watt}}\right)\unit{\dBm}$
 <fragment>
-&rarr; $\qty{0}{\dBm}$ liegt bei $P = \qty{1}{\milli\watt}$ vor
+$\rightarrow\qty{0}{\dBm}$ liegt bei $P = \qty{1}{\milli\watt}$ vor
 </fragment>
 
 <fragment>
@@ -20,7 +20,7 @@ $p = 10\cdot \log_{10}\left(\frac{P}{\qty{1}{\milli\watt}}\right)\unit{\dBm}$
 $p = 10\cdot \log_{10}\left(\frac{P}{\qty{1}{\watt}}\right)\unit{\dBW}$
 </fragment>
 <fragment>
-&rarr; $\qty{0}{\dBW}$ liegt bei $P = \qty{1}{\watt}$ vor
+$\rightarrow\qty{0}{\dBW}$ liegt bei $P = \qty{1}{\watt}$ vor
 </fragment>
 
 ---
@@ -41,15 +41,15 @@ $u = 20\cdot \log_{10}\left(\frac{U}{\qty{0,775}{\volt}}\right)\unit{\dBu}$
 
 <fragment>
 *Spannung bezogen auf $\qty{0,775}{\volt}$*
-&rarr; $\qty{0}{\dBu}$ liegt bei $U = \qty{0,775}{\volt}$ vor
+$\rightarrow\qty{0}{\dBu}$ liegt bei $U = \qty{0,775}{\volt}$ vor
 </fragment>
 <fragment>
 *Spannung bezogen auf $\qty{1}{\volt}$*
-&rarr; $\qty{0}{\dBV}$ liegt bei $U = \qty{1}{\volt}$ vor
+$\rightarrow\qty{0}{\dBV}$ liegt bei $U = \qty{1}{\volt}$ vor
 </fragment>
 <fragment>
 *Spannung bezogen auf $\qty{1}{\micro\volt}$*
-&rarr; $\qty{0}{\dBuV}$ liegt bei $U = \qty{1}{\micro\volt}$ vor
+$\rightarrow\qty{0}{\dBuV}$ liegt bei $U = \qty{1}{\micro\volt}$ vor
 </fragment>
 
 <note>
