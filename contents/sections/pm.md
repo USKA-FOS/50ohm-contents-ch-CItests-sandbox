@@ -13,3 +13,9 @@ In technischen Systemen ist es oft möglich, FM durch PM zu realisieren, indem d
 </indepth>
 
 [question:AE313]
+
+<webonly>
+<margin>
+[include:applet_pm]
+</margin>
+</webonly>
