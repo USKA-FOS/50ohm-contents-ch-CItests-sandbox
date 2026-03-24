@@ -2,6 +2,7 @@
 % Idee DL9MJ: Beispiel mit Bild je ein Bit in I und Q und wie das Signal für 00, 01, 10, 11 aussieht
 
 QAM kann besonders einfach mit Hilfe von zwei Trägern derselben Frequenz erzeugt werden. Einer der beiden Träger muss dabei um $\qty{90}{\degree}$ phasenverschoben sein. Beide Träger werden dann jeweils mit einem eigenen Signal amplitudenmoduliert. Das eine Signal wird als I (für In-Phase Component) und das andere Signal als Q (für Quadrature Phase Component) bezeichnet. Der phasenverschobene Träger wird dabei mit dem Q-Signal moduliert. In Anschluss werden die beiden modulierten Träger überlagert, wobei ein Träger entsteht, der sich sowohl in der Amplitude als auch in der Phase ändert.
+
 <indepth>
 [include:applet_iq]
 </indepth>
