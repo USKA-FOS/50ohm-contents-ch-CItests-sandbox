@@ -200,7 +200,7 @@ Induktivität vergrößern
 
 * Varicap wird durch eine Steuerspannung am Widerstandsspannungsteiler verändert
 * Kleinere Spannung am Varicap $\rightarrow$ kleinere Grenzschicht im Varicap $\rightarrow$ größere Kapazität
-* In Reihe geschaltete Kondensatoren $\rightarrow$ Kapazität steigt $\rightarrow$ Resonanzfrequenz fällt
+* In Reihe geschaltete Kondensatoren $\rightarrow$ Kapazität wird kleiner $\rightarrow$ Resonanzfrequenz steigt
 
 ---
 [question:AD218]
