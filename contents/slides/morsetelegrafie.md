@@ -31,11 +31,12 @@ Es gibt Länder in denen weiterhin eine Morseprüfung notwendig ist, wenn diese 
 | 4 | [morse:4] | 9 | [morse:9] | = | [morse:=] |
 [table:n_morsetelegrafie_morsecode_ziffern_satzzeichen:Morsecode (Ziffern und Satzzeichen)]
 
+%TODO: Update to correct notation when morse generator can handle "double-characters"
 | l:  | l:  |
-| Unterbrechung (BK) | [morse:(BK)] |
-| Ende des Durchgangs (AR)  | [morse:(AR)] |
-| Ende der Sendung (SK) | [morse:(SK)] |
-| Korrektur | [morse:(CORRECTION)] |
+| Unterbrechung (BK) | [morse:BK] |
+| Ende des Durchgangs (AR)  | [morse:AR] |
+| Ende der Sendung (SK) | [morse:SK] |
+| Korrektur | [morse:HH] |
 [table:n_morsetelegrafie_morsecode_spezial:Morsecode (besondere Zeichen, Auswahl)]
 
 ---
