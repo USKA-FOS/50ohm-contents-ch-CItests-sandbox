@@ -10,11 +10,11 @@ Die brechenden Gebiete sind sehr dynamisch, der Signalweg der Funkwellen ändert
 
 <webonly>
 <margin>
-Das Ende eines Aurora-QSO zwischen GM4YXI und OK/DF7TR/P kann hier angehört werden:
+Das Ende eines CW-Aurora-QSOs zwischen GM4YXI und OK/DF7TR/P kann hier angehört werden:
 
 [include:applet_aurora]
 
-Ein SSB Aurora-QSO gibt es auch auf [Youtube](https://50ohm.de/assb) zum Anhören.
+Ein SSB-Aurora-QSO gibt es auch auf [Youtube](https://50ohm.de/assb) zum Anhören.
 </margin>
 </webonly>
 

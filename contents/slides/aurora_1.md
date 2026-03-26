@@ -17,4 +17,10 @@
 
 ---
 
+Das Ende eines Aurora-CW-QSO zwischen GM4YXI und OK/DF7TR/P:
+
+[include:applet_aurora]
+
+---
+
 [question:EH305]
