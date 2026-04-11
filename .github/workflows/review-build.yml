@@ -5,6 +5,13 @@ on:
     branches:
       - 'review/de/main'
 
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to build (optional override)'
+        required: false
+        default: 'review/de/main'
+
 jobs:
   build:
     runs-on: ubuntu-latest
