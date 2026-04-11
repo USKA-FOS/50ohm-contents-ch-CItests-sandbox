@@ -74,12 +74,11 @@ jobs:
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_DEPLOY_KEY }}" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
-          ssh-keyscan -H 50ohm.uska.ch >> ~/.ssh/known_hosts
 
       # 9. Deploy via rsync (versioned per branch + commit)
       - name: Deploy build
         run: |
-          rsync -avz --delete workspace/app/build/ \
+          rsync -avz --delete -e "ssh -o StrictHostKeyChecking=no -p 2222" workspace/app/build/ \
             github-ci@50ohm.uska.ch:50ohm_review/
 #         rsync -avz workspace/app/build/ \
 #           user@your-server.com:/var/www/reviews/${GITHUB_REF_NAME}/${GITHUB_SHA}/
