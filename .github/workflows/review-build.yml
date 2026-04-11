@@ -1,0 +1,78 @@
+name: Review Build & Deploy
+
+on:
+  push:
+    branches:
+      - 'review/de/main'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout generator
+      - name: Checkout 50Ohm generator
+        uses: actions/checkout@v4
+        with:
+          repository: USKA-FOS/50ohm-generator.git
+          ref: main
+          path: workspace/app
+
+      # Checkout contents repo (= this repo) into subdirectory
+      - name: Checkout 50Ohm content
+        uses: actions/checkout@v4
+        with:
+          path: workspace/app/50ohm-contents-ch
+
+      # Install uv and add to path
+      - name: Install uv
+        run: curl -Ls https://astral.sh/uv/install.sh | sh
+
+      - name: Add uv to PATH
+        run: echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+#     # Cache uv environment + dependencies
+#     - name: Cache uv
+#       uses: actions/cache@v4
+#       with:
+#         path: |
+#           ~/.cache/uv
+#           workspace/app/.venv
+#         key: uv-${{ runner.os }}-${{ hashFiles('workspace/app/requirements.txt') }}
+
+      # Install dependencies
+      - name: Sync dependencies
+        working-directory: workspace/app
+        run: uv sync
+
+      # Generate config.json
+      - name: Write config.json
+        run: |
+          cat > workspace/app/config/config.json <<EOF
+          {
+            "input" : "50ohm-contents-ch",
+            "questions" : "fragenkatalog3b.json",
+            "questions_upstream" : "fragenkatalog3b.json"
+          }
+          EOF
+
+      # Run build
+      - name: Run build
+        working-directory: workspace/app
+        run: uv run python3 build.py
+
+      # Prepare SSH access
+      - name: Setup SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_DEPLOY_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H 50ohm.uska.ch >> ~/.ssh/known_hosts
+
+      # 9. Deploy via rsync (versioned per branch + commit)
+      - name: Deploy build
+        run: |
+          rsync -avz --delete workspace/app/build/ \
+            github-ci@50ohm.uska.ch:50ohm_review/
+#         rsync -avz workspace/app/build/ \
+#           user@your-server.com:/var/www/reviews/${GITHUB_REF_NAME}/${GITHUB_SHA}/
