@@ -1,14 +1,14 @@
-Eine Relaisfunkstelle ermöglicht eine größere Reichweite als dies bei direkter Verbindung zwischen zwei Amateurfunkstellen oftmals möglich ist. Relaisfunkstellen werden meist an exponierten Standorten, z. B. auf Berggipfeln, Hochhäusern, Kirch- und sonstigen Türmen, errichtet. Es gibt auch Relaisfunkstellen in Satelliten, die um die Erde kreisen. Aufbau und Funktion einer solchen Funkstelle sind in Bild [ref:n_relaisfunkstellen_aufbau] dargestellt. 
+Eine Relaisfunkstelle ermöglicht eine grössere Reichweite als dies bei direkter Verbindung zwischen zwei Amateurfunkstellen oftmals möglich ist. Relaisfunkstellen werden meist an exponierten Standorten, z. B. auf Berggipfeln, Hochhäusern, Kirch- und sonstigen Türmen, errichtet. Es gibt auch Relaisfunkstellen in Satelliten, die um die Erde kreisen. Aufbau und Funktion einer solchen Funkstelle sind in Bild [ref:n_relaisfunkstellen_aufbau] dargestellt. 
 
 [picture:648:n_relaisfunkstellen_aufbau:Schematische Darstellung einer Relaisfunkstelle mit Nutzern]
 
 Ist zum Beispiel ein Berg zwischen zwei Funkstationen, so ist es unmöglich, durch den Berg hindurchzusenden. Eine Relaisfunkstelle auf dem Berggipfel ermöglicht es trotzdem, eine Verbindung aufzubauen, da beide Stationen das Relais direkt erreichen  können.
 
-Relaisfunkstellen werden auch kurz als Relais oder als Repeater bezeichnet. Man kann sie daran erkennen, dass sie regelmäßig ihr Rufzeichen aussenden. Das Rufzeichen einer Relaisfunkstelle beginnt gemäß [Rufzeichenplan](https://50ohm.de/rzp) in der Regel mit DB0, DM0 oder DO0.
+Relaisfunkstellen werden auch kurz als Relais oder als Repeater bezeichnet. Man kann sie daran erkennen, dass sie regelmässig ihr Rufzeichen aussenden. Das Rufzeichen einer Relaisfunkstelle beginnt gemäss [Rufzeichenplan](https://50ohm.de/rzp) in der Regel mit DB0, DM0 oder DO0.
 
 Die amtliche Definition von Repeatern liest sich etwas trockener: *"Relaisfunkstelle": eine fernbediente Amateurfunkstelle (auch in Satelliten), die empfangene Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale fern ausgelöst aussendet und dabei zur Erhöhung der Erreichbarkeit von Amateurfunkstellen dient*
 
-Die folgende Frage zu dieser Definition lässt sich aber auch gut im Ausschlussverfahren lösen, wenn man folgendes weiß:
+Die folgende Frage zu dieser Definition lässt sich aber auch gut im Ausschlussverfahren lösen, wenn man folgendes weiss:
 * Relaisfunkstellen werden nicht mit persönlichen Rufzeichen betrieben.
 * Relaisfunkstellen sind üblicherweise nicht ständig besetzt.
 * Relaisfunkstellen müssen nicht zwingend an geografisch exponierten Standorten betrieben werden.
@@ -60,7 +60,7 @@ Eine wichtige Einstellung ist die Kanalbandbreite bei FM-Betrieb. Wir erinnern u
 
 [question:BE407]
 
-Der Funkbetrieb über fernbediente Amateurfunkstellen ist grundsätzlich allen Funkamateuren mit zugeteiltem Rufzeichen zu gestatten. Zur Sicherstellung eines störungsfreien Betriebs kann der Betreiber allerdings andere Funkamateure von der Nutzung der Amateurfunkstelle ausschließen. Die BNetzA ist hiervon zu unterrichten.
+Der Funkbetrieb über fernbediente Amateurfunkstellen ist grundsätzlich allen Funkamateuren mit zugeteiltem Rufzeichen zu gestatten. Zur Sicherstellung eines störungsfreien Betriebs kann der Betreiber allerdings andere Funkamateure von der Nutzung der Amateurfunkstelle ausschliessen. Die BNetzA ist hiervon zu unterrichten.
 
 [question:VD504]
 

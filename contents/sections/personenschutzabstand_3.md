@@ -66,7 +66,7 @@ Die Formel gilt nur für das Fernfeld. Dies kann mit $ d > \dfrac{\lambda}{2 \cd
 $\begin{split}E &= \dfrac{\sqrt{\qty{30}{\ohm}\cdot P_A\cdot G_i}}{d}\\ E &= \dfrac{\sqrt{\qty{30}{\ohm}\cdot \qty{10}{\watt}\cdot 1,64}}{\qty{10}{\meter}}\\ E &\approx \qty{2,2}{\volt\per\meter}\end{split}$
 
 [question:AK114]
-% AK115: Eine Amateurfunkstelle sendet in FM mit einer äquivalenten Strahlungsleistung (ERP) von 100 W. Wie groß ist die Feldstärke im freien Raum in einer Entfernung von 100 m?
+% AK115: Eine Amateurfunkstelle sendet in FM mit einer äquivalenten Strahlungsleistung (ERP) von 100 W. Wie gross ist die Feldstärke im freien Raum in einer Entfernung von 100 m?
 
 $P_A$, Leistung am Speisepunkt: $\qty{100}{\watt}$ (Strahlungsleistung in ERP)
 

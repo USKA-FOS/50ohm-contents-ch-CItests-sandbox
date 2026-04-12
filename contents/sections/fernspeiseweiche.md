@@ -15,7 +15,7 @@ Der Koppelkondensator $C_1$ soll das Gleichspannungssignal vom Rx-Eingang fernha
 
 <margin>
 [photo:288:a_Bias T Platine:BIAS - T Platine - mit KiCAD erstellt]
-So könnte die praktische Umsetzung des abgebildeten Schaltbildes in eine Platine aussehen. $C_2$ und $C_3$ sind Abblockkondensatoren für unterschiedliche Frequenzbereiche, damit die Funktion über einen großen Frequenzbereich gewährleistet ist. $L_1$ dient zur Zuführung der Gleichspannung und muss für den Laststrom gezielt dimensioniert werden.
+So könnte die praktische Umsetzung des abgebildeten Schaltbildes in eine Platine aussehen. $C_2$ und $C_3$ sind Abblockkondensatoren für unterschiedliche Frequenzbereiche, damit die Funktion über einen grossen Frequenzbereich gewährleistet ist. $L_1$ dient zur Zuführung der Gleichspannung und muss für den Laststrom gezielt dimensioniert werden.
 </margin>
 
 ---
@@ -26,7 +26,7 @@ Der Abblockkondensator $C_2$ auf der Gleichspannungseite soll HF-Spannung unterd
 ---
 [question:AD325]
 <margin>
-Die Spule zwischen DC-Seite (Gleichspannungsseite z.B. $\qty{12}{\volt}$) und der HF-Seite (z.B. $\qty{10}{\giga\hertz}$ Empfangssignal) soll  Hochfrequenzanteile nicht zur DC-Seite durchlassen. Es handelt sich deshalb um eine Drosselspule, die bei der Nutzfrequenz hochohmig wirken muss (z.B. $X_L = \qty{10}{\kilo\ohm}$). Durch diese Drosselspule fließt der Versorgungstrom für den Vorverstärker oder Konverter (LNA). Der Drahtdurchmesser der Drosselspule muss so groß sein, dass der Versorgungsgleichstrom keine Erwärmung der Drosselspule bewirkt
+Die Spule zwischen DC-Seite (Gleichspannungsseite z.B. $\qty{12}{\volt}$) und der HF-Seite (z.B. $\qty{10}{\giga\hertz}$ Empfangssignal) soll  Hochfrequenzanteile nicht zur DC-Seite durchlassen. Es handelt sich deshalb um eine Drosselspule, die bei der Nutzfrequenz hochohmig wirken muss (z.B. $X_L = \qty{10}{\kilo\ohm}$). Durch diese Drosselspule fliesst der Versorgungstrom für den Vorverstärker oder Konverter (LNA). Der Drahtdurchmesser der Drosselspule muss so gross sein, dass der Versorgungsgleichstrom keine Erwärmung der Drosselspule bewirkt
 </margin>
 
 <margin>

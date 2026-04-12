@@ -14,6 +14,6 @@ Unter einer *Parabel* versteht man in der Mathematik eine Kurve, also den Graphe
 
 [question:EG113]
 
-Nur im idealisierten Modell der Strahlenoptik (also wenn sich die elektromagnetische Welle wie ein Bündel aus Strahlen verhalten würde) kommt es zu einer Konzentration in genau einem Punkt vor dem Spiegel. Tatsächlich ist die Bündelung jedoch nicht perfekt, da es aufgrund der Welleneigenschaften zu Beugungseffekten kommt. Wie stark diese Abweichung vom idealen Strahlenmodell ist, hängt von der Größe der Schüssel ab. Je größer die Schüssel im Verhältnis zur Wellenlänge, umso besser die Richtwirkung. Eine sinnvolle Richtwirkung erreichen Parabolspiegel nur dann, wenn ihr Durchmesser einige Wellenlängen oder mehr beträgt, z. B. fünf.
+Nur im idealisierten Modell der Strahlenoptik (also wenn sich die elektromagnetische Welle wie ein Bündel aus Strahlen verhalten würde) kommt es zu einer Konzentration in genau einem Punkt vor dem Spiegel. Tatsächlich ist die Bündelung jedoch nicht perfekt, da es aufgrund der Welleneigenschaften zu Beugungseffekten kommt. Wie stark diese Abweichung vom idealen Strahlenmodell ist, hängt von der Grösse der Schüssel ab. Je grösser die Schüssel im Verhältnis zur Wellenlänge, umso besser die Richtwirkung. Eine sinnvolle Richtwirkung erreichen Parabolspiegel nur dann, wenn ihr Durchmesser einige Wellenlängen oder mehr beträgt, z. B. fünf.
 
 [question:EG114]

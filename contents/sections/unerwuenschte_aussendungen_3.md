@@ -36,7 +36,7 @@ Sollen bestimmte Oberwellen oder Harmonische eines Signals einzeln unterdrückt 
 
 ---
 
-Laut Amateurfunkverordnung (AFuV) sind unerwünschte Aussendungen auf das geringstmögliche Maß zu beschränken. Die [Verfügung 33](https://50ohm.de/vfg33) von 2007 legt allerdings genaue Grenzwerte fest, welche durch den Funkamateur aber auch von Herstellern kommerzieller Geräte beachtet werden müssen.
+Laut Amateurfunkverordnung (AFuV) sind unerwünschte Aussendungen auf das geringstmögliche Mass zu beschränken. Die [Verfügung 33](https://50ohm.de/vfg33) von 2007 legt allerdings genaue Grenzwerte fest, welche durch den Funkamateur aber auch von Herstellern kommerzieller Geräte beachtet werden müssen.
 
 <margin>
 [photo:319:a_vfg33:Auszug aus der Verfügung 33 von 2007]
@@ -65,7 +65,7 @@ Zur Unterdrückung von unerwünschten Mischprodukten – aber auch der Oberwelle
 [question:AJ209]
 [question:AJ208]
 
-Unerwünschte Aussendungen können auch in unmittelbarer Nähe zum Sendesignal vorliegen. Diese sind durch den Einsatz von Filtern nur schwer oder gar nicht zu unterdrücken und sollten daher bereits zu Beginn der Signalaufbereitung durch entsprechende Maßnahmen wirksam unterdrückt werden. Häufig entstehen solche *Nebenaussendung*, oder auch *Nebenprodukte* genannt (umgangssprachlich auch als "Splatter" bezeichnet), welche das Sendesignal ungewollt verbreitern, durch eine zu hohe Einstellung des Mikrofonverstärkers eines Senders. Hierdurch wird das NF-Signal verzerrt, was unerwünschte Nebenaussendungen zur Folge hat. Abbildung [ref:a_harmonische] zeigt die Nebenaussendungen. 
+Unerwünschte Aussendungen können auch in unmittelbarer Nähe zum Sendesignal vorliegen. Diese sind durch den Einsatz von Filtern nur schwer oder gar nicht zu unterdrücken und sollten daher bereits zu Beginn der Signalaufbereitung durch entsprechende Massnahmen wirksam unterdrückt werden. Häufig entstehen solche *Nebenaussendung*, oder auch *Nebenprodukte* genannt (umgangssprachlich auch als "Splatter" bezeichnet), welche das Sendesignal ungewollt verbreitern, durch eine zu hohe Einstellung des Mikrofonverstärkers eines Senders. Hierdurch wird das NF-Signal verzerrt, was unerwünschte Nebenaussendungen zur Folge hat. Abbildung [ref:a_harmonische] zeigt die Nebenaussendungen. 
 
 [question:AJ219]
 

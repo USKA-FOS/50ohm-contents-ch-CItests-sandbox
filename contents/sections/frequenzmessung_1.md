@@ -34,7 +34,7 @@ Eingänge von Frequenzzählern können einen hohen Innenwiderstand haben. Das ke
 [question:EI502]
 [question:EI503]
 
-Frequenzzähler werden für einen bestimmten Wertebereich gebaut, zum Beispiel $\qty{100}{\kilo\hertz}$ bis $\qty{2}{\giga\hertz}$. Außerhalb dieses Bereichs messen sie ungenau oder gar nicht. Zum Messen höherer Frequenzen gibt es Frequenzteiler. Sie teilen die Frequenz eines Signals, das man an ihren Eingang anlegt, durch einen festen Wert und geben das Ergebnis als elektrische Schwingung am Ausgang aus. Man nennt sie auch Vorteiler, weil sie zwischen Messobjekt und Zähler geschaltet werden.
+Frequenzzähler werden für einen bestimmten Wertebereich gebaut, zum Beispiel $\qty{100}{\kilo\hertz}$ bis $\qty{2}{\giga\hertz}$. Ausserhalb dieses Bereichs messen sie ungenau oder gar nicht. Zum Messen höherer Frequenzen gibt es Frequenzteiler. Sie teilen die Frequenz eines Signals, das man an ihren Eingang anlegt, durch einen festen Wert und geben das Ergebnis als elektrische Schwingung am Ausgang aus. Man nennt sie auch Vorteiler, weil sie zwischen Messobjekt und Zähler geschaltet werden.
 
 %TODO Bild Frequenzteiler
 

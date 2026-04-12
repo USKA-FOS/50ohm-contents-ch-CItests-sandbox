@@ -1,4 +1,4 @@
-Eine Reihenschaltung aus zwei Widerständen wird häufig als Spannungsteiler verwendet. In der Klasse E betrachten wir zunächst den *unbelasteten Spannungsteiler*, wie er auch in den folgenden Aufgaben vorkommt. Bei einem unbelasteten Spannungsteiler verhalten sich die Spannungen proportional zu den Widerständen. Das bedeutet beispielsweise, dass an einem hochohmigen Widerstand eine größere Spannung abfällt, während an einem niederohmigen Widerstand eine entsprechend kleinere Spannung messbar ist.
+Eine Reihenschaltung aus zwei Widerständen wird häufig als Spannungsteiler verwendet. In der Klasse E betrachten wir zunächst den *unbelasteten Spannungsteiler*, wie er auch in den folgenden Aufgaben vorkommt. Bei einem unbelasteten Spannungsteiler verhalten sich die Spannungen proportional zu den Widerständen. Das bedeutet beispielsweise, dass an einem hochohmigen Widerstand eine grössere Spannung abfällt, während an einem niederohmigen Widerstand eine entsprechend kleinere Spannung messbar ist.
 
 <margin>
 [picture:819:E 63. Spannungsteiler:Spannungsteiler]
@@ -27,7 +27,7 @@ Bei den folgenden Fragen wird der Begriff Spannnungsteiler nicht direkt erwähnt
 [question:ED101]
 
 Es sind keine konkreten Widerstandswerte angegeben, deshalb ist das Ergebnis als allgemeine Formel darzustellen. 
-Laut Fragestellung  ist $R_1$ 5-mal größer als $R_2$, also muss an ihm auch eine 5-mal größere Spannung gemessen werden können, bzw. $R_1 = 5 \cdot R_2$
+Laut Fragestellung  ist $R_1$ 5-mal grösser als $R_2$, also muss an ihm auch eine 5-mal grössere Spannung gemessen werden können, bzw. $R_1 = 5 \cdot R_2$
 
 Diesen Zusammenhang kann man als Formel angeben.
 
@@ -57,7 +57,7 @@ $U_1 = \frac{U_2}{6}$
 
 [question:ED103]
 
-Bei dieser Frage sind konkrete Widerstandswerte angegeben, die zur Ermittlung des Spannungsteilerverhältnisses dienen. $R_1$ verhält sich zu $R_2$ wie $\qty{10}{\kilo\ohm}$ zu $\qty{20}{\kilo\ohm}$, also $1$ zu $2$. $U_2$ muss deshalb doppelt so groß sein wie $U_1$. Es ist aber die Gesamtspannung  $U_g$ angegeben. Diese liegt an einem Gesamtwiderstand von $\qty{30}{\kilo\ohm}$ und wird deshalb im Verhältnis $30$ zu $20$ (oder $3$ zu $2$) bezogen auf $R_2$ aufgeteilt. An $R_2$  muss deshalb die Spannung $2/3$ von $U_g$ gemessen werden können.
+Bei dieser Frage sind konkrete Widerstandswerte angegeben, die zur Ermittlung des Spannungsteilerverhältnisses dienen. $R_1$ verhält sich zu $R_2$ wie $\qty{10}{\kilo\ohm}$ zu $\qty{20}{\kilo\ohm}$, also $1$ zu $2$. $U_2$ muss deshalb doppelt so gross sein wie $U_1$. Es ist aber die Gesamtspannung  $U_g$ angegeben. Diese liegt an einem Gesamtwiderstand von $\qty{30}{\kilo\ohm}$ und wird deshalb im Verhältnis $30$ zu $20$ (oder $3$ zu $2$) bezogen auf $R_2$ aufgeteilt. An $R_2$  muss deshalb die Spannung $2/3$ von $U_g$ gemessen werden können.
 
 Selbstverständlich kann dieses Ergebnis auch mit der Formel aus der Formelsammlung berechnet werden:
 

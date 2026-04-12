@@ -6,8 +6,8 @@ Wie bereits im Kapitel Gleichrichter I gelernt, kann ich mit einer Diode nur die
 
 ---
 
-Bei der positiven Halbwelle leitet die Diode $D$ und lässt Strom fließen. In dieser Zeit lädt sich der Kondensator $C_L$ auf den Spitzenwert der Wechselspannung auf. Zum Zeitpunkt der negativen Halbwelle sperrt die Diode $D$ den Strom und der Kondensator $C_L$ entlädt sich über den Lastwiderstand $R_L$.
-Somit stellt sich am Lastwiderstand $R_L$ eine pulsierende Gleichspannung $U_L$ ein (vgl. Abb.[ref:a_Restwelligkeit]). Um so größer die Kapazität des Kondensator ist, destso gleichmäßiger wird die Gleichspannung am Lastwiderstand geglättet.
+Bei der positiven Halbwelle leitet die Diode $D$ und lässt Strom fliessen. In dieser Zeit lädt sich der Kondensator $C_L$ auf den Spitzenwert der Wechselspannung auf. Zum Zeitpunkt der negativen Halbwelle sperrt die Diode $D$ den Strom und der Kondensator $C_L$ entlädt sich über den Lastwiderstand $R_L$.
+Somit stellt sich am Lastwiderstand $R_L$ eine pulsierende Gleichspannung $U_L$ ein (vgl. Abb.[ref:a_Restwelligkeit]). Um so grösser die Kapazität des Kondensator ist, destso gleichmässiger wird die Gleichspannung am Lastwiderstand geglättet.
 
 <margin>
 [picture:75:a_Restwelligkeit:Welligkeit der Ausgangsgleichspannnung $U_L$]
@@ -30,7 +30,7 @@ Bei nachfolgender Frage müssen wir das Übersetzungsverhältnis vom Trafo anwen
 [question:AD303]
 
 Für die Lösung der folgenden Aufgabe müssen wir erkennen, dass der Spitzenwert der negativen Halbwelle und die Kondensatorspannung sich addieren und die Diode in Sperrrichtung belasten. Dies ist die höchste Spannung, die an der Diode in Sperrrichtung auftreten kann.
-% die größtmögliche Sperrspannung aushalten muss. Da der Kondensator auf die Spannung der positiven Halbwelle aufgeladen wurde, müssen wir die Spannungsdifferenz zw. dem positiven und negativen Scheitelwert annehmen.
+% die grösstmögliche Sperrspannung aushalten muss. Da der Kondensator auf die Spannung der positiven Halbwelle aufgeladen wurde, müssen wir die Spannungsdifferenz zw. dem positiven und negativen Scheitelwert annehmen.
 
 Wir rechnen: $U_{\mathrm{sperr}} = 2 \cdot \hat{u}$
 Zu berücksichtigen sind dann noch das Übersetzungsverhältnis $5 : 1$  des Netztransformators und der Sicherheitsaufschlag von $\qty{20}{\percent}$.

@@ -1,4 +1,4 @@
-Den Abstand zwischen zwei Wellenbergen bzw. zwei Wellentälern nennt man Wellenlänge. Die Wellenlänge ist abhängig von der Frequenz. Je größer die Frequenz, desto kleiner die Wellenlänge. Die Wellenlänge wird mit dem griechischen Buchstaben $\lambda$ (Lambda) bezeichnet und üblicherweise in Meter ($\unit{\meter}$) angegeben.
+Den Abstand zwischen zwei Wellenbergen bzw. zwei Wellentälern nennt man Wellenlänge. Die Wellenlänge ist abhängig von der Frequenz. Je grösser die Frequenz, desto kleiner die Wellenlänge. Die Wellenlänge wird mit dem griechischen Buchstaben $\lambda$ (Lambda) bezeichnet und üblicherweise in Meter ($\unit{\meter}$) angegeben.
 
 [question:NB403]
 [question:NA205]

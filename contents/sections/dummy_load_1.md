@@ -1,4 +1,4 @@
-Möchte man die Sendeleistung eines Senders überprüfen, schließt man anstelle der Antenne eine sogenannte *Dummy Load* an (Abbildung [ref:n_antennenanpassung_dummy_load]). Eine Dummy Load wird auch als *Abschlusswiderstand* oder künstliche Antenne bezeichnet. Sie besteht aus einem Lastwiderstand (vgl. Kapitel Bauteile und Schaltkreise) und einem Kühlkörper.
+Möchte man die Sendeleistung eines Senders überprüfen, schliesst man anstelle der Antenne eine sogenannte *Dummy Load* an (Abbildung [ref:n_antennenanpassung_dummy_load]). Eine Dummy Load wird auch als *Abschlusswiderstand* oder künstliche Antenne bezeichnet. Sie besteht aus einem Lastwiderstand (vgl. Kapitel Bauteile und Schaltkreise) und einem Kühlkörper.
 
 <margin>
 [photo:68:n_antennenanpassung_dummy_load:Dummy Load]

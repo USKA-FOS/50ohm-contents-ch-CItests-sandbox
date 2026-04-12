@@ -1,6 +1,6 @@
 Im weiteren Verlauf beschäftigen wir uns vor allem mit der Modulation von Sprache. Dazu müssen wir zunächst verstehen, was Sprache eigentlich ausmacht. Wenn wir sprechen, entstehen viele verschiedene tiefe und hohe sowie leise und laute Töne als Schallwellen. Wir nennen dies ein *Sprachsignal*.
 
-Sprechen wir in ein Mikrofon, dann wandelt es das Sprachsignal um. Aus den tiefen und hohen sowie leisen und lauten Tönen werden langsame und schnelle elektrische Schwingungen mit kleiner und große Amplitude. Das Sprachsignal liegt nicht mehr als Schallwelle, sondern als elektrische Schwingung vor und kann im Funkgerät verarbeitet werden.
+Sprechen wir in ein Mikrofon, dann wandelt es das Sprachsignal um. Aus den tiefen und hohen sowie leisen und lauten Tönen werden langsame und schnelle elektrische Schwingungen mit kleiner und grosse Amplitude. Das Sprachsignal liegt nicht mehr als Schallwelle, sondern als elektrische Schwingung vor und kann im Funkgerät verarbeitet werden.
 
 <webmargin>
 [picture:742:n_sprachspektrum:Menschliche Sprache im Amplitudenspektrum, links die tiefen und rechts die hohen Töne]

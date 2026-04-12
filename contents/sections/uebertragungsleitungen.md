@@ -4,10 +4,10 @@ Die im Sender erzeugte Sendeleistung möchte man möglichst vollständig und ohn
 [photo:65:n_Koax_Detail:Koaxialkabel im Detail]
 </margin>
 
-Am weitesten verbreitet ist das *Koaxialkabel* (Abbildung [ref:n_Koax_Detail]). In der Umgangssprache wird häufig verkürzt von Koaxkabeln gesprochen. Koaxialkabel bestehen aus je einem voneinander isolierten Innen- und Außenleiter. Sie sind rohrförmig und mit einem Schutzmantel umgeben. Koaxialkabel gibt es in verschiedensten Ausführungen:
+Am weitesten verbreitet ist das *Koaxialkabel* (Abbildung [ref:n_Koax_Detail]). In der Umgangssprache wird häufig verkürzt von Koaxkabeln gesprochen. Koaxialkabel bestehen aus je einem voneinander isolierten Innen- und Aussenleiter. Sie sind rohrförmig und mit einem Schutzmantel umgeben. Koaxialkabel gibt es in verschiedensten Ausführungen:
 * dick oder dünn
 * mit flexiblem oder starrem Innenleiter
-* mit Außenleitern aus Drahtgeflecht und/oder Folie oder sogar aus massivem Kupferrohr
+* mit Aussenleitern aus Drahtgeflecht und/oder Folie oder sogar aus massivem Kupferrohr
 
 % Nach Ticket #20292449 erstmal entfernt
 %<margin>
@@ -22,7 +22,7 @@ Aber auch im besten Koaxialkabel entsteht ein Verlust, weil ein Teil der Sendele
 
 [question:NG207]
 
-Eine weiteres wichtiges Merkmal von Übertragungsleitungen ist der sogenannte *Wellenwiderstand*, der in Ohm ($\unit{\ohm}$) angegeben wird. Dabei handelt es sich um eine Eigenschaft, die vom Aufbau der Leitung abhängt, unter anderem vom Abstand zwischen Innen- und Außenleiter. Die Länge der Leitung hat keine Auswirkung auf den Wellenwiderstand.
+Eine weiteres wichtiges Merkmal von Übertragungsleitungen ist der sogenannte *Wellenwiderstand*, der in Ohm ($\unit{\ohm}$) angegeben wird. Dabei handelt es sich um eine Eigenschaft, die vom Aufbau der Leitung abhängt, unter anderem vom Abstand zwischen Innen- und Aussenleiter. Die Länge der Leitung hat keine Auswirkung auf den Wellenwiderstand.
 
 Wenn man Übertragungsleitungen mit unterschiedlichem Wellenwiderstand verbindet, dann kommt es an der Verbindungsstelle zu unerwünschten Reflexionen von hochfrequenten Schwingungen. Dadurch wird ein Teil der Sendeleistung zurück in den Sender reflektiert und kann daher nicht abgestrahlt werden und im schlimmsten Fall sogar den Sender beschädigen.
 

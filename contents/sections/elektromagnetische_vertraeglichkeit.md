@@ -14,7 +14,7 @@ Diese Schutzanforderungen sind grundsätzlich auch von Amateurfunkstationen einz
 [question:VC120]
 [question:VC119]
 
-Zu den wichtigsten Maßnahmen für die vorgeschriebene elektromagnetische Verträglichkeit (EMV) gehören das *Abschirmen* und *Erden* von allen Geräten und Geräteteilen, in denen hochfrequente Schwingungen auftreten. Diese Maßnahmen können in beide Richtungen wirken: Einerseits schützen sie vor Störungen durch andere Geräte und andererseits können sie vermeiden, dass andere Geräte gestört werden.
+Zu den wichtigsten Massnahmen für die vorgeschriebene elektromagnetische Verträglichkeit (EMV) gehören das *Abschirmen* und *Erden* von allen Geräten und Geräteteilen, in denen hochfrequente Schwingungen auftreten. Diese Massnahmen können in beide Richtungen wirken: Einerseits schützen sie vor Störungen durch andere Geräte und andererseits können sie vermeiden, dass andere Geräte gestört werden.
  
 [question:NK101]
 [question:NJ101]

@@ -17,7 +17,7 @@ Der Verkürzungsfaktor bei Antennen ergibt sich daraus, dass die Drähte nicht u
 Bei elektrischen Schleifenantennen gibt es im Gegensatz zum Verkürzungsfaktor einen Korrekturfaktor, der überraschenderweise einer *Verlängerung* entspricht.
 
 <indepth>
-  Ein Verlängerungsfaktor bedeutet <u>nicht</u>, dass sich die Welle mit *Überlichtgeschwindigkeit* ausbreitet, sondern sich nur Punkte gleicher Phase mit entsprechender Geschwindigkeit bewegen (Phasengeschwindigkeit statt Gruppengeschwindigkeit). Die Phasengeschwindigkeit kann im Gegensatz zur Gruppengeschwindigkeit Werte über der Lichtgeschwindigkeit annehmen, da hier keine Informationen übertragen werden, sondern es sich vielmehr um eine Rechengröße handelt.
+  Ein Verlängerungsfaktor bedeutet <u>nicht</u>, dass sich die Welle mit *Überlichtgeschwindigkeit* ausbreitet, sondern sich nur Punkte gleicher Phase mit entsprechender Geschwindigkeit bewegen (Phasengeschwindigkeit statt Gruppengeschwindigkeit). Die Phasengeschwindigkeit kann im Gegensatz zur Gruppengeschwindigkeit Werte über der Lichtgeschwindigkeit annehmen, da hier keine Informationen übertragen werden, sondern es sich vielmehr um eine Rechengrösse handelt.
 </indepth>
 
 [question:AG118]

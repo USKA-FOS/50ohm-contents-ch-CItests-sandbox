@@ -1,4 +1,4 @@
-PL-Steckverbinder sind weder für Frequenzen oberhalb von VHF noch für besonders hohe Leistungen geeignet. Dafür kommen meist die höherwertigen N-Steckverbinder zum Einsatz. Sie werden bis in den Gigahertz-Bereich benutzt. N-Steckverbinder haben wie PL-Steckverbinder eine Schraubverbindung. Charakteristisch sind die Federkontakte um den Mittelstift herum, die eine besonders gute Verbindung des Außenleiters herstellen. 
+PL-Steckverbinder sind weder für Frequenzen oberhalb von VHF noch für besonders hohe Leistungen geeignet. Dafür kommen meist die höherwertigen N-Steckverbinder zum Einsatz. Sie werden bis in den Gigahertz-Bereich benutzt. N-Steckverbinder haben wie PL-Steckverbinder eine Schraubverbindung. Charakteristisch sind die Federkontakte um den Mittelstift herum, die eine besonders gute Verbindung des Aussenleiters herstellen. 
 
 <margin>
 [photo:73:n_koaxsteckverbinder_n_buchse_und_stecker:N-Einbaubuchse und N-Stecker]

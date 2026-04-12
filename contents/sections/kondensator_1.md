@@ -5,7 +5,7 @@ Ein sehr wichtiges und häufig verwendetes Bauteil in der Funktechnik und Elektr
 [picture:922:e_kondensator_aufbau:Prinzipieller Aufbau eines Kondensators]
 </margin>
 
-Die geometrischen Abmessungen bestimmen eine wichtige Eigenschaft eines Kondensators, es ist die Fähigkeit, Ladungen zu speichern. Diese Fähigkeit wird als Kapazität bezeichnet und hierfür wird der Formelbuchstabe $C$ verwendet. Je größer die Kapazität ist, umso mehr elektrische Ladungen $Q$ können gespeichert werden. Wenn die angelegte Spannung erhöht wird, werden auch mehr Ladungen gespeichert.
+Die geometrischen Abmessungen bestimmen eine wichtige Eigenschaft eines Kondensators, es ist die Fähigkeit, Ladungen zu speichern. Diese Fähigkeit wird als Kapazität bezeichnet und hierfür wird der Formelbuchstabe $C$ verwendet. Je grösser die Kapazität ist, umso mehr elektrische Ladungen $Q$ können gespeichert werden. Wenn die angelegte Spannung erhöht wird, werden auch mehr Ladungen gespeichert.
 
 Die Folgende Fomel zeigt den Zusammenhang. 
 
@@ -33,7 +33,7 @@ Zur Berechnung der Kondensatorkapazität aus den Abmessungen dient folgende Form
 
 $C = \frac{\varepsilon_0 \cdot \varepsilon_r \cdot A}{d}$
 
-Im Folgenden sind die einzelnen Größen der Formel aufgeschlüsselt:
+Im Folgenden sind die einzelnen Grössen der Formel aufgeschlüsselt:
 
 - $A$ ist die gegenüberstehende Fläche der leitenden Platten
 - $d$ ist der Abstand zwischen den Flächen
@@ -53,7 +53,7 @@ Mit Hilfe der Formel kann man bereits eine Reihe von Prüfungsfragen lösen. Man
 
 [question:EC205]
 
-Die Kapazität eines Kondensators sinkt, wenn der Plattenabstand größer wird. 
+Die Kapazität eines Kondensators sinkt, wenn der Plattenabstand grösser wird. 
 
 [question:EC204]
 [question:EC203]
@@ -62,7 +62,7 @@ Die Kapazität eines Kondensators sinkt, wenn der Plattenabstand größer wird.
 
 Betrachten wir zunächst den Kondensator im Gleichstromfall. In Abbildung [ref:e_stromkreis_kondensator] ist eine Schaltung zum Aufladen eines Kondensators dargestellt. Dabei wird angenommen, dass der Kondensator $C$ zunächst ungeladen ist, also noch keine elektrische Ladung gespeichert hat. Wird der Schalter geschlossen, so wird der Kondensator $C$ über einen Widerstand $R$ an eine Gleichspannungsquelle (Batterie) angeschlossen.
 
-Durch die angelegte Spannung entsteht ein elektrisches Feld zwischen den Kondensatorplatten. Dieses Feld bewirkt eine Umlagerung von Ladungen: Elektronen werden vom negativen Pol der Spannungsquelle auf die angeschlossene Kondensatorplatte gedrückt, sodass sich dort ein Elektronenüberschuss bildet. Gleichzeitig werden Elektronen von der gegenüberliegenden Platte zum positiven Pol der Spannungsquelle abgezogen, wodurch dort ein Elektronenmangel entsteht. Obwohl kein Strom durch das Dielektrikum fließt, führt diese Ladungstrennung zur Aufladung des Kondensators. 
+Durch die angelegte Spannung entsteht ein elektrisches Feld zwischen den Kondensatorplatten. Dieses Feld bewirkt eine Umlagerung von Ladungen: Elektronen werden vom negativen Pol der Spannungsquelle auf die angeschlossene Kondensatorplatte gedrückt, sodass sich dort ein Elektronenüberschuss bildet. Gleichzeitig werden Elektronen von der gegenüberliegenden Platte zum positiven Pol der Spannungsquelle abgezogen, wodurch dort ein Elektronenmangel entsteht. Obwohl kein Strom durch das Dielektrikum fliesst, führt diese Ladungstrennung zur Aufladung des Kondensators. 
 
 <margin>
 [picture:1015:e_stromkreis_kondensator:Stromkreis zum Aufladen eines Kondesators]
@@ -70,9 +70,9 @@ Durch die angelegte Spannung entsteht ein elektrisches Feld zwischen den Kondens
 
 ---
 
-Das bedeutet: Zu Beginn fließt ein hoher Strom, der lediglich durch den Widerstand $R$ begrenzt wird. Mit der Zeit werden immer mehr Ladungen im Kondensator gespeichert. Dadurch nimmt der Strom kontinuierlich ab, während die Spannung $U_C$ am Kondensator ansteigt, bis dieser vollständig aufgeladen ist. In diesem Zustand fließt schließlich kein Strom mehr.
+Das bedeutet: Zu Beginn fliesst ein hoher Strom, der lediglich durch den Widerstand $R$ begrenzt wird. Mit der Zeit werden immer mehr Ladungen im Kondensator gespeichert. Dadurch nimmt der Strom kontinuierlich ab, während die Spannung $U_C$ am Kondensator ansteigt, bis dieser vollständig aufgeladen ist. In diesem Zustand fliesst schliesslich kein Strom mehr.
 
-Dieser Vorgang erfolgt jedoch nicht schlagartig, sondern zeitlich verzögert. Die Kondensatorspannung steigt dabei nach einer sogenannten Exponentialfunktion an, wie in Abbildung [ref:e_ladekurve_c] gezeigt. Die Dauer dieses Ladevorgangs hängt vom vorgeschalteten Widerstand ab: Je größer der Widerstand ist, desto länger dauert es, bis der Kondensator „vollständig“ geladen ist. Mit einem Oszilloskop, wie in Abbildung [ref:e_lade_entladespannung_mit_oszilloskop] gezeigt, das wir bereits kennengelernt haben, lässt sich dieser zeitliche Verlauf anschaulich beobachten und untersuchen.
+Dieser Vorgang erfolgt jedoch nicht schlagartig, sondern zeitlich verzögert. Die Kondensatorspannung steigt dabei nach einer sogenannten Exponentialfunktion an, wie in Abbildung [ref:e_ladekurve_c] gezeigt. Die Dauer dieses Ladevorgangs hängt vom vorgeschalteten Widerstand ab: Je grösser der Widerstand ist, desto länger dauert es, bis der Kondensator „vollständig“ geladen ist. Mit einem Oszilloskop, wie in Abbildung [ref:e_lade_entladespannung_mit_oszilloskop] gezeigt, das wir bereits kennengelernt haben, lässt sich dieser zeitliche Verlauf anschaulich beobachten und untersuchen.
 
 <margin>
 [picture:185:e_ladekurve_c:Ladespannung eines Kondesators]
@@ -82,7 +82,7 @@ Dieser Vorgang erfolgt jedoch nicht schlagartig, sondern zeitlich verzögert. Di
 [photo:247:e_lade_entladespannung_mit_oszilloskop:Lade-und Entladespannung an einem Kondensator]  
 </margin>
  
-Beim Entladevorgang fließt der Strom entgegen der Ladestromrichtung und die Spannung am Kondensator baut sich langsam ab.
+Beim Entladevorgang fliesst der Strom entgegen der Ladestromrichtung und die Spannung am Kondensator baut sich langsam ab.
 
 [question:EC201]
 
@@ -92,7 +92,7 @@ $|X_C| = \frac{1}{\omega\cdot C} = \frac{1}{2\pi\cdot f \cdot C}$
 
 beschreiben und wird als kapazitiver Blindwiderstand $X_C$ bezeichnet (vgl. Formelsammlung).
 
-Die genauen physikalischen Hintergründe dazu lernen wir erst in der Klasse A kennen. Für die Klasse E ist es jedoch bereits wichtig zu wissen, dass der Widerstand eines Kondensators umgekehrt proportional von der Frequenz abhängt: Verringert man die Frequenz, so wird der kapazitive Blindwiderstand $X_C$ größer. Erhöht man hingegen die Frequenz, nimmt der Widerstand entsprechend ab.
+Die genauen physikalischen Hintergründe dazu lernen wir erst in der Klasse A kennen. Für die Klasse E ist es jedoch bereits wichtig zu wissen, dass der Widerstand eines Kondensators umgekehrt proportional von der Frequenz abhängt: Verringert man die Frequenz, so wird der kapazitive Blindwiderstand $X_C$ grösser. Erhöht man hingegen die Frequenz, nimmt der Widerstand entsprechend ab.
 
 [question:EC202]
 
@@ -111,7 +111,7 @@ Als Dielektrikum, also Isolatorschicht, können unterschiedliche Materialien ver
 3. Keramik für HF-Kondensatoren mit hoher Güte und bei SMD-Kondensatoren
 4. Metalloxid beim Elektrolytkondensator.
 
-Je nach Aufbau unterscheidet man außerdem:
+Je nach Aufbau unterscheidet man ausserdem:
 
 * Festkondensatoren in Form von Keramikkondensatoren, Folienkondensatoren und Elektrolytkondensatoren
 * Veränderliche Kondensatoren in Form von Drehkondensatoren und Trimmkondensatoren
@@ -125,7 +125,7 @@ Je nach Aufbau unterscheidet man außerdem:
 [picture:923:e_aufbau_keramik_c: Keramikkondensator]
 </margin>
 
-*Elektrolytkondensatoren* (kurz ELKO) enthalten eine dünne, aufgerauhte ALU-Folie, die in einen Elektrolyten (z.B. Borax) eingetaucht ist. Dabei verursacht der Elektrolyt eine chemische Oxidation der Aluminiumoberfläche. Die entstehende Oxidschicht ist sehr dünn und deshalb steigt die Kapazität bei geringer Baugröße sehr stark an. Allerdings hat die dünne Schicht nur eine begrenzte Spannungsfestigkeit, die auf dem ELKO anggeben wird.
+*Elektrolytkondensatoren* (kurz ELKO) enthalten eine dünne, aufgerauhte ALU-Folie, die in einen Elektrolyten (z.B. Borax) eingetaucht ist. Dabei verursacht der Elektrolyt eine chemische Oxidation der Aluminiumoberfläche. Die entstehende Oxidschicht ist sehr dünn und deshalb steigt die Kapazität bei geringer Baugrösse sehr stark an. Allerdings hat die dünne Schicht nur eine begrenzte Spannungsfestigkeit, die auf dem ELKO anggeben wird.
 Elektrolytkondensatoren dürfen nur an Gleichspannung betrieben werden. Die Polung ist deshalb zu beachten, da sich sonst die Oxidschicht abbaut und somit die Spannungsfestigkeit sinkt. Der Kondesator wird zerstört. Alle anderen Kondensatoren können auch an Wechselspannung angeschlossen werden.
 [question:EC207]
 
@@ -133,13 +133,13 @@ Elektrolytkondensatoren dürfen nur an Gleichspannung betrieben werden. Die Polu
 %TODO: Bild Elko
 %</margin>
 
-Für Folien-Wickelkondensatoren werden Kunststoffe in speziellen Verfahren zu extrem dünnen Folien verarbeitet, mit Elektroden versehen und anschließend entweder zu einem Wickel aufgewickelt oder aus einzelnen Lagen geschichtet und zu einem Kondensator zusammengefügt, wie in Abbildung [ref:e_aufbau_wickel_c] dargestellt. Neben Keramikkondensatoren und Elektrolytkondensatoren zählen sie zu den am häufigsten eingesetzten Kondensatorbauarten.
+Für Folien-Wickelkondensatoren werden Kunststoffe in speziellen Verfahren zu extrem dünnen Folien verarbeitet, mit Elektroden versehen und anschliessend entweder zu einem Wickel aufgewickelt oder aus einzelnen Lagen geschichtet und zu einem Kondensator zusammengefügt, wie in Abbildung [ref:e_aufbau_wickel_c] dargestellt. Neben Keramikkondensatoren und Elektrolytkondensatoren zählen sie zu den am häufigsten eingesetzten Kondensatorbauarten.
 
 <margin>
 [picture:49:e_aufbau_wickel_c:Folien-Wickelkondensator]
 </margin>
 
-Drehkondensatoren werden häufig in Endstufen und Anpassnetzwerken eingesetzt. Bei ihnen lässt sich die Kapazität einstellen, indem ein Teil der Kondensatorplatten auf einer isolierten Achse montiert ist und zwischen feststehenden Platten rotiert. Dadurch ändert sich die wirksame Überlappungsfläche der Platten und somit die Kapazität, wie in Abbildung [ref:e_drehkondensator] dargestellt. Trimmkondensatoren arbeiten nach einem ähnlichen Prinzip, sind jedoch nicht für eine regelmäßige Verstellung vorgesehen. Sie dienen vielmehr zum einmaligen oder gelegentlichen Abgleich von Schaltungen, etwa bei der Inbetriebnahme oder Kalibierung.
+Drehkondensatoren werden häufig in Endstufen und Anpassnetzwerken eingesetzt. Bei ihnen lässt sich die Kapazität einstellen, indem ein Teil der Kondensatorplatten auf einer isolierten Achse montiert ist und zwischen feststehenden Platten rotiert. Dadurch ändert sich die wirksame Überlappungsfläche der Platten und somit die Kapazität, wie in Abbildung [ref:e_drehkondensator] dargestellt. Trimmkondensatoren arbeiten nach einem ähnlichen Prinzip, sind jedoch nicht für eine regelmässige Verstellung vorgesehen. Sie dienen vielmehr zum einmaligen oder gelegentlichen Abgleich von Schaltungen, etwa bei der Inbetriebnahme oder Kalibierung.
 
 [question:EC206]
 

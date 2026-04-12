@@ -2,7 +2,7 @@ Wird ein Hochfrequenzsignal durch ein Kabel übertragen, nimmt die Signalstärke
 
 Angegeben wird die Dämpfung in der Regel in Dezibel ($\unit{\dB}$), wobei eine positive Zahl für eine Signalabnahme steht, wenn von "Dämpfung" die Rede ist.
 
-Für die folgenden Fragen ist zunächst der Faktor zu ermitteln, mit dem die Leistung abnimmt (z. B. Faktor $\num{2}$ bei einer Halbierung oder Faktor $\num{10}$ bei einer Abnahme von $\qty{100}{\percent}$ auf $\qty{10}{\percent}$). Anschließend kann man diesen Leistungsfaktor mit Hilfe der Tabelle [ref:e_dezibel_leistungsfaktoren] in der Formelsammlung in ein Maß in Dezibel umrechnen bzw. die Lösung nachschlagen.
+Für die folgenden Fragen ist zunächst der Faktor zu ermitteln, mit dem die Leistung abnimmt (z. B. Faktor $\num{2}$ bei einer Halbierung oder Faktor $\num{10}$ bei einer Abnahme von $\qty{100}{\percent}$ auf $\qty{10}{\percent}$). Anschliessend kann man diesen Leistungsfaktor mit Hilfe der Tabelle [ref:e_dezibel_leistungsfaktoren] in der Formelsammlung in ein Mass in Dezibel umrechnen bzw. die Lösung nachschlagen.
 
 <margin>
 | c:dB | c:≈ Leistungsfaktor |

@@ -3,7 +3,7 @@ Der Dynamic Compressor wird häufig bei DX-Verbindungen und in Contesten, bei de
 [question:AE211]
 [question:AE212]
 
-Ein NF-Sprachsignal hat, bedingt durch seine Lautstärkeschwankungen, große Unterschiede zwischen der maximalen und der minimalen Lautstärke. Diese Unterschiede in den Lautstärken nennt man auch *Dynamikumfang*. Durch einen *NF-Dynamikkompressor oder NF-Sprachprozessor* in einem Sender wird der Dynamikumfang eines Sprachsignals verringert, wodurch dessen mittlere Lautstärke angehoben wird. Hierdurch verringert sich auch der Dynamikumfang der Modulation des Sendesignals, wodurch der mittlere Sendepegel des Signals angehoben wird.
+Ein NF-Sprachsignal hat, bedingt durch seine Lautstärkeschwankungen, grosse Unterschiede zwischen der maximalen und der minimalen Lautstärke. Diese Unterschiede in den Lautstärken nennt man auch *Dynamikumfang*. Durch einen *NF-Dynamikkompressor oder NF-Sprachprozessor* in einem Sender wird der Dynamikumfang eines Sprachsignals verringert, wodurch dessen mittlere Lautstärke angehoben wird. Hierdurch verringert sich auch der Dynamikumfang der Modulation des Sendesignals, wodurch der mittlere Sendepegel des Signals angehoben wird.
 
 [question:AE210]
 

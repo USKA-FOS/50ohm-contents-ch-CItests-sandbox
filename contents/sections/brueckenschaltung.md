@@ -2,7 +2,7 @@ Die Brückenschaltung ist eine Schaltung aus 4 Widerständen, die für Widerstan
 %todo Bild einer Wheatstone Messbrücke
 Die Messbrücke besteht immer aus zwei Spannungsteilern, die parallel geschaltet sind.
 [picture:343:a_Brückenschaltung:Typische Brückenschaltung mit 4 Widerständen]
-In dem Sonderfall, dass die Spannungsteilerverhältnisse links und rechts gleich groß sind, fließt durch das Messinstrument,  im sogenannten Brückenzweig, kein Strom.
+In dem Sonderfall, dass die Spannungsteilerverhältnisse links und rechts gleich gross sind, fliesst durch das Messinstrument,  im sogenannten Brückenzweig, kein Strom.
 Die Widerstandswerte können unterschiedliche Werte aufweisen, wichtig ist, dass das Spannungsteilerverhältnis links und rechts gleich sein muss.
 
 In einer Formel dargestellt lautet dieser Zusammenhang: $\frac{R_1}{R_2} = \frac{R_3}{R_4}$
@@ -10,17 +10,17 @@ In einer Formel dargestellt lautet dieser Zusammenhang: $\frac{R_1}{R_2} = \frac
 [question:AD111]
 <tip>
 In der Mitte der Schaltung lässt sich die sogenannte Brückenspannung abgreifen.
-Für den Sonderfall, dass die Spannungsteilerverhältnisse gleich groß sind, ergibt sich die Brückenspannnung zu Null Volt
+Für den Sonderfall, dass die Spannungsteilerverhältnisse gleich gross sind, ergibt sich die Brückenspannnung zu Null Volt
 </tip>
 
 <indepth>
 [photo:286:a_Pontavi:Widerstandsmessbrücke nach Wheatstone (Pontavi)]
- Der Sonderfall, dass die Spannungsteilerverhältnisse in der Brückenschaltung links und rechts gleich groß sind, wird zur Messung unbekannter Widerstände angewendet. Charles Wheatstone (britischer Physiker) erkannte bereits 1833 die Bedeutung der Brückenschaltung zur Messung unbekannter Widerstände. Bei der Messung wird ein einstellbarer Präzisionswiderstand solange verändert, bis das empfindliche Messwerk im Brückenzweig keinen Stromfluss mehr anzeigt. Dann ist die Brücke abgeglichen und man kann den Wert des unbekannten Widerstandes mit Hilfe der Skala und des Messbereichsmultiplikators ermitteln. 
+ Der Sonderfall, dass die Spannungsteilerverhältnisse in der Brückenschaltung links und rechts gleich gross sind, wird zur Messung unbekannter Widerstände angewendet. Charles Wheatstone (britischer Physiker) erkannte bereits 1833 die Bedeutung der Brückenschaltung zur Messung unbekannter Widerstände. Bei der Messung wird ein einstellbarer Präzisionswiderstand solange verändert, bis das empfindliche Messwerk im Brückenzweig keinen Stromfluss mehr anzeigt. Dann ist die Brücke abgeglichen und man kann den Wert des unbekannten Widerstandes mit Hilfe der Skala und des Messbereichsmultiplikators ermitteln. 
 </indepth>
 
 [question:AD112]
 
-Da bei der Aufgabe alle Widerstände gleich groß sind, müssen auch die Spannungsteilerverhältnisse gleich sein. Dies entspricht dem beschriebenen Sonderfall.
+Da bei der Aufgabe alle Widerstände gleich gross sind, müssen auch die Spannungsteilerverhältnisse gleich sein. Dies entspricht dem beschriebenen Sonderfall.
 
 In der folgenden Frage trifft der Sonderall nicht zu, da die Spannungsteilerverhältnisse ungleich sind.
 Es sind zwar ähnliche Widerstände vorhanden, aber von oben nach unten betrachtet vertauscht.

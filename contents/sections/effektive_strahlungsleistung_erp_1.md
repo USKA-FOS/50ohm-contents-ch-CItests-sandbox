@@ -1,5 +1,5 @@
 Am Anfang dieses Kapitels haben wir uns mit dem Dipol als Grundform aller Antennen beschäftigt. Der Halbwellendipol strahlt Funkwellen senkrecht zur Drahtrichtung ab. Andere Antennenformen können ihre Funkwellen je nach Bauform bevorzugt in eine oder mehrere Richtungen abstrahlen und dafür weniger in andere Richtungen:
-* Eine Groundplane-Antenne strahlt in alle Himmelsrichtungen nahezu gleichmäßig ab, aber nicht nach oben oder unten.
+* Eine Groundplane-Antenne strahlt in alle Himmelsrichtungen nahezu gleichmässig ab, aber nicht nach oben oder unten.
 * Bei einer Yagi-Uda-Antenne werden die Funkwellen wie bei einer Taschenlampe in einem Strahl nach vorn gebündelt und in alle anderen Richtungen reduziert.
 
 Die vom Nachweisverfahren zum Schutz von Personen in elektromagnetischen Feldern vorgegebenen Grenzwerte muss eine Sendeanlage in jede Richtung einhalten. Wenn in einem bestimmten Abstand von der Antenne die Grenzwerte in die Richtung eingehalten werden, in die sie am stärksten abstrahlt, dann wird sie die Grenzwerte im gleichen Abstand auch in alle anderen Richtungen einhalten. Daher interessiert uns besonders die Richtung der stärksten Abstrahlung. Diese wird als *Hauptstrahlrichtung* bezeichnet.
@@ -21,6 +21,6 @@ Um nun anzugeben, wieviel eine konkrete Antenne in die Hauptstrahlrichtung abstr
 Man kann sich die effektive Strahlungsleistung (ERP) auch so vorstellen: Es ist die Leistung, die man in einen Halbwellendipol einspeisen müsste, damit dieser in seiner Hauptstrahlrichtung genauso stark abstrahlt wie die betrachtete Antenne.
 </margin>
 
-Richtantennen können viel größere Gewinnfaktoren haben. Eine Yagi-Uda-Antenne aus 9 Elementen kann beispielsweise leicht einen Gewinnfaktor von $\num{10}$ oder mehr gegenüber dem Halbwellendipol erreichen. Gibt man in eine solche Antenne z. B. $\qty{100}{\watt}$ ein, beträgt die Strahlungsleistung bereits $\qty{1000}{\watt}$ ERP oder mehr!
+Richtantennen können viel grössere Gewinnfaktoren haben. Eine Yagi-Uda-Antenne aus 9 Elementen kann beispielsweise leicht einen Gewinnfaktor von $\num{10}$ oder mehr gegenüber dem Halbwellendipol erreichen. Gibt man in eine solche Antenne z. B. $\qty{100}{\watt}$ ein, beträgt die Strahlungsleistung bereits $\qty{1000}{\watt}$ ERP oder mehr!
 
 [question:NG401]

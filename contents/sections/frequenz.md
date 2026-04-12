@@ -19,7 +19,7 @@ Im Funk benutzen wir auch elektrische Schwingungen, allerdings mit sehr viel hö
 | 1 Kilohertz | $\qty{1}{\kilo\hertz}$ | $\qty{1000}{\hertz}$ |
 | 1 Megahertz | $\qty{1}{\mega\hertz}$ | $\qty{1000000}{\hertz}$ |
 | 1 Gigahertz | $\qty{1}{\giga\hertz}$ | $\qty{1000000000}{\hertz}$ |
-[table:n_frequenz_einheitenvorzeichen:Kurzschreibweise für große Frequenzen]
+[table:n_frequenz_einheitenvorzeichen:Kurzschreibweise für grosse Frequenzen]
 </webmargin>
 
 [question:NA212]

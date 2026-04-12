@@ -18,7 +18,7 @@ Ein weiteres Beispiel folgt hier:
 Im ursprünglichen Byte zählen wir 4 Einsen, was einer geraden Anzahl entspricht. Deshalb müssen wir als Prüfbit eine $\num{0}$ einfügen.
 </indepth>
 
-Dieses Verfahren stößt schnell an seine Grenzen, nämlich dann, wenn mehr als ein Fehler bei der Übertragung passiert. Werden bei der Übertragung zwei Bits verändert, so bleibt die Anzahl der Einsen gerade. Der Empfänger kann nicht mehr erkennen, dass Fehler aufgetreten sind. Treten bei der Übertragung drei Fehler auf, so entsteht wieder eine ungerade Anzahl von Einsen und der Empfänger erkennt die Fehler.
+Dieses Verfahren stösst schnell an seine Grenzen, nämlich dann, wenn mehr als ein Fehler bei der Übertragung passiert. Werden bei der Übertragung zwei Bits verändert, so bleibt die Anzahl der Einsen gerade. Der Empfänger kann nicht mehr erkennen, dass Fehler aufgetreten sind. Treten bei der Übertragung drei Fehler auf, so entsteht wieder eine ungerade Anzahl von Einsen und der Empfänger erkennt die Fehler.
 
 Odd Parity funktioniert im Prinzip genauso, mit einem einzigen Unterschied: Die Anzahl der Einsen muss nicht gerade, sondern immer ungerade sein. Für Odd Parity gilt genauso wie für Even Parity, dass nur eine ungerade Anzahl falsch übertragener Bits erkannt wird. Eine fehlerfreie Übertragung kann hingegen nicht von einer geraden Anzahl an Fehlern unterschieden werden.
 

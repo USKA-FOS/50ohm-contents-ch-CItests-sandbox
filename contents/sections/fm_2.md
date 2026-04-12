@@ -10,7 +10,7 @@ Abbildung [ref:e_frequenzmodulation_t] zeigt den zeitlichen Verlauf eines FM-Sig
 
 ---
 
-Abbildung [ref:e_frequenzmodulation_frequenzhub] zeigt beispielhaft ein NF-Sinussignal, das eine entsprechende Frequenzabweichung (Frequenzhub) eines Hochfrequenzträgers im Spektrum verursacht. Das heißt bei einem FM-Signal wird die Lautstärkeinformation durch die *Trägerfrequenzauslenkung (Frequenzhub)* übertragen. Eine lauteres NF-Signal würde zu einer größeren Trägerfrequenzauslenkung und somit einer höheren Bandbreite des FM-Signals führen .
+Abbildung [ref:e_frequenzmodulation_frequenzhub] zeigt beispielhaft ein NF-Sinussignal, das eine entsprechende Frequenzabweichung (Frequenzhub) eines Hochfrequenzträgers im Spektrum verursacht. Das heisst bei einem FM-Signal wird die Lautstärkeinformation durch die *Trägerfrequenzauslenkung (Frequenzhub)* übertragen. Eine lauteres NF-Signal würde zu einer grösseren Trägerfrequenzauslenkung und somit einer höheren Bandbreite des FM-Signals führen .
 
 <margin>
 [picture:827:e_frequenzmodulation_frequenzhub:Trägerauslenkung bei Frequenzmodulation]
@@ -27,7 +27,7 @@ Dieses Thema wird genauer in der Klasse A besprochen.
 [question:EE306]
 [question:EE304]
 
-Um die gesetzlichen Vorgaben hinsichtlich der belegten Bandbreite eines FM-Signals einzuhalten, wird in FM-Sendern das Mikrofonsignal zunächst in der Amplitude begrenzt (durch einen Begrenzerverstärker) und anschließend auf den Träger mittels FM aufmoduliert. Hierbei ist der Frequenzhub des Modulators bei maximaler Lautstärkeaussteuerung entweder festgelegt oder mittels eines Hub-Reglers einstellbar.
+Um die gesetzlichen Vorgaben hinsichtlich der belegten Bandbreite eines FM-Signals einzuhalten, wird in FM-Sendern das Mikrofonsignal zunächst in der Amplitude begrenzt (durch einen Begrenzerverstärker) und anschliessend auf den Träger mittels FM aufmoduliert. Hierbei ist der Frequenzhub des Modulators bei maximaler Lautstärkeaussteuerung entweder festgelegt oder mittels eines Hub-Reglers einstellbar.
 
 [question:EE305]
 

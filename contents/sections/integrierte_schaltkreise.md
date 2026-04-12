@@ -23,7 +23,7 @@ Das bedeutet, dass aus Sicht der Betriebsspannung der Anschluss 2 und Anschluss 
 
 Daraus wiederum lässt sich ableiten, dass die Betriebsspannung vollständig über den beiden Bauelementen des Vorwiderstands $R_\text{BIAS}$ und des MMICs abfällt.
 
-Abhängig von der Aufgabenstellung kann man bei dem gegebenen Spannungsabfall über dem MMIC den Spannungsabfall über dem Vorwiderstand $R_\text{BIAS}$ berechnen. Damit lässt sich dann, bei gegebenem Widerstand, der Strom berechnen, der durch die Schaltung fließt. Derselbe Strom fließt auch durch den MMIC. Damit lässt sich dort dann zum Beispiel auch die thermische Verlustleistung berechnen.
+Abhängig von der Aufgabenstellung kann man bei dem gegebenen Spannungsabfall über dem MMIC den Spannungsabfall über dem Vorwiderstand $R_\text{BIAS}$ berechnen. Damit lässt sich dann, bei gegebenem Widerstand, der Strom berechnen, der durch die Schaltung fliesst. Derselbe Strom fliesst auch durch den MMIC. Damit lässt sich dort dann zum Beispiel auch die thermische Verlustleistung berechnen.
 
 [question:AF425]
 [question:AF426]
@@ -52,7 +52,7 @@ Abhängig von der Aufgabenstellung kann man bei dem gegebenen Spannungsabfall ü
 % Es muss lediglich der Strom für den Arbeitspunkt laut Datenblatt eingestellt werden, damit der MMIC auch nicht % thermisch überlastet wird. 
 % Dazu ist bei vorgegebener Betriebsspannung ein Widerstand und dessen elektrische Belastung zu berechnen.
 
-% Da der MMIC ein Gehäuse für SMD-Technik besitzt, ist es notwendig, auch die äußere Beschaltung in SMD- Technik auszuführen.
+% Da der MMIC ein Gehäuse für SMD-Technik besitzt, ist es notwendig, auch die äussere Beschaltung in SMD- Technik auszuführen.
 % Der Gesamtaufbau des Verstärkers wird so deutlich kleiner sein als früher in diskreter Schaltungstechnik.
 % Bild Vergleich diskrete Schaltung und MMIC
 

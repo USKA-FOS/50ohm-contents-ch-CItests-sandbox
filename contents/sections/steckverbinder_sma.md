@@ -1,7 +1,7 @@
 Während man BNC-Steckverbinder immer weniger antrifft, kommen immer häufiger SMA-Steckverbinder zum Einsatz. Sie haben nur geringe Abmessungen und sind für sehr hohe Frequenzen geeignet. SMA-Steckverbinder finden sich auch häufig an Hochfrequenz-Messgeräten.
 
 <margin>
-[photo:74:n_koaxsteckverbinder_sma:SMA-Stecker, hier stark vergrößert]
+[photo:74:n_koaxsteckverbinder_sma:SMA-Stecker, hier stark vergrössert]
 </margin>
 
 <attention>

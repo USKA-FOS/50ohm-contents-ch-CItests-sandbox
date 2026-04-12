@@ -19,6 +19,6 @@ Eine Besonderheit stellen Küstenfunkstellen des Seefunkdienstes dar. Obwohl uns
 
 [question:VD707]
 
-Eine weitere Besonderheit ist der sogenannte ISM-Bereich. Ein Teilbereich des $\qty{70}{\centi\meter}$-Amateurfunkbandes wird für Anwendungen aus den Bereichen Industrie, Wissenschaft und Medizin, aber auch von Haushaltsgeräten mitbenutzt. Die Abkürzung ISM kommt von der englischen Bezeichnung "Industrial, Scientific and Medical Band". Dort finden sich z. B. Signale von Garagentoröffnern, Funkwetterstationen, Autoschlüsseln, Wegfahrsperren oder Reifendrucksensoren. Obwohl der Amateurfunkdienst in diesem Frequenzbereich primäre Nutzungsrechte genießt, müssen Störungen durch solche Geräte ausnahmsweise dennoch hingenommen werden.
+Eine weitere Besonderheit ist der sogenannte ISM-Bereich. Ein Teilbereich des $\qty{70}{\centi\meter}$-Amateurfunkbandes wird für Anwendungen aus den Bereichen Industrie, Wissenschaft und Medizin, aber auch von Haushaltsgeräten mitbenutzt. Die Abkürzung ISM kommt von der englischen Bezeichnung "Industrial, Scientific and Medical Band". Dort finden sich z. B. Signale von Garagentoröffnern, Funkwetterstationen, Autoschlüsseln, Wegfahrsperren oder Reifendrucksensoren. Obwohl der Amateurfunkdienst in diesem Frequenzbereich primäre Nutzungsrechte geniesst, müssen Störungen durch solche Geräte ausnahmsweise dennoch hingenommen werden.
 
 [question:VD708]

@@ -1,4 +1,4 @@
-In der Klasse N aben wir bereits einige Antennenformen kennen gelernt. In der Klasse E wollen wir nun die Eigenschaften der verscheidenen Antennen genauer besprechen. Mittengespeiste Dipole sind *symmetrische Antennen*. Unter einer symmetrischen Antenne verstehen wir eine Antenne, die im Idealfall im Betrieb an beiden Polen (z. B. den Einspeisepunkten jedes Schenkels eines Dipols) bis auf das Vorzeichen die gleiche Spannung gegenüber Erde aufweist. Dies ist bei Dipolen einschließlich Faltdipol und auch den darauf basierenden Yagi-Uda-Antennen der Fall. Eine Groundplane-Antenne hingegen weist am Anschlusspunkt der Radiale idealerweise Erdpotential auf (also eine Spannung von Null gegenüber der Erde) und zählt damit nicht zu den symmetrischen Antennen.
+In der Klasse N aben wir bereits einige Antennenformen kennen gelernt. In der Klasse E wollen wir nun die Eigenschaften der verscheidenen Antennen genauer besprechen. Mittengespeiste Dipole sind *symmetrische Antennen*. Unter einer symmetrischen Antenne verstehen wir eine Antenne, die im Idealfall im Betrieb an beiden Polen (z. B. den Einspeisepunkten jedes Schenkels eines Dipols) bis auf das Vorzeichen die gleiche Spannung gegenüber Erde aufweist. Dies ist bei Dipolen einschliesslich Faltdipol und auch den darauf basierenden Yagi-Uda-Antennen der Fall. Eine Groundplane-Antenne hingegen weist am Anschlusspunkt der Radiale idealerweise Erdpotential auf (also eine Spannung von Null gegenüber der Erde) und zählt damit nicht zu den symmetrischen Antennen.
 
 <indepth>
 Auch bei Kabeln zur Signalübertragung, z. B. der Speiseleitung einer Antenne, unterscheidet man zwischen *symmetrischen und asymmetrischen Kabeln*. Auch hier bezieht sich die Symmetrie auf die im Idealfall vorherrschenden elektrischen Spannungen gegenüber Erde. Bei einem Koaxialkabel sollten zwar die Ströme symmetrisch sein, jedoch nur der Innenleiter Spannung gegenüber Erde führen. Koaxialkabel gehören daher zu den asymmetrischen Speiseleitungen. Wie wir später lernen werden, sollten diese asymmetrischen Speiseleitungen nur mittels eines sogenannten Symmetrierglieds (Balun) an eine symmetrische Antenne angeschlossen werden.
@@ -8,7 +8,7 @@ Auch bei Kabeln zur Signalübertragung, z. B. der Speiseleitung einer Antenne, u
 
 ---
 
-Eine beliebte Antennenbauform ist ein insgesamt etwa eine Wellenlänge langer Draht in Form eines Kreises, eines Quadrates, eines Dreiecks oder einer ähnlichen Form. Man spricht dann von sogenannten Ganzwellen-*Schleifenantennen*. Aufgrund ihres einfachen Aufbaus sehr beliebt ist die sogenannte Delta-Loop-Antenne, welche, wie das große Delta (Δ) aus dem griechischen Alphabet, die Form eines Dreiecks hat.
+Eine beliebte Antennenbauform ist ein insgesamt etwa eine Wellenlänge langer Draht in Form eines Kreises, eines Quadrates, eines Dreiecks oder einer ähnlichen Form. Man spricht dann von sogenannten Ganzwellen-*Schleifenantennen*. Aufgrund ihres einfachen Aufbaus sehr beliebt ist die sogenannte Delta-Loop-Antenne, welche, wie das grosse Delta (Δ) aus dem griechischen Alphabet, die Form eines Dreiecks hat.
 
 <margin>
 [picture:311:e_delta_loop:Beispiel für eine Delta-Loop-Antenne]
@@ -46,7 +46,7 @@ Obwohl solche magnetischen Ringantennen grundsätzlich auch für den Sendebetrie
 </margin>
 
 <person>
-Der Fuchskreis bzw. die Fuchs-Antenne ist benannt nach *Dr. Josef Fuchs* (Amateurfunkrufzeichen OE1JF, UO1JF und EAAA), der diese im Jahre 1927 auch patentieren ließ.
+Der Fuchskreis bzw. die Fuchs-Antenne ist benannt nach *Dr. Josef Fuchs* (Amateurfunkrufzeichen OE1JF, UO1JF und EAAA), der diese im Jahre 1927 auch patentieren liess.
 </person>
 
 <indepth>
@@ -57,7 +57,7 @@ Nicht zu Verwechseln mit den endgespeisten Halbwellendipolen sind die endgepeist
 
 ---
 
-Die Richtwirkung einer Antenne kann man in einem sogenannten Strahlungsdiagramm darstellen. Hierbei wird für eine Ebene in jede Richtung der Gewinn bzw. die Feldstärke oder Strahlungsleistung aufgetragen. Je weiter der Graphenverlauf vom Mittelpunkt entfernt ist, umso größer der Gewinn bzw. umso höher die Feldstärke und Strahlungsleistung im Fernfeld. Falls keine Skala mit Winkeln verwendet wird, stellt man auch oft die mechanische Anordnung der Antenne im selben Diagramm dar, um zu verdeutlichen, welche Richtung im Diagramm welcher Richtung in Bezug auf die Antennenanordnung entspricht.
+Die Richtwirkung einer Antenne kann man in einem sogenannten Strahlungsdiagramm darstellen. Hierbei wird für eine Ebene in jede Richtung der Gewinn bzw. die Feldstärke oder Strahlungsleistung aufgetragen. Je weiter der Graphenverlauf vom Mittelpunkt entfernt ist, umso grösser der Gewinn bzw. umso höher die Feldstärke und Strahlungsleistung im Fernfeld. Falls keine Skala mit Winkeln verwendet wird, stellt man auch oft die mechanische Anordnung der Antenne im selben Diagramm dar, um zu verdeutlichen, welche Richtung im Diagramm welcher Richtung in Bezug auf die Antennenanordnung entspricht.
 
 Ein Dipol strahlt nicht, wie man irrigerweise vermuten könnte, in Richtung des Drahtes, sondern rechtwinklig davon ab. In einer Ebene betrachtet und aufgetragen als Strahlungsdiagramm ergeben sich entsprechende Keulen (z. B. links und rechts) neben dem Dipol (vgl. Abbildung [ref:e_dipol_strahlungsdiagramm]). Ein vertikal aufgehanger Dipol strahlt also z. B. nach links und rechts sowie nach vorne und hinten ab. Da das Strahlungsdiagramm nur eine Ebene betrachtet, sieht man z. B. nur eine Keule für die Abstrahlung nach links und eine Keule für die Abstrahlung nach rechts. Je nach Skala können diese Keulen kreisförmig aussehen.
 
@@ -119,7 +119,7 @@ Richtantennen (z.B. die Yagi-Uda-Antenne) zeichnen sich dadurch aus, dass der Ge
 
 ---
 
-Bei höheren Frequenzen z. B. im UHF-Bereich oder darüber hinaus kommen auch Hornstrahler oder Parabolantennen (vgl. [ref:e_parabolantenne]) zum Einsatz. Ebenso finden sich auf Leiterplatten kleinerer Geräte Patchantennen. All diese Antennenbauformen sind für den Kurzwellenbereich unüblich, da sie unhandliche Größen erreichen würden. Deshalb bleiben für die folgenden Fragen nur noch Langdraht-Antenne, Yagi-Uda-Antenne, Dipol-Antenne, Windom-Antenne, Delta-Loop-Antenne übrig.
+Bei höheren Frequenzen z. B. im UHF-Bereich oder darüber hinaus kommen auch Hornstrahler oder Parabolantennen (vgl. [ref:e_parabolantenne]) zum Einsatz. Ebenso finden sich auf Leiterplatten kleinerer Geräte Patchantennen. All diese Antennenbauformen sind für den Kurzwellenbereich unüblich, da sie unhandliche Grössen erreichen würden. Deshalb bleiben für die folgenden Fragen nur noch Langdraht-Antenne, Yagi-Uda-Antenne, Dipol-Antenne, Windom-Antenne, Delta-Loop-Antenne übrig.
 
 [question:EG106]
 
@@ -127,6 +127,6 @@ Bei höheren Frequenzen z. B. im UHF-Bereich oder darüber hinaus kommen auch Ho
 [picture:850:e_parabolantenne:Parabolantenne]
 </margin>
 
-Die Sperrtopfantenne besteht aus einem $\lambda / 4$-langen Topf, der als Symmetrierglied bzw. Mantelwellensperre wirkt. Mit diesem Wissen lässt sich die folgende Frage beantworten, denn sowohl ein Sperrtopf als auch eine Kreuz-Yagi-Uda wären ebenso wie Parabolspiegel im $\qty{80}{\meter}$-Band unhandlich groß.
+Die Sperrtopfantenne besteht aus einem $\lambda / 4$-langen Topf, der als Symmetrierglied bzw. Mantelwellensperre wirkt. Mit diesem Wissen lässt sich die folgende Frage beantworten, denn sowohl ein Sperrtopf als auch eine Kreuz-Yagi-Uda wären ebenso wie Parabolspiegel im $\qty{80}{\meter}$-Band unhandlich gross.
 
 [question:EG107]

@@ -20,7 +20,7 @@ Reflektor und Direktoren bezeichnet man auch auch als *parasitäre Elemente*, da
 
 Die Richtwirkung entsteht dadurch, dass der Strahler sowie die anderen Elemente eine zeitliche und räumliche Phasenverschiebung aufweisen, d. h. die Wellenberge und -täler entstehen nicht zum gleichen Zeitpunkt bzw. am selben Ort. Durch die Überlagerung der (phasenverschobenen) Abstrahlung aller Elemente entsteht eine Richtwirkung, denn in bestimmten Richtungen löschen sich die Wellen aus (destruktive Interferenz, dort wo Wellenberg auf Wellental trifft) und in anderen Richtungen verstärken sich die Wellen (konstruktive Interferenz, dort wo Wellenberg auf Wellenberg und Wellental auf Wellental trifft).
 
-Im Strahlungsdiagramm (Richtdiagramm) sieht man diese Richtwirkung in Form einer großen *Hauptkeule*, wie in Abbildung [ref:e_yagi_richtung] dargestellt. Die Hauptkeule befindet sich in Richtung der Hauptstrahlungsrichtung, in die das Signal bzw. die Empfindlichkeit beim Empfang im Wesentlichen konzentriert wird.
+Im Strahlungsdiagramm (Richtdiagramm) sieht man diese Richtwirkung in Form einer grossen *Hauptkeule*, wie in Abbildung [ref:e_yagi_richtung] dargestellt. Die Hauptkeule befindet sich in Richtung der Hauptstrahlungsrichtung, in die das Signal bzw. die Empfindlichkeit beim Empfang im Wesentlichen konzentriert wird.
 
 Allerdings kann es auch Nebenkeulen und insbesondere eine Rückkeule geben. D. h. eine Yagi-Uda-Antenne strahlt auch zu einem gewissen Grad nach hinten ab, obwohl dies eigentlich unerwünscht ist. Die Rück- und ggf. vorhandenen Nebenkeulen sind jedoch kleiner.
 

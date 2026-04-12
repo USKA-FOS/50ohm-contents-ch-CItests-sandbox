@@ -4,11 +4,11 @@
 
 Steuerkennlinien von Baugruppen oder Bauelemten können linearen, nichtlinearen oder abschnittsweise gemischten Charakter haben. Zum Beispiel hat ein Widerstand eine lineare Kennline, die Kennlinie einer Diode ist hingegen nichtlinear [ref:mischer_linear_vs_nichtlinear].
 
-Im linearen Bereich von Steuerkennlinien finden keine Verzerrungen der Eingangssignale statt da zu jeder Änderung eines Eingangssignals eine prozentual gleichgroße Änderung des Ausgangssignals erfolgt. Mathematisch entspricht dies einem linearen Verhalten (Addition). Ein Beispiel für eine durchgehend lineare Steuerkennlinie ist ein Widerstand. An linearen Steuerkennlinien oder im linearen Bereich von Steuerkennlinien findet **kein** Mischprozess statt.
+Im linearen Bereich von Steuerkennlinien finden keine Verzerrungen der Eingangssignale statt da zu jeder Änderung eines Eingangssignals eine prozentual gleichgrosse Änderung des Ausgangssignals erfolgt. Mathematisch entspricht dies einem linearen Verhalten (Addition). Ein Beispiel für eine durchgehend lineare Steuerkennlinie ist ein Widerstand. An linearen Steuerkennlinien oder im linearen Bereich von Steuerkennlinien findet **kein** Mischprozess statt.
 
-Im nichtlinearen Bereich von Steuerkennlinien finden Verzerrungen der Eingangssignale statt, da eine Änderung eines Eingangssignals keine prozentual gleichgroße Änderung eines Ausgangssignals bewirkt. Mathematisch entspricht dies einem nichtlinearen Verhalten bei dem eine Multiplikation der Eingangsgrößen stattfindet und daher zusätzliche Mischprodukte (abhängig von der Form der Kennlinie) entstehen. Daher findet im nichtlinearen Bereich von Steuerkennlinien immer ein Mischprozess statt. Mischprodukte erzeugen immer zusätzliche Frequenzen im Ausgangssignal welche überwiegend als Summen und Differenzen der Eingangsfrequenzen im Ausgangssignal vorliegen.
+Im nichtlinearen Bereich von Steuerkennlinien finden Verzerrungen der Eingangssignale statt, da eine Änderung eines Eingangssignals keine prozentual gleichgrosse Änderung eines Ausgangssignals bewirkt. Mathematisch entspricht dies einem nichtlinearen Verhalten bei dem eine Multiplikation der Eingangsgrössen stattfindet und daher zusätzliche Mischprodukte (abhängig von der Form der Kennlinie) entstehen. Daher findet im nichtlinearen Bereich von Steuerkennlinien immer ein Mischprozess statt. Mischprodukte erzeugen immer zusätzliche Frequenzen im Ausgangssignal welche überwiegend als Summen und Differenzen der Eingangsfrequenzen im Ausgangssignal vorliegen.
 
-In der Praxis bilden sich jedoch auch viele unerwünschte Mischprodukte höherer Ordnung, die durch technische Maßnahmen wie Filterung gezielt unterdrückt werden müssen.
+In der Praxis bilden sich jedoch auch viele unerwünschte Mischprodukte höherer Ordnung, die durch technische Massnahmen wie Filterung gezielt unterdrückt werden müssen.
 
 %TODO EVTL. VERWEIS AUF WEITERE LITERATUR ODER MATHEMATISCHEN HINTERGRUND
 

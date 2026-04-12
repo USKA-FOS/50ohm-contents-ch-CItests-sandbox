@@ -23,7 +23,7 @@ Mit steigender Temperatur steigt der Sättigungsstrom und die Exponentialfunktio
 
 [question:AC404]
 
-Die Kapazitätsdiode nutzt die Kapazität zwischen den n- und p-Gebieten über die Raumladungszone hinweg, analog zu einem Plattenkondensator. Dabei darf aber kein nennenswerter Gleichstrom fließen, also muss die Diode in Sperrrichtung gepolt werden.
+Die Kapazitätsdiode nutzt die Kapazität zwischen den n- und p-Gebieten über die Raumladungszone hinweg, analog zu einem Plattenkondensator. Dabei darf aber kein nennenswerter Gleichstrom fliessen, also muss die Diode in Sperrrichtung gepolt werden.
 
 Je negativer die Diodenspannung (bzw. je höher die Sperrspannung), umso mehr dehnt sich die Raumladungszone aus und umso geringer wird die Diodenkapazität.
 
@@ -43,9 +43,9 @@ Die Lösung verläuft analog zur vorhergehenden Aufgabe - aber die Dioden sind h
 
 Hier werden zwei Bauelemente genannt, die mit Licht interagieren: der Fotowiderstand und die Fotodiode.
 
-Der Fotowiderstand ist ein Bauelement, das über zwei nicht-sperrende Kontakte verfügt. Es verhält sich wie ein konventioneller Ohmscher Widerstand - der Strom steigt linear mit der angelegten Spannung. Der Widerstandswert kann durch Absorption von Licht verringert werden - die absorbierten Photonen erhöhen die Dichte der freien Ladungsträger. Liegt keine Spannung an, fließt auch kein Strom.
+Der Fotowiderstand ist ein Bauelement, das über zwei nicht-sperrende Kontakte verfügt. Es verhält sich wie ein konventioneller Ohmscher Widerstand - der Strom steigt linear mit der angelegten Spannung. Der Widerstandswert kann durch Absorption von Licht verringert werden - die absorbierten Photonen erhöhen die Dichte der freien Ladungsträger. Liegt keine Spannung an, fliesst auch kein Strom.
 
-Die Fotodiode dagegen ist eine pn-Diode. Das Licht wird hier in der Raumladungszone absorbiert, es entstehen Elektron-Loch-Paare, die im elektrischen Feld der Raumladungszone getrennt werden. Dieses Feld existiert auch ohne äußere Vorspannung. Es fließt auch für $U_D=0$ ein Strom (ein Kurzschlussstrom). Dieser Strom hat die entgegengesetzte Richtung wie der konventionelle Diodenstrom. 
+Die Fotodiode dagegen ist eine pn-Diode. Das Licht wird hier in der Raumladungszone absorbiert, es entstehen Elektron-Loch-Paare, die im elektrischen Feld der Raumladungszone getrennt werden. Dieses Feld existiert auch ohne äussere Vorspannung. Es fliesst auch für $U_D=0$ ein Strom (ein Kurzschlussstrom). Dieser Strom hat die entgegengesetzte Richtung wie der konventionelle Diodenstrom. 
 
 [question:AC408]
 

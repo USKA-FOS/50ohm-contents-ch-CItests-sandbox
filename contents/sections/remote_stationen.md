@@ -1,4 +1,4 @@
-Die Remotestation ist nach §2 Nr. 6a AFuV wie folgt definiert: "*Remote-Betrieb: der unbesetzte, fernbediente Betrieb einer ortsfesten  Amateurfunkstelle unter ununterbrochener, mittelbarer und vollständiger Kontrolle eines zur Teilnahme am Amateurfunkdienst zugelassenen Funkamateurs, einschließlich der Einstellung der für den Sende- und Empfangsbetrieb genutzten Frequenzen und Bestimmung von Zeitpunkt und Dauer der Amateurfunk-Aussendungen.*"
+Die Remotestation ist nach §2 Nr. 6a AFuV wie folgt definiert: "*Remote-Betrieb: der unbesetzte, fernbediente Betrieb einer ortsfesten  Amateurfunkstelle unter ununterbrochener, mittelbarer und vollständiger Kontrolle eines zur Teilnahme am Amateurfunkdienst zugelassenen Funkamateurs, einschliesslich der Einstellung der für den Sende- und Empfangsbetrieb genutzten Frequenzen und Bestimmung von Zeitpunkt und Dauer der Amateurfunk-Aussendungen.*"
 
 <margin>
 [picture:668:n_remotestation:Remotestation]

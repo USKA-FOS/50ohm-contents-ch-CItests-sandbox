@@ -42,9 +42,9 @@ Der Wirkungsgrad eine HF-Leistungsverstärkers wird definiert durch das Verhält
 
 [question:AF401]
 
-Die aktiven Elemente in einem Leistungsverstärker benötigen neben der erforderlichen Betriebsspannung auch eine gleichspannungsmäßige Einstellung des Arbeitspunktes (BIAS). Dieser Arbeitspunkt wird üblicherweise durch Spannungsteiler erzeugt die aus einer stabilisierten Hilfsspannung, durch Verwendung von Trimmpotentiometern für eine optimale Einstellung, die gewünschte BIAS-Spannung an den Elementen erzeugen.
-Bei Betrachtung der BIAS-Spannung und deren Auswirkungen auf die Elemente der Schaltung ist die Schaltung nur gleichspannungsmäßig zu betrachten. Hierbei werden Kondensatoren als Elemente, die nur Wechselspannungen übertragen können, ignoriert.
-Wicklungen von Transformatoren sowie Spulen werden bei der gleichspannungsmäßigen Betrachtung als Kurzschluss gesehen.
+Die aktiven Elemente in einem Leistungsverstärker benötigen neben der erforderlichen Betriebsspannung auch eine gleichspannungsmässige Einstellung des Arbeitspunktes (BIAS). Dieser Arbeitspunkt wird üblicherweise durch Spannungsteiler erzeugt die aus einer stabilisierten Hilfsspannung, durch Verwendung von Trimmpotentiometern für eine optimale Einstellung, die gewünschte BIAS-Spannung an den Elementen erzeugen.
+Bei Betrachtung der BIAS-Spannung und deren Auswirkungen auf die Elemente der Schaltung ist die Schaltung nur gleichspannungsmässig zu betrachten. Hierbei werden Kondensatoren als Elemente, die nur Wechselspannungen übertragen können, ignoriert.
+Wicklungen von Transformatoren sowie Spulen werden bei der gleichspannungsmässigen Betrachtung als Kurzschluss gesehen.
 
 [question:AF420]
 [question:AF423]
@@ -53,18 +53,18 @@ Wicklungen von Transformatoren sowie Spulen werden bei der gleichspannungsmäßi
 %TODO Fragennummern fixen
 %TODO doe Frage 2373 bräuchte eine genauerer Erklärung wie man auf die 3.5 V kommt (370||6800 = 350).
 
-Die Berechnung der BIAS-Spannung bei gegebener Schaltung (Frage AF421) erfolgt durch Anwendung des Ohmschen-Gesetzes unter Berücksichtigung von Parallel- und Serienschaltung von Widerständen. Wichtig bei der Betrachtung der Frage ist, dass die Gate-Anschlüsse der Transistoren Kapazitäten darstellen und somit bei gleichspannungsmäßiger Betrachtung vernachlässigbar sind.
+Die Berechnung der BIAS-Spannung bei gegebener Schaltung (Frage AF421) erfolgt durch Anwendung des Ohmschen-Gesetzes unter Berücksichtigung von Parallel- und Serienschaltung von Widerständen. Wichtig bei der Betrachtung der Frage ist, dass die Gate-Anschlüsse der Transistoren Kapazitäten darstellen und somit bei gleichspannungsmässiger Betrachtung vernachlässigbar sind.
 
 [question:AF421]
 
-Bei Leistungsverstärkern ist es wichtig die einzelnen Stufen HF-Mäßig von der Betriebsspannung bestmöglich zu entkoppeln um Rückwirkungen auf andere Stufen zu vermeiden (Schwingneigung, Modulationseffekte etc.). Dazu werden die Betriebsspannungs-Zuführungen der einzelnen Stufen mit in Serie geschalteten Induktivitäten sowie Abblock-Kondensatoren nach Masse gegeneinander entkoppelt. Diese Anordnung stellt einen Tiefpass dar, da im Idealfall nur die gewünschte DC-Betriebsspannung durchgelassen wird, HF-Anteile jedoch abgeblockt werden.
+Bei Leistungsverstärkern ist es wichtig die einzelnen Stufen HF-Mässig von der Betriebsspannung bestmöglich zu entkoppeln um Rückwirkungen auf andere Stufen zu vermeiden (Schwingneigung, Modulationseffekte etc.). Dazu werden die Betriebsspannungs-Zuführungen der einzelnen Stufen mit in Serie geschalteten Induktivitäten sowie Abblock-Kondensatoren nach Masse gegeneinander entkoppelt. Diese Anordnung stellt einen Tiefpass dar, da im Idealfall nur die gewünschte DC-Betriebsspannung durchgelassen wird, HF-Anteile jedoch abgeblockt werden.
 
 [question:AF411]
 [question:AF419]
 [question:AF418]
 [question:AF422]
 
-Die HF-Eigenschaften realer Kondensatoren sind frequenzabhängig. Große Kapazitäten wie Elektrolytkondensatoren können nur bei niedrigen Frequenzen eingesetzt werden und sind im HF-Bereich nur bedingt wirksam. Um auch höhere Frequenzen durch Kondensatoren abzublocken verwendet man häufig eine Kombination aus unterschiedlichen Kondensator-Typen und Kapazitäts-Werten, die zusammen einen größeren Frequenzbereich abblocken können.
+Die HF-Eigenschaften realer Kondensatoren sind frequenzabhängig. Grosse Kapazitäten wie Elektrolytkondensatoren können nur bei niedrigen Frequenzen eingesetzt werden und sind im HF-Bereich nur bedingt wirksam. Um auch höhere Frequenzen durch Kondensatoren abzublocken verwendet man häufig eine Kombination aus unterschiedlichen Kondensator-Typen und Kapazitäts-Werten, die zusammen einen grösseren Frequenzbereich abblocken können.
 
 [question:AF415]
 

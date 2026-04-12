@@ -20,9 +20,9 @@ Diese Frage können wir ohne Rechnung beantworten: Nur ein ohmscher Widerstand n
 
 [question:AC103]
 
-Wird ein Kondensator an Wechselspannung angeschlossen, dann fließt ein Wechselstrom, denn der Kondensator wird ständig geladen und entladen. Um diese Eigenschaft zu beschreiben sagen wir, der Kondensator hat einen Wechselstromwiderstand und nennen diesen Widerstand kapazitiver Blindwiderstand $X_C$.
+Wird ein Kondensator an Wechselspannung angeschlossen, dann fliesst ein Wechselstrom, denn der Kondensator wird ständig geladen und entladen. Um diese Eigenschaft zu beschreiben sagen wir, der Kondensator hat einen Wechselstromwiderstand und nennen diesen Widerstand kapazitiver Blindwiderstand $X_C$.
 
-1. Wenn die Frequenz der Wechselspannung an einem Kondesator erhöht wird, dann fließt mehr Strom. Dies bedeutet, der kapazitive Blindwiderstand ist kleiner geworden. 
+1. Wenn die Frequenz der Wechselspannung an einem Kondesator erhöht wird, dann fliesst mehr Strom. Dies bedeutet, der kapazitive Blindwiderstand ist kleiner geworden. 
 2. Wenn die Kapazität des Kondensators erhöht wird, dann steigt auch der Strom, d.h. der Blindwiderstand wird auch kleiner.
 
 Daraus ergibt sich die Berechnungsformel (siehe Formelsammlung: Kapazitiver Blindwiderstand):
@@ -84,7 +84,7 @@ Bei der Frage AC108 muss die Kapazität aus dem kapazitiven Blindwiderstand $X_C
 
 Die vielfältigen Kondensatorarten unterscheiden sich auch hinsichtlich ihrer unerwünschten Verluste bei der Belastung durch Hochfrequenzströme. Die technische Beurteilung geschieht über den Begriff der Güte $Q$ (Quality) und dem sogenannten "Tangens delta" (kurz $\tan\delta$).
 
-Merke: Hohe Verluste ergeben eine niedrige Güte und damit ein großes $\tan\delta$.
+Merke: Hohe Verluste ergeben eine niedrige Güte und damit ein grosses $\tan\delta$.
 
 ---
 [photo:259:a_tan_delta:$\tan\delta$ verschiedener Kondensatorarten]
@@ -112,7 +112,7 @@ In linear geregelten Netzteilen und in Schaltnetzteilen müssen Elektrolytkonden
 | *MERKE: Kondensatooor, Strom eilt vooor!* | |
 | Formelsammlung: Kapazitiver Blindwiderstand| $X_C = \frac{1}{\omega \cdot C} = \frac{1}{2\pi \cdot f \cdot C}$|
 | Umgestellt nach C: | $C =\frac{1}{{2\pi \cdot f \cdot X_C}}$|
-| Hohe Kondensatorverluste bewirken: | niedrige Güte; großer $\tan\delta$; großer ESR|
+| Hohe Kondensatorverluste bewirken: | niedrige Güte; grosser $\tan\delta$; grosser ESR|
 [table:a_Kondensator_2_Zusammenfassung:Zusammenfassung kapazitiver Blindwiderstand und Güte]
 </margin>
 

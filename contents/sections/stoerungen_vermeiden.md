@@ -1,4 +1,4 @@
-Trotz aller Maßnahmen zur Vermeidung von unerwünschten Aussendungen und zur Sicherstellung der elektromagnetischen Verträglichkeit kann es zu Störungen oder störenden Beeinflussungen von elektronischen Geräten kommen. Diese können aus drei Gründen auftreten:
+Trotz aller Massnahmen zur Vermeidung von unerwünschten Aussendungen und zur Sicherstellung der elektromagnetischen Verträglichkeit kann es zu Störungen oder störenden Beeinflussungen von elektronischen Geräten kommen. Diese können aus drei Gründen auftreten:
 
 * durch unerwünschte Frequenzanteile, die nicht ausreichend unterdrückt werden
 * durch unzureichend abgeschirmte oder unzureichend geerdete Geräte 
@@ -7,7 +7,7 @@ Trotz aller Maßnahmen zur Vermeidung von unerwünschten Aussendungen und zur Si
 <indepth>
 Es wird zwischen Störungen und störenden Beeinflussungen unterschieden.
 
-Eine Störung liegt vor, wenn die Amateurfunkstation unerwünschte Frequenzanteile in einem Maße abstrahlt, dass die Grenzwerte überschritten werden und zu einer Störung führen. Ein Beispiel wäre eine Aussendung einer Oberschwingung von einem Kurzwellentransceiver im UKW-Rundfunkbereich.
+Eine Störung liegt vor, wenn die Amateurfunkstation unerwünschte Frequenzanteile in einem Masse abstrahlt, dass die Grenzwerte überschritten werden und zu einer Störung führen. Ein Beispiel wäre eine Aussendung einer Oberschwingung von einem Kurzwellentransceiver im UKW-Rundfunkbereich.
 
 [picture:745:stoerungen_vermeiden_oberschwingung:Störung des DVB-T2-Empfang eines Fernsehers durch die Oberschwingung einer Amateurfunkaussendung]
 
@@ -28,7 +28,7 @@ Bei störenden Beeinflussungen kommt es hingegen - obwohl die Grenzwerte für un
 * Einströmungen über Anschlussleitungen
 
 % TODO Editionsspezifisch anpassen:
-Diese Wege zu kennen, erleichtert die Analyse der störenden Beeinflussung und die nachfolgende Behebung. Mögliche Maßnahmen werden im Kurs für Klasse E behandelt.
+Diese Wege zu kennen, erleichtert die Analyse der störenden Beeinflussung und die nachfolgende Behebung. Mögliche Massnahmen werden im Kurs für Klasse E behandelt.
 
 [picture:744:stoerungen_vermeiden_einstrahlung:Einstrahlung über die Empfangsantenne]
 [picture:746:stoerungen_vermeiden_direkteinstrahlung:Direkteinstrahlung in ein Gerät]
@@ -53,23 +53,23 @@ Die Ermittlung der Ursache kann einige Zeit in Anspruch nehmen. Zur Wahrung des 
 
 Wenn bei der Überprüfung durch die Bundesnetzagentur herauskommt, dass die Probleme mit dem betroffenen Gerät durch die Amateurfunkaussendungen verursacht werden, gibt es drei mögliche Fälle zu unterscheiden.
 
-Im ersten Fall wird festgestellt, dass die Amateurfunkanlage nicht vorschriftsmäßig betrieben wird, beispielsweise weil zu starke unerwünschte Aussendungen stattfinden. In diesem Fall ist die Bundesnetzagentur berechtigt, kostenpflichtig eine Betriebseinschränkung anzuordnen. Das kann beispielsweise eine Begrenzung der Sendeleistung sein.
+Im ersten Fall wird festgestellt, dass die Amateurfunkanlage nicht vorschriftsmässig betrieben wird, beispielsweise weil zu starke unerwünschte Aussendungen stattfinden. In diesem Fall ist die Bundesnetzagentur berechtigt, kostenpflichtig eine Betriebseinschränkung anzuordnen. Das kann beispielsweise eine Begrenzung der Sendeleistung sein.
 
-Der zweite Fall stellt sich wie folgt dar: Die Amateurfunkstelle wird vorschriftsmäßig betrieben. Eine Messung der erzeugten Feldstärke am Ort des betroffenen Gerätes ergibt, dass die Feldstärke kleiner ist als die Feldstärke, die das betroffene Gerät im Rahmen der Störfestigkeit vertragen können muss.
+Der zweite Fall stellt sich wie folgt dar: Die Amateurfunkstelle wird vorschriftsmässig betrieben. Eine Messung der erzeugten Feldstärke am Ort des betroffenen Gerätes ergibt, dass die Feldstärke kleiner ist als die Feldstärke, die das betroffene Gerät im Rahmen der Störfestigkeit vertragen können muss.
 
 Die Störung wird also dadurch verursacht, dass das betroffene Gerät die vorgeschriebene Störfestigkeit nicht einhält. In diesem Fall liegt die Verantwortung zur Behebung der Störung alleine beim Betreiber des betroffenen Geräts. Der Funkamateur darf seinen Sendebetrieb unverändert fortsetzen.
 
 [question:VE305]
 [question:VE306]
 
-Im dritten Fall wird die Amateurfunkstelle ebenfalls vorschriftsmäßig betrieben. Das betroffene Gerät hält jedoch die vorgeschriebene Störfestigkeit ein. Die Störung ergibt sich also daraus, dass die von der Amateurfunkstation am Ort des betroffenen Geräts erzeugte Feldstärke größer ist als der Grenzwert für die Störfestigkeit des betroffenen Geräts.
+Im dritten Fall wird die Amateurfunkstelle ebenfalls vorschriftsmässig betrieben. Das betroffene Gerät hält jedoch die vorgeschriebene Störfestigkeit ein. Die Störung ergibt sich also daraus, dass die von der Amateurfunkstation am Ort des betroffenen Geräts erzeugte Feldstärke grösser ist als der Grenzwert für die Störfestigkeit des betroffenen Geräts.
 
 ---
 
-Das bedeutet aber nicht automatisch, dass der Funkamateur seine Sendeleistung absenken muss. Es handelt sich vielmehr um einen Konfliktfall, da sowohl die Amateurfunkstation als auch das betroffene Gerät vorschriftsmäßig betrieben werden. In diesen Fällen ist die Bundesnetzagentur befugt, eine Lösung *in Zusammenarbeit mit allen Beteiligten* herzustellen.
+Das bedeutet aber nicht automatisch, dass der Funkamateur seine Sendeleistung absenken muss. Es handelt sich vielmehr um einen Konfliktfall, da sowohl die Amateurfunkstation als auch das betroffene Gerät vorschriftsmässig betrieben werden. In diesen Fällen ist die Bundesnetzagentur befugt, eine Lösung *in Zusammenarbeit mit allen Beteiligten* herzustellen.
 
 <attention>
-Die Bundesnetzagentur ist unter den folgenden Umständen - trotz vorschriftsmäßigem Betrieb einer Amateurfunkanlage - befugt, Maßnahmen auch ohne Zusammenarbeit mit allen Beteiligten anzuordnen:
+Die Bundesnetzagentur ist unter den folgenden Umständen - trotz vorschriftsmässigem Betrieb einer Amateurfunkanlage - befugt, Massnahmen auch ohne Zusammenarbeit mit allen Beteiligten anzuordnen:
 * zum Schutz von Empfangs- und Sendegeräten, die Sicherheitszwecken dienen
 * zum Schutz öffentlicher Telekommunikationsnetze, also beispielsweise dem Telefonnetz
 * zum Schutz von Leib und Leben einer Person oder Sachen von bedeutendem Wert

@@ -1,6 +1,6 @@
-Mit dem Wissen über Reihen- und Parallelschaltungen können wir nun auch komplexere Widerstandsnetzwerke analysieren. Die folgenden Aufgaben dienen ausschließlich der Übung in der Analyse und Berechnung solcher Widerstandsschaltungen und haben in der Praxis – zumindest in der hier dargestellten Form – kaum Bedeutung.
+Mit dem Wissen über Reihen- und Parallelschaltungen können wir nun auch komplexere Widerstandsnetzwerke analysieren. Die folgenden Aufgaben dienen ausschliesslich der Übung in der Analyse und Berechnung solcher Widerstandsschaltungen und haben in der Praxis – zumindest in der hier dargestellten Form – kaum Bedeutung.
 
-Dennoch lassen sich diese Aufgaben sehr einfach systematisch lösen, indem zunächst eindeutig erkennbare Reihen- oder Parallelschaltungen schrittweise zu einem Gesamtwiderstand zusammengefasst werden. Die Widerstandswerte sind dabei bewusst so gewählt, dass sich die Lösung ohne Taschenrechner vollständig im Kopf ermitteln lässt. Man muss lediglich wissen, dass sich bei zwei gleich großen Widerständen, die parallel geschaltet sind, der Gesamtwiderstand halbiert.
+Dennoch lassen sich diese Aufgaben sehr einfach systematisch lösen, indem zunächst eindeutig erkennbare Reihen- oder Parallelschaltungen schrittweise zu einem Gesamtwiderstand zusammengefasst werden. Die Widerstandswerte sind dabei bewusst so gewählt, dass sich die Lösung ohne Taschenrechner vollständig im Kopf ermitteln lässt. Man muss lediglich wissen, dass sich bei zwei gleich grossen Widerständen, die parallel geschaltet sind, der Gesamtwiderstand halbiert.
 
 [question:ED115]
 

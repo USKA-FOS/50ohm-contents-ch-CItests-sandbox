@@ -11,4 +11,4 @@ Dieses Phänomen ist auch aus der Morsetelegrafie bekannt: Es entstehen sogenann
 [question:AJ220]
 [question:AE214]
 
-Darüber hinaus spielt für die Bandbreite auch die Symbolrate eine Rolle: Je häufiger zwischen verschiedenen Symbolen umgeschaltet wird, um so größer ist die Bandbreite.
+Darüber hinaus spielt für die Bandbreite auch die Symbolrate eine Rolle: Je häufiger zwischen verschiedenen Symbolen umgeschaltet wird, um so grösser ist die Bandbreite.

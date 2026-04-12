@@ -1,4 +1,4 @@
-Ein Schaltnetzteil (engl. switched-mode power supply) eine Wechselspannung in eine stabilisierte Gleichspannung um, indem es die Eingangsspannung gleichrichtet und danach sehr schnell ein- und ausschaltet, diese so effizient auf die gewünschte Spannung transformiert und anschließend glättet. Wie das im Detail funktioniert werden wir uns in der Klasse A genauer anschauen. 
+Ein Schaltnetzteil (engl. switched-mode power supply) eine Wechselspannung in eine stabilisierte Gleichspannung um, indem es die Eingangsspannung gleichrichtet und danach sehr schnell ein- und ausschaltet, diese so effizient auf die gewünschte Spannung transformiert und anschliessend glättet. Wie das im Detail funktioniert werden wir uns in der Klasse A genauer anschauen. 
 
 <margin>
 [photo:308:e_Ferritkerntrafo im Schaltnetzteils:Innenansicht eines Schaltnetzteils für $\qty{13,8}{\volt}$ und $\qty{35}{\ampere}$ mit einem kleinen Ferritkernübertrager zwischen den beiden Kühlkörpern, Gewicht $\qty{2}{\kilo\gram}$]
@@ -15,7 +15,7 @@ Das Schaltnetzteil mehrere positive Eigenschaften gegen über einem linear gereg
 
 Aber durch die hohen Frequenzen ergeben sich auch negative Eigenschaften:
 
-* Hochfrequente Störungen, durch den Schaltbetrieb mit hohen Frequenzen sind Maßnahmen zur Verbesserung der EMV notwendig
+* Hochfrequente Störungen, durch den Schaltbetrieb mit hohen Frequenzen sind Massnahmen zur Verbesserung der EMV notwendig
 * Komplexe Schaltung, mehr Bauelemente notwendig, höhere Ausfallwahrscheinlichkeit
 
 [question:ED303]

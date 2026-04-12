@@ -1,4 +1,4 @@
-Viele digitale Modulationsverfahren verwenden mehr als zwei Symbole. Anstelle von nur zwei Amplituden (klein und groß) funktioniert Amplitudenumtastung auch mit vier oder noch mehr unterschiedlichen Amplituden, also beispielsweise $\qty{25}{\percent}$, $\qty{50}{\percent}$, $\qty{75}{\percent}$, $\qty{100}{\percent}$ des Maximums. So lassen sich zwei oder mehr Bits zu einem Symbol zusammenfassen und gleichzeitig übertragen.
+Viele digitale Modulationsverfahren verwenden mehr als zwei Symbole. Anstelle von nur zwei Amplituden (klein und gross) funktioniert Amplitudenumtastung auch mit vier oder noch mehr unterschiedlichen Amplituden, also beispielsweise $\qty{25}{\percent}$, $\qty{50}{\percent}$, $\qty{75}{\percent}$, $\qty{100}{\percent}$ des Maximums. So lassen sich zwei oder mehr Bits zu einem Symbol zusammenfassen und gleichzeitig übertragen.
 
 [picture:701:4ask:Quaternäre Amplitudenumtastung (Quaternary Amplitude-shift Keying)]
 
@@ -18,7 +18,7 @@ $C$ Datenübertragungsrate in $\unit{\bit\per\second}$
 
 $R_\mathrm{S}$ Symbolrate in $\unit{\baud}$
 
-$n$ Symbolgröße in $\unit{\bit\per\text{Symbol}}$
+$n$ Symbolgrösse in $\unit{\bit\per\text{Symbol}}$
 
 [question:AE405]
 [question:AE406]

@@ -5,7 +5,7 @@ Wenn man einen Teil eines Dipols senkrecht nach oben und den anderen parallel zu
 </margin>
 
 <indepth>
-Auch wenn der senkrechte Teil von Vertikalantennen wie der Up- and Outer-Antenne als *Strahler* bezeichnet wird, bedeutet das nicht, dass er das einzige Teil der Antenne ist, das die Funkwelle abstrahlt. Vielmehr wird die Funkwelle von Gesamtgebilde bestehend aus Strahler und Gegengewicht abgegeben. Nur bei bestimmten Bauformen wird abgestrahlte Welle fast ausschließlich vom Strahler bestimmt, beispielsweise bei einer Groundplane mit horizontal und exakt symmetrisch angeordneten Gegengewichten. Doch auch bei diesen Antennen bildet sich an den Gegengewichten unter Umständen ein sogenanntes "Nahfeld" aus, welches hohe Feldstärken aufweisen kann. Aus diesem Grunde sind Radials bei der Betrachtung des Sicherheitsabstands stets mit zu berücksichtigen.
+Auch wenn der senkrechte Teil von Vertikalantennen wie der Up- and Outer-Antenne als *Strahler* bezeichnet wird, bedeutet das nicht, dass er das einzige Teil der Antenne ist, das die Funkwelle abstrahlt. Vielmehr wird die Funkwelle von Gesamtgebilde bestehend aus Strahler und Gegengewicht abgegeben. Nur bei bestimmten Bauformen wird abgestrahlte Welle fast ausschliesslich vom Strahler bestimmt, beispielsweise bei einer Groundplane mit horizontal und exakt symmetrisch angeordneten Gegengewichten. Doch auch bei diesen Antennen bildet sich an den Gegengewichten unter Umständen ein sogenanntes "Nahfeld" aus, welches hohe Feldstärken aufweisen kann. Aus diesem Grunde sind Radials bei der Betrachtung des Sicherheitsabstands stets mit zu berücksichtigen.
 </indepth>
 
 Die Up- and Outer-Antenne gehört zu den sogenannten Vertikalantennen, da der Strahler senkrecht (vertikal) angeordnet ist. Wie beim Dipol beträgt die Länge beider Teile der Up- and Outer-Antenne zusammen $\lambda{} / 2$, also eine halbe Wellenlänge. Der Strahler und das Gegengewicht sind demzufolge also jeweils $\lambda{} / 4$ lang.
@@ -36,7 +36,7 @@ Wie bei der Up- and Outer-Antenne ist der vertikale Strahler der Marconi-Antenne
 [question:NG104]
 [question:NG102]
 
-Sowohl die Groundplane- als auch die Marconi-Antenne strahlen gleichmäßig in alle Himmelsrichtungen. Deshalb nennt man diese beiden Antennen auch "Rundstrahler". Im Gegensatz zu Richtantennen eignen sich Rundstrahler, um Funkamateure oder Relaisfunkstellen in unterschiedlichen Richtungen im Umkreis zu erreichen. Eine Richtantenne müsste immer wieder neu ausgerichtet werden.
+Sowohl die Groundplane- als auch die Marconi-Antenne strahlen gleichmässig in alle Himmelsrichtungen. Deshalb nennt man diese beiden Antennen auch "Rundstrahler". Im Gegensatz zu Richtantennen eignen sich Rundstrahler, um Funkamateure oder Relaisfunkstellen in unterschiedlichen Richtungen im Umkreis zu erreichen. Eine Richtantenne müsste immer wieder neu ausgerichtet werden.
 
 Damit ein Rundstrahler gut funktionert, sollte er möglichst hoch und rundherum frei positioniert werden. Die optimale Position ist daher auf einem hohem Mast, der umgebende Gebäude und Bäume überragt, oder dem Hausdach.
 
@@ -47,6 +47,6 @@ Damit ein Rundstrahler gut funktionert, sollte er möglichst hoch und rundherum 
 [question:NG111]
 
 <indepth>
-Die in der falschen Antwort erwähnten *Magnetfußantennen* werden übrigens gerne für mobilen Funkbetrieb auf einem Autodach betrieben. Das Autodach bildet dann - ähnlich der Erde bei der Marconi-Antenne - das Gegengewicht. Auf den Funkbetrieb aus Kraftfahrzeugen werden wir im Kapitel Einbau Kfz noch näher eingehen.
+Die in der falschen Antwort erwähnten *Magnetfussantennen* werden übrigens gerne für mobilen Funkbetrieb auf einem Autodach betrieben. Das Autodach bildet dann - ähnlich der Erde bei der Marconi-Antenne - das Gegengewicht. Auf den Funkbetrieb aus Kraftfahrzeugen werden wir im Kapitel Einbau Kfz noch näher eingehen.
 </indepth>
 

@@ -1,6 +1,6 @@
-In dem Gesetz mit dem sperrigen Namen Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG), ehemals TTDSG, werden im § 5 auch die Funkamateure angesprochen. In dem Paragrafen geht es um das Abhörverbot und die Geheimhaltungspflicht für alle Betreiber von Funkanlagen. Nur Nachrichten, die *an die Allgemeinheit, einen unbestimmten Personenkreis oder an Funkamateure* gerichtet sind, dürfen empfangen werden. Alles andere ist verboten. Dazu gehört bereits der Empfang selbst, aber auch die Verwertung und Weitergabe von Nachrichten, die nicht für die Allgemeinheit, für einen unbestimmten Personenkreis oder für Funkamateure bestimmt sind, verstoßen gegen das TDDDG.
+In dem Gesetz mit dem sperrigen Namen Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG), ehemals TTDSG, werden im § 5 auch die Funkamateure angesprochen. In dem Paragrafen geht es um das Abhörverbot und die Geheimhaltungspflicht für alle Betreiber von Funkanlagen. Nur Nachrichten, die *an die Allgemeinheit, einen unbestimmten Personenkreis oder an Funkamateure* gerichtet sind, dürfen empfangen werden. Alles andere ist verboten. Dazu gehört bereits der Empfang selbst, aber auch die Verwertung und Weitergabe von Nachrichten, die nicht für die Allgemeinheit, für einen unbestimmten Personenkreis oder für Funkamateure bestimmt sind, verstossen gegen das TDDDG.
 
-Sollte man versehentlich solche Nachrichten empfangen, muss man den Inhalt dieser Nachricht und sogar die Tatsache des Empfangs für sich behalten. Für immer und ewig! Die einzigen Ausnahmen sind Not- und Katastrophenfälle. Formal ist dies eine sogenannte Rechtsgüterabwägung: Was ist wichtiger, der Rechtsverstoß der Nachrichtenweitergabe oder die Hilfe in einem Notfall?
+Sollte man versehentlich solche Nachrichten empfangen, muss man den Inhalt dieser Nachricht und sogar die Tatsache des Empfangs für sich behalten. Für immer und ewig! Die einzigen Ausnahmen sind Not- und Katastrophenfälle. Formal ist dies eine sogenannte Rechtsgüterabwägung: Was ist wichtiger, der Rechtsverstoss der Nachrichtenweitergabe oder die Hilfe in einem Notfall?
 
 [question:VE202]
 
@@ -10,7 +10,7 @@ Der Besitz und die Herstellung von Geräten, die einen anderen Gegenstand vortä
 
 [question:VE204]
 
-Das Abhören des nicht öffentlich gesprochenen Wortes ist ein *Straftatbestand*. Wer gegen das Abhörverbot verstößt, muss mit einer Freiheitsstrafe von bis zu zwei Jahren rechnen. Schauen wir uns dazu die Strafvorschriften des § 27 des TDDDG an:
+Das Abhören des nicht öffentlich gesprochenen Wortes ist ein *Straftatbestand*. Wer gegen das Abhörverbot verstösst, muss mit einer Freiheitsstrafe von bis zu zwei Jahren rechnen. Schauen wir uns dazu die Strafvorschriften des § 27 des TDDDG an:
 
 " (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer
 1. entgegen § 5 Absatz 1 eine Nachricht abhört oder in vergleichbarer Weise zur Kenntnis nimmt,

@@ -1,4 +1,4 @@
-Das dritte passive Bauelement in der Funktechnik – nach Widerstand und Kondensator – ist die *Spule*. Verschiedene Spulenarten und Ihre Schaltsymbole sind in den Abbildungen [ref:e_spulen] und [ref:e_schaltsymbole_spulen] dargestellt. Wie wir bereits im Kapitel zum magnetischen Feld gelernt haben, wird in einer Spule ein Magnetfeld erzeugt, sobald ein elektrischer Strom durch die Spule fließt. Die einfachste Bauform einer Spule ist die sogenannte gerade *Zylinderspule*, wie sie in Abbildung [ref:e_spule_Aufbau] gezeigt wird.
+Das dritte passive Bauelement in der Funktechnik – nach Widerstand und Kondensator – ist die *Spule*. Verschiedene Spulenarten und Ihre Schaltsymbole sind in den Abbildungen [ref:e_spulen] und [ref:e_schaltsymbole_spulen] dargestellt. Wie wir bereits im Kapitel zum magnetischen Feld gelernt haben, wird in einer Spule ein Magnetfeld erzeugt, sobald ein elektrischer Strom durch die Spule fliesst. Die einfachste Bauform einer Spule ist die sogenannte gerade *Zylinderspule*, wie sie in Abbildung [ref:e_spule_Aufbau] gezeigt wird.
 
 <margin>
 [photo:207:e_spulen:Verschiedene Bauformen von Spulen]
@@ -12,7 +12,7 @@ Eine Zylinderspule hat eine sogenannte Induktivität $L$, welche sich nach folge
 
 $L = \frac{\mu_0 \cdot \mu_r \cdot N^2 \cdot A_S}{l}$
 
-Betrachtet man den Aufbau einer Spule, dann findet man also folgende Größen:
+Betrachtet man den Aufbau einer Spule, dann findet man also folgende Grössen:
 1. $\mu_0$ ist die magnetische Feldkonstante, eine Naturkonstante mit dem Wert $\qty{1,2566e-6}{\henry\per\meter}$. Den Wert kann man immer in der Formelsammlung nachschlagen.
 2. $\mu_r$ ist eine Materialkonstante, denn der Spulenkern kann aus einem speziellen Material bestehen, das magnetische Felder verstärken kann.
 3. Die Anzahl $N$ der Spulenwindungen aus Kupferlackdraht oder versilbertem Kupferdraht.
@@ -35,7 +35,7 @@ Mithilfe der Formel und den folgenden qualitativen Zusammenhängen kann man bere
 
 1. Die Induktivität steigt quadratisch mit der Windungszahl. Wenn die Windungszahl verdoppelt wird, dann steigt die Induktivität auf das Vierfache.
 2. Wenn die Spule zusammengedrückt wird, dann steigt die Induktivität $L$.
-3. Wenn die Querschnittsfläche vergrößert wird, dann steigt die Induktivität $L$.
+3. Wenn die Querschnittsfläche vergrössert wird, dann steigt die Induktivität $L$.
 4. Wenn das Magnetfeld in der Spule durch ein geeignetes, magnetisch leitfähiges Material (z.B. Eisen) verstärkt wird, dann steigt die Induktivität $L$.
 
 [question:EC305]
@@ -56,10 +56,10 @@ Wenn die Windungszahl verringert wird, dann sinkt die Induktivität, aber selbst
 
 ---
 
-Als *ferromagnetisch* bezeichnen wir eine bestimmte Klasse an Materialien, die auf atomarer Ebene kleine Elementarmagnete enthalten, die sich unter dem Einfluss eines äußeren magnetischen Felds ausrichten und so die *magnetische Flussdichte* stark erhöhen (mit der wir uns an dieser Stelle aber noch nicht beschäftigen). Unter den reinen chemischen Elementen sind nur Eisen, Kobalt und Nickel ferromagnetisch.
+Als *ferromagnetisch* bezeichnen wir eine bestimmte Klasse an Materialien, die auf atomarer Ebene kleine Elementarmagnete enthalten, die sich unter dem Einfluss eines äusseren magnetischen Felds ausrichten und so die *magnetische Flussdichte* stark erhöhen (mit der wir uns an dieser Stelle aber noch nicht beschäftigen). Unter den reinen chemischen Elementen sind nur Eisen, Kobalt und Nickel ferromagnetisch.
 
 <indepth>
-$\mu_r$, man sagt auch relative Permeabilität, ist bei ferromagnetischen Materialien sehr groß (bei Eisen zum Beispiel im Bereich von $300\dots\num{10000}$).
+$\mu_r$, man sagt auch relative Permeabilität, ist bei ferromagnetischen Materialien sehr gross (bei Eisen zum Beispiel im Bereich von $300\dots\num{10000}$).
 </indepth>
 
 
@@ -77,7 +77,7 @@ Die in der folgenden Frage als richtig betrachtete Antwort ist die, dass das Mag
 
 Schauen wir uns, wie beim Kondensator auch, zuerst das Gleichstromverhalten der Spule an: Die Spule wird über einen Vorwiderstand an eine Gleichspannungsquelle angeschlossen, wie in Abbildung [ref:e_spule_einschalten] dargestellt. Im Moment des Einschaltens wird der Stromanstieg zunächst verzögert, sodass der Strom nicht sprunghaft, sondern nur allmählich bis zu seinem Maximalwert ansteigt.
 
-Ursache hierfür ist die Lenzsche Regel: Beim Anstieg des Stroms erzeugt die Spule eine Selbstinduktionsspannung, die der Stromänderung – und damit der Ursache – entgegenwirkt. Dadurch wird der Stromanstieg begrenzt. Da zu Beginn noch kein Strom fließt, fällt zunächst nahezu die gesamte angelegte Spannung an der Spule ab. Mit zunehmendem Strom nimmt diese Induktionsspannung ab, während der Strom weiter ansteigt.
+Ursache hierfür ist die Lenzsche Regel: Beim Anstieg des Stroms erzeugt die Spule eine Selbstinduktionsspannung, die der Stromänderung – und damit der Ursache – entgegenwirkt. Dadurch wird der Stromanstieg begrenzt. Da zu Beginn noch kein Strom fliesst, fällt zunächst nahezu die gesamte angelegte Spannung an der Spule ab. Mit zunehmendem Strom nimmt diese Induktionsspannung ab, während der Strom weiter ansteigt.
 
 Ist der stationäre Zustand erreicht, verhält sich die Spule bei Gleichstrom näherungsweise wie ein Stück Draht. Die an ihr abfallende Spannung ist dann praktisch null. Der zeitliche Verlauf der Spannung an der Spule ist in Abbildung [ref:e_spule_einschalten_spannung] dargestellt.
 
@@ -104,7 +104,7 @@ Man kann deshalb Spulen auch zur Verzögerung benutzen. In der folgenden Frage, 
 
 Ähnlich wie beim Kondensator verhält sich eine Spule unterschiedlich, wenn sie an Gleichspannung oder an Wechselspannung angeschlossen wird. In der Funktechnik ist vor allem das Verhalten an Wechselspannung wichtig. Deshalb schauen wir uns nun das Wechselstromverhalten an. 
 
-Die Spule zeigt, ähnlich wie ein Kondensator, einen Wechselstromwiderstand $X_{\textrm{L}}$, das heißt, obwohl der Spulendraht nur einen sehr kleinen ohmschen Widerstand (Leiterwiderstand) besitzt, fließt ein Strom, der aber mit steigender Frequenz der Wechselspannung kleiner wird:
+Die Spule zeigt, ähnlich wie ein Kondensator, einen Wechselstromwiderstand $X_{\textrm{L}}$, das heisst, obwohl der Spulendraht nur einen sehr kleinen ohmschen Widerstand (Leiterwiderstand) besitzt, fliesst ein Strom, der aber mit steigender Frequenz der Wechselspannung kleiner wird:
 
 $X_{L} = \omega \cdot L = 2\cdot\pi\cdot f \cdot L$
 

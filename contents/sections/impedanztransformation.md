@@ -1,8 +1,8 @@
-Ist der Wellenwiderstand eines Speisekabels nicht identisch mit dem Widerstand der Last, so kann neben der auftretenden Stehwelle auch eine Impedanztransformation erzielt werden. Das heißt, dass eine Signalquelle an einem Ende des Kabels einen anderen Widerstand "sieht" als am anderen Ende des Kabels angeschlossen ist.
+Ist der Wellenwiderstand eines Speisekabels nicht identisch mit dem Widerstand der Last, so kann neben der auftretenden Stehwelle auch eine Impedanztransformation erzielt werden. Das heisst, dass eine Signalquelle an einem Ende des Kabels einen anderen Widerstand "sieht" als am anderen Ende des Kabels angeschlossen ist.
 
 Insbesondere zwei Fälle sind von Bedeutung: Die $\lambda/4$-Leitung zur gezielten Impedanztransformation sowie $\lambda/2$-Leitungen und Vielfache davon, die unabhängig vom Wellenwiderstand keine Impedanztransformation vornehmen.
 
-Bei einer Leitung, deren elektrische Länge $\lambda/4$ beträgt, werden Wirkwiderstände, die kleiner als der Wellenwiderstand der Leitung sind, zu Widerständen die größer als der Wellenwiderstand der Leitung sind. Umgekehrt werden Wirkwiderstände, die größer als der Wellenwiderstand der Leitung sind, zu Widerständen die kleiner als der Wellenwiderstand sind. Diesen Umstand macht man sich z.B. zunutze, um  hochohmige Antennen auf ein niederohmiges System ($\qty{50}{\ohm}$) anzupassen.
+Bei einer Leitung, deren elektrische Länge $\lambda/4$ beträgt, werden Wirkwiderstände, die kleiner als der Wellenwiderstand der Leitung sind, zu Widerständen die grösser als der Wellenwiderstand der Leitung sind. Umgekehrt werden Wirkwiderstände, die grösser als der Wellenwiderstand der Leitung sind, zu Widerständen die kleiner als der Wellenwiderstand sind. Diesen Umstand macht man sich z.B. zunutze, um  hochohmige Antennen auf ein niederohmiges System ($\qty{50}{\ohm}$) anzupassen.
 
 Bei einer Leitungslänge von $\lambda/2$ hebt sich der Effekt jedoch wieder auf, so dass keine Impedanztransformation auftritt.
 

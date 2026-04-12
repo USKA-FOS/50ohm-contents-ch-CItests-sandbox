@@ -14,7 +14,7 @@ Da eine Speiseleitung Verluste aufweist, und daher auch das Stehwellenverhältni
 
 ---
 
-Möchten wir messen, wie gut eine Antenne angepasst ist, dann sollten wir das Stehwellenmessgerät unmittelbar vor der Antenne anschließen (vgl. Abbildung [ref:swr_meter_antenne]).
+Möchten wir messen, wie gut eine Antenne angepasst ist, dann sollten wir das Stehwellenmessgerät unmittelbar vor der Antenne anschliessen (vgl. Abbildung [ref:swr_meter_antenne]).
 
 <margin>
 [picture:1051:swr_meter_antenne:Position für das SWR-Meter zur Ermittlung der Antennenanpassung]
@@ -24,7 +24,7 @@ Möchten wir messen, wie gut eine Antenne angepasst ist, dann sollten wir das St
 
 ---
 
-Interessiert uns hingegen, wie gut ein Sender auf die gesamte Antennenanlage (einschließlich ggf. vorhandener Filter und/oder Antennentuner) angepasst ist, dann sollten wir das Stehwellenmessgerät unmittelbar hinter dem Sender anschließen (vgl. Abbildung [ref:swr_meter_anlage]).
+Interessiert uns hingegen, wie gut ein Sender auf die gesamte Antennenanlage (einschliesslich ggf. vorhandener Filter und/oder Antennentuner) angepasst ist, dann sollten wir das Stehwellenmessgerät unmittelbar hinter dem Sender anschliessen (vgl. Abbildung [ref:swr_meter_anlage]).
 
 <margin>
 [picture:1052:swr_meter_anlage:Position für das SWR-Meter zur Ermittlung der Anpassung der gesamten Antennenanlage]

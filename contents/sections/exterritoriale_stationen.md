@@ -1,4 +1,4 @@
-Wird eine deutsche Amateurfunkstelle außerhalb des Hoheitsgebietes der Bundesrepublik Deutschlands betrieben und kein anderes Land hat an diesem Standort ein Hoheitsgebiet, so spricht man von einer "exterritorialen Station". Solche Stationen bekommen ein Rufzeichen aus dem Block DP0AA bis DP2ZZZ zugewiesen.
+Wird eine deutsche Amateurfunkstelle ausserhalb des Hoheitsgebietes der Bundesrepublik Deutschlands betrieben und kein anderes Land hat an diesem Standort ein Hoheitsgebiet, so spricht man von einer "exterritorialen Station". Solche Stationen bekommen ein Rufzeichen aus dem Block DP0AA bis DP2ZZZ zugewiesen.
 
 Beispiele für exterritoriale Stationen sind die International Raumstation (ISS), die Neumayer III-Forschungsstation in der Antarktis und das Forschungsschiff Polarstern mit den Rufzeichen DP0ISS, DP0GVN und DP0POL.
 

@@ -6,7 +6,7 @@ Diese stellen wir nun nach $f$ um, indem wir beide Seiten durch $X_\text{C}$ tei
 $\frac{X_\text{C} \cdot f}{X_\text{C}} = \frac{f}{2 \pi \cdot f \cdot C \cdot X_\text{C}}$
 $\frac{X_\text{C}}{X_\text{C}}$ sowie $\frac{f}{f}$ kürzen sich, und wir erhalten somit die fertig umgestellte Formel: 
 $f = \frac{1}{2 \pi \cdot C \cdot X_\text{C}}$
-Bei der Grenzfrequenz ist $X_\text{C}$ genauso groß wie $R$.
+Bei der Grenzfrequenz ist $X_\text{C}$ genauso gross wie $R$.
 Somit kann man für $X_\text{C}$ den gegebenen Widerstandswert $R$ einsetzen und für $C$ den gegebenen Kondensatorwert einsetzen.
 
 Hierdurch ergibt sich folgende Formel für die Berechnung der Grenzfrequenz von RC-Gliedern:
@@ -59,7 +59,7 @@ $\begin{split}f &= \frac{1}{2 \pi \cdot 4,7 \cdot \qty{10^3}{\ohm} \cdot 6,8 \cd
 Schaltet man eine Spule und einen Kondensator entweder seriell oder parallel, entsteht ein Schwingkreis. Wir erinnern uns: Bei hohen Frequenzen hat die Spule einen hohen Widerstand. Beim Kondensator verhält es sich sich genau umgekehrt, so dass eine niedrige Frequenz zu einem hohen Kondensatorwiderstand führt. Bei der Frequenz, bei der Spule und Kondensator den gleichen Widerstand haben, handelt es sich um die Resonanzfrequenz - unabhängig davon, ob es sich um einen Serien- oder Parallelschwingkreis handelt. 
 [question:AD206] 
 Je nachdem, ob die Schaltung nun als Serien- oder Parallelschwingkreis ausgeführt wird, ändert sich aber nun das Filterverhalten bei der Resonanzfrequenz. 
-Bei einem **Parallelschwingkreis** lässt sich durch die Eigenresonanz im Schwingkreis nur wenig Energie zuführen - und zwar nur soweit, wie es im Schwingkreis Verluste gibt (z.B. durch den Drahtwiderstand der Spule). Lässt man die Verluste jedoch außer Acht, findet im Schwingkreis eine kontinuierliche Umladung zwischen größtmöglichem elektrischen Feld im Kondensator und dem größtmöglichen magnetischen Feld in der Spule statt. Theoretisch ist im verlustfreien Schwingkreis im Resonanzfall die Impedanz also unendlich groß. 
+Bei einem **Parallelschwingkreis** lässt sich durch die Eigenresonanz im Schwingkreis nur wenig Energie zuführen - und zwar nur soweit, wie es im Schwingkreis Verluste gibt (z.B. durch den Drahtwiderstand der Spule). Lässt man die Verluste jedoch ausser Acht, findet im Schwingkreis eine kontinuierliche Umladung zwischen grösstmöglichem elektrischen Feld im Kondensator und dem grösstmöglichen magnetischen Feld in der Spule statt. Theoretisch ist im verlustfreien Schwingkreis im Resonanzfall die Impedanz also unendlich gross. 
 Abseits dieser Resonanzfrequenz bestimmt das Bauteil mit dem geringeren Widerstand den gesamten Widerstand (Impedanz) des Schwingkreises, da beide Bauteile parallel liegen. So ist bei hohen Frequenzen der Kondensator niederohmiger als die Spule. Bei niedrigen Frequenzen ist die Spule niederohmiger als der Kondensator. Bei Frequenzen über und unter der Resonanzfrequenz hat ein Parallelschwingkreis also einen geringeren Widerstand (Impedanz). 
 
 Bei einem **Serienschwingkreis** handelt es sich um einen geöffneten Schwingkreis, bei dem die Energie zur Umladung zwischen Kondensator und Spule immer durch Ein- und Ausgang hindurchmuss. Bei der Resonanzfrequenz schwingt der Serienschwingkreis also immer "durch" den Frequenzerzeuger und eine evtl. anhängende Last. Der Widerstand (Impedanz) ist bei der Resonanzfrequenz also sehr gering. Theoretisch und ohne Berücksichtigung von Verlusten z.B. durch den Drahtwiderstand der Spule liegt dieser sogar bei $\qty{0}{\ohm}$. Das liegt unter anderem auch daran, dass sich durch die Phasenlagen zwischen Spule und Kondensator die Spannungen über die einzelnen Komponenten gegenseitig aufheben.
@@ -72,7 +72,7 @@ Bei Parallel- und Serienschwingkreisen gilt im Resonanzfall folgender Zusammenha
 
 $X_\text{C} = X_\text{L}$
 
-Dies bedeutet, dass im Resonanzfall die Widerstände (Impedanzen) beider Bauteile (Spule und Kondensator) genau gleich groß sind. Ohmsche Widerstände und Verluste haben keinen Einfluss auf die Resonanzfrequenz und können daher bei der Berechnung der Resonanzfrequenz von Schwingkreisen vernachlässigt werden.
+Dies bedeutet, dass im Resonanzfall die Widerstände (Impedanzen) beider Bauteile (Spule und Kondensator) genau gleich gross sind. Ohmsche Widerstände und Verluste haben keinen Einfluss auf die Resonanzfrequenz und können daher bei der Berechnung der Resonanzfrequenz von Schwingkreisen vernachlässigt werden.
 
 <tip>
 Ohmsche Widerstände in Parallel- und Serienschwingkreisen wirken sich jedoch auf die Güte ($Q$) und damit auf die Bandbreite ($B$) des Schwingkreises aus - hierauf werden wir später noch genauer eingehen.
@@ -147,9 +147,9 @@ $\begin{split}f &= \frac{1}{2 \pi \cdot \sqrt{L \cdot C}}\\\text{Mit eingesetzte
 ---
 
 Um die Resonanzfrequenz von Schwingkreisen zu verändern, kann entweder die Induktivität der Spule oder die Kapazität des Kondensators im Schwingkreis verändert werden.
-Wie aus der Thomsonschen Schwingkreisformel ersichtlich befinden sich die Größen $L$ und $C$ jeweils unter dem Bruchstrich. Hierdurch bewirkt eine Vergrößerung von $L$ oder $C$ eine Verringerung der Schwingkreisfrequenz, da der Nenner der Formel größer wird. Die Quadratwurzel hat auf diesen Zusammenhang keinen Einfluss, da die Wurzel aus einer größeren Zahl ebenfalls eine größere Zahl ist. Der Zusammenhang hierbei ist jedoch nicht linear.
-Bei einer Verkleinerung von $L$ und $C$ gilt umgekehrt, dass die Resonanzfrequenz des Schwingkreises sich vergrößert.
-Die Induktivität einer Spule kann durch Vergrößern der Windungszahl, durch Zusammenschieben oder Einführen eines Ferritkerns vergrößert werden.
+Wie aus der Thomsonschen Schwingkreisformel ersichtlich befinden sich die Grössen $L$ und $C$ jeweils unter dem Bruchstrich. Hierdurch bewirkt eine Vergrösserung von $L$ oder $C$ eine Verringerung der Schwingkreisfrequenz, da der Nenner der Formel grösser wird. Die Quadratwurzel hat auf diesen Zusammenhang keinen Einfluss, da die Wurzel aus einer grösseren Zahl ebenfalls eine grössere Zahl ist. Der Zusammenhang hierbei ist jedoch nicht linear.
+Bei einer Verkleinerung von $L$ und $C$ gilt umgekehrt, dass die Resonanzfrequenz des Schwingkreises sich vergrössert.
+Die Induktivität einer Spule kann durch Vergrössern der Windungszahl, durch Zusammenschieben oder Einführen eines Ferritkerns vergrössert werden.
 Umgekehrt kann die Induktivität einer Spule verringert werden durch Verringerung der Windungszahl, durch Auseinanderziehen oder durch Entfernen eines Ferritkerns oder durch Einführen eines Kupferkerns.
 Die Kapazität von Kondensatoren kann durch Austausch oder die Verwendung von Trimm- oder Drehkondensatoren beeinflusst werden.
 
@@ -159,7 +159,7 @@ Die Kapazität von Kondensatoren kann durch Austausch oder die Verwendung von Tr
 [question:AD216] 
 [question:AD217] 
 
-Oft ist es in Schaltungen erforderlich, die Resonanzfrequenz eines Schwingkreises durch eine Steuerspannung zu beeinflussen (z.B. bei einem VCO - Voltage Controlled Oscillator). Hierfür kann man z.B. eine Kapazitätsdiode verwenden, die in Sperrrichtung betrieben wird. Je höher die Gegenspannung der Diode wird, desto geringer wird deren Kapazität, welche durch die Größe der Grenzschicht (P-N-Übergang) bestimmt wird. Die Grenzschicht vergrößert sich bei Vergrößerung der angelegten Sperrspannung, wodurch sich die Kapazität verringert und damit die Frequenz des Schwingkreises gemäß Thomsonscher Schwingkreisformel steigt.
+Oft ist es in Schaltungen erforderlich, die Resonanzfrequenz eines Schwingkreises durch eine Steuerspannung zu beeinflussen (z.B. bei einem VCO - Voltage Controlled Oscillator). Hierfür kann man z.B. eine Kapazitätsdiode verwenden, die in Sperrrichtung betrieben wird. Je höher die Gegenspannung der Diode wird, desto geringer wird deren Kapazität, welche durch die Grösse der Grenzschicht (P-N-Übergang) bestimmt wird. Die Grenzschicht vergrössert sich bei Vergrösserung der angelegten Sperrspannung, wodurch sich die Kapazität verringert und damit die Frequenz des Schwingkreises gemäss Thomsonscher Schwingkreisformel steigt.
 Umgekehrt verkleinert sich die Grenzschicht der Kapazitätsdiode bei Verringerung der angelegten Sperrspannung, wodurch sich die Kapazität erhöht und damit die Frequenz des Schwingkreises kleiner wird.
 Die Sperrspannung kann z.B. durch ein Potentiometer oder einen Steuerkreis erzeugt werden.
 
@@ -185,7 +185,7 @@ Für Filter mit hoher Güte werden hierfür in der Regel Quarzfilter eingesetzt.
 [question:AD220]
 
 Die Güte eines Schwingkreises (Q-Faktor) wird durch das Verhältnis der Blindwiderstände von Kapazität und Induktivität im Resonanzfall zum ohmschen Verlustwiderstand bestimmt. Wenn ein Schwingkreis keinerlei ohmschen Verlustwiderstände enthalten würde, so wäre dessen Q-Faktor unendlich. Reale Bauteile sind jedoch immer verlustbehaftet. Induktivitäten haben immer einen ohmschen Verlustwiderstand, Kapazitäten haben dielektrische Verluste, die sich ebenfalls als ohmscher Widerstand auswirken.
-Je größer die ohmschen Widerstände in einem Schwingkreis sind, desto geringer wird dessen Q-Faktor.
+Je grösser die ohmschen Widerstände in einem Schwingkreis sind, desto geringer wird dessen Q-Faktor.
 
 Für die Berechnung des Q-Faktors verwenden wir die entsprechenden Formeln aus der Formelsammlung je nachdem ob es sich um einen Parallel- oder Serienschwingkreis handelt:
 
@@ -199,7 +199,7 @@ $Q = \frac{f_0}{B} = \frac{R_\text{P}}{X_\text{L}}$
 <margin>
 *Lösungshinweis*
 
-Zunächst müssen wir aus den Werten von *L* und *C* die Resonanzfrequenz des Schwingkreises gemäß Thomsonscher Schwingkreisformel bestimmen, da die vorgenannten Gleichungen nur für den Resonanzfall gelten!
+Zunächst müssen wir aus den Werten von *L* und *C* die Resonanzfrequenz des Schwingkreises gemäss Thomsonscher Schwingkreisformel bestimmen, da die vorgenannten Gleichungen nur für den Resonanzfall gelten!
 
 $\begin{split}f &= \frac{1}{2 \pi \cdot \sqrt{L \cdot C}}\\ \text{Mit eingesetzten Werten:}\\ f &= \frac{1}{2 \pi \cdot \sqrt{100 \cdot \qty{10^{-6}}{\henry} \cdot 0,01 \cdot 10^{-6}\text{ F}}} \\ &\approx \qty{159154,94}{\hertz} \approx 159,2 \cdot \qty{10^3}{\hertz}\\ &\approx \qty{159,2}{\kilo\hertz}\end{split}$
   
@@ -241,7 +241,7 @@ Die vorgenannte Formel gilt sowohl für den Serien- als auch den Parallelschwing
 <margin>
 *Lösungshinweis*
 
-Gemäß Thomsonscher Schwingkreisformel ergibt sich für einen Parallelschwingkreis mit $\qty{2,2}{\micro\henry}$ und $\qty{56}{\pico\farad}$ eine Resonanzfrequenz von $\qty{14,339}{\mega\hertz}$. Für $X_\text{L}$ errechnet sich daraus ein Wert in Höhe von $\qty{198,21}{\ohm}$. Der Gütefaktor $Q$ kann errechnet werden zu $\num{5,05}$. Nun können wir die Bandbreite $B$ nach der vorgenannten Formel berechnen und erhalten $\qty{2,84}{\mega\hertz}$.
+Gemäss Thomsonscher Schwingkreisformel ergibt sich für einen Parallelschwingkreis mit $\qty{2,2}{\micro\henry}$ und $\qty{56}{\pico\farad}$ eine Resonanzfrequenz von $\qty{14,339}{\mega\hertz}$. Für $X_\text{L}$ errechnet sich daraus ein Wert in Höhe von $\qty{198,21}{\ohm}$. Der Gütefaktor $Q$ kann errechnet werden zu $\num{5,05}$. Nun können wir die Bandbreite $B$ nach der vorgenannten Formel berechnen und erhalten $\qty{2,84}{\mega\hertz}$.
 </margin>
 [question:AD224]
 
@@ -252,8 +252,8 @@ Entsprechend kann nun auch mit dem zuvor beschriebenen Wissen die folgende Frage
 
 Zur Übertragung von Signalen zwischen Schaltungsstufen sowie in Filtern in Sendern und Empfängern werden häufig gekoppelte Schwingkreise verwendet. Hierbei werden zwei Schwingkreise induktiv oder kapazitiv aneinander gekoppelt. Diese Kopplung kann je nach Anwendung *lose*, *unterkritisch*, *kritisch* oder *überkritisch* erfolgen. Der Grad der Kopplung bestimmt die gegenseitige Beeinflussung und damit die Bandbreite und Durchlasskurve der gesamten Anordnung.
 Bei loser und unterkritischer Kopplung gibt es kaum eine gegenseitige Beeinflussung; Dafür ist die Durchlassdämpfung der Anordnung relativ hoch und die Bandbreite relativ gering.
-Bei kritischer Kopplung beeinflussen sich beide Schwingkreise gerade so, dass eine im Durchlassbereich flache Durchlasskurve mit geringer Dämpfung entsteht und diese im gewünschten Durchlassbereich völlig eben ist (Plateau). Die Bandbreite der Anordnung ist hierbei größer als bei loser und unterkritischer Kopplung. Hieran ist eine kritische Kopplung auch gut zu erkennen.
-Bei überkritischer Kopplung ist die gegenseitige Beeinflussung der beiden Schwingkreise sehr stark, was zu einer starken Änderung beider Resonanzfrequenzen und damit zu einer großen Bandbreite führt. Hierdurch wird die Durchlasskurve im Durchlassbereich stark verzerrt und es bilden sich links und rechts der Mittenfrequenz zwei Resonanzpunkte. Die Durchlasskurve bekommt eine "Delle". Hieran ist die überkritische Kopplung gut zu erkennen.
+Bei kritischer Kopplung beeinflussen sich beide Schwingkreise gerade so, dass eine im Durchlassbereich flache Durchlasskurve mit geringer Dämpfung entsteht und diese im gewünschten Durchlassbereich völlig eben ist (Plateau). Die Bandbreite der Anordnung ist hierbei grösser als bei loser und unterkritischer Kopplung. Hieran ist eine kritische Kopplung auch gut zu erkennen.
+Bei überkritischer Kopplung ist die gegenseitige Beeinflussung der beiden Schwingkreise sehr stark, was zu einer starken Änderung beider Resonanzfrequenzen und damit zu einer grossen Bandbreite führt. Hierdurch wird die Durchlasskurve im Durchlassbereich stark verzerrt und es bilden sich links und rechts der Mittenfrequenz zwei Resonanzpunkte. Die Durchlasskurve bekommt eine "Delle". Hieran ist die überkritische Kopplung gut zu erkennen.
 
 [question:AD227] 
 [question:AD228] 

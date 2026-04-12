@@ -23,14 +23,14 @@ Im Folgenden gehen wir auf diese Materialien genauer ein - eine Zusammenfassung 
 %EC101 Hochlast niedrige Frequenz -> Drahtwiderstand
 [question:EC101]
 
-Bei Kohleschichtwiderständen wird als Widerstandswerkstoff eine dünne Kohleschicht auf einen Träger aufgedampft. Kohleschichtwiderstände sind kostengünstig, weisen jedoch eine vergleichsweise große Fertigungstoleranz auf.
+Bei Kohleschichtwiderständen wird als Widerstandswerkstoff eine dünne Kohleschicht auf einen Träger aufgedampft. Kohleschichtwiderstände sind kostengünstig, weisen jedoch eine vergleichsweise grosse Fertigungstoleranz auf.
 
 Bei *Metalloxidschichtwiderständen* wird das Widerstandsmaterial in Form einer dünnen Schicht auf ein Trägermaterial aufgebracht. Diese Widerstandsart ist weitgehend induktionsarm und weist eine gute Temperaturstabilität auf, sodass sie sich besonders für den Einsatz bei höheren Frequenzen oberhalb von $\qty{30}{\mega\hertz}$ eignet.
 
 %EC103 induktionsarm 30Mhz - >Metalloxid
 [question:EC103]
 
-*Metallschicht*widerstände können mit hoher Genauigkeit das heißt mit geringer Fertigungstoleranz gefertigt werden. Sie eignen sich als Präzisionswiderstände. Sie sind temperaturunabhängig, allerdings weniger induktionsarm.
+*Metallschicht*widerstände können mit hoher Genauigkeit das heisst mit geringer Fertigungstoleranz gefertigt werden. Sie eignen sich als Präzisionswiderstände. Sie sind temperaturunabhängig, allerdings weniger induktionsarm.
 
 %EC102 Präzisionswiderstand >Metallschichtwiderstand
 [question:EC102]

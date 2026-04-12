@@ -15,11 +15,11 @@ Der Dipol verhält sich bei der Resonanzfrequenz der entsprechenden Sperrkreise 
 
 [question:AG116]
 
-Bei niedrigeren Frequenzen hingegen fließt nur wenig Strom durch den Kondensator und die Wirkung der Spule überwiegt, die dann wie eine Verlängerungsspule für eine elektrische Verlängerung sorgt.
+Bei niedrigeren Frequenzen hingegen fliesst nur wenig Strom durch den Kondensator und die Wirkung der Spule überwiegt, die dann wie eine Verlängerungsspule für eine elektrische Verlängerung sorgt.
 
 [question:AG111]
 
-Durch Einfügen mehrerer Traps lassen sich entsprechend noch mehr Resonanzen erzeugen. Hierbei wird der Resonanzfrequenz des innersten Schwingkreises auf die höchste Frequenz abgestimmt (entsprechend der kürzesten Wellenlänge), der nächst-äußere Schwingkreis auf die nächst-niedrigere Frequenz (also die nächst-längere Wellenlänge) usw.
+Durch Einfügen mehrerer Traps lassen sich entsprechend noch mehr Resonanzen erzeugen. Hierbei wird der Resonanzfrequenz des innersten Schwingkreises auf die höchste Frequenz abgestimmt (entsprechend der kürzesten Wellenlänge), der nächst-äussere Schwingkreis auf die nächst-niedrigere Frequenz (also die nächst-längere Wellenlänge) usw.
 
 [question:AG115]
 [question:AG114]

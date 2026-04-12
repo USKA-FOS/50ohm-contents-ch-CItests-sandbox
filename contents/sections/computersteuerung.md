@@ -1,4 +1,4 @@
-Die grundsätzliche Idee hinter der Morsetelegrafie, einzelne Zeichen eines Textes zu übermitteln, wird als Telegrafie bezeichnet und wurde stetig weiterentwickelt. Ein Meilenstein war es, Fernschreiber mittels Modem an Funkgeräte anzuschließen. Somit war der Funkfernschreiber erfunden, um automatisiert Texte per Funk zu senden und zu empfangen. Die Abkürzung RTTY des englischen Begriffes radio teletype findet sich immer noch als Bezeichnung wieder. Heute hat die Aufgabe des Funkfernschreibers in der Regel der Computer übernommen. Damit kann man neben dem klassischen RTTY-Verfahren viele andere digitale Übertragungsverfahren benutzen, die auch als Digimodes bezeichnet werden.
+Die grundsätzliche Idee hinter der Morsetelegrafie, einzelne Zeichen eines Textes zu übermitteln, wird als Telegrafie bezeichnet und wurde stetig weiterentwickelt. Ein Meilenstein war es, Fernschreiber mittels Modem an Funkgeräte anzuschliessen. Somit war der Funkfernschreiber erfunden, um automatisiert Texte per Funk zu senden und zu empfangen. Die Abkürzung RTTY des englischen Begriffes radio teletype findet sich immer noch als Bezeichnung wieder. Heute hat die Aufgabe des Funkfernschreibers in der Regel der Computer übernommen. Damit kann man neben dem klassischen RTTY-Verfahren viele andere digitale Übertragungsverfahren benutzen, die auch als Digimodes bezeichnet werden.
 
 <indepth>
 Ein *Fernschreiber* ist ein Gerät, um Nachrichten in Textform mittels elektrischer Signale zu übermitteln.
@@ -16,7 +16,7 @@ Zunächst muss dafür ein geeigneter Computer mit dem Funkgerät verbunden werde
 [picture:630:n_computersteuerung_verbindungen:Beispiele für Verbindungen zwischen Computer und Funkgerät]
 </margin>
 
-Durch die Verbindung zwischen Computer und Transceiver kann es aber zu Störungen der übertragenen Signale oder Rückwirkungen des Funkgeräts auf den PC kommen. Verschiedene Digimode-Interfaces als Hardwarelösung vereinfachen den Anschluss und enthalten Maßnahmen gegen derartige Probleme. Solche Interfaces kann man auch für andere Zwecke verwenden, zum Beispiel für Remote-Betrieb oder zum Aufzeichnen des Funkverkehrs mit passender Software. Für einige Verfahren gibt es auch Hardware-Modems, bei denen die Umsetzung zwischen Daten und Audio-Signalen in einem eigenen Gerät erfolgt.
+Durch die Verbindung zwischen Computer und Transceiver kann es aber zu Störungen der übertragenen Signale oder Rückwirkungen des Funkgeräts auf den PC kommen. Verschiedene Digimode-Interfaces als Hardwarelösung vereinfachen den Anschluss und enthalten Massnahmen gegen derartige Probleme. Solche Interfaces kann man auch für andere Zwecke verwenden, zum Beispiel für Remote-Betrieb oder zum Aufzeichnen des Funkverkehrs mit passender Software. Für einige Verfahren gibt es auch Hardware-Modems, bei denen die Umsetzung zwischen Daten und Audio-Signalen in einem eigenen Gerät erfolgt.
 
 [question:NF114]
 [question:NF116]

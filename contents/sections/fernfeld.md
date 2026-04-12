@@ -1,4 +1,4 @@
-%Im Nahfeld einer Antenne weißen die elektrische Feldstärke und die magnetische Feldstärke keine konstante Phasenbeziehung zueinander auf. Das ändert sich erst im Fernfeld einer Antenne. Der Übergang zwischen den beiden Bereichen ist fließend, und wird auch als Übergangsfeld bezeichnet.
+%Im Nahfeld einer Antenne weissen die elektrische Feldstärke und die magnetische Feldstärke keine konstante Phasenbeziehung zueinander auf. Das ändert sich erst im Fernfeld einer Antenne. Der Übergang zwischen den beiden Bereichen ist fliessend, und wird auch als Übergangsfeld bezeichnet.
 
 %Grundsätzlich ist der Übergang zwischen dem Nahfeld und dem Fernfeld abhängig von der berücksichtigten Wellenlänge. Es ist angegeben als
 
@@ -16,7 +16,7 @@ Das Fernfeld einer Strahlungsquelle, ist der Bereich, in dem die Vektoren der el
 
 Die Grenze zwischen Fernfeld und Nahfeld ist in erster Linie abhängig von der Wellenlänge. Jedoch spielt die Art der verwendeten Antenne und deren Umgebung durch aus eine Rolle. Bei den im Amateurfunk überwiegend verwendeten Drahtantennen (z.B. Dipole) bildet sich das Fernfeld in einem Abstand von etwa $4\cdot\lambda$ aus. 
 
-Das Nahfeld unterteilt sich in das reaktive und das strahlende Nahfeld. Praktisch ist, dass im strahlenden Nahfeld trotzdem die Formel für das Fernfeld verwendet werden kann. Das liegt daran, dass die Näherungsformel hier sehr konservative Abschätzungen liefert, das heißt die tatsächlichen Feldstärken sind geringer als die errechneten. Man ist auf der sicheren Seite. Dies gilt aber nicht für magnetische Antennen und Antennen, die sehr kurz im Verhältnis zur Wellenlänge sind. In diesen Fällen muss auf andere Verfahren zurück gegriffen werden z.B. Nahfeldberechnungsprogramme.
+Das Nahfeld unterteilt sich in das reaktive und das strahlende Nahfeld. Praktisch ist, dass im strahlenden Nahfeld trotzdem die Formel für das Fernfeld verwendet werden kann. Das liegt daran, dass die Näherungsformel hier sehr konservative Abschätzungen liefert, das heisst die tatsächlichen Feldstärken sind geringer als die errechneten. Man ist auf der sicheren Seite. Dies gilt aber nicht für magnetische Antennen und Antennen, die sehr kurz im Verhältnis zur Wellenlänge sind. In diesen Fällen muss auf andere Verfahren zurück gegriffen werden z.B. Nahfeldberechnungsprogramme.
 
 Der Übergang zwischen dem reaktiven Nahfeld und dem strahlenden Nahfeld ist abhängig von der Wellenlänge. 
 

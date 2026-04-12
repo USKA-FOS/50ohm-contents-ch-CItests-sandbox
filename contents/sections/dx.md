@@ -1,4 +1,4 @@
-Mit der Abkürzung DX verstehen Funkamateure eine Funkverbindung über eine große Entfernung. DX steht für "long distance" und stammt ursprünglich aus der Morsetelegrafie. Bei DX muss man zwischen Kurzwelle und UKW unterscheiden.
+Mit der Abkürzung DX verstehen Funkamateure eine Funkverbindung über eine grosse Entfernung. DX steht für "long distance" und stammt ursprünglich aus der Morsetelegrafie. Bei DX muss man zwischen Kurzwelle und UKW unterscheiden.
 
 Ruft eine Station auf den Bändern der Kurzwelle "CQ DX", dann möchte sie Kontakt mit Funkamateuren von einem anderen Kontinent aufnehmen. Funkamateure vom selben Kontinent sollten diesen allgemeinen Anruf nicht beantworten oder darauf reagieren. 
 
@@ -6,7 +6,7 @@ Ruft eine Station auf den Bändern der Kurzwelle "CQ DX", dann möchte sie Konta
 [question:BE114]
 [question:BB105]
 
-Auf höheren Frequenzen erreicht man von Deutschland aus andere Kontinente äußerst selten. Deswegen werden hier DX-Verbindungen anders definiert als auf der Kurzwelle. Auf VHF und UHF möchte man mit einem DX-Anruf andere Stationen kontaktieren, die erkennbar einige hundert Kilometer entfernt sind. 
+Auf höheren Frequenzen erreicht man von Deutschland aus andere Kontinente äusserst selten. Deswegen werden hier DX-Verbindungen anders definiert als auf der Kurzwelle. Auf VHF und UHF möchte man mit einem DX-Anruf andere Stationen kontaktieren, die erkennbar einige hundert Kilometer entfernt sind. 
 
 [question:BB104]
 [question:BE109]

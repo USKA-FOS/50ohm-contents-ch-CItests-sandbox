@@ -1,4 +1,4 @@
-In der Klasse N haben wir bereits unerwünschte Aussendungen kennengelernt. Solche Aussendungen sollten unbedingt vermieden werden, was durch verschiedene technische Maßnahmen erreicht werden kann – auf diese gehen wir in dieser Lektion näher ein. Unerwünschte Aussendungen entstehen bei Funksendern häufig durch *Oberwellen*, also ganzzahlige Vielfache der Grundfrequenz, sowie durch sogenannte *Nebenaussendungen*, wie in der Abbildung [ref:e_unerwuenschte_aussendungen_uebersicht] gezeigt. Zunächst befassen wir uns mit den Oberwellen, da sie andere Funkdienste beeinträchtigen oder stören können. Von einer Störung spricht man, wenn eine Amateurfunkstation unerwünschte Frequenzanteile so stark abstrahlt, dass die zulässigen Grenzwerte überschritten werden. Ein typisches Beispiel ist die Aussendung einer Oberschwingung eines Transceivers im UKW-Rundfunkbereich, wie in Abbildung [ref:e_unerwuenschte_aussendungen_oberwelle] dargestellt. Hierbei führt die vierfache Frequenz ($\qty{145,9}{\mega\hertz}\cdot 4 = \qty{583,6}{\mega\hertz}$) der Grundfrequenz zu einer Störung. Die Nebenaussendungen betrachten wir am Ende dieser Lektion.
+In der Klasse N haben wir bereits unerwünschte Aussendungen kennengelernt. Solche Aussendungen sollten unbedingt vermieden werden, was durch verschiedene technische Massnahmen erreicht werden kann – auf diese gehen wir in dieser Lektion näher ein. Unerwünschte Aussendungen entstehen bei Funksendern häufig durch *Oberwellen*, also ganzzahlige Vielfache der Grundfrequenz, sowie durch sogenannte *Nebenaussendungen*, wie in der Abbildung [ref:e_unerwuenschte_aussendungen_uebersicht] gezeigt. Zunächst befassen wir uns mit den Oberwellen, da sie andere Funkdienste beeinträchtigen oder stören können. Von einer Störung spricht man, wenn eine Amateurfunkstation unerwünschte Frequenzanteile so stark abstrahlt, dass die zulässigen Grenzwerte überschritten werden. Ein typisches Beispiel ist die Aussendung einer Oberschwingung eines Transceivers im UKW-Rundfunkbereich, wie in Abbildung [ref:e_unerwuenschte_aussendungen_oberwelle] dargestellt. Hierbei führt die vierfache Frequenz ($\qty{145,9}{\mega\hertz}\cdot 4 = \qty{583,6}{\mega\hertz}$) der Grundfrequenz zu einer Störung. Die Nebenaussendungen betrachten wir am Ende dieser Lektion.
 
 <margin>
 [picture:1008:e_unerwuenschte_aussendungen_uebersicht:Unerwünschte Aussendungen: Oberwellen (OW) und Nebenaussendungen (NA)]
@@ -32,7 +32,7 @@ Signalformen, welche nicht sinusförmig sind und insbesondere scharfe "Ecken und
 
 Zur Unterdrückung von Oberwellen werden im Kurzwellenbereich üblicherweise *Oberwellenfilter* eingesetzt. Ihre Charakteristik ist so ausgelegt, dass Frequenzen unterhalb einer bestimmten Grenzfrequenz das Filter nahezu ungedämpft passieren, während Frequenzen oberhalb dieser Grenze nicht oder nur stark abgeschwächt durchgelassen werden. Ein *Oberwellenfilter* ist somit ein *Tiefpassfilter*, wie wir es bereits im Kapitel Schwingkreise kennengelernt haben. Der Frequenzgang eines solchen Tiefpasses ist in Abbildung [ref:e_ua_tiefpass] dargestellt. Abbildung [ref:e_ua_tiefpass_selbstbau] zeigt ein selbstgebautes Tiefpassfilter bestehend aus Kondensatoren und Spulen welche auf Ringkerne gewickelt wurden. Schaltet man bei einem Mehrbandsender das Band um, wird dabei in der Regel auch ein passendes Oberwellenfilter ausgewählt. Oft ist dann das Klicken eines Relais zu hören, das diese Umschaltung vornimmt.
 
-Dass dieses Thema sehr wichtig ist, zeigt sich an der großen Zahl von Prüfungsfragen dazu. Mit dem Wissen über Oberwellen und Tiefpässe lassen sich diese jedoch sehr leicht beantworten.
+Dass dieses Thema sehr wichtig ist, zeigt sich an der grossen Zahl von Prüfungsfragen dazu. Mit dem Wissen über Oberwellen und Tiefpässe lassen sich diese jedoch sehr leicht beantworten.
 
 <margin>
 [picture:591:e_ua_tiefpass:Frequenzgang eines Tiefpassfilters]
@@ -62,7 +62,7 @@ Wie schon zuvor erwähnt sind sinusförmige Signale für die Vermeidung von Ober
 
 [question:EF404]
 
-Unerwünschte Aussendungen können auch in unmittelbarer Nähe zum eigentlichen Sendesignal auftreten (vgl. Abbildung [ref:e_unerwuenschte_aussendungen_uebersicht]) und betreffen damit oft andere Funkamateure auf demselben Band. Solche Störungen lassen sich mit Filtern nur schwer oder gar nicht unterdrücken und sollten daher bereits am Anfang der Signalaufbereitung durch geeignete Maßnahmen vermieden werden. Häufig entstehen diese *Nebenaussendungen* – auch Nebenprodukte genannt und umgangssprachlich als „Splatter“ bezeichnet – durch eine zu hohe Einstellung des Mikrofonverstärkers im Sender, wodurch sich das Sendesignal ungewollt verbreitert.
+Unerwünschte Aussendungen können auch in unmittelbarer Nähe zum eigentlichen Sendesignal auftreten (vgl. Abbildung [ref:e_unerwuenschte_aussendungen_uebersicht]) und betreffen damit oft andere Funkamateure auf demselben Band. Solche Störungen lassen sich mit Filtern nur schwer oder gar nicht unterdrücken und sollten daher bereits am Anfang der Signalaufbereitung durch geeignete Massnahmen vermieden werden. Häufig entstehen diese *Nebenaussendungen* – auch Nebenprodukte genannt und umgangssprachlich als „Splatter“ bezeichnet – durch eine zu hohe Einstellung des Mikrofonverstärkers im Sender, wodurch sich das Sendesignal ungewollt verbreitert.
 
 [question:EJ213]
 [question:EJ214]
@@ -71,6 +71,6 @@ Das Gleiche gilt auch für digitale Übertragungsverfahren, wie zum Beispiel Pac
 
 [question:EJ212]
 
-Auch die Stabilität des im Sender verwendeten Oszillators kann dazu führen, dass Aussendungen außerhalb der Bandgrenzen liegen oder benachbarte Stationen gestört werden. Besonders bei älteren Selbstbaugeräten ohne quarzstabilisierte Oszillatoren ist dies möglich. Moderne Kurzwellentransceiver, aber auch aktuelle Selbstbaugeräte und Bausätze, verfügen in der Regel über sehr stabile Referenzoszillatoren.
+Auch die Stabilität des im Sender verwendeten Oszillators kann dazu führen, dass Aussendungen ausserhalb der Bandgrenzen liegen oder benachbarte Stationen gestört werden. Besonders bei älteren Selbstbaugeräten ohne quarzstabilisierte Oszillatoren ist dies möglich. Moderne Kurzwellentransceiver, aber auch aktuelle Selbstbaugeräte und Bausätze, verfügen in der Regel über sehr stabile Referenzoszillatoren.
 
 [question:EJ216]

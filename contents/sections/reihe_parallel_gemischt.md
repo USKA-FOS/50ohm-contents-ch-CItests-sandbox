@@ -1,7 +1,7 @@
 In Parallelschwingkreisen werden Spulen und Kondensatoren kombiniert. Zur genauen Berechnung der Resonanzfrequenz, müssen "unsichtbare" Kapazitäten, wie Wicklungskapazität und Schaltungskapazität,  berücksichtigt werden. Die folgende Aufgabe beschreibt die wirksamen Kapazitäten sehr praxisnah.
 
 [question:AD103]
-Das Hauptproblem bei der Lösung der Aufgaben ist die Beachtung und Umwandlung der unterschiedlichen Vorsilben auf eine einheitliche, sinnvolle Vorsilbe, um nicht zu große oder zu kleine Zahlenwerte zu bekommen. Im Abschnitt "Kondensatoren  in Reihen- und Parallelschaltung "   der Klasse E wurde dies schon ausführlich erklärt. 
+Das Hauptproblem bei der Lösung der Aufgaben ist die Beachtung und Umwandlung der unterschiedlichen Vorsilben auf eine einheitliche, sinnvolle Vorsilbe, um nicht zu grosse oder zu kleine Zahlenwerte zu bekommen. Im Abschnitt "Kondensatoren  in Reihen- und Parallelschaltung "   der Klasse E wurde dies schon ausführlich erklärt. 
 Als gemeinsame Vorsilbe sollten bei der folgenden Frage alle Kapazitätswerte in Picofarad (pF) umgewandelt werden, da auch das Ergebnis in Picofarad angegeben ist. Die Eigenkapazität der Spule (Kapazität der Windungen gegeneinander) muss zusätzlich addiert werden.
 
 Schwieriger ist die Berechnung einer Reihenschaltung von 3 Kondensatoren.

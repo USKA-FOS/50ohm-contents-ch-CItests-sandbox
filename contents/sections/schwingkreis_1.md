@@ -5,19 +5,19 @@
 
 In den Kapiteln zu Kondensatoren und Spulen haben wir bereits gelernt, dass beide Bauelemente einen frequenzabhängigen Widerstand besitzen. Abbildung [ref:e_frequenzabhängiger_widerstand] zeigt qualitativ, dass der Widerstand eines ohmschen Widerstands unabhängig von der Frequenz ist, während der Widerstand eines Kondensators mit steigender Frequenz hyperbolisch abnimmt und der Widerstand einer Spule mit steigender Frequenz linear zunimmt.
 
-Aus diesen Bauelementen lassen sich sogenannte passive Frequenzfilter aufbauen, die wir uns nun genauer ansehen. Im ersten Teil dieses Kapitels beschäftigen wir uns mit einfachen Filtern, nämlich Hoch- und Tiefpässen. Mit diesen Filtern lassen sich unerwünschte Frequenzbereiche ober- oder unterhalb einer Grenzfrequenz unterdrücken. Im zweiten Teil widmen wir uns anschließend komplexeren Filtern, wie zum Beispiel Bandpässen.
+Aus diesen Bauelementen lassen sich sogenannte passive Frequenzfilter aufbauen, die wir uns nun genauer ansehen. Im ersten Teil dieses Kapitels beschäftigen wir uns mit einfachen Filtern, nämlich Hoch- und Tiefpässen. Mit diesen Filtern lassen sich unerwünschte Frequenzbereiche ober- oder unterhalb einer Grenzfrequenz unterdrücken. Im zweiten Teil widmen wir uns anschliessend komplexeren Filtern, wie zum Beispiel Bandpässen.
 
 Wir beginnen mit der Herleitung eines Tiefpasses als sogennantes *RC-Glied*. Ausgangspunkt ist im Schritt (1) die Schaltung eines Spannungsteilers, wie sie in Abbildung [ref:e_herleitung_tiefpass] dargestellt ist und die wir bereits kennengelernt haben. Wir erinnern uns daran, dass für einen Spannungsteiler folgendes gilt: 
 
 $\frac{U_1}{U_2} = \frac{R_1}{R_2}$
 
-Das bedeutet beispielsweise: Ist der Widerstand $R_2$ doppelt so groß wie der Widerstand $R_1$, dann ist auch die Spannung $U_2$ doppelt so groß wie die Spannung $U_1$.
+Das bedeutet beispielsweise: Ist der Widerstand $R_2$ doppelt so gross wie der Widerstand $R_1$, dann ist auch die Spannung $U_2$ doppelt so gross wie die Spannung $U_1$.
 
-In Schritt (2) ersetzen wir den Widerstand $R_2$ durch den Kondensator $C_1$. Anschließend zeichnen wir die Schaltung in Schritt (3) noch etwas um, sodass wir die übliche Darstellung eines Tiefpasses erhalten.
+In Schritt (2) ersetzen wir den Widerstand $R_2$ durch den Kondensator $C_1$. Anschliessend zeichnen wir die Schaltung in Schritt (3) noch etwas um, sodass wir die übliche Darstellung eines Tiefpasses erhalten.
 
 ---
 
-Wir halten fest: Ein Tiefpass ist zunächst nichts anderes als ein Spannungsteiler. Deshalb können wir ihn im Folgenden auch genau so betrachten. In Abbildung [ref:e_wiederstaende_tiefpass] sind die Widerstandsverläufe in Abhängigkeit von der Frequenz nochmals dargestellt. Betrachten wir zunächst tiefe Frequenzen: In diesem Fall ist der Widerstand des Kondensators groß, sodass am Ausgang eine hohe Spannung anliegt. Steigt die Frequenz, wird der Widerstand des Kondensators zunehmend kleiner, und gemäß dem Prinzip des Spannungsteilers nimmt auch die Ausgangsspannung ab.
+Wir halten fest: Ein Tiefpass ist zunächst nichts anderes als ein Spannungsteiler. Deshalb können wir ihn im Folgenden auch genau so betrachten. In Abbildung [ref:e_wiederstaende_tiefpass] sind die Widerstandsverläufe in Abhängigkeit von der Frequenz nochmals dargestellt. Betrachten wir zunächst tiefe Frequenzen: In diesem Fall ist der Widerstand des Kondensators gross, sodass am Ausgang eine hohe Spannung anliegt. Steigt die Frequenz, wird der Widerstand des Kondensators zunehmend kleiner, und gemäss dem Prinzip des Spannungsteilers nimmt auch die Ausgangsspannung ab.
 
 Auf diese Weise ergibt sich der Spannungsverlauf, wie er in Abbildung [ref:e_tiefpass_frequenzgang] gezeigt ist. Damit ist auch die Kernidee des Tiefpasses erklärt: Hohe Frequenzen werden stark gedämpft, während tiefe Frequenzen das Filter weitgehend ungehindert passieren. Ein Anwendungsbeispiel für einen Tiefpass ist die Verwendung hinter Sendeverstärkern, um die durch Verzerrungen auftretenden Oberwellen herauszufiltern. 
 
@@ -49,7 +49,7 @@ Bei einem Hochpass hingegen werden die tiefen Frequenzen stark gedämpft, währe
 
 Einfache RC-Glieder haben den Nachteil, dass ihre Flanken im Grenzbereich eher flach verlaufen. Dazu wird die kleinste Impedanz eines RC-Tiefpasses durch den Widerstand $R$ bestimmt. Der Widerstand $R$ lässt sich jedoch durch eine Spule ersetzen, die sich im Frequenzverhalten einem Kondensator entgegengesetzt verhält. Es liegt daher nahe, Spulen und Kondensatoren zu Hoch- und Tiefpässen zu kombinieren. 
 Bei *hohen Frequenzen ist der Spulenwiderstand hoch*, der Kondensatorwiderstand dagegen klein.
-Bei *niedrigen Frequenzen ist der Spulenwiderstand niedrig*, der Kondensatorwiderstand dagegen groß. 
+Bei *niedrigen Frequenzen ist der Spulenwiderstand niedrig*, der Kondensatorwiderstand dagegen gross. 
 Je nachdem, über welches Bauteil die Ausgangsspannung gemessen wird, erhält man einen Hoch- oder einen Tiefpass. Merkt man sich, dass der Spulenwiderstand $X_\text{L}$ bei hoher Frequenz ebenfalls hoch ist, lässt sich eine Schaltung schnell als Hoch- oder Tiefpass identifizieren, wenn man sich anschaut, über welches Bauteil die Ausgangsspannung gemessen wird.
 
 <tip>
@@ -78,7 +78,7 @@ Vor dem $\qty{2}{\meter}$-Ausgang ist ein Tiefpass, vor dem $\qty{70}{\centi\met
 
 <indepth>
 [photo:320:e_tiefpass_selbstbau:Selbstgebautes Tiefpassfilter]
-Die oben genannten Filter lassen sich natürlich wunderbar für alle Frequenzbereiche selbst berechnen und bauen. In der Formelsammlung finden sich die benötigten Formeln, wobei es natürlich auch viele Bauvorschläge und Berechnungsprogramme gibt. Die benötigten Spulen lassen sich dazu oft leicht selbst herstellen. Hierfür reicht bei kleinen Spulenwerten ein kleiner Vorrat an $\qty{0,8}{\milli\meter}$-Kupferlackdraht für stabile Luftspulen aus. Bei großen Spulenwerten z.B. für die Kurzwellenbereiche kommt man mit $\qty{0,2}{\milli\meter}$-Kupferlackdraht und Kernmaterial mit entsprechenden $A_\text{L}$-Werten aus, um sich jederzeit die richtigen Werte selbst herstellen zu können. Die benötigten Größen, Wicklungen usw. bekommt man über Formelsammlung, Bauvorschläge oder Berechnungsprogramme ebenfalls meist leicht heraus.
+Die oben genannten Filter lassen sich natürlich wunderbar für alle Frequenzbereiche selbst berechnen und bauen. In der Formelsammlung finden sich die benötigten Formeln, wobei es natürlich auch viele Bauvorschläge und Berechnungsprogramme gibt. Die benötigten Spulen lassen sich dazu oft leicht selbst herstellen. Hierfür reicht bei kleinen Spulenwerten ein kleiner Vorrat an $\qty{0,8}{\milli\meter}$-Kupferlackdraht für stabile Luftspulen aus. Bei grossen Spulenwerten z.B. für die Kurzwellenbereiche kommt man mit $\qty{0,2}{\milli\meter}$-Kupferlackdraht und Kernmaterial mit entsprechenden $A_\text{L}$-Werten aus, um sich jederzeit die richtigen Werte selbst herstellen zu können. Die benötigten Grössen, Wicklungen usw. bekommt man über Formelsammlung, Bauvorschläge oder Berechnungsprogramme ebenfalls meist leicht heraus.
 </indepth>  
 
 ---
@@ -95,7 +95,7 @@ Die Anordnung von Spule und Kondensator kann dabei entweder in Serie oder parall
 
 ---
 
-Schaltet man Spule und Kondensator parallel und gibt zum Beispiel einen Rechteckimpuls auf diese Anordnung, gerät diese in Schwingung. Der aufgeladene Kondensator hat nun Energie im elektrischen Feld gespeichert, welches sich jedoch über die Spule abbaut. Durch den Stromfluss durch die Spule baut sich ein magnetisches Feld in ihr auf, was dem Stromfluss erst noch einen Widerstand entgegensetzt. Sobald das Magnetfeld jedoch aufgebaut ist, entlädt sich der Kondensator vollständig. Die Energie ist nun im Magnetfeld der Spule gespeichert. Da der Kondensator sich aber nicht weiter entladen und keinen Stromfluss aufrechterhalten kann, kann das Magnetfeld nicht aufrechterhalten werden. Das Magnetfeld der Spule entlädt sich und erzeugt eine Spannung in umgekehrter Richtung. Diese Spannung lädt den Kondensator nun in umgehrter Richtung auf, bis das Magnetfeld in der Spule abgebaut ist und dem elektrischen Feld im Kondensator keinen Widerstand mehr entgegensetzen kann. Der Vorgang beginnt anschließend erneut. 
+Schaltet man Spule und Kondensator parallel und gibt zum Beispiel einen Rechteckimpuls auf diese Anordnung, gerät diese in Schwingung. Der aufgeladene Kondensator hat nun Energie im elektrischen Feld gespeichert, welches sich jedoch über die Spule abbaut. Durch den Stromfluss durch die Spule baut sich ein magnetisches Feld in ihr auf, was dem Stromfluss erst noch einen Widerstand entgegensetzt. Sobald das Magnetfeld jedoch aufgebaut ist, entlädt sich der Kondensator vollständig. Die Energie ist nun im Magnetfeld der Spule gespeichert. Da der Kondensator sich aber nicht weiter entladen und keinen Stromfluss aufrechterhalten kann, kann das Magnetfeld nicht aufrechterhalten werden. Das Magnetfeld der Spule entlädt sich und erzeugt eine Spannung in umgekehrter Richtung. Diese Spannung lädt den Kondensator nun in umgehrter Richtung auf, bis das Magnetfeld in der Spule abgebaut ist und dem elektrischen Feld im Kondensator keinen Widerstand mehr entgegensetzen kann. Der Vorgang beginnt anschliessend erneut. 
 
 <margin>
 [include:applet_schwingkreis]
@@ -103,7 +103,7 @@ Schaltet man Spule und Kondensator parallel und gibt zum Beispiel einen Rechteck
 
 ---
 
-Aus diesem Grund spricht man von einem Schwingkreis. Die Frequenz, mit der dieser Schwingkreis schwingt, bezeichnet man als Resonanzfrequenz ($f_0$). Sie ist vergleichbar mit der Resonanzfrequenz einer Stimmgabel, die durch einen Stoß in Schwingung versetzt wird. Im Resonanzfall sind die Widerstände von Spule $X_\text{L}$ und Kondensator $X_\text{C}$ gleich groß. Solche Schwingkreise lassen sich zum einen zur Erzeugung von Schwingungen verwenden, was wir im Kapitel Oszillatoren noch genauer betrachten werden. Zum anderen können sie auch als Filter eingesetzt werden – und genau das ist das Thema dieses Kapitels.
+Aus diesem Grund spricht man von einem Schwingkreis. Die Frequenz, mit der dieser Schwingkreis schwingt, bezeichnet man als Resonanzfrequenz ($f_0$). Sie ist vergleichbar mit der Resonanzfrequenz einer Stimmgabel, die durch einen Stoss in Schwingung versetzt wird. Im Resonanzfall sind die Widerstände von Spule $X_\text{L}$ und Kondensator $X_\text{C}$ gleich gross. Solche Schwingkreise lassen sich zum einen zur Erzeugung von Schwingungen verwenden, was wir im Kapitel Oszillatoren noch genauer betrachten werden. Zum anderen können sie auch als Filter eingesetzt werden – und genau das ist das Thema dieses Kapitels.
 
 <margin>
 [picture:1037:e_rsk_frequenzgang:Qualitativer Frequenzgang eines Reihenschwingkreises]
@@ -111,7 +111,7 @@ Aus diesem Grund spricht man von einem Schwingkreis. Die Frequenz, mit der diese
 
 ---
 
-Bei einem *Serienschwingkreis* bzw. *Reihenschwingkreis* wie in Abbildung [ref:e_rp_schwingkreis]a ist im Resonanzfall der Gesamtwiderstand am geringsten. Abbildung [ref:e_rsk_frequenzgang] zeigt den Frequenzgang. Bei Frequenzen über der Resonanzfrequenz wird der Spulenwiderstand größer, so dass auch der Gesamtwiderstand des Serienschwingkreises ansteigt. Das Gleiche passiert auch bei Frequenzen unterhalb der Resonanzfrequenz, wobei hier jedoch der Kondensatorwiderstand groß ist. Bei Serienschwingkreisen ist daher der Widerstand bei der Resonanzfrequenz am geringsten. Durch die Serienschaltung bestimmt bei Frequenzen abseits der Resonanzfrequenz das Bauteil mit dem größten Widerstand die Schwingkreisimpedanz.
+Bei einem *Serienschwingkreis* bzw. *Reihenschwingkreis* wie in Abbildung [ref:e_rp_schwingkreis]a ist im Resonanzfall der Gesamtwiderstand am geringsten. Abbildung [ref:e_rsk_frequenzgang] zeigt den Frequenzgang. Bei Frequenzen über der Resonanzfrequenz wird der Spulenwiderstand grösser, so dass auch der Gesamtwiderstand des Serienschwingkreises ansteigt. Das Gleiche passiert auch bei Frequenzen unterhalb der Resonanzfrequenz, wobei hier jedoch der Kondensatorwiderstand gross ist. Bei Serienschwingkreisen ist daher der Widerstand bei der Resonanzfrequenz am geringsten. Durch die Serienschaltung bestimmt bei Frequenzen abseits der Resonanzfrequenz das Bauteil mit dem grössten Widerstand die Schwingkreisimpedanz.
 
 <indepth>
 Der Betragsfrequenzgang eines Serienschwingkreises aus einem Widerstand, einer Spule und einem Kondensator berechnet sich nach folgender Formel:
@@ -167,7 +167,7 @@ Beginnen wir zunächst mit den Schaltungen für *Bandsperren*. Dabei gibt es zwe
 
 ---
 
-Die zweite Kategorie an Schaltungen die man aus Schwingkreisen entwickeln kann sind *Bandpässe*. Hier gibt es auch wieder zwei Möglichkeiten diese als Spannungsteiler aufzubauen: erstens den *Leitkreis* (vgl. Abbildung [ref:e_leitkreis]) und zweitens den *Bandpass* (vgl. Abbildung [ref:e_bandpass]). Auch hier erfolgt die Herleitung wie gewohnt über das Verhalten eines Spannungsteilers. Für einen Bandpass setzt man Parallelschwingkreise parallel zum Signalweg, da diese für Frequenzen abseits der Resonanz einen geringen Widerstand haben und diese sozusagen "kurzschließen". Ein Serienschwingkreis seriell im Signalweg sorgt für eine zusätzliche Dämpfung abseits der Resonanz, während dieser bei der gewünschten Frequenz einen geringen Widerstand hat.
+Die zweite Kategorie an Schaltungen die man aus Schwingkreisen entwickeln kann sind *Bandpässe*. Hier gibt es auch wieder zwei Möglichkeiten diese als Spannungsteiler aufzubauen: erstens den *Leitkreis* (vgl. Abbildung [ref:e_leitkreis]) und zweitens den *Bandpass* (vgl. Abbildung [ref:e_bandpass]). Auch hier erfolgt die Herleitung wie gewohnt über das Verhalten eines Spannungsteilers. Für einen Bandpass setzt man Parallelschwingkreise parallel zum Signalweg, da diese für Frequenzen abseits der Resonanz einen geringen Widerstand haben und diese sozusagen "kurzschliessen". Ein Serienschwingkreis seriell im Signalweg sorgt für eine zusätzliche Dämpfung abseits der Resonanz, während dieser bei der gewünschten Frequenz einen geringen Widerstand hat.
 
 [question:ED214] 
 [question:ED204]
@@ -185,7 +185,7 @@ Um Bandpässe und Bandsperren zu bauen, können also sowohl Serien- als auch Par
 
 In Filtern lassen sich als Kondensatoren nur bestimmte, geeignete Typen verwenden.
 Elektrolytkondensatoren eignen sich für HF-Schaltungen zum Beispiel nicht, da ihre Kapazität zum einen stark frequenzabhängig ist, zum anderen weil sie bei hohen Frequenzen einen hohen Innenwiderstand haben. Folienkondensatoren eignen sich dagegen nicht, weil diese durch ihre Wicklungen (Eigeninduktivität) besonders ab dem Kurzwellenbereich stark frequenzabhängig sind und eine schlechte Güte haben. 
-Keramikkondensatoren haben dagegen nur kleine Verluste und die Kapazität ist nur wenig frequenz- und temperaturabhängig. Zudem sind diese auch für große Spannungen leicht zu beschaffen.
+Keramikkondensatoren haben dagegen nur kleine Verluste und die Kapazität ist nur wenig frequenz- und temperaturabhängig. Zudem sind diese auch für grosse Spannungen leicht zu beschaffen.
 Geeignet sind auch Kondensatoren aus Platten und Luft als Isolator, die man am ehesten als Drehkondensatoren antrifft. Für hohe Spannungen werden Drehkondensatoren in Antennentunern ebenfalls eingesetzt.
 
 [question:ED216]

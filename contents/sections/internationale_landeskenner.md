@@ -6,7 +6,7 @@ Wie wir im Kapitel Amateurfunkstationen erklärt haben, kann man im Funkbetrieb 
 
 ---
 
-Die Landeskenner benötigt man im Laufe des Amateurfunklebens immer wieder. So mancher Funkamateur hat sich für die einzelnen Präfixe Eselsbrücken gebaut, um sich die Landeskenner besser merken zu können. In der Tabelle [ref:n_europaeische_landeskenner_eselsbruecken] finden sich die europäischen Landeskenner mit den zugehörigen Ländern. Die Tabelle [ref:n_internationale_landeskenner_eselsbruecken] zeigt weitere außereuropäische Landeskenner. Für einige gibt es auch oft genutzte Eselsbrücken. Wenn man sich die hervorgehobenen Landeskenner gut merkt, kann man mit dem Ausschlussverfahren alle Fragen im Fragenkatalog über die Landeskenner beantworten.
+Die Landeskenner benötigt man im Laufe des Amateurfunklebens immer wieder. So mancher Funkamateur hat sich für die einzelnen Präfixe Eselsbrücken gebaut, um sich die Landeskenner besser merken zu können. In der Tabelle [ref:n_europaeische_landeskenner_eselsbruecken] finden sich die europäischen Landeskenner mit den zugehörigen Ländern. Die Tabelle [ref:n_internationale_landeskenner_eselsbruecken] zeigt weitere aussereuropäische Landeskenner. Für einige gibt es auch oft genutzte Eselsbrücken. Wenn man sich die hervorgehobenen Landeskenner gut merkt, kann man mit dem Ausschlussverfahren alle Fragen im Fragenkatalog über die Landeskenner beantworten.
 
 <webmargin>
 | l: Landeskenner | l: Eselsbrücke | X: Land |
@@ -18,12 +18,12 @@ Die Landeskenner benötigt man im Laufe des Amateurfunklebens immer wieder. So m
 | ES | | Estland |
 | EU | | Belarus |
 | F | Frankreich | Frankreich |
-| G | Großbritannien | Vereintes Königreich |       
+| G | Grossbritannien | Vereintes Königreich |       
 | HBØ | Hohe Berge (klein) | Liechtenstein |
-| HB9 | Hohe Berge (groß) | Schweiz |
+| HB9 | Hohe Berge (gross) | Schweiz |
 | HV | Heiliger Vater | Vatikan |
 | I | | Italien |
-| LA | LAchse (Links Außen) | Norwegen| 
+| LA | LAchse (Links Aussen) | Norwegen| 
 | LX | | Luxemburg |
 | LZ | | Bulgarien |
 | OE | OEsterreich | Österreich |

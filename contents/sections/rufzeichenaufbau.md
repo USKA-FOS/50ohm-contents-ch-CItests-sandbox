@@ -27,7 +27,7 @@ Neben den persönlichen Rufzeichen können weitere Rufzeichen für fernbediente 
 
 Die BNetzA vergibt die Präfixe in Deutschland nach dem [Rufzeichenplan](https://50ohm.de/rzp), sodass man anhand des Rufzeichens den Verwendungszweck erkennen kann. Im Rufzeichenplan ist sowohl für personengebundene Rufzeichen als auch für Rufzeichen für fernbediente und automatisch arbeitende Amateurfunkstellen und Klubstationen genau festgelegt, welche Präfixe, Ziffern und Suffixe jeweils verwendet werden.
 
-Der Rufzeichenplan steht während der Amateurfunkprüfung als Hilfsmittel zur Verfügung. Dieser Plan ist bei der Beantwortung einer Reihe von Fragen sehr hilfreich, die in den nächsten Abschnitten folgen. Wir empfehlen daher, sich mit dem Dokument vertraut zu machen, um es in der Prüfung gut nutzen zu können. Nach der Prüfung sollte man sich regelmäßig informieren, um bei Änderungen auf dem aktuellen Stand zu bleiben.
+Der Rufzeichenplan steht während der Amateurfunkprüfung als Hilfsmittel zur Verfügung. Dieser Plan ist bei der Beantwortung einer Reihe von Fragen sehr hilfreich, die in den nächsten Abschnitten folgen. Wir empfehlen daher, sich mit dem Dokument vertraut zu machen, um es in der Prüfung gut nutzen zu können. Nach der Prüfung sollte man sich regelmässig informieren, um bei Änderungen auf dem aktuellen Stand zu bleiben.
 
 [question:VD201]
 

@@ -10,7 +10,7 @@ Die einfachste Form eines Oszillators ist der sog. *LC-Oszillator*, der als freq
 
 [question:ED501]
 
-LC-Oszillatoren haben den Nachteil, dass sich Ihre frequenzbestimmenden Komponenten (L und C) in Abhängigkeit von der Temperatur stark ändern können, was zu großen Freqzenzabweichungen führen kann.
+LC-Oszillatoren haben den Nachteil, dass sich Ihre frequenzbestimmenden Komponenten (L und C) in Abhängigkeit von der Temperatur stark ändern können, was zu grossen Freqzenzabweichungen führen kann.
 
 Laut Formelsammlung ist die Formel für die Schwingungsfrequenz (Thomsonsche Schwingkreisformel):
 
@@ -28,7 +28,7 @@ Die Geschwindigkeit der Temperaturänderung bestimmt auch die Geschwindigkeit de
 
 [question:EF304]
 
-Ein wesentlich frequenzstabilerer Oszillator-Typ ist der *Quarz-Oszillator*. Hierbei wird als frequenzbestimmende Komponente ein Schwingquarz verwendet, dessen Resonanzfrequenz nur in sehr geringem Maße von dessen Temperatur abhängig ist (im Vergleich zu LC-Oszillatoren).
+Ein wesentlich frequenzstabilerer Oszillator-Typ ist der *Quarz-Oszillator*. Hierbei wird als frequenzbestimmende Komponente ein Schwingquarz verwendet, dessen Resonanzfrequenz nur in sehr geringem Masse von dessen Temperatur abhängig ist (im Vergleich zu LC-Oszillatoren).
 
 [question:ED506]
 [question:ED507]

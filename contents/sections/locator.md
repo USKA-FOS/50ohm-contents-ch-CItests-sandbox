@@ -12,7 +12,7 @@ Im Folgenden wird der Aufbau des Maidenhead-Locator-Systems erläutert. Zugleich
 
 ---
 
-In einem ersten Schritt teilt das Maidenhead-Locator-System die Oberfläche der Erde in 18 mal 18 gleich große Bereiche auf, die als *Felder* (englisch *fields*) bezeichnet werden. Jedem Feld ist eine Buchstabenkombination von AA bis RR zugeordnet (Abbildung [ref:n_locator_welt]). Der erste Buchstabe zählt beginnend mit A vom 180. Längengrad von Westen nach Osten hoch bis zum R. Der zweite Buchstabe fängt bei A am Südpol an und endet mit R am Nordpol. Auf der Karte wird also von links unten beginnend nach rechts oben gezählt. Die DARC-Geschäftsstelle liegt im Feld JO.
+In einem ersten Schritt teilt das Maidenhead-Locator-System die Oberfläche der Erde in 18 mal 18 gleich grosse Bereiche auf, die als *Felder* (englisch *fields*) bezeichnet werden. Jedem Feld ist eine Buchstabenkombination von AA bis RR zugeordnet (Abbildung [ref:n_locator_welt]). Der erste Buchstabe zählt beginnend mit A vom 180. Längengrad von Westen nach Osten hoch bis zum R. Der zweite Buchstabe fängt bei A am Südpol an und endet mit R am Nordpol. Auf der Karte wird also von links unten beginnend nach rechts oben gezählt. Die DARC-Geschäftsstelle liegt im Feld JO.
 
 <margin>
 [photo:2:n_locator_jo:Das Feld JO des Maidenhead-Locator-Systems, Kartendaten © OpenStreetMap-Mitwirkende, SRTM. Kartendarstellung © OpenTopoMap (CC-BY-SA)]
@@ -30,8 +30,8 @@ Eigentlich sind die Quadrate (squares) des Maidenhead-Locator gar keine Quadrate
 Jedes Quadrat wird nun wiederum in Unter-Quadrate aufgeteilt, die nach der gleichen Logik wie die Felder mit Buchstaben versehen sind, allerdings von AA bis XX. Die DARC-Geschäftsstelle liegt im Feld JO, Quadrat 41, Unter-Quadrat RG.
 
 | X: Bezeichnung | l: Übersetzung | l: Alternative Bez. | c: | c: z.B. |
-| Field | Feld | Größtfeld | AA-RR | JO |
-| Square | Quadrat | Großfeld | 00-99 | 41 |
+| Field | Feld | Grösstfeld | AA-RR | JO |
+| Square | Quadrat | Grossfeld | 00-99 | 41 |
 | Subsquare | Unter-Quadrat | Kleinfeld | AA-XX | RG |
 [table:n_locator_stufen:Die einzelnen Stufen des Maidenhead-Locators]
 

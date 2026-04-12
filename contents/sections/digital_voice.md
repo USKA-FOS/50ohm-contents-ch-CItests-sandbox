@@ -24,7 +24,7 @@ Bei digitaler Sprachübertragung werden die Sprachsignale vor der Übertragung i
 </margin>
 
 <tip>
-Die meisten externen Leistungsverstärker können nicht so schnell zwischen Sende- und Empfangsbetrieb umschalten, wie es für TDMA notwendig wäre. Daher dürfen für DMR und andere Verfahren, die Zeitslots verwenden, ausschließlich dafür geeignete Leistungsverstärker verwendet werden. Ansonsten kommt es dazu, dass die Frequenz nicht nur während des eigenen Zeitslots belegt wird. Das kann Sendungen anderer Stationen auf derselben Frequenz stören.
+Die meisten externen Leistungsverstärker können nicht so schnell zwischen Sende- und Empfangsbetrieb umschalten, wie es für TDMA notwendig wäre. Daher dürfen für DMR und andere Verfahren, die Zeitslots verwenden, ausschliesslich dafür geeignete Leistungsverstärker verwendet werden. Ansonsten kommt es dazu, dass die Frequenz nicht nur während des eigenen Zeitslots belegt wird. Das kann Sendungen anderer Stationen auf derselben Frequenz stören.
 </tip>
 
 [question:NE403]

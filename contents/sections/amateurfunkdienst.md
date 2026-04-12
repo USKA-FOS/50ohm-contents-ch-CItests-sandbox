@@ -9,7 +9,7 @@ Da auch der Amateurfunk ein offizieller Funkdienst ist, beinhaltet er sinn- und 
 
 Als kleine Aufgabe vergleichen wir die vorstehende, internationale Definition des Amateurfunks mit der entsprechenden Passage im § 2 Absatz 2 des Amateurfunkgesetzes (AFuG):
 
-"Im Sinne dieses Gesetzes ist (der) Amateurfunkdienst ein Funkdienst, der von Funkamateuren untereinander, zu experimentellen und technisch-wissenschaftlichen Studien, zur eigenen Weiterbildung, zur Völkerverständigung und zur Unterstützung von Hilfsaktionen in Not- und Katastrophenfällen wahrgenommen wird; der Amateurfunkdienst schließt die Benutzung von Weltraumfunkstellen ein. Der Amateurfunkdienst und der Amateurfunkdienst über Satelliten sind keine Sicherheitsfunkdienste, ..."
+"Im Sinne dieses Gesetzes ist (der) Amateurfunkdienst ein Funkdienst, der von Funkamateuren untereinander, zu experimentellen und technisch-wissenschaftlichen Studien, zur eigenen Weiterbildung, zur Völkerverständigung und zur Unterstützung von Hilfsaktionen in Not- und Katastrophenfällen wahrgenommen wird; der Amateurfunkdienst schliesst die Benutzung von Weltraumfunkstellen ein. Der Amateurfunkdienst und der Amateurfunkdienst über Satelliten sind keine Sicherheitsfunkdienste, ..."
 
 % Wozu dient der Amateurfunk national
 Man kann gut erkennen, dass sich die Definitionen für den Amateurfunk in den RR und im AFuG im Kern nicht unterscheiden. Es schadet nicht, die Stelle im AFuG nachzulesen, denn es ist immer gut, den Gesetzestext im Original zu kennen.

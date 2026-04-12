@@ -4,7 +4,7 @@ Wenn man von einem anderen Standort als dem in der Zulassungsurkunde angegebenen
 | am | aeronautisch mobil | An Bord eines Luftfahrzeugs, das sich im Flug befindet |
 | mm | maritim mobil | An Bord eines Schiffs auf See |
 | m | mobil | Von einem Landfahrzeug oder einem Schiff auf Binnengewässern aus |
-| p | portabel | Zu Fuß unterwegs oder vorübergehend ortsfest |
+| p | portabel | Zu Fuss unterwegs oder vorübergehend ortsfest |
 | R | Remote | Remote-Betrieb |
 | T | Trainee | Ausbildungsfunk |
 [table:n_rufzeichenzusaetze:Mögliche Rufzeichenzusätze]
@@ -19,13 +19,13 @@ Der Zusatz wird mit einem "/" an ein Rufzeichen angehängt. Im Sprechfunk kann d
 | DG2RON/am | Delta Golf Zwei Romeo Oscar November (Stroke) Aeronautisch Mobil |
 [table:n_rufzeichenzusaetze_sprechweise:Sprechweise von Rufzeichenzusätzen, "Stroke" ist optional und kann weggelassen werden]
 
-Wenn man sich an Bord eines Luftfahrzeugs, also einem Flugzeug, Heißluftballon, Zeppelin o. ä., befindet und Funkbetrieb machen möchte, kann man an das eigene Rufzeichen den Zusatz /am (aeronautisch mobil) anhängen. Das Luftfahrzeug muss sich dabei komplett in der Luft befinden und darf keine Verbindung zum Boden haben, z. B. durch Halteleinen. Der Funkbetrieb muss vor Betriebsaufnahme vom Luftfahrzeugführer erlaubt, jedoch nicht von der BNetzA genehmigt werden.
+Wenn man sich an Bord eines Luftfahrzeugs, also einem Flugzeug, Heissluftballon, Zeppelin o. ä., befindet und Funkbetrieb machen möchte, kann man an das eigene Rufzeichen den Zusatz /am (aeronautisch mobil) anhängen. Das Luftfahrzeug muss sich dabei komplett in der Luft befinden und darf keine Verbindung zum Boden haben, z. B. durch Halteleinen. Der Funkbetrieb muss vor Betriebsaufnahme vom Luftfahrzeugführer erlaubt, jedoch nicht von der BNetzA genehmigt werden.
 
 [question:BD201]
 [question:BD202]
 [question:VE705]
 
-Ähnliches wie beim Luftfahrzeug gilt auch bei Wasserfahrzeugen. Wenn man sich mit einem Motorboot, einer Segelyacht oder einem anderen Wasserfahrzeug auf dem Wasser außerhalb der 12-Meilen-Zone in internationalen Gewässern befindet, dann darf der Zusatz "/mm" (maritim mobil) angehängt werden. Befindet man sich innerhalb der 12-Meilen-Zone oder auf Flüssen, Seen oder ähnlichen Binnengewässern, dann darf "/m" (mobil) verwendet werden. Vor dem Sendebetrieb muss der Schiffsführer seine Zustimmung geben.
+Ähnliches wie beim Luftfahrzeug gilt auch bei Wasserfahrzeugen. Wenn man sich mit einem Motorboot, einer Segelyacht oder einem anderen Wasserfahrzeug auf dem Wasser ausserhalb der 12-Meilen-Zone in internationalen Gewässern befindet, dann darf der Zusatz "/mm" (maritim mobil) angehängt werden. Befindet man sich innerhalb der 12-Meilen-Zone oder auf Flüssen, Seen oder ähnlichen Binnengewässern, dann darf "/m" (mobil) verwendet werden. Vor dem Sendebetrieb muss der Schiffsführer seine Zustimmung geben.
 
 [question:BD205]
 [question:VE706]

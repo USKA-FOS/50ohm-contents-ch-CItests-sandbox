@@ -1,4 +1,4 @@
-Wir stehen oft vor dem Problem, dass ein gewünschter Widerstandswert nicht in der sogenannten "Widerstands-Normreihe" enthalten ist. Es könnte auch sein, dass ein Widerstand eine große Verlustleistung umsetzen muss, die in handelsüblichen Einzelwiderständen nicht möglich ist -- um nur zwei Beispiele zu nennen. Wir werden jetzt betrachten, wie wir durch Reihenschaltung oder Parallelschaltung von Widerständen andere Widerstandswerte erhalten können.
+Wir stehen oft vor dem Problem, dass ein gewünschter Widerstandswert nicht in der sogenannten "Widerstands-Normreihe" enthalten ist. Es könnte auch sein, dass ein Widerstand eine grosse Verlustleistung umsetzen muss, die in handelsüblichen Einzelwiderständen nicht möglich ist -- um nur zwei Beispiele zu nennen. Wir werden jetzt betrachten, wie wir durch Reihenschaltung oder Parallelschaltung von Widerständen andere Widerstandswerte erhalten können.
 
 Aus dem Ohmschen Gesetz können wir die Regeln von Reihen- und Paralelschaltungen von Widerständen herleiten:
 
@@ -15,7 +15,7 @@ Die Gesamtspannung $U_g$ ist einfach die Summe dieser beiden Spannungen:
 
 $U_g = U_1 + U_2 = R_{\mathrm{ges}} \cdot {I} = R_1 \cdot I + R_2 \cdot I$
 
-Jetzt können wir den Widerstand berechnen, der zwischen den äußeren Klemmen zu sehen ist:
+Jetzt können wir den Widerstand berechnen, der zwischen den äusseren Klemmen zu sehen ist:
 $R_{\mathrm{ges}} = \frac{U_g}{I} = R_1 + R_2$, weil sich auf beiden Seiten der Gleichung der Strom $I$ rauskürzt.
 
 Das Ganze funktioniert auch bei mehr als zwei Widerständen, wie in der Formelsammlung dargestellt:
@@ -30,13 +30,13 @@ Jetzt liegt an beiden Widerständen die selbe Spannung $U$ an, die in den Widers
 
 $I_1 = \frac{U}{R_1}$ und $I_2 = \frac{U}{R_2}$
 
-fließen lässt. 
+fliessen lässt. 
 
 <margin>
 [picture:945:e_parallelschaltung:In dieser Schaltung sind alle Spannungen und Ströme zu sehen.]
 </margin>
 
-Der im äußeren Stromkreis fließende Strom ist die Summe dieser beiden Ströme:
+Der im äusseren Stromkreis fliessende Strom ist die Summe dieser beiden Ströme:
 
 $I = I_1 + I_2 = \frac{U}{R_1} + \frac{U}{R_2}$
 
@@ -57,7 +57,7 @@ Den Ausdruck für zwei parallele Widerstände können wir nach den Regeln der Br
 $R_{\mathrm{ges}} = \dfrac{R_1 \cdot R_2}{R_1 + R_2}$
 
 <tip>
-Bei der Reihenschaltung ist die Wert des Gesamtwiderstands immer größer als der größte Einzelwiderstand. Bei der Parallelschaltung ist der Gesamtwiderstand immer kleiner als der kleinste Einzelwiderstand.
+Bei der Reihenschaltung ist die Wert des Gesamtwiderstands immer grösser als der grösste Einzelwiderstand. Bei der Parallelschaltung ist der Gesamtwiderstand immer kleiner als der kleinste Einzelwiderstand.
 </tip>
 
 ---
@@ -77,7 +77,7 @@ Einige der Aufgaben enthalten Widerstandsnetzwerke, in denen sowohl eine Reihen-
 <tip>
 [picture:305:e_tipp_aufgabe:Beispielschaltung]
 
-Ein wichtiges Lösungsverfahren ist die "Methode des scharfen Hinsehens" ... da gibt es zum Beispiel eine Schaltung, die einen Widerstand $R_1$ in Reihe mit zwei parallel geschalteten Widerständen $R_2$ und $R_3$ hat. Die Werte sind $R_1 = \qty{1}{\kilo\ohm}$, $R_2 = \qty{2000}{\ohm}$ und $R_3 = \qty{2}{\kilo\ohm}$. Nun sind aber $\qty{2}{\kilo\ohm} = \qty{2000}{\ohm}$. Die Paralellschaltung von $R_2$ und $R_3$ ergibt einen Widerstand, der halb so groß ist: $\qty{1000}{\ohm} = \qty{1}{\kilo\ohm}$. Den schalten wir in Reihe mit $R_1$ und erhalten das Ergebnis: $R_{\mathrm{ges}} = \qty{2}{\kilo\ohm}$.
+Ein wichtiges Lösungsverfahren ist die "Methode des scharfen Hinsehens" ... da gibt es zum Beispiel eine Schaltung, die einen Widerstand $R_1$ in Reihe mit zwei parallel geschalteten Widerständen $R_2$ und $R_3$ hat. Die Werte sind $R_1 = \qty{1}{\kilo\ohm}$, $R_2 = \qty{2000}{\ohm}$ und $R_3 = \qty{2}{\kilo\ohm}$. Nun sind aber $\qty{2}{\kilo\ohm} = \qty{2000}{\ohm}$. Die Paralellschaltung von $R_2$ und $R_3$ ergibt einen Widerstand, der halb so gross ist: $\qty{1000}{\ohm} = \qty{1}{\kilo\ohm}$. Den schalten wir in Reihe mit $R_1$ und erhalten das Ergebnis: $R_{\mathrm{ges}} = \qty{2}{\kilo\ohm}$.
 </tip>
 
 [question:ED111]
@@ -91,6 +91,6 @@ Bei Leistungsbetrachtungen geht man am Besten von dem bekannten Ausdruck für di
 
 $P = U \cdot I$
 
-Bei der Reihenschaltung von z.B. drei gleichen Widerständen fließt durch alle Widerstände der gleiche Strom, aber an jedem einzelnen Widerstand fällt nur ein Drittel der äußeren Spannung ab. Bei der Parallelschaltung liegt an allen Widerständen die selbe Spannung, aber der Strom teil sich auf drei Pfade auf. In beiden Fällen verträgt also die Schaltung das dreifache der Leistung des einzelnen Widerstandes.
+Bei der Reihenschaltung von z.B. drei gleichen Widerständen fliesst durch alle Widerstände der gleiche Strom, aber an jedem einzelnen Widerstand fällt nur ein Drittel der äusseren Spannung ab. Bei der Parallelschaltung liegt an allen Widerständen die selbe Spannung, aber der Strom teil sich auf drei Pfade auf. In beiden Fällen verträgt also die Schaltung das dreifache der Leistung des einzelnen Widerstandes.
 
 [question:ED107]

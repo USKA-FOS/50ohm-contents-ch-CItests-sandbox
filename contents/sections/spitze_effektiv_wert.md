@@ -1,11 +1,11 @@
-Sinusförmige Wechselspannungen ändern ihren Wert fortlaufend. Um sie besser beschreiben zu können, wollen wir uns im Folgenden drei wichtige Kenngrößen ansehen:
+Sinusförmige Wechselspannungen ändern ihren Wert fortlaufend. Um sie besser beschreiben zu können, wollen wir uns im Folgenden drei wichtige Kenngrössen ansehen:
 
 1. $\hat{U}$: Den Spitzenwert eine Wechselspannung
 2. $U_\text{SS}$: der Spitze-Spitze-Wert 
 3. $U_\text{eff}$: der Effektivwert
 
 <margin>
-[picture:834:e_wechselspannung_kenngroessen:Die drei Kenngrößen einer Wechselspannung]
+[picture:834:e_wechselspannung_kenngroessen:Die drei Kenngrössen einer Wechselspannung]
 </margin>
 
 ---
@@ -16,7 +16,7 @@ Der *Spitzenwert* einer Wechselspannung $\hat{U}$ entspricht der Amplitude, die 
 [photo:198:e_spannungsfestigkeit_elkos:Elektrolytkondensatoren mit den Spannungsfestigkeiten 16 Volt und 25 Volt]
 </margin>
 
-Eine weitere Kenngröße ist der *Spitze-Spitze-Wert*. Das ist der Unterschied zwischen dem höchsten und dem niedrigsten Ausschlag. Für Sinusförmige Wechselspannungen gilt:
+Eine weitere Kenngrösse ist der *Spitze-Spitze-Wert*. Das ist der Unterschied zwischen dem höchsten und dem niedrigsten Ausschlag. Für Sinusförmige Wechselspannungen gilt:
 
 $U_\text{SS} = 2\cdot \hat{U}$.
  
@@ -27,7 +27,7 @@ Wenn nicht die Spannungs-, sondern die Leistung von Geräten oder die Wärmebela
 
 ---
 
-Bei sinusförmigen Spannungen ist der Spitzen- oder Scheitelwert etwa 1,4-mal so groß wie der Effektivwert (siehe Abbildung [ref:e_wechselspannung_kenngroessen]). Die genaue Rechnung führt zu einer einfachen Formel:
+Bei sinusförmigen Spannungen ist der Spitzen- oder Scheitelwert etwa 1,4-mal so gross wie der Effektivwert (siehe Abbildung [ref:e_wechselspannung_kenngroessen]). Die genaue Rechnung führt zu einer einfachen Formel:
 
 $U_{eff} = \frac{\hat{U}}{\sqrt{2}}$ oder $\hat{U} = U_{eff} \cdot \sqrt{2}$
 
@@ -56,7 +56,7 @@ Nach dem gleichen Prinzip funktioniern auch die beiden folgenden Fragen:
 
 % TODO referenz auf das Leistungskapitel einfügen:
 
-Bei der nächsten Frage wird indirekt nach dem Effektivwert der Spannung gefragt. Wenn man weiß, das $\frac{1}{\sqrt{2}} \approx 0,7$ ist kann man die beiden Ergebnisse direkt ablesen. 
+Bei der nächsten Frage wird indirekt nach dem Effektivwert der Spannung gefragt. Wenn man weiss, das $\frac{1}{\sqrt{2}} \approx 0,7$ ist kann man die beiden Ergebnisse direkt ablesen. 
 
 <indepth>
 Wichtig ist, dass sowohl die Gleichspannung $\qty{0,7}{\volt}$ als auch die Gleichspannung $\qty{-0,7}{\volt}$ zum gleichen Ergebnis führen. Das liegt daran, dass sich bei einer negativen Spannung auch das Vorzeichen des Stroms ändert, was jedoch trotzdem zur gleichen Leistung führt – denn es gilt $P = U \cdot I$.

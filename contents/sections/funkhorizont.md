@@ -4,7 +4,7 @@ Die Funkwellen im VHF- und UHF-Bereich verhalten sich ähnlich wie das Licht. Da
 [picture:484:n_funkhorizont:Ausbreitung]
 </webmargin>
  
-Für eine zuverlässige Funkverbindung im VHF- und UHF-Bereich und besonders auch auf noch höheren Frequenzen ist meistens eine Sichtverbindung erforderlich. Hohe Gebäude oder Berge können die Funkverbindung beeinträchtigen. Je höher die Antenne ist, umso größer ist die Reichweite. Weit entfernte Stationen erreicht man von einem höheren Berg besser als aus einem Tal oder dem Stadtzentrum.
+Für eine zuverlässige Funkverbindung im VHF- und UHF-Bereich und besonders auch auf noch höheren Frequenzen ist meistens eine Sichtverbindung erforderlich. Hohe Gebäude oder Berge können die Funkverbindung beeinträchtigen. Je höher die Antenne ist, umso grösser ist die Reichweite. Weit entfernte Stationen erreicht man von einem höheren Berg besser als aus einem Tal oder dem Stadtzentrum.
 
 [question:NH301]
 [question:NH303]

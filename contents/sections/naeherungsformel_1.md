@@ -15,9 +15,9 @@ Das Fernfeld einer Strahlungsquelle, ist der Bereich, in dem die Vektoren der el
 
 Die Grenze zwischen Fernfeld und Nahfeld ist in erster Linie abhängig von der Wellenlänge. Das Fernfeld bildet sich, laut den [Erläuterungen zur BEMFV](https://50ohm.de/ebemfv), in einem Abstand von etwa $4\cdot\lambda$ aus. 
 
-Das Nahfeld unterteilt sich in das *reaktive* und das *strahlende Nahfeld*. Praktisch ist, dass im strahlenden Nahfeld trotzdem die Formel für das Fernfeld verwendet werden kann. Das liegt daran, dass die Näherungsformel hier sehr konservative Abschätzungen liefert, das heißt die tatsächlichen Feldstärken sind geringer als die errechneten. Man ist auf der sicheren Seite. 
+Das Nahfeld unterteilt sich in das *reaktive* und das *strahlende Nahfeld*. Praktisch ist, dass im strahlenden Nahfeld trotzdem die Formel für das Fernfeld verwendet werden kann. Das liegt daran, dass die Näherungsformel hier sehr konservative Abschätzungen liefert, das heisst die tatsächlichen Feldstärken sind geringer als die errechneten. Man ist auf der sicheren Seite. 
   
-Mit der Formel $ d > \frac{\lambda}{2\pi} $ stellen wir also sicher, dass wir außerhalb des *reaktiven Nahfelds* sind.
+Mit der Formel $ d > \frac{\lambda}{2\pi} $ stellen wir also sicher, dass wir ausserhalb des *reaktiven Nahfelds* sind.
 </indepth>
 
 %TODO Applet basteln: https://www.leifiphysik.de/elektrizitaetslehre/elektromagnetische-wellen/versuche/dipolstrahlung-animation
@@ -48,7 +48,7 @@ In der folgenden Frage muss nun erstmals ein richtiger Sicherheitsabstand berech
 
 [question:EK108]
 
-Zunächst müssen wir die Strahlungsleistung in $P_\textrm{EIRP}$ berechnen. Außerdem fällt uns auf, dass der Antennengewinn in $\unit{\dBd}$ angegeben ist. Hierzu nutzen wir wieder die Formel aus der Formelsammlung:
+Zunächst müssen wir die Strahlungsleistung in $P_\textrm{EIRP}$ berechnen. Ausserdem fällt uns auf, dass der Antennengewinn in $\unit{\dBd}$ angegeben ist. Hierzu nutzen wir wieder die Formel aus der Formelsammlung:
 
 $P_\text{EIRP} = P_\text{Sender} \cdot 10^{\frac{g_d-a+\qty{2,15}{\dB}}{\qty{10}{\dB}}} = \qty{100}{W} \cdot 10^{\frac{\qty{7,5}{\dBd}-\qty{1,5}{\dB}+\qty{2,15}{\dB}}{\qty{10}{\dB}}} \approx \qty{653}{\watt}$
 
@@ -69,7 +69,7 @@ Der Sicherheitsabstand von $\qty{5}{\meter}$ wurde mit der Formel für das Fernf
 
 $\begin{split} d &> \frac{\lambda}{2\pi}\\ d &> \frac{\qty{10}{\meter}}{2\pi}\\ d &> \qty{1,6}{\meter} \end{split}$
 
-Der berechnete Sicherheitsabstand von $\qty{5}{\meter}$ ist größer als $\qty{1,6}{\meter}$ und liegt eindeutig im Fernfeld (bzw. strahlenden Nahfeld). Die Berechnung ist damit gültig. Die richtige Antwort ist $\qty{5}{\meter}$.
+Der berechnete Sicherheitsabstand von $\qty{5}{\meter}$ ist grösser als $\qty{1,6}{\meter}$ und liegt eindeutig im Fernfeld (bzw. strahlenden Nahfeld). Die Berechnung ist damit gültig. Die richtige Antwort ist $\qty{5}{\meter}$.
 
 <indepth>
 In der Tabelle steht für $\qty{6}{\dB}$ ein Faktor von $\num{4}$. Das ist ein gerundeter Wert und beträgt eigentlich $\num{3,981071706}$. Deshalb kommt es zum Rundungsfehler.

@@ -1,4 +1,4 @@
-Eine weitere Art von Wettbewerb ist das *Amateur Radio Direction Finding (ARDF)*. Es handelt sich dabei um Peilwettbewerbe, die im deutschsprachigen Raum meist als *Fuchsjagd* bezeichnet werden. Die "Füchse" sind kleine versteckte Sender, die von den Teilnehmern mittels Peilempfängern gefunden und zu Fuß angelaufen werden müssen. Gewonnen hat der Erste, der den Zielpunkt erreicht, nachdem er alle Füchse gefunden hat.
+Eine weitere Art von Wettbewerb ist das *Amateur Radio Direction Finding (ARDF)*. Es handelt sich dabei um Peilwettbewerbe, die im deutschsprachigen Raum meist als *Fuchsjagd* bezeichnet werden. Die "Füchse" sind kleine versteckte Sender, die von den Teilnehmern mittels Peilempfängern gefunden und zu Fuss angelaufen werden müssen. Gewonnen hat der Erste, der den Zielpunkt erreicht, nachdem er alle Füchse gefunden hat.
 
 Die Füchse senden in zeitlichem Wechsel - beispielsweise für eine Minute - jeweils ein anderes, spezielles Rufzeichen in CW-Morsetelegrafie aus. In der Tabelle [ref:ardf_morse_code] sind alle sechs Rufzeichen aufgeführt, die von der Bundesnetzagentur speziell für Fuchsjagdsender zugeteilt sind.
 
@@ -18,7 +18,7 @@ Die Füchse senden in zeitlichem Wechsel - beispielsweise für eine Minute - jew
 </margin>
 
 <tip>
-Um die Rufzeichen der Fuchsjagdsender aufnehmen zu können, braucht man keine Morsetelegrafie zu beherrschen. Es werden ausschließlich Zeichen verwendet, die nur aus langen Tönen (M, O) bzw. nur aus kurzen Tönen (E, I, S, H, 5) bestehen. Diese werden so langsam gesendet, dass man mitzählen kann.
+Um die Rufzeichen der Fuchsjagdsender aufnehmen zu können, braucht man keine Morsetelegrafie zu beherrschen. Es werden ausschliesslich Zeichen verwendet, die nur aus langen Tönen (M, O) bzw. nur aus kurzen Tönen (E, I, S, H, 5) bestehen. Diese werden so langsam gesendet, dass man mitzählen kann.
 </tip>
 
 [question:BE313]

@@ -1,12 +1,12 @@
 Auf dem Typschild elektrischer Geräte ist meistens die Leistungsaufnahme angegeben. Zum Beispiel könnte man auf einem LED-Leuchtmittel die Angabe $\qty{7}{\watt}$ finden oder $\qty{425}{\watt}$ auf einem Staubsauger.
 
-Auch an jedem Widerstand wird elektrische Leistung umgesetzt. Sobald ein Strom durch einen Widerstand fließt, wird elektrische Energie in thermische Energie umgewandelt, also in Wärme. Je größer der Strom ist, desto mehr Wärme wird an die Umgebung abgegeben. Deshalb werden auch viele elektrische Geräte beim Betrieb warm. Die elektrische Leistung gibt an, wieviel elektrische Energie in einer gewissen Zeit umgesetzt wird. Die Einheit der Leistung ist Watt, abgekürzt $\unit{\watt}$.
+Auch an jedem Widerstand wird elektrische Leistung umgesetzt. Sobald ein Strom durch einen Widerstand fliesst, wird elektrische Energie in thermische Energie umgewandelt, also in Wärme. Je grösser der Strom ist, desto mehr Wärme wird an die Umgebung abgegeben. Deshalb werden auch viele elektrische Geräte beim Betrieb warm. Die elektrische Leistung gibt an, wieviel elektrische Energie in einer gewissen Zeit umgesetzt wird. Die Einheit der Leistung ist Watt, abgekürzt $\unit{\watt}$.
 
 [question:NA204]
 [question:NA211]
 [question:NA210]
 
-Die elektrische Leistung hängt sowohl vom Strom als auch von der Spannung ab. Es gilt sowohl "Je größer die Spannung, umso größer die Leistung" also auch "Je größer der Strom, umso größer die Leistung". Berechnen lässt sich die Leistung sehr leicht. Sie ist das Produkt aus Strom und Spannung:
+Die elektrische Leistung hängt sowohl vom Strom als auch von der Spannung ab. Es gilt sowohl "Je grösser die Spannung, umso grösser die Leistung" also auch "Je grösser der Strom, umso grösser die Leistung". Berechnen lässt sich die Leistung sehr leicht. Sie ist das Produkt aus Strom und Spannung:
 
 $ P = U \cdot I $
 

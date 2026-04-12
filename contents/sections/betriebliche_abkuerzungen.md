@@ -22,4 +22,4 @@ Kennengelernt haben wir auch schon die Abkürzung CW für Continuous Wave, die m
 
 [question:BB107]
 
-Eine Reihe von Abkürzungen aus der Telegrafie haben wir schon besprochen: Das "R" (received, bzw. roger) als Empfangsbestätigung am Anfang eines Durchgangs ist eines der wenigen Zeichen, das ausschließlich in der Telegrafie genutzt wird. Das Gleiche gilt für das Zeichen "K". Eine Eselsbrücke ist "Kommen" als Aufforderung zum Senden. Bei "BK" drängt sich "*B*rea*k*" als Merkhilfe geradezu auf. Die Tabelle [ref:n_abkuerzungen] fasst nochmal die wichtigsten Abkürzungen für die Prüfung zusammen.
+Eine Reihe von Abkürzungen aus der Telegrafie haben wir schon besprochen: Das "R" (received, bzw. roger) als Empfangsbestätigung am Anfang eines Durchgangs ist eines der wenigen Zeichen, das ausschliesslich in der Telegrafie genutzt wird. Das Gleiche gilt für das Zeichen "K". Eine Eselsbrücke ist "Kommen" als Aufforderung zum Senden. Bei "BK" drängt sich "*B*rea*k*" als Merkhilfe geradezu auf. Die Tabelle [ref:n_abkuerzungen] fasst nochmal die wichtigsten Abkürzungen für die Prüfung zusammen.

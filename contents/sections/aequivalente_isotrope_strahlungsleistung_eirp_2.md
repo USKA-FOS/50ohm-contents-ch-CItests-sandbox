@@ -1,4 +1,4 @@
-In der Klasse N haben wir bereits den isotropen Strahler (vgl. Abbildung [ref:e_Kugelstrahler]) kennengelernt. Der isotrope Strahler ist keine reale Antenne, er ist ein physikalisches Modell für einen Strahler, der die Energie in alle Richtungen des Raumes gleichmäßig abstrahlt. 
+In der Klasse N haben wir bereits den isotropen Strahler (vgl. Abbildung [ref:e_Kugelstrahler]) kennengelernt. Der isotrope Strahler ist keine reale Antenne, er ist ein physikalisches Modell für einen Strahler, der die Energie in alle Richtungen des Raumes gleichmässig abstrahlt. 
 
 Die Äquivalente Isotrope Strahlungsleistung (EIRP) einer realen Antenne bezieht sich auf den isotropen Strahler. Mit anderen Worten, die Strahlungsleistung einer realen Antenne wird mit der Strahlungsleistung des isotropen Strahlers verglichen. Für die abgestrahlte Leistung ist nur die Energie relevant, die tatsächlich an der Antenne ankommt. Durch Kabeldämpfung etc. kann die Leistung des Senders in der realen Welt nicht vollständig der Antenne zugeführt werden. Diese verlorene Leistung darf nicht in die Berechnung der Stahlungsleistung eingehen. Der Antennengewinn in der Vorzugsrichtung ist natürlich Teil der Rechnung. In Formeln bedeutet das:
 
@@ -157,7 +157,7 @@ In der nächsten Frage ist auch wieder ein Dipol als Antenne vorgegeben.
 
 [question:EG507]
 
-Gesucht ist die äquivalente isotrope Strahlungsleistung $P_\text{EIRP}$. Zunächst muss die Kabeldämpfung berücksichtigt werden. Eine Dämpfung von $\qty{10}{\dB}$ entspricht einem Leistungsverhältnis von $\num{0,1}$. Mit diesem Dämpfungsfaktor sowie dem Antennengewinnfaktor des Dipols von $\num{1,64}$ lässt sich die Strahlungsleistung anschließend berechnen.
+Gesucht ist die äquivalente isotrope Strahlungsleistung $P_\text{EIRP}$. Zunächst muss die Kabeldämpfung berücksichtigt werden. Eine Dämpfung von $\qty{10}{\dB}$ entspricht einem Leistungsverhältnis von $\num{0,1}$. Mit diesem Dämpfungsfaktor sowie dem Antennengewinnfaktor des Dipols von $\num{1,64}$ lässt sich die Strahlungsleistung anschliessend berechnen.
 
 $P_\text{EIRP} = \qty{100}{\watt} \cdot 0,1 \cdot 1,64 = \qty{16,4}{\watt}$
 

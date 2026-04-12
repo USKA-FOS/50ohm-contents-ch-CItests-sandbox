@@ -10,7 +10,7 @@ Die Antennenelemente dieser Antenne sind senkrecht zum Erdboden. Sie entsprechen
 
 ---
 
-Dass die Polarisationsrichtung oft mit der geometrischen Anordnung der Antennenelemente übereinstimmt liegt daran, dass meistens Antennen eingesetzt werden, bei denen die Leiteranordnung geometrisch mit der Richtung des elektrischen Feldes übereinstimmt. Die Angabe "horizontal" oder "vertikal" bezieht sich nämlich vereinbarungsgemäß auf die Ausrichtung des elektrischen Feldes und nicht auf die Ausrichtung des magnetischen Feldanteils.
+Dass die Polarisationsrichtung oft mit der geometrischen Anordnung der Antennenelemente übereinstimmt liegt daran, dass meistens Antennen eingesetzt werden, bei denen die Leiteranordnung geometrisch mit der Richtung des elektrischen Feldes übereinstimmt. Die Angabe "horizontal" oder "vertikal" bezieht sich nämlich vereinbarungsgemäss auf die Ausrichtung des elektrischen Feldes und nicht auf die Ausrichtung des magnetischen Feldanteils.
 
 <indepth>
 Die einfache Merkregel, dass geometrisch vertikal angeordnete Antennen vertikal polarisieren und horizontal angeordnete Antennen horizontal polarisieren stimmt *nicht im Allgemeinen*. So weist beispielsweise eine horizontal liegende Magnetic-Loop-Antenne eine vertikale Polarisation auf und eine vertikal liegende Magnetic-Loop entsprechend eine horizontale Polarisation. Bei einer Ganzwellenschleifenantenne (z.B. Delta-Loop) hingegen hängt die Polarisationsrichtung von der Positionierung der Einspeisung ab. Bei Dipol- und Yagi-Uda-Antennen kann man die Polarisation aber anhand der mechanischen Ausrichtung der Drähte erkennen, da sich in dieser Richtung auch das elektrische Feld ausbildet.
@@ -18,11 +18,11 @@ Die einfache Merkregel, dass geometrisch vertikal angeordnete Antennen vertikal 
 
 [question:EG222]
 
-Die Bezugsebene der Polarisation ist bei terrestrischen Funkstellen stets die Erdoberfläche. Maßgebend für die Angabe der Polarisation ist die Ausrichtung des elektrischen Feldes.
+Die Bezugsebene der Polarisation ist bei terrestrischen Funkstellen stets die Erdoberfläche. Massgebend für die Angabe der Polarisation ist die Ausrichtung des elektrischen Feldes.
 
 [question:EB305]
 
-Der hier vorkommende Poynting-Vektor ist ein Vektor, der sowohl auf der elektrischen als auch der magnetischen Feldkomponente senkrecht steht, also in Ausbreitungsrichtung zeigt. Für die Feststellung der Polarisation ist aber die Ausrichtung der *elektrischen Feldkomponente* maßgeblich.
+Der hier vorkommende Poynting-Vektor ist ein Vektor, der sowohl auf der elektrischen als auch der magnetischen Feldkomponente senkrecht steht, also in Ausbreitungsrichtung zeigt. Für die Feststellung der Polarisation ist aber die Ausrichtung der *elektrischen Feldkomponente* massgeblich.
 
 ---
 

@@ -6,9 +6,9 @@ Bislang hatten wir elektrische und magnetische Felder für den Fall betrachtet, 
 
 Dabei treten zusätzliche Effekte auf. Bereits 1831 entdeckte Michael Faraday, dass ein zeitlich veränderliches Magnetfeld in einem benachbarten Leiter eine elektrische Spannung erzeugt. Dieser *Induktion* genannte Effekt wird zum Beispiel im Transformator genutzt: ein zeitlich variabler (z.B. sinusförmiger) Strom in der Primärwindung erzeugt ein zeitlich variables Magnetfeld, das wiederum in der Sekundärwindung eine Spannung induziert.
 
-Um zu erkennen, dass umgekehrt die Änderung eines elektrischen Felds zu einem Magnetfeld führt, stellen wir uns einen Plattenkondensator vor, dessen Platten mit einer externen Spannungsquelle einen Stromkreis bilden. Wenn wir das elektrische Feld im Inneren des Kondensators ändern, müssen im äußeren Stromkreis Ladungen bewegt werden. Das Bewegen von Ladungsträgern bedingt aber einen elektrischen Strom. Dieser elektrische Strom erzeugt aber wiederum ein Magnetfeld um den Leiter.
+Um zu erkennen, dass umgekehrt die Änderung eines elektrischen Felds zu einem Magnetfeld führt, stellen wir uns einen Plattenkondensator vor, dessen Platten mit einer externen Spannungsquelle einen Stromkreis bilden. Wenn wir das elektrische Feld im Inneren des Kondensators ändern, müssen im äusseren Stromkreis Ladungen bewegt werden. Das Bewegen von Ladungsträgern bedingt aber einen elektrischen Strom. Dieser elektrische Strom erzeugt aber wiederum ein Magnetfeld um den Leiter.
 
-Während Modellvorstellungen mit elektrischen Leitern für uns anschaulich sind, ist es aber ganz wichtig, dass diese Leiter nicht notwendig sind. Magnetische und elektrische Felder existieren  auch außerhalb von Leitern, sogar im Vakuum. Auch hier ist es so, dass ein zeitlich verändertes Magnetfeld ein zeitlich veränderliches elektrisches Feld erzeugt. Dieses zeitlich veränderliche Feld wiederum führt zu einem zeitlich veränderlichen Magnetfeld. *Zeitlich veränderliche magnetische Felder und zeitlich veränderliche elektrische Felder sind also immer gekoppelt.* Wir sprechen deshalb auch vom *elektromagnetischen Feld*. Zusammengefasst: Eine elektromagnetische Welle, die sich frei im Raum ausbreiten kann, beruht auf der Wechselwirkung zwischen zeitlich veränderlichen magnetischen und elektrischen Feldern.
+Während Modellvorstellungen mit elektrischen Leitern für uns anschaulich sind, ist es aber ganz wichtig, dass diese Leiter nicht notwendig sind. Magnetische und elektrische Felder existieren  auch ausserhalb von Leitern, sogar im Vakuum. Auch hier ist es so, dass ein zeitlich verändertes Magnetfeld ein zeitlich veränderliches elektrisches Feld erzeugt. Dieses zeitlich veränderliche Feld wiederum führt zu einem zeitlich veränderlichen Magnetfeld. *Zeitlich veränderliche magnetische Felder und zeitlich veränderliche elektrische Felder sind also immer gekoppelt.* Wir sprechen deshalb auch vom *elektromagnetischen Feld*. Zusammengefasst: Eine elektromagnetische Welle, die sich frei im Raum ausbreiten kann, beruht auf der Wechselwirkung zwischen zeitlich veränderlichen magnetischen und elektrischen Feldern.
 
 [question:EB302]
 
@@ -17,7 +17,7 @@ Wie oben schon beschrieben, zeitlich konstante Spannungen und Ströme können ke
 [question:EB301]
 
 <indepth>
-Magnetfeld und elektrisches Feld werden eigentlich durch *Vektoren* beschrieben, also durch Größen, die eine Richtung im Raum haben. Mathematisch lässt sich zeigen, dass im *Fernfeld*, also hinreichend weit weg von der Antenne, die Vektoren der beiden Felder senkrecht aufeinander stehen müssen. Die Ausbreitungsrichtung der elektromagnetischen Welle (also unseres Funksignals ...) steht wiederum senkrecht sowohl auf dem elektrischen als auch dem magnetischen Feld.
+Magnetfeld und elektrisches Feld werden eigentlich durch *Vektoren* beschrieben, also durch Grössen, die eine Richtung im Raum haben. Mathematisch lässt sich zeigen, dass im *Fernfeld*, also hinreichend weit weg von der Antenne, die Vektoren der beiden Felder senkrecht aufeinander stehen müssen. Die Ausbreitungsrichtung der elektromagnetischen Welle (also unseres Funksignals ...) steht wiederum senkrecht sowohl auf dem elektrischen als auch dem magnetischen Feld.
   
 [picture:886:e_emfeld_ausbreitung:Ausbreitung der elektromagnetischen Welle]
   
@@ -28,7 +28,7 @@ Die geschilderten Zusammenhänge werden mathematisch durch die *Maxwellschen Gle
 3. $\vec{\nabla} \times \vec{E} = -\frac{\partial\vec{B}}{\partial t}$
 4. $\vec{\nabla } \times \vec{B} =\mu_0 (\vec{j} +\varepsilon_0 \frac{\partial\vec{E}}{\partial t})$
   
-Die Gleichung (3) zeigt, dass ein zeitlich veränderliches Magnetfeld ein elektrisches Feld erzeugt. Dieses zeitlich veränderliche elektrische Feld trägt gemäß Gleichung (4) über den Verschiebungsstrom wiederum zur Erzeugung eines Magnetfeldes bei. Diese Zusammenhänge gehen weit über das hinaus was man im Amateurfunk wissen muss.
+Die Gleichung (3) zeigt, dass ein zeitlich veränderliches Magnetfeld ein elektrisches Feld erzeugt. Dieses zeitlich veränderliche elektrische Feld trägt gemäss Gleichung (4) über den Verschiebungsstrom wiederum zur Erzeugung eines Magnetfeldes bei. Diese Zusammenhänge gehen weit über das hinaus was man im Amateurfunk wissen muss.
   
 Experimentell wurde die Existenz des elektromagnetischen Felds allerdings erst mehr als zwanzig Jahre später (1886) durch Heinrich Hertz nachgewiesen.
 </indepth>

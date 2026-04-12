@@ -27,7 +27,7 @@ Befindet sich der Oszillator hingegen <u>unterhalb</u> der Empfangsfrequenz so b
 
 Die Spiegelfrequenz kann bei unzureichender Unterdrückung zu Empfangsstörungen führen, da Signale die sich auf der Spiegelfrequenz befinden dann ebenfalls im Empfänger hörbar sind. Um dies zu vermeiden, wird die gewünschte Empfangsfrequenz, wie in Abbildung [ref:spiegelfrequenzen_mischen2] gezeigt, durch einen Bandpassfilter selektiert und die *Spiegelfrequenz*, dadurch möglichst maximal unterdrückt.
 
-Um eine möglichst hohe Unterdrückung der Spiegelfrequenz zu ermöglichen ist es von Vorteil, wenn der Abstand zwischen gewünschter Empfangsfrequenz und Spiegelfrequenz durch eine hohe ZF möglichst groß gewählt werden kann. Bei einem großen Abstand zwischen gewünschter Empfangsfrequenz und Spiegelfrequenz kann ein hochwertiges Bandpassfilter leichter realisiert werden als bei einem geringen Abstand.
+Um eine möglichst hohe Unterdrückung der Spiegelfrequenz zu ermöglichen ist es von Vorteil, wenn der Abstand zwischen gewünschter Empfangsfrequenz und Spiegelfrequenz durch eine hohe ZF möglichst gross gewählt werden kann. Bei einem grossen Abstand zwischen gewünschter Empfangsfrequenz und Spiegelfrequenz kann ein hochwertiges Bandpassfilter leichter realisiert werden als bei einem geringen Abstand.
 
 [question:AF201]
 [question:AF202]

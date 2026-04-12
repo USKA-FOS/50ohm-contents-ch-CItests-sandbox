@@ -55,7 +55,7 @@ Ausländischen Funkamateure dürfen auf Grundlage der CEPT-Regelungen in Deutsch
 
 ---
 
-Die Empfehlungen der CEPT werden ausschließlich für persönliche Rufzeichen angewendet. Der Betrieb einer Klubstation bedarf immer der Beantragung einer Gastgenehmigung. Eine Gastzulassung benötigt man auch für einen Betrieb einer Amateurfunkstation, wenn das Land die CEPT-Empfehlung nicht anwendet.
+Die Empfehlungen der CEPT werden ausschliesslich für persönliche Rufzeichen angewendet. Der Betrieb einer Klubstation bedarf immer der Beantragung einer Gastgenehmigung. Eine Gastzulassung benötigt man auch für einen Betrieb einer Amateurfunkstation, wenn das Land die CEPT-Empfehlung nicht anwendet.
 
 [question:VB114]
 [question:VB113]

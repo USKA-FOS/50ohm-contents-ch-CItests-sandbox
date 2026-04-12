@@ -9,7 +9,7 @@ Wird das Sendergehäuse mit einer separaten Leitung mit der Potentialausgleichss
 
 Da das Ende der Leitung geerdet ist, kann sich dort kein Spannungsbauch bilden. Er baut sich deshalb am Anfang auf, also dort wo die Erdungsleitung an den Sender angeschlossen ist. Darum liegt an dem Gehäuse eine hohe Spannung an, abhängig von der Sendeleistung. Bei einer Berührung erleidet man einen elektrischen Schlag oder Verbrennungen. 
 
-Die Funkamateure sagen, das Gehäuse ist „heiß“. Man schreckt zurück, so wie man zurück schreckt, wenn man eine heiße Herdplatte anfasst.
+Die Funkamateure sagen, das Gehäuse ist „heiss“. Man schreckt zurück, so wie man zurück schreckt, wenn man eine heisse Herdplatte anfasst.
 
 ---
 

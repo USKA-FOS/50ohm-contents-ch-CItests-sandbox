@@ -5,7 +5,7 @@ Ein Netzgerät wandelt die Wechselspannung von $\qty{230}{\volt}$ aus der Steckd
 </margin>
 
 <indepth>
-Zur *Kontrolle des Betriebszustands* eines Netzgeräts gibt es beleuchtete Schalter, Kontroll-Leuchtdioden oder beleuchtete Anzeigeinstrumente. Die Anzeigeinstrumente können getrennt die Betriebsspannung in Volt und die aktuell fließenden Stromstärke in Ampere anzeigen. Es gibt auch umschaltbare Digitalanzeigen für diesen Zweck.
+Zur *Kontrolle des Betriebszustands* eines Netzgeräts gibt es beleuchtete Schalter, Kontroll-Leuchtdioden oder beleuchtete Anzeigeinstrumente. Die Anzeigeinstrumente können getrennt die Betriebsspannung in Volt und die aktuell fliessenden Stromstärke in Ampere anzeigen. Es gibt auch umschaltbare Digitalanzeigen für diesen Zweck.
 </indepth>
 
 [question:ND101]
@@ -19,13 +19,13 @@ Ein Netzgerät wird oft mittels *Schutzkontaktstecker* (kurz Schukostecker) an d
 [photo:86:n_schutzkontakt:Schutzkontakt an einer Steckdose und Schukostecker]
 </margin>
 
-Den äußeren Schleifkontakt des Schukosteckers nennt man *Schutzkontakt* (in der Abbildung [ref:n_schutzkontakt] rot markiert). Der Schutzkontakt verbindet sich beim Einstecken mit dem sogenannten *PE-Leiter* der Steckdose. "PE" ist die Abkürzung für den englischen Begriff "protective earth", der soviel wie Schutzerdung bedeutet. Beim Einstecken des Steckers wird das metallische Gehäuse des Netzgeräts also geerdet. Eine gefährliche Spannung auf dem Gehäuse wird dadurch ausgeschlossen.
+Den äusseren Schleifkontakt des Schukosteckers nennt man *Schutzkontakt* (in der Abbildung [ref:n_schutzkontakt] rot markiert). Der Schutzkontakt verbindet sich beim Einstecken mit dem sogenannten *PE-Leiter* der Steckdose. "PE" ist die Abkürzung für den englischen Begriff "protective earth", der soviel wie Schutzerdung bedeutet. Beim Einstecken des Steckers wird das metallische Gehäuse des Netzgeräts also geerdet. Eine gefährliche Spannung auf dem Gehäuse wird dadurch ausgeschlossen.
 
 [question:ND109]
 
 ---
 
-Der Ausgang des Netzteils und die Verbindungsleitung zum Transceiver sind zweipolig ausgelegt, damit sich ein geschlossener Stromkreis ergeben kann. Das ist die Voraussetzung dafür, dass der Strom vom Netzgerät zum Transceiver, durch diesen hindurch und wieder zurück zum Netzgerät fließen kann. 
+Der Ausgang des Netzteils und die Verbindungsleitung zum Transceiver sind zweipolig ausgelegt, damit sich ein geschlossener Stromkreis ergeben kann. Das ist die Voraussetzung dafür, dass der Strom vom Netzgerät zum Transceiver, durch diesen hindurch und wieder zurück zum Netzgerät fliessen kann. 
 
 <webmargin>
 [picture:680:n_Netzgeraet_TRX:Anschluss von Netzgerät und TRX]
@@ -41,14 +41,14 @@ Die Ausgangsklemmen für die Gleichspannung sind farbig ausgeführt: Rot steht f
 
 ---
 
-Im Netzgerät und in der Verbindungsleitung zum Transceiver gibt es sogenannte Feinsicherungen. Diese können einen Fehlerfall (Kurzschluss oder Überlastung) erkennen und den Stromfluss unterbrechen. Häufig handelt es sich dabei um Schmelzsicherungen, in denen ein dünner Draht schmilzt, wenn zuviel Strom fließt. Dann ist der Stromkreis nicht mehr geschlossen und es kann kein Strom mehr fließen. Man spricht dann von einer *durchgebrannten Sicherung* oder in der Fachsprache auch von einer *thermischen Abschaltung*.
+Im Netzgerät und in der Verbindungsleitung zum Transceiver gibt es sogenannte Feinsicherungen. Diese können einen Fehlerfall (Kurzschluss oder Überlastung) erkennen und den Stromfluss unterbrechen. Häufig handelt es sich dabei um Schmelzsicherungen, in denen ein dünner Draht schmilzt, wenn zuviel Strom fliesst. Dann ist der Stromkreis nicht mehr geschlossen und es kann kein Strom mehr fliessen. Man spricht dann von einer *durchgebrannten Sicherung* oder in der Fachsprache auch von einer *thermischen Abschaltung*.
 
 <margin>
 [photo:88:n_feinsicherungen:Feinsicherungen]
 </margin>
 
 <indepth>
-*Vertiefung:* Feinsicherungen sind $\qty{5}{\milli\meter} \times \qty{20}{\milli\meter}$ groß und in unterschiedlichen Ausführungen erhältlich. Sie unterscheiden sich nach Stromstärken und Auslösecharakteristiken. Träge Sicherungen werden immer dann eingesetzt, wenn der Einschaltstrom deutlich höher als der Nennstrom ist, z. B. in Netzgeräten. Die Auslösezeit der Sicherung hängt von der Stromstärke und der Dauer des Stromflusses ab. In Tabelle [ref:n_feinsicherung] sind übliche Werte für die Auslösezeit zusammengestellt. Genauere Angaben geben die Hersteller über Kennlinien in ihren Datenblättern an.
+*Vertiefung:* Feinsicherungen sind $\qty{5}{\milli\meter} \times \qty{20}{\milli\meter}$ gross und in unterschiedlichen Ausführungen erhältlich. Sie unterscheiden sich nach Stromstärken und Auslösecharakteristiken. Träge Sicherungen werden immer dann eingesetzt, wenn der Einschaltstrom deutlich höher als der Nennstrom ist, z. B. in Netzgeräten. Die Auslösezeit der Sicherung hängt von der Stromstärke und der Dauer des Stromflusses ab. In Tabelle [ref:n_feinsicherung] sind übliche Werte für die Auslösezeit zusammengestellt. Genauere Angaben geben die Hersteller über Kennlinien in ihren Datenblättern an.
 </indepth>
 
 Nachdem eine Schmelzsicherung ausgelöst hat und man die Ursache erkannt und behoben hat, muss man sie austauschen. Defekte Sicherungen dürfen aber nur durch gleichartige ersetzt werden! Dabei ist sowohl auf Stromstärke als auch die sogenannte Auslösecharakteristik zu achten, die angibt, wie schnell eine Sicherung auslöst (flink, mittelträge, träge).
@@ -58,7 +58,7 @@ Nachdem eine Schmelzsicherung ausgelöst hat und man die Ursache erkannt und beh
 | flink | F | max. $\qty{30}{\milli\second}$ |
 | mittelträge | MT | max. $\qty{90}{\milli\second}$ |
 | träge | T | max. $\qty{300}{\milli\second}$ |
-[table:n_feinsicherung:Kenngrößen von Feinsicherungen, Abschaltzeit bei zehnfachem Nennstrom]
+[table:n_feinsicherung:Kenngrössen von Feinsicherungen, Abschaltzeit bei zehnfachem Nennstrom]
 </webmargin>
 
 <danger>

@@ -2,7 +2,7 @@ Im Abschnitt zum "Umstellen von Formeln" hatten wir bereits gesehen, wie wir den
 
 $f = \frac{c_0}{\lambda}$
 
-bzw. als zugeschnittene Größengleichung
+bzw. als zugeschnittene Grössengleichung
 
 $f[[\unit{\mega\hertz}]] = \frac{300}{\lambda[[\unit{\meter}]]}$
 
@@ -36,7 +36,7 @@ Sogar noch einfacher lässt sich die Frequenz finden, die einer Wellenlänge von
 
 $f[[\unit{\mega\hertz}]]=\frac{300}{0,1}=3000$
 
-Da $\qty{1}{\giga\hertz} = \qty{1000}{\mega\hertz}$ entspricht, heißt die Antwort: $\qty{3}{\giga\hertz}$.
+Da $\qty{1}{\giga\hertz} = \qty{1000}{\mega\hertz}$ entspricht, heisst die Antwort: $\qty{3}{\giga\hertz}$.
 
 Für die nächsten Fragen stellen wir die Gleichung nach $\lambda$ um:
 
@@ -50,7 +50,7 @@ Diese Frage lässt sich wieder ganz ohne Rechnen lösen, wenn man die Frequenzzu
 
 Nun wird die einer Frequenz von $\qty{21}{\mega\hertz}$ entsprechende Wellenlänge gesucht. Das $\qty{15}{\meter}$-Band reicht von $\qtyrange{21}{21,45}{\mega\hertz}$ - da drängt sich die Antwort "$\qty{14,29}{\meter}$" als die richtige auf, wobei wir erkennen, dass das $\qty{15}{\meter}$-Band eigentlich falsch benannt ist. $\qty{14}{\meter}$-Band wäre eigentlich richtiger ...
 
-Wir können zur Sicherheit ja mal rechnen (mit der zugeschnittenen Größengleichung):
+Wir können zur Sicherheit ja mal rechnen (mit der zugeschnittenen Grössengleichung):
 
 $\lambda[[\unit{\meter}]] = \frac{300}{21}=14,29$
 

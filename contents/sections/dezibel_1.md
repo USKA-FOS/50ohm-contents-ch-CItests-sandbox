@@ -1,8 +1,8 @@
 An vielen Stellen der Hochfrequenztechnik spielen Leistungsverhältnisse eine wichtige Rolle, etwa beim Gewinn einer Antenne oder eines Verstärkers, oder bei der Dämpfung eines Kabels. In der Klasse N haben wir diese Zusammenhänge noch in Form einfacher Faktoren kennengelernt, zum Beispiel: „Die Antenne hat einen Gewinn von Faktor $2$“.
 
-Diese Verhältnisse können sehr große oder sehr kleine Zahlenwerte annehmen. So besitzt beispielsweise ein Kurzwellenempfänger einen Gesamtverstärkungsfaktor von $\num{1000000000000}$, also eine Eins mit zwölf Nullen. Mit solchen Zahlen wird das Rechnen schnell unübersichtlich, und man beginnt unweigerlich, die Nullen zu zählen.
+Diese Verhältnisse können sehr grosse oder sehr kleine Zahlenwerte annehmen. So besitzt beispielsweise ein Kurzwellenempfänger einen Gesamtverstärkungsfaktor von $\num{1000000000000}$, also eine Eins mit zwölf Nullen. Mit solchen Zahlen wird das Rechnen schnell unübersichtlich, und man beginnt unweigerlich, die Nullen zu zählen.
 
-Vereinfacht gesagt gibt es jedoch ein mathematisches Hilfsmittel für dieses „Zählen von Nullen“: die Logarithmen. Mit ihrer Hilfe lassen sich außerdem Multiplikationen in Additionen und Divisionen in Subtraktionen umwandeln. Das macht das Rechnen mit großen Zahlen sehr einfach. 
+Vereinfacht gesagt gibt es jedoch ein mathematisches Hilfsmittel für dieses „Zählen von Nullen“: die Logarithmen. Mit ihrer Hilfe lassen sich ausserdem Multiplikationen in Additionen und Divisionen in Subtraktionen umwandeln. Das macht das Rechnen mit grossen Zahlen sehr einfach. 
 
 ---
 
@@ -58,4 +58,4 @@ Ganz ohne Taschenrechner lassen sich Dezibelwerte abschätzen, die auf "$0$" end
 
 [question:EA107]
 
-Neben der Einheit $\unit{dB}$ begegnet man in der Praxis häufig auch Angaben wie $\unit{\dBi}$, $\unit{\dBm}$, $\unit{\dBW}$ oder $\unit{\dBu}$. Diese Zusätze geben an, auf welche Bezugsgröße sich der jeweilige Dezibelwert bezieht. In der Klasse E werden uns insbesondere bei Antennen die Angaben $\unit{\dBi}$ und $\unit{\dBd}$ im Antennenkapitel begegnen. Die anderen Größen wie $\unit{\dBm}$ und $\unit{\dBW}$ werden erst für die Klasse A benötigt.
+Neben der Einheit $\unit{dB}$ begegnet man in der Praxis häufig auch Angaben wie $\unit{\dBi}$, $\unit{\dBm}$, $\unit{\dBW}$ oder $\unit{\dBu}$. Diese Zusätze geben an, auf welche Bezugsgrösse sich der jeweilige Dezibelwert bezieht. In der Klasse E werden uns insbesondere bei Antennen die Angaben $\unit{\dBi}$ und $\unit{\dBd}$ im Antennenkapitel begegnen. Die anderen Grössen wie $\unit{\dBm}$ und $\unit{\dBW}$ werden erst für die Klasse A benötigt.

@@ -23,7 +23,7 @@ Funkamateure können stolz darauf sein, dass der Amateurfunk ein Bestandteil des
 
 Während die ITU mit den RR die grundsätzlichen Fragen zum Amateurfunk weltweit behandelt, koordiniert die CEPT die Standards in Europa. Sie hat Empfehlungen zum Inhalt der Amateurfunkprüfung und zur gegenseitigen Anerkennung der Amateurfunkzeugnisse ausgearbeitet. Darüber hinaus gibt es Regeln für Amateurfunkbetriebsrechte während eines kurzfristigen Aufenthaltes in anderen Mitgliedsländern. Dieses Thema haben wir schon ausführlich im Zusammenhang mit dem internationalen Funkbetrieb behandelt.
 
-Dass die Regeln in den RR oder die Empfehlungen der CEPT kein unmittelbar geltendes Recht in der Bundesrepublik Deutschland ist, haben wir bereits gelernt. Die Regelungen dieser internationalen Vereinbarungen wurden aber beim Amateurfunkgesetz berücksichtigt. Das Amateurfunkgesetz, das eigentlich *Gesetz über den Amateurfunk* heißt, bildet die Rechtsgrundlage für den Amateurfunk in Deutschland. 
+Dass die Regeln in den RR oder die Empfehlungen der CEPT kein unmittelbar geltendes Recht in der Bundesrepublik Deutschland ist, haben wir bereits gelernt. Die Regelungen dieser internationalen Vereinbarungen wurden aber beim Amateurfunkgesetz berücksichtigt. Das Amateurfunkgesetz, das eigentlich *Gesetz über den Amateurfunk* heisst, bildet die Rechtsgrundlage für den Amateurfunk in Deutschland. 
 [question:VC101]
 
 Der Deutsche Bundestag beschloss im Jahr 1997 das derzeit gültige Amateurfunkgesetz (AFuG). Die aktuelle Amateurfunkverordnung  (AFuV) wurde durch den Bundesminister für Digitales und Verkehr in Kraft gesetzt. Die Aufgaben und Befugnisse, die aus dem AFuG und der AFuV erwachsen, nimmt die Bundesnetzagentur (BNetzA) wahr. 

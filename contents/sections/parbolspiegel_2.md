@@ -4,7 +4,7 @@ Im Punkt vor dem Parabolspiegel wo die Wellen gebündelt werden, wird die sogena
 % TODO: Bild Hornstrahler und/oder Hohlleiter
 
 <indepth>
-*Hohlleiter* sind Metallrohre, in denen Mikrowellen geleitet werden. Vereinfacht gesagt wird die Welle an den metallischen Außenwänden reflektiert und gelangt so z. B. in ein Horn, aus dem die Welle abgestrahlt wird bzw. von dem einfallende Wellen empfangen und in den Hohlleiter geleitet werden.
+*Hohlleiter* sind Metallrohre, in denen Mikrowellen geleitet werden. Vereinfacht gesagt wird die Welle an den metallischen Aussenwänden reflektiert und gelangt so z. B. in ein Horn, aus dem die Welle abgestrahlt wird bzw. von dem einfallende Wellen empfangen und in den Hohlleiter geleitet werden.
 </indepth>
 
 [question:AG225]

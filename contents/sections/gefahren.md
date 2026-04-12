@@ -18,7 +18,7 @@ Der Grund für die *unterschiedlichen Grenzwerte für Gleich- und Wechselspannun
 
 ---
 
-Bei einer Einwirkung des Stroms auf den Körper kann das Gewebe geschädigt werden. Wie stark die Schädigung ist, hängt von der Stromstärke und Dauer des Stromflusses ab. Auch der Weg, den der Strom durch den Körper nimmt, spielt eine große Rolle. Eine Stromstärke von über $\qty{30}{\milli\ampere}$ kann schon zu lebensgefährlichen Schäden führen (siehe Abbildung [ref:n_fehlerstrom]).
+Bei einer Einwirkung des Stroms auf den Körper kann das Gewebe geschädigt werden. Wie stark die Schädigung ist, hängt von der Stromstärke und Dauer des Stromflusses ab. Auch der Weg, den der Strom durch den Körper nimmt, spielt eine grosse Rolle. Eine Stromstärke von über $\qty{30}{\milli\ampere}$ kann schon zu lebensgefährlichen Schäden führen (siehe Abbildung [ref:n_fehlerstrom]).
 
 <margin>
 [picture:681:n_fehlerstrom:Stromschlag / Körperdurchströmung]
@@ -35,23 +35,23 @@ Die *5 Sicherheitsregeln der Elektrotechnik* sollten für alle Arbeiten an elekt
 1. *Freischalten*, z. B. Gerät ausschalten
 2. *Gegen Wiedereinschalten sichern*, z. B.  Stecker ziehen
 3. *Spannungsfreiheit feststellen*, z. B. mit einem Multimeter messen
-4. *Erden und Kurzschließen*, z. B. das Gehäuse und Zuleitungen erden
+4. *Erden und Kurzschliessen*, z. B. das Gehäuse und Zuleitungen erden
 5. *Benachbarte, unter Spannung stehende Teile abdecken oder abschranken* (findet bei einzelnen Geräten meist keine Anwendung)
 </attention>
 
 <danger>
-In vielen Geräten sind Kondensatoren verbaut, die hohe Spannungen speichern können. Es können daher auch in abgeschalteten Geräten noch gefährliche Spannungen anliegen! Geräte sollten daher nur geöffnet werden, wenn man genau weiß, was man tut. Im Zweifel sollte man sich von einem erfahreneren Funkamateur oder einer Elektrofachkraft helfen lassen.
+In vielen Geräten sind Kondensatoren verbaut, die hohe Spannungen speichern können. Es können daher auch in abgeschalteten Geräten noch gefährliche Spannungen anliegen! Geräte sollten daher nur geöffnet werden, wenn man genau weiss, was man tut. Im Zweifel sollte man sich von einem erfahreneren Funkamateur oder einer Elektrofachkraft helfen lassen.
 </danger>
 
 ---
 
 %[class:N]
-Wie wir schon beim Einbau von Amateurfunkanlagen in Kraftfahrzeuge gelernt haben, kann es im Zusammenhang mit elektrischem Strom auch dazu kommen, dass ein Stromfluß durch die eigentlich nicht-leitende Luft auftritt und es zu einem Lichtbogen mit hohen Temperaturen und sehr hellem Leuchten kommt. Dies wird auch als Störlichtbogen bezeichnet.
+Wie wir schon beim Einbau von Amateurfunkanlagen in Kraftfahrzeuge gelernt haben, kann es im Zusammenhang mit elektrischem Strom auch dazu kommen, dass ein Stromfluss durch die eigentlich nicht-leitende Luft auftritt und es zu einem Lichtbogen mit hohen Temperaturen und sehr hellem Leuchten kommt. Dies wird auch als Störlichtbogen bezeichnet.
 %[/class]
 
 %[class:NEA]
 <danger>
-Ein *Lichtbogen* ist eine elektrische Entladung, also ein Stromfluß, durch die eigentlich nicht-leitende Luft, die mit hohen Temperaturen und einem sehr hellen Leuchten einhergeht. In Folge kann es zu Bränden und zur Schädigung der Augen kommen.
+Ein *Lichtbogen* ist eine elektrische Entladung, also ein Stromfluss, durch die eigentlich nicht-leitende Luft, die mit hohen Temperaturen und einem sehr hellen Leuchten einhergeht. In Folge kann es zu Bränden und zur Schädigung der Augen kommen.
 </danger>
 
 Im Falle eines Kurzschlusses kann es schnell zu einem Lichtbogen kommen, der Brände verursachen kann.
@@ -63,10 +63,10 @@ Im Falle eines Kurzschlusses kann es schnell zu einem Lichtbogen kommen, der Br�
 
 ---
 
-Erste-Hilfe-Maßnahmen sind in den ersten Minuten entscheidend für die Schwere der Unfallfolgen. Nach einem Stromunfall ist in jedem Fall ein Arzt aufzusuchen, da Herzrhythmusstörungen und Herzkammerflimmern auch noch Stunden nach dem Unfall auftreten können. 
+Erste-Hilfe-Massnahmen sind in den ersten Minuten entscheidend für die Schwere der Unfallfolgen. Nach einem Stromunfall ist in jedem Fall ein Arzt aufzusuchen, da Herzrhythmusstörungen und Herzkammerflimmern auch noch Stunden nach dem Unfall auftreten können. 
 
 <indepth>
-Ein Arzt kann nach einem Stromunfall beispielsweise mit einem *Elektrokardiogramm (EKG)* überprüfen, ob das Herz unregelmäßig schlägt oder andere Störungen aufweist.
+Ein Arzt kann nach einem Stromunfall beispielsweise mit einem *Elektrokardiogramm (EKG)* überprüfen, ob das Herz unregelmässig schlägt oder andere Störungen aufweist.
 </indepth>
 
 [question:NK304]

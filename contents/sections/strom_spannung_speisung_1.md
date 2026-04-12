@@ -31,12 +31,12 @@ Das lässt sich gut mithilfe des Ohmschen Gesetzes veranschaulichen:
 
 $ R = \frac{U}{I} $
 
-Speist man einen Dipol in der Mitte, liegt dort eine vergleichsweise geringe Spannung bei gleichzeitig hohem Strom an. Der Quotient aus Spannung und Strom ist daher klein, der resultierende Widerstand entsprechend niedrig. Erfolgt die Speisung hingegen am Ende des Dipols, liegt dort eine hohe Spannung an, während der Strom gegen null geht. Dadurch wird der Quotient sehr groß, und der resultierende Widerstand nimmt entsprechend hohe Werte an.
+Speist man einen Dipol in der Mitte, liegt dort eine vergleichsweise geringe Spannung bei gleichzeitig hohem Strom an. Der Quotient aus Spannung und Strom ist daher klein, der resultierende Widerstand entsprechend niedrig. Erfolgt die Speisung hingegen am Ende des Dipols, liegt dort eine hohe Spannung an, während der Strom gegen null geht. Dadurch wird der Quotient sehr gross, und der resultierende Widerstand nimmt entsprechend hohe Werte an.
 
 Bei niedrigen Widerständen sprechen wir auch von *niederohmigem* Verhalten ($\downarrow\unit{\ohm}$) und bei hohen Widerständen entsprechend von *hochohmigem* Verhalten  ($\uparrow\unit{\ohm}$).
 
 <indepth>
-Eine übliche Größenordnung für den *Speisewiderstand* einer stromgespeisten Antenne ist z. B. $\qty{36}{\ohm}$ bis $\qty{100}{\ohm}$ und bei spannungsgespeisten Antennen $\qty{1500}{\ohm}$ bis $\qty{4000}{\ohm}$.
+Eine übliche Grössenordnung für den *Speisewiderstand* einer stromgespeisten Antenne ist z. B. $\qty{36}{\ohm}$ bis $\qty{100}{\ohm}$ und bei spannungsgespeisten Antennen $\qty{1500}{\ohm}$ bis $\qty{4000}{\ohm}$.
 </indepth>
 
 ---

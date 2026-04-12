@@ -1,4 +1,4 @@
-Nicht jeder darf sich Funkamateur nennen. Nach den Radio Regulations (RR) dürfen sich nur *ordnungsgemäß befugte Personen* so bezeichnen. Das persönliche Interesse am Amateurfunk ist das einzig zulässige Motiv. Finanzielle Interessen sind mit dem Amateurfunk nicht vereinbar.
+Nicht jeder darf sich Funkamateur nennen. Nach den Radio Regulations (RR) dürfen sich nur *ordnungsgemäss befugte Personen* so bezeichnen. Das persönliche Interesse am Amateurfunk ist das einzig zulässige Motiv. Finanzielle Interessen sind mit dem Amateurfunk nicht vereinbar.
 
 [question:VA104]
 

@@ -7,7 +7,7 @@ Abbildung [ref:e_zeigerinstrument_strom] zeigt ein Analoges Multimeter mit Zeige
 </margin>
 
 <tip>
-Bei schräger Blickrichtung scheint der Zeiger einen falschen Wert anzuzeigen. In Abbildung [ref:e_zeigerinstrument_parallaxenfehler] würde man statt $\qty{7}{\volt}$ nur etwas mehr als $\qty{6,9}{\volt}$ ablesen. Dieser Effekt heißt Parallaxenfehler.
+Bei schräger Blickrichtung scheint der Zeiger einen falschen Wert anzuzeigen. In Abbildung [ref:e_zeigerinstrument_parallaxenfehler] würde man statt $\qty{7}{\volt}$ nur etwas mehr als $\qty{6,9}{\volt}$ ablesen. Dieser Effekt heisst Parallaxenfehler.
  
 [photo:196:e_zeigerinstrument_parallaxenfehler:ungünstiger Blickwinkel auf eine Skala]
   

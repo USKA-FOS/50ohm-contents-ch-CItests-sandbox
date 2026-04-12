@@ -44,21 +44,21 @@ Aber auch für $\unit{\dB}$-Werte die nicht auf $0$ enden kann man durch Zerlegu
 * Welcher Faktor entspricht einem Leistungsverhältnis von $\qty{17}{\dB}$? $\qty{17}{\dB} = \qty{20}{\dB} - \qty{3}{\dB}$, also Faktor $100$ durch $2$ gleich $50$.
 </tip>
 
-Das Dezibel ($\unit{\dB}$) beschreibt grundsätzlich ein dimensionsloses Verhältnis, etwa von Leistungen oder Spannungen. Deshalb wird $\unit{\dB}$ vor allem zur Angabe von Verstärkungen und Dämpfungen verwendet. In diesen Fällen ist kein weiterer Zusatz notwendig, da lediglich das Verhältnis zweier Größen angegeben wird. Negative Dezibelwerte kennzeichnen übrigens Verhältniswerte kleiner als $1$. So entspricht $\qty{-3}{\dB}$ einem Verhältniswert von $\frac{1}{2} = \num{0,5}$.
+Das Dezibel ($\unit{\dB}$) beschreibt grundsätzlich ein dimensionsloses Verhältnis, etwa von Leistungen oder Spannungen. Deshalb wird $\unit{\dB}$ vor allem zur Angabe von Verstärkungen und Dämpfungen verwendet. In diesen Fällen ist kein weiterer Zusatz notwendig, da lediglich das Verhältnis zweier Grössen angegeben wird. Negative Dezibelwerte kennzeichnen übrigens Verhältniswerte kleiner als $1$. So entspricht $\qty{-3}{\dB}$ einem Verhältniswert von $\frac{1}{2} = \num{0,5}$.
 
-Man kann aber auch Dezibelwerte nutzen, um einen absoluten Pegel anzugeben. Dafür ist allerdings eine feste Bezugsgröße $P_0$ erforderlich:
+Man kann aber auch Dezibelwerte nutzen, um einen absoluten Pegel anzugeben. Dafür ist allerdings eine feste Bezugsgrösse $P_0$ erforderlich:
 
 $p = 10\cdot \log_{10}\left(\frac{P}{P_0}\right)\unit{\dB}$
 
 ---
 
-Diese Bezugsgröße kann zum Beispiel eine Leistung von $\qty{1}{\milli\watt}$ sein. In diesem Fall erhält der Dezibelwert einen entsprechenden Zusatz: Bezieht sich der Pegel auf $\qty{1}{\milli\watt}$, spricht man von $\unit{\dBm}$. Dadurch ist eindeutig festgelegt, auf welchen absoluten Leistungswert sich der Dezibelpegel bezieht.
+Diese Bezugsgrösse kann zum Beispiel eine Leistung von $\qty{1}{\milli\watt}$ sein. In diesem Fall erhält der Dezibelwert einen entsprechenden Zusatz: Bezieht sich der Pegel auf $\qty{1}{\milli\watt}$, spricht man von $\unit{\dBm}$. Dadurch ist eindeutig festgelegt, auf welchen absoluten Leistungswert sich der Dezibelpegel bezieht.
 
-Trifft man beispielsweise auf die Angabe „Der Sender hat eine Ausgangsleistung von $\qty{20}{\dBm}$“, lässt sich dieser Wert leicht in Milliwatt umrechnen. Ein Pegel von $\qty{20}{\dB}$ entspricht einem Leistungsfaktor von $100$ (also zwei Nullen). Dieser Faktor wird mit der Bezugsgröße von $\qty{1}{\milli\watt}$ multipliziert:
+Trifft man beispielsweise auf die Angabe „Der Sender hat eine Ausgangsleistung von $\qty{20}{\dBm}$“, lässt sich dieser Wert leicht in Milliwatt umrechnen. Ein Pegel von $\qty{20}{\dB}$ entspricht einem Leistungsfaktor von $100$ (also zwei Nullen). Dieser Faktor wird mit der Bezugsgrösse von $\qty{1}{\milli\watt}$ multipliziert:
 
 $ P = 100 \cdot \qty{1}{\milli\watt} = \qty{100}{\milli\watt}$
 
-In der Tabelle [ref:a_bezugsgroessen] sind die wichtigsten Bezugsgrößen und ihre jeweiligen $\unit{\dB}$-Abkürzungen aufgelistet.
+In der Tabelle [ref:a_bezugsgroessen] sind die wichtigsten Bezugsgrössen und ihre jeweiligen $\unit{\dB}$-Abkürzungen aufgelistet.
 
 <margin>
 | l: Abkürzung            | X: Bezugswert          |
@@ -66,10 +66,10 @@ In der Tabelle [ref:a_bezugsgroessen] sind die wichtigsten Bezugsgrößen und ih
 | $\unit{\dBW}$           | $\qty{1}{\watt}$       | 
 | $\unit{\dBu}$           | $\qty{0,775}{\volt}$   | 
 | $\unit{\dB\micro\volt}$ | $\qty{1}{\micro\volt}$ | 
-[table:a_bezugsgroessen:Wichtige Bezugsgrößen aus der Formelsammlung]
+[table:a_bezugsgroessen:Wichtige Bezugsgrössen aus der Formelsammlung]
 </margin>
 
-Die folgenden Fragen lassen sich mit Hilfe der Formel aus der Formelsammlung und deren Umstellung vom Anfang dieser Lektion berechnen, wenn die richtige Bezugsgröße verwendet wird. 
+Die folgenden Fragen lassen sich mit Hilfe der Formel aus der Formelsammlung und deren Umstellung vom Anfang dieser Lektion berechnen, wenn die richtige Bezugsgrösse verwendet wird. 
 
 [question:AA109]
 [question:AA110]
@@ -82,7 +82,7 @@ Warum macht man das Ganze überhaupt und gibt absolute Leistungen in $\unit{\dBm
 
 Abbildung [ref:e_signalkette] zeigt eine solche Signalkette mit drei Verstärkerstufen. Das Eingangssignal besitzt eine Leistung von $\qty{1}{\milli\watt}$, was $\qty{0}{\dBm}$ entspricht. Durch die drei Verstärkerstufen wird das Signal insgesamt auf $\qty{60}{\dBm}$ verstärkt (also $\num{1000000}\cdot \qty{1}{\milli\watt}$), was einer Leistung von $\qty{1000}{\watt}$ entspricht.
 
-Abbildung [ref:e_signalkette_2] zeigt ein weiteres Beispiel einer Signalkette, bei der zusätzlich ein Dämpfungsglied mit einer Dämpfung von $\qty{20}{\dB}$ eingesetzt wird, was einer Verstärkung von $\qty{-20}{\dB}$ entspricht. Das Eingangssignal besitzt eine Leistung von $\qty{1}{\milli\watt}$, also $\qty{0}{\dBm}$. Durch die erste Verstärkerstufe wird das Signal auf $\qty{10}{\dBm}$ angehoben. Anschließend wird es durch das Dämpfungsglied auf $\qty{-10}{\dBm}$ abgeschwächt und schließlich durch die zweite Verstärkerstufe wieder auf $\qty{0}{\dBm}$ verstärkt, was wiederum $\qty{1}{\milli\watt}$ entspricht.
+Abbildung [ref:e_signalkette_2] zeigt ein weiteres Beispiel einer Signalkette, bei der zusätzlich ein Dämpfungsglied mit einer Dämpfung von $\qty{20}{\dB}$ eingesetzt wird, was einer Verstärkung von $\qty{-20}{\dB}$ entspricht. Das Eingangssignal besitzt eine Leistung von $\qty{1}{\milli\watt}$, also $\qty{0}{\dBm}$. Durch die erste Verstärkerstufe wird das Signal auf $\qty{10}{\dBm}$ angehoben. Anschliessend wird es durch das Dämpfungsglied auf $\qty{-10}{\dBm}$ abgeschwächt und schliesslich durch die zweite Verstärkerstufe wieder auf $\qty{0}{\dBm}$ verstärkt, was wiederum $\qty{1}{\milli\watt}$ entspricht.
 
 <margin>
 [picture:877:e_signalkette:Signalkette mit drei Verstärken]
@@ -90,8 +90,8 @@ Abbildung [ref:e_signalkette_2] zeigt ein weiteres Beispiel einer Signalkette, b
 </margin>
 
 <indepth>
-Wieso ist es zulässig vom Pegel $\qty{9}{\dBm}$ eine Dämpfung von $\qty{3}{\dB}$ abzuziehen? Beide Werte haben doch unterschiedliche Maßeinheiten! Bei der Einheit Bel ($\unit{\bel}$) bzw. Dezibel ($\unit{\dB}$) handelt es sich um eine Hilfsmaßeinheit (auch Pseudoeinheit).
-Im Prinzip könnte der Zahlenwert auch ohne die Einheit $\unit{\dB}$ geschrieben werden. Aber mit dem Zusatz $\unit{\dB}$ wird deutlich, dass es um ein logarithmisches Verhältnis von zwei Größen geht. Ohne diese Einheit müsste man verbal beschreiben welche Bedeutung der Zahlenwert hat.
+Wieso ist es zulässig vom Pegel $\qty{9}{\dBm}$ eine Dämpfung von $\qty{3}{\dB}$ abzuziehen? Beide Werte haben doch unterschiedliche Masseinheiten! Bei der Einheit Bel ($\unit{\bel}$) bzw. Dezibel ($\unit{\dB}$) handelt es sich um eine Hilfsmasseinheit (auch Pseudoeinheit).
+Im Prinzip könnte der Zahlenwert auch ohne die Einheit $\unit{\dB}$ geschrieben werden. Aber mit dem Zusatz $\unit{\dB}$ wird deutlich, dass es um ein logarithmisches Verhältnis von zwei Grössen geht. Ohne diese Einheit müsste man verbal beschreiben welche Bedeutung der Zahlenwert hat.
 </indepth>
   
 Zusätzlich haben wir in der Klasse E bereits die Zusätze $\unit{\dBd}$ und $\unit{\dBi}$ kennen gelernt, die bei der Angabe von Antennengewinnen verwendet werden. In diesem Fall bezieht sich der Dezibelwert nicht auf eine Leistung oder Spannung, sondern auf einen bestimmten Referenzstrahler. Üblich sind dabei $\unit{\dBi}$, bezogen auf den isotropen Kugelstrahler, sowie $\unit{\dBd}$, bezogen auf den Halbwellendipol.

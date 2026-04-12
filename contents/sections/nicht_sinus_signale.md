@@ -20,7 +20,7 @@ Auch wenn ein Signal auf dem Oszilloskop zunächst sinusförmig erscheint, kann 
 [question:AI614]
 
 Bei gegebener Grundfrequenz (1. Harmonische) eines Signals, können Frequenzen der Harmonischen durch Multiplikation der Grundfrequenz mit der jeweiligen Ordnungszahl (n) der Harmonischen errechnet werden.
-Gleichermaßen können die Frequenzen der Oberwellen eines Signals durch Multiplikation der Grundfrequenz mit der Ordnungszahl der Oberwelle plus 1 (n+1) berechnet werden.
+Gleichermassen können die Frequenzen der Oberwellen eines Signals durch Multiplikation der Grundfrequenz mit der Ordnungszahl der Oberwelle plus 1 (n+1) berechnet werden.
 
 [question:AJ201]
 [question:AJ205]

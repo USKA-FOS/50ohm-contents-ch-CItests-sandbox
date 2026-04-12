@@ -6,6 +6,6 @@ Wenn man jetzt diesen Kurs abgeschlossen und die Prüfung zum Funkamateur bestan
 
 [question:VC106]
 
-Wenn man die Gelegenheit hatte, Amateurfunkmagazine zu lesen, sind einem vielleicht schon Meldungen aufgefallen wie "Simon (14) und Sophie (11) haben am 8. Februar erfolgreich ihre Prüfung bei der Bundesnetzagentur Dortmund bestanden". Unser Amateurfunkgesetz kennt nämlich kein Mindestalter für Funkamateure. Im § 4 des AFuG heißt es dazu: "Jede natürliche Person mit Wohnsitz in Deutschland ist auf Antrag zur fachlichen Prüfung für Funkamateure zuzulassen."
+Wenn man die Gelegenheit hatte, Amateurfunkmagazine zu lesen, sind einem vielleicht schon Meldungen aufgefallen wie "Simon (14) und Sophie (11) haben am 8. Februar erfolgreich ihre Prüfung bei der Bundesnetzagentur Dortmund bestanden". Unser Amateurfunkgesetz kennt nämlich kein Mindestalter für Funkamateure. Im § 4 des AFuG heisst es dazu: "Jede natürliche Person mit Wohnsitz in Deutschland ist auf Antrag zur fachlichen Prüfung für Funkamateure zuzulassen."
 
 [question:VC108]

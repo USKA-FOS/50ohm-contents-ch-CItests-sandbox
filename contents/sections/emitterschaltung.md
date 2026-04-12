@@ -1,6 +1,6 @@
 Die Benennung der Grundschaltung eines bipolaren Transistors richtet sich danach, welcher Anschluss (Basis, Kollektor oder Emitter) gemeinsam vom Eingangs- und Ausgangssignal durchflossen wird.
 
-Bei der *Emitterschaltung* fließt das Eingangssignal von der Quelle über die Basis, den *Emitter* und die Masse zurück zur Quelle. Das Ausgangssignal fließt vom Kollektor durch die Last (Senke) und über die Masse zurück in den *Emitter*.
+Bei der *Emitterschaltung* fliesst das Eingangssignal von der Quelle über die Basis, den *Emitter* und die Masse zurück zur Quelle. Das Ausgangssignal fliesst vom Kollektor durch die Last (Senke) und über die Masse zurück in den *Emitter*.
 
 [question:AD409]
 
@@ -14,7 +14,7 @@ Für den Betrieb als linearer Spannungs-Verstärker benötigt der Transistor in 
 
 [question:AD411]
 
-Der Kollerktorwiderstand wandelt den Strom, der durch die Kollektor-Emitter-Strecke, fließt in einen Spannungsabfall um, der am Kollektor abgegriffen wird. Der Kollektorstrom des Transistors fließt (gemeinsam mit dem normalerweise vernachlässigbaren Basis-Strom-Anteil) über den Emitter durch den Emitterwiderstand gegen Masse. Der Strom durch den Emitterwiderstand verursacht durch den entstehenden Spannungsabfall an diesem eine Erhöhung des Emitterpotenzials (Emitterspannung) und wirkt somit als Gegenkopplung für die Basis-Spannung. Hierdurch wird der Arbeitspunkt des Transistors zusätzlich stabilisiert, weil thermisch bedingte Änderungen des Kollektorstroms hierdurch ausgeregelt werden.
+Der Kollerktorwiderstand wandelt den Strom, der durch die Kollektor-Emitter-Strecke, fliesst in einen Spannungsabfall um, der am Kollektor abgegriffen wird. Der Kollektorstrom des Transistors fliesst (gemeinsam mit dem normalerweise vernachlässigbaren Basis-Strom-Anteil) über den Emitter durch den Emitterwiderstand gegen Masse. Der Strom durch den Emitterwiderstand verursacht durch den entstehenden Spannungsabfall an diesem eine Erhöhung des Emitterpotenzials (Emitterspannung) und wirkt somit als Gegenkopplung für die Basis-Spannung. Hierdurch wird der Arbeitspunkt des Transistors zusätzlich stabilisiert, weil thermisch bedingte Änderungen des Kollektorstroms hierdurch ausgeregelt werden.
 
 Um die Gegenkopplung für die Verstärkung von Wechselspannungssignalen möglichst gering zu halten, wird der Emitterwiderstand kapazitiv (durch einen Kondensator) überbrückt.
 
@@ -31,7 +31,7 @@ Die Phasenverschiebung zwischen Ein- und Ausgangssignal beträgt bei der Emitter
 [question:AD407]
 [question:AD408]
 
-Wird eine Emitterschaltung wie in der folgenden Frage ohne Arbeitspunktvoreinstellung durch einen Spannungsteiler betrieben, so erfolgt die Ansteuerung des Transistors allein durch das zugeführte Eingangssignal. Erst wenn dieses den Wert von ca. $\qty{0,6}{\volt}$ überschreitet, wird die Basis-Emitter-Strecke des Transistors leitend. Hierdurch fließt nur in den Spannungsspitzen ein Kollektorstrom, der einen Spannungsabfall am Ausgang hervorruft. Als Ausgangssignal erscheint die Versorgungsspannung, welche zu den Zeiten, zu denen der Transistor in den leitfähigen Bereich kommt, abfällt. So erklärt sich das entsprechende Ausgangsssignal.
+Wird eine Emitterschaltung wie in der folgenden Frage ohne Arbeitspunktvoreinstellung durch einen Spannungsteiler betrieben, so erfolgt die Ansteuerung des Transistors allein durch das zugeführte Eingangssignal. Erst wenn dieses den Wert von ca. $\qty{0,6}{\volt}$ überschreitet, wird die Basis-Emitter-Strecke des Transistors leitend. Hierdurch fliesst nur in den Spannungsspitzen ein Kollektorstrom, der einen Spannungsabfall am Ausgang hervorruft. Als Ausgangssignal erscheint die Versorgungsspannung, welche zu den Zeiten, zu denen der Transistor in den leitfähigen Bereich kommt, abfällt. So erklärt sich das entsprechende Ausgangsssignal.
 
 [question:AD406]
 

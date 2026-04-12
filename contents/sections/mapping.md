@@ -23,7 +23,7 @@ Bei QPSK hat jedes Symbol eine eigene Phase. Die Phasen werden typischerweise in
 - $\num{00}$ entspricht $\qty{225}{\degree}$
 - $\num{10}$ entspricht $\qty{315}{\degree}$
 
-Die Amplitude der Signale bleibt dabei konstant, und die Information wird ausschließlich durch die Phasenlage übertragen. Deshalb liegen die vier Punkte im Konstellationsdiagramm für QPSK auf einem Kreis. 
+Die Amplitude der Signale bleibt dabei konstant, und die Information wird ausschliesslich durch die Phasenlage übertragen. Deshalb liegen die vier Punkte im Konstellationsdiagramm für QPSK auf einem Kreis. 
 
 <indepth>
 Genau genommen gibt es aber auch noch andere Möglichkeiten, die Phasen den Bitkombinationen zuzuordnen, solange sie eindeutig sind. Das hier gezeigte Mapping ist nur ein Beispiel. In dem hier gezeigten Beispiel wurden die Zuordnungen so gewählt, dass sich zwischen benachbarten Symbolen nur wenige Bits ändern. Das hat den Vorteil, dass unter Rauscheinfluss nur wenige Bitfehler entstehen. Dafür wird der Gray-Code verwendet, der in den meisten digitalen Übertragungsverfahren Anwendung findet.
@@ -31,7 +31,7 @@ Genau genommen gibt es aber auch noch andere Möglichkeiten, die Phasen den Bitk
 
 ---
 
-Jeder dieser Punkte repräsentiert ein Symbol. Der Empfänger kann anhand der Phasenlage bestimmen, welche Bitkombination gesendet wurde. Das Konstellationsdiagramm bei QPSK zeigt vier Signalpunkte im rechten Winkel zueinander, die den vier verwendeten Phasen entsprechen. Die große Trennung zwischen den einzelnen Phasen ermöglicht eine zuverlässige Decodierung auch unter rauschbehafteten Bedingungen.
+Jeder dieser Punkte repräsentiert ein Symbol. Der Empfänger kann anhand der Phasenlage bestimmen, welche Bitkombination gesendet wurde. Das Konstellationsdiagramm bei QPSK zeigt vier Signalpunkte im rechten Winkel zueinander, die den vier verwendeten Phasen entsprechen. Die grosse Trennung zwischen den einzelnen Phasen ermöglicht eine zuverlässige Decodierung auch unter rauschbehafteten Bedingungen.
 
 Ändert man neben der Phase auch die Amplitude, so spricht man von einer Quadraturamplitudenmodulation (QAM). Bei QAM werden sowohl die Amplitude als auch die Phase variiert, um mehr Bits pro Symbol zu übertragen. Zum Beispiel kann bei 16-QAM jedes Symbol vier Bits repräsentieren, was zu 16 möglichen Signalpunkten im Konstellationsdiagramm führt. Ein Beispiel für ein 16-QAM-Mapping ist in Abbildung [ref:a_qam] dargestellt.
 

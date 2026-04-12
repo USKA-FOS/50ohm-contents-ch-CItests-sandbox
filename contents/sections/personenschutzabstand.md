@@ -15,7 +15,7 @@ Der Gesetzgeber hat festgelegt, dass für die sogenannte "elektromagnetische Ver
 Der Betreiber einer Sendeanlage ist aber nicht nur verpflichtet, diese Grenzwerte einzuhalten. Darüber hinaus muss vor der Inbetriebnahme einer Sendeanlage der Nachweis erbracht werden, dass die Grenzwerte zum Schutz von Personen auch tatsächlich eingehalten werden. Wie der Nachweis genau erbracht werden muss, ist in der "Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder" (BEMFV) geregelt. Funkamateure haben über das dort beschriebene Anzeigeverfahren für ortsfeste Amateurfunkstellen die Möglichkeit, selbst sicherzustellen und zu dokumentieren, dass alle Grenzwerte eingehalten werden und somit keine Gefahr für Menschen besteht.
 
 <indepth>
-Nur Funkamateure genießen das Privileg, die Einhaltung der Grenzwerte für den Schutz von Personen selbst zu ermitteln und zu dokumentieren. Andere Betreiber von Sendeanlagen, beispielsweise Mobilfunknetz-Betreiber, müssen den Nachweis kostenpflichtig durch die Bundesnetzagentur führen lassen.
+Nur Funkamateure geniessen das Privileg, die Einhaltung der Grenzwerte für den Schutz von Personen selbst zu ermitteln und zu dokumentieren. Andere Betreiber von Sendeanlagen, beispielsweise Mobilfunknetz-Betreiber, müssen den Nachweis kostenpflichtig durch die Bundesnetzagentur führen lassen.
 </indepth>
 
 [question:VE503]

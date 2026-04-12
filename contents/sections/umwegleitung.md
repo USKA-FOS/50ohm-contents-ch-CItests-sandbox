@@ -4,9 +4,9 @@ Eine weitere Möglichkeit zur Unterdrückung von Mantelwellen besteht darin, ein
 
 Wie eine solche Umwegleitung funktioniert, sei im Folgenden erklärt.
 
-Eine symmetrische Antenne benötigt an beiden Anschlusspunkten eine HF-Spannung gegenüber Erde. Hierbei müssen die Spannungen betragsmäßig gleich groß sein, jedoch mit umgekehrtem Vorzeichen, also $\qty{180}{\degree}$ phasenverschoben.
+Eine symmetrische Antenne benötigt an beiden Anschlusspunkten eine HF-Spannung gegenüber Erde. Hierbei müssen die Spannungen betragsmässig gleich gross sein, jedoch mit umgekehrtem Vorzeichen, also $\qty{180}{\degree}$ phasenverschoben.
 
-Eine solche Phasenverschiebung lässt sich mittels einer $\lambda / 2$-Umwegleitung erreichen. So kann man beispielsweise *beide* Anschlusspunkte eines Faltdipols an den Innenleiter anschließen, wobei der eine Anschlusspunkt hinter einer Umwegleitung angeschlossen wird, die eine $\qty{180}{\degree}$-Phasenverschiebung erzeugt.
+Eine solche Phasenverschiebung lässt sich mittels einer $\lambda / 2$-Umwegleitung erreichen. So kann man beispielsweise *beide* Anschlusspunkte eines Faltdipols an den Innenleiter anschliessen, wobei der eine Anschlusspunkt hinter einer Umwegleitung angeschlossen wird, die eine $\qty{180}{\degree}$-Phasenverschiebung erzeugt.
 
 Der Schirm des Koxialkabels weist dann Erdpotential auf und es entstehen keine Mantelwellen.
 

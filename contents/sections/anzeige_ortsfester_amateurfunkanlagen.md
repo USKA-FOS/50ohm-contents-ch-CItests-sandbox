@@ -17,15 +17,15 @@ Bevor wir auf die Strahlungsleistung eingegangen sind, haben wir besprochen, das
 [photo:79:n_Deckblatt_Anleitung:Deckblatt der Anleitung]
 </margin>
 
-Die Anzeige über die Einhaltung der Personenschutzgrenzwerte für eine Amateurfunkstelle mit mehr als $\qty{10}{\watt}$ EIRP im Rahmen des Nachweisverfahrens zur Begrenzung elektromagnetischer Felder (BEMFV) ist bereits vor Aufnahme des Betriebs der Amateurfunkanlage bei der zuständigen Außenstelle der BNetzA einzureichen.
+Die Anzeige über die Einhaltung der Personenschutzgrenzwerte für eine Amateurfunkstelle mit mehr als $\qty{10}{\watt}$ EIRP im Rahmen des Nachweisverfahrens zur Begrenzung elektromagnetischer Felder (BEMFV) ist bereits vor Aufnahme des Betriebs der Amateurfunkanlage bei der zuständigen Aussenstelle der BNetzA einzureichen.
 
 <tip>
-Die zuständige Außenstelle kann auf der [Webseite der Bundesnetzagentur](https://50ohm.de/so) ermittelt werden.
+Die zuständige Aussenstelle kann auf der [Webseite der Bundesnetzagentur](https://50ohm.de/so) ermittelt werden.
 </tip>
 
 Wichtiger Kern des Nachweisverfahrens ist die Berechnung des sogenannten *Personenschutz-Sicherheitsabstands*, der auch als *standortbezogener Sicherheitsabstand* bezeichnet wird. Das ist der Abstand um eine Antenne herum, in dem die Grenzwerte zum Schutz von Personen *nicht* eingehalten werden. Es muss sichergestellt werden, dass sich während des Sendebetriebs keine unbefugten Personen in diesem Bereich aufhalten. Dies wird grundsätzlich dann angenommen, wenn sich dieser Bereich komplett auf dem eigenen Grundstück, im sogenannten *kontrollierbaren Bereich*, befindet.
 
-Außer der Anzeige, die aus einigen Formblättern besteht, ist eine *nachvollziehbare* zeichnerische Darstellung des standortbezogenen Sicherheitsabstands und des vom Betreiber der Amateurfunkstelle kontrollierbaren Bereiches beizufügen. Für das Erstellen der Anzeige stellt die BNetzA eine Anleitung zum Download bereit.
+Ausser der Anzeige, die aus einigen Formblättern besteht, ist eine *nachvollziehbare* zeichnerische Darstellung des standortbezogenen Sicherheitsabstands und des vom Betreiber der Amateurfunkstelle kontrollierbaren Bereiches beizufügen. Für das Erstellen der Anzeige stellt die BNetzA eine Anleitung zum Download bereit.
 
 [question:VE509]
 
@@ -37,12 +37,12 @@ Das Schlüsselwort für die richtige Antwort ist bei dieser und der nächsten Fr
 
 [question:VE512]
 
-Es müssen weitere technische Unterlagen erstellt werden, z. B. eine *nachvollziehbare* Dokumentation über die Einhaltung der Anforderungen, Antennendiagramme, Lagepläne, Bauzeichnung oder Skizze mit Bemaßung. Diese sind allerdings nicht mit der Anzeige einzureichen, sondern an der Amateurfunkstation bereitzuhalten und auf Verlangen der Bundesnetzagentur vorzulegen.
+Es müssen weitere technische Unterlagen erstellt werden, z. B. eine *nachvollziehbare* Dokumentation über die Einhaltung der Anforderungen, Antennendiagramme, Lagepläne, Bauzeichnung oder Skizze mit Bemassung. Diese sind allerdings nicht mit der Anzeige einzureichen, sondern an der Amateurfunkstation bereitzuhalten und auf Verlangen der Bundesnetzagentur vorzulegen.
 
 [question:VE513]
 [question:VD107]
 
-Alle erstellten Unterlagen müssen regelmäßig auf Aktualität geprüft werden. Wenn an der Amateurfunkanlage etwas so verändert wurde, dass sie nicht mehr den bisherigen Gegebenheiten entspricht, muss eine neue Anzeige eingereicht werden. Das trifft z. B. bei Aufbau eines weiteren Antennenmastes zu oder wenn durch einen Antennenwechsel oder höhere Sendeleistung ein größerer Abstand als bisher erforderlich wird.
+Alle erstellten Unterlagen müssen regelmässig auf Aktualität geprüft werden. Wenn an der Amateurfunkanlage etwas so verändert wurde, dass sie nicht mehr den bisherigen Gegebenheiten entspricht, muss eine neue Anzeige eingereicht werden. Das trifft z. B. bei Aufbau eines weiteren Antennenmastes zu oder wenn durch einen Antennenwechsel oder höhere Sendeleistung ein grösserer Abstand als bisher erforderlich wird.
 
 [question:VE514]
 [question:VE510]

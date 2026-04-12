@@ -16,7 +16,7 @@ Zur Berechnung werden zwei Belastungsfälle benötigt:
 
 * Ideale Spannungsquellen sollen einen sehr niedrigen Innenwiderstand $R_i \ll R_L$ aufweisen, im Idealfall: $\qty{0}{\ohm}$, dann bleibt die Ausgangsspannung bei Belastung unverändert. ($\Delta U = \qty{0}{\volt}$);  $R_i = \frac{\Delta U}{\Delta I} = \frac{0}{x} = \qty{0}{\ohm}$
 
-% Kommentar von DK1KC: ungünstige Darstellung : In der Abbildung [ref:a_vsource_kennlinie] kann man erkennen, wie sich $U_k$ zu $I$ in Abhängigkeit vom Innenwiderstand $R_i$ verhält. Bei  $R_L=\qty{0}{\ohm}$ fließt an den Klemmen ein Kurzschlussstrom $I_k$.
+% Kommentar von DK1KC: ungünstige Darstellung : In der Abbildung [ref:a_vsource_kennlinie] kann man erkennen, wie sich $U_k$ zu $I$ in Abhängigkeit vom Innenwiderstand $R_i$ verhält. Bei  $R_L=\qty{0}{\ohm}$ fliesst an den Klemmen ein Kurzschlussstrom $I_k$.
 
 % todo ungünstige Darstellung [photo:183:a_vsource_kennlinie:Kennlinie einer Konstantspannungsquelle]
 
@@ -41,7 +41,7 @@ Beispiele:
 Betrachtung einer Konstantstromquelle am Beispiel eines Labornetzgerätes
 
 [photo:298:a_Strombegrenzung:Labornetzgerät mit eingestellter Strombegrenzung auf $\qty{500}{\milli\ampere}$]
-Bei Kurzschluss an den Ausgangsklemmen fließt der eingestellte maximale Strom.
+Bei Kurzschluss an den Ausgangsklemmen fliesst der eingestellte maximale Strom.
 
 In Labornetzgeräten ist eine Strombegrenzung eingebaut, d.h. übersteigt der Laststrom eine maximale Stromstärke, wird die Klemmenspannung so abgesenkt, dass der Laststrom konstant bleibt. Dies entspricht der Funktion einer Konstantstromquelle.
 
@@ -89,7 +89,7 @@ Hierbei gilt: $R_i = R_L$
 Nun wollen wir einmal anhand eines Beispieles den Innenwiderstand einer Gleichspannungsquelle berechnen. 
 [question:AB206]
 
-Die Leerlaufspannung $U_L$, also ohne Belastung unseres Netzteils, beträgt $\qty{13,5}{\volt}$. Dabei fließt kein Laststrom $I_L$. Beim Senden mit unserem Funkgerät wird ein Strom  $I_L$ von $\qty{0,9}{\ampere}$ abgegeben und die Ausgangsspannung  $U_L$  sinkt nun, wegen des Innenwiderstandes, auf $\qty{12,4}{\volt}$ ab.
+Die Leerlaufspannung $U_L$, also ohne Belastung unseres Netzteils, beträgt $\qty{13,5}{\volt}$. Dabei fliesst kein Laststrom $I_L$. Beim Senden mit unserem Funkgerät wird ein Strom  $I_L$ von $\qty{0,9}{\ampere}$ abgegeben und die Ausgangsspannung  $U_L$  sinkt nun, wegen des Innenwiderstandes, auf $\qty{12,4}{\volt}$ ab.
 
 $R_i = \frac{\Delta U_L}{\Delta I_L} = \frac{\qty{13,5}{\volt} - \qty{12,4}{\volt}}{\qty{0,9}{\ampere} - \qty{0}{\ampere}} = \frac{\qty{1,1}{\volt}}{\qty{0,9}{\ampere}} = \qty{1,22}{\ohm}$ Dieser Wert ist in der Praxis noch zu hoch.
 Praxisnäher sind die Ergebnisse der folgenden Aufgaben.

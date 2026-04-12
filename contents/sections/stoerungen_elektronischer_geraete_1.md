@@ -1,4 +1,4 @@
-Beim Betrieb von Sendern – insbesondere von leistungsstarken Sendern – kann es zu verschiedenen Beeinflussungen elektronischer Geräte und Anlagen kommen. Solche *störenden Beeinflussungen* und einige grundlegende Handlungshinweise haben wir bereits in der Klasse N kennengelernt. Ziel ist es, diese Beeinflussungen möglichst zu vermeiden oder ihre Ursachen durch geeignete Gegenmaßnahmen zu beseitigen. In dieser Lektion wollen wir uns Ursachen und Gegenmaßnahmen genauer ansehen. Grundsätzlich können elektronische Geräte auf zwei Arten beeinflusst werden:
+Beim Betrieb von Sendern – insbesondere von leistungsstarken Sendern – kann es zu verschiedenen Beeinflussungen elektronischer Geräte und Anlagen kommen. Solche *störenden Beeinflussungen* und einige grundlegende Handlungshinweise haben wir bereits in der Klasse N kennengelernt. Ziel ist es, diese Beeinflussungen möglichst zu vermeiden oder ihre Ursachen durch geeignete Gegenmassnahmen zu beseitigen. In dieser Lektion wollen wir uns Ursachen und Gegenmassnahmen genauer ansehen. Grundsätzlich können elektronische Geräte auf zwei Arten beeinflusst werden:
 
 - *Einstrahlung* liegt vor, wenn Hochfrequenz über die Empfangsantenne (Abbildung [ref:e_antenne_einstrahlung]) oder wegen eines ungenügend geschirmten Gehäuses (Abbildung [ref:e_direkteinstrahlung]) direkt in die Elektronik eines Gerätes gelangt und dort zu Beeinflussungen führt.
 - *Einströmungen* liegen vor, wenn Hochfrequenz über Leitungen oder Kabel in ein Gerät gelangen wie z.B. über die Netzzuleitung, Antennenzuleitung, Lautsprecherkabel etc. (Abbildung [ref:e_einstroemung])
@@ -23,19 +23,19 @@ Oft werden störende Beeinflussungen in der Nachbarschaft mit dem Betrieb einer 
 
 [question:EJ122]
 
-Der Funkamateur sollte in der Nachbarschaft hierbei in kooperativer Weise und lösungsorientiert unterstützen bzw. auch Vorschläge für eine Abhilfe unterbreiten. Oft lassen sich Probleme im direkten Gespräch einfacher lösen als unter Einschaltung von Behörden. Erst wenn alle Bemühungen fehlgeschlagen sind, kann die zuständige Außenstelle der Bundesnetzagentur um eine Prüfung der Gegebenheiten gebeten werden. Dies sollte allerdings wirklich das letzte Mittel der Problemlösung sein.
+Der Funkamateur sollte in der Nachbarschaft hierbei in kooperativer Weise und lösungsorientiert unterstützen bzw. auch Vorschläge für eine Abhilfe unterbreiten. Oft lassen sich Probleme im direkten Gespräch einfacher lösen als unter Einschaltung von Behörden. Erst wenn alle Bemühungen fehlgeschlagen sind, kann die zuständige Aussenstelle der Bundesnetzagentur um eine Prüfung der Gegebenheiten gebeten werden. Dies sollte allerdings wirklich das letzte Mittel der Problemlösung sein.
 
 [question:EJ124]
 
-Zu diesen Bemühungen zählen verschiedene Maßnahmen, wie zum Beispiel:
+Zu diesen Bemühungen zählen verschiedene Massnahmen, wie zum Beispiel:
 
 %- Reduzierung der Sendeleistung der Amateurfunkanlage % Das sollte das letzte Mittel sein!
 - Abschirmung empfindlicher Geräte oder Leitungen
 - Einbau von Filtern und Mantelwellensperren auf der Empfangsseite des Nachbarn
 - Einrichtung einer wirksamen HF-Erdung
-- Verwendung von Außenantennen für den Empfang
+- Verwendung von Aussenantennen für den Empfang
 
-Diese Maßnahmen wollen wir im Folgenden genauer betrachten.
+Diese Massnahmen wollen wir im Folgenden genauer betrachten.
 
 Damit störende Beeinflussungen von Geräten vermieden werden, sollte ein Funkamateur stets nur die für eine *zufriedenstellende Kommunikation erforderliche Sendeleistung* für seine Aussendungen verwenden.
 
@@ -52,9 +52,9 @@ Selbst in einer abgeschalteten Stereoanlage können starke HF-Signale durch Glei
 [question:EJ121]
 
 
-Nicht alle störenden Beeinflussungen lassen sich durch Maßnahmen auf der Sendeseite beheben. Oft ist auch das beeinflusste Gerät selbst nicht für den jeweiligen Einsatzort geeignet, erfüllt geltende gesetzliche Vorgaben nicht oder Zuleitungen und Abschirmungen sind nicht ausreichend gegen hochfrequente Einstrahlungen oder Einströmungen dimensioniert. In solchen Fällen bietet es sich an, Betroffenen Maßnahmen vorzuschlagen, so dass die Probeleme behoben werden können.
+Nicht alle störenden Beeinflussungen lassen sich durch Massnahmen auf der Sendeseite beheben. Oft ist auch das beeinflusste Gerät selbst nicht für den jeweiligen Einsatzort geeignet, erfüllt geltende gesetzliche Vorgaben nicht oder Zuleitungen und Abschirmungen sind nicht ausreichend gegen hochfrequente Einstrahlungen oder Einströmungen dimensioniert. In solchen Fällen bietet es sich an, Betroffenen Massnahmen vorzuschlagen, so dass die Probeleme behoben werden können.
 
-Eine mögliche Maßnahme besteht darin, HF-Baugruppen möglichst durch ein geschlossenes Metallgehäuse zu schirmen.
+Eine mögliche Massnahme besteht darin, HF-Baugruppen möglichst durch ein geschlossenes Metallgehäuse zu schirmen.
 
 [question:EJ108]
 
@@ -65,7 +65,7 @@ Befindet sich eine Kurzwellen-Sendeantenne in der Nähe und parallel zu einer $\
 
 Eine weitere Möglichkeit ist der *Einbau von Filtern in Zuleitungen von Geräten* sowie *Mantelwellen-Sperren (Verdrosselung)* von Zuleitungen.
 
-Insbesondere Filter können auf der Seite des beeinflussten Gerätes (TV, DVB-T2-Empfänger, DAB-Empfänger etc.) in den Empfangspfad eingebaut werden. So kann beispielsweise die Feldstärke eines Amateurfunk-Kurzwellensenders (z. B. im Bereich von $\qtyrange{3}{30}{\mega\hertz}$) den TV-Empfang (z. B. $\qtyrange{470}{690}{\mega\hertz}$) beeinflussen. Durch den Einbau eines Hochpassfilters lässt sich der Einfluss des Amateurfunksendesignals deutlich verringern: Frequenzanteile außerhalb des TV-Empfangsbereichs – in diesem Beispiel also die Kurzwelle – werden unterdrückt, sodass die Empfangsstufen des Geräts nicht mehr übersteuert werden können.
+Insbesondere Filter können auf der Seite des beeinflussten Gerätes (TV, DVB-T2-Empfänger, DAB-Empfänger etc.) in den Empfangspfad eingebaut werden. So kann beispielsweise die Feldstärke eines Amateurfunk-Kurzwellensenders (z. B. im Bereich von $\qtyrange{3}{30}{\mega\hertz}$) den TV-Empfang (z. B. $\qtyrange{470}{690}{\mega\hertz}$) beeinflussen. Durch den Einbau eines Hochpassfilters lässt sich der Einfluss des Amateurfunksendesignals deutlich verringern: Frequenzanteile ausserhalb des TV-Empfangsbereichs – in diesem Beispiel also die Kurzwelle – werden unterdrückt, sodass die Empfangsstufen des Geräts nicht mehr übersteuert werden können.
 
 [question:EJ116]
 [question:EJ117]
@@ -77,6 +77,6 @@ Oft wird das Sendesignal einer Amateurfunkstation in örtlicher Nähe zu anderen
 [question:EJ115]
 [question:EJ114]
 
-Auch schlechte Empfangsverhältnisse auf Seiten des beeinflussten Gerätes (z.B. TV-Zimmerantenne für Empfang) können leichter zu Beeinflussungen im Empfang führen. Eine mögliche Gegenmaßnahme wäre die Verwendung einer Außenantenne ggf. mit entsprechenden Vorfiltern.
+Auch schlechte Empfangsverhältnisse auf Seiten des beeinflussten Gerätes (z.B. TV-Zimmerantenne für Empfang) können leichter zu Beeinflussungen im Empfang führen. Eine mögliche Gegenmassnahme wäre die Verwendung einer Aussenantenne ggf. mit entsprechenden Vorfiltern.
 
 [question:EJ123]

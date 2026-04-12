@@ -26,16 +26,16 @@ Ein Dipol der richtigen Länge hat eine gute *Abstrahlung*. Er gibt bei Sendebet
 
 [question:NG103]
 
-Liegt die Resonanzfrequenz unterhalb der gewünschten Frequenz, dann ist der Dipol zu lang. Die Dipol-Antenne kann auf die gewünschte Frequenz gebracht werden, indem man sie an beiden Seiten gleichmäßig kürzt.
+Liegt die Resonanzfrequenz unterhalb der gewünschten Frequenz, dann ist der Dipol zu lang. Die Dipol-Antenne kann auf die gewünschte Frequenz gebracht werden, indem man sie an beiden Seiten gleichmässig kürzt.
 
 [question:NG304]
 
 ---
 
-Andersherum kann eine zu hohe Resonanzfrequenz eines Dipols nach unten verändert werden, indem man beide Seiten gleichmäßig verlängert.
+Andersherum kann eine zu hohe Resonanzfrequenz eines Dipols nach unten verändert werden, indem man beide Seiten gleichmässig verlängert.
 
 <tip>
-Ein Draht oder Metallstab lässt sich viel einfacher kürzen als verlängern. Daher ist es beim Bau eines Dipols zweckmäßig ihn zunächst etwas länger als berechnet auszulegen und dann schrittweise vorsichtig zu kürzen, bis Resonanz erreicht ist.
+Ein Draht oder Metallstab lässt sich viel einfacher kürzen als verlängern. Daher ist es beim Bau eines Dipols zweckmässig ihn zunächst etwas länger als berechnet auszulegen und dann schrittweise vorsichtig zu kürzen, bis Resonanz erreicht ist.
 </tip>
 
 [question:NG305]

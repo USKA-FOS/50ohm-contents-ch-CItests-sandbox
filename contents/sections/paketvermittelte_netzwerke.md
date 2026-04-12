@@ -2,7 +2,7 @@
 [include:hamnet_map]
 </margin>
 
-Eine besondere Rolle im Amateurfunk nimmt das HAMNET ein – ein Netzwerk, das ausschließlich Funkamateuren vorbehalten ist. HAMNET (Highspeed Amateurradio Multimedia Network) ist ein von Funkamateuren entwickeltes und betriebenes IP-basiertes Netzwerk. In seiner Funktionsweise ähnelt es dem Internet, nutzt jedoch überwiegend Funkstrecken zur Datenübertragung.
+Eine besondere Rolle im Amateurfunk nimmt das HAMNET ein – ein Netzwerk, das ausschliesslich Funkamateuren vorbehalten ist. HAMNET (Highspeed Amateurradio Multimedia Network) ist ein von Funkamateuren entwickeltes und betriebenes IP-basiertes Netzwerk. In seiner Funktionsweise ähnelt es dem Internet, nutzt jedoch überwiegend Funkstrecken zur Datenübertragung.
 
 Ursprünglich wurde HAMNET als schrittweiser Ersatz für das seit den 1980er-Jahren bestehende Packet-Radio-Netz konzipiert und hat dieses inzwischen nahezu vollständig abgelöst. Die schnellen Datenverbindungen zwischen den einzelnen Einstiegspunkten und Knoten werden hauptsächlich über die Mikrowellenbänder 6 cm, 9 cm und 13 cm realisiert. Für den Zugang zum HAMNET benötigt man freie Sicht zu einem HAMNET-Knoten mit Benutzerzugang sowie einen geeigneten WLAN-Transceiver mit Richtantenne.
 
@@ -22,11 +22,11 @@ Das Hamnet ist genau wie das Internet ein Verbund aus vielen einzelnen Netzwerke
 
 [question:EE412]
 
-In so großen Gebilden schafft man dadurch Ordnung, dass alle Computer nummeriert sind. Die Nummern der Teilnehmern heißen IP-Adressen. Es existieren die Versionen IPv4 und IPv6. Für unser Hobby genügt es meistens, sich mit der einfacheren Version 4 zu befassen.
+In so grossen Gebilden schafft man dadurch Ordnung, dass alle Computer nummeriert sind. Die Nummern der Teilnehmern heissen IP-Adressen. Es existieren die Versionen IPv4 und IPv6. Für unser Hobby genügt es meistens, sich mit der einfacheren Version 4 zu befassen.
 
-IPv4-Adressen sind Dualzahlen mit einer Länge von 32 Bit. Geschrieben werden vier Dezimalzahlen, von denen jede für 8 Bit steht, mit Punkten dazwischen. Die größtmögliche Zahl ist 255 entsprechend der Dualzahl 11111111.
+IPv4-Adressen sind Dualzahlen mit einer Länge von 32 Bit. Geschrieben werden vier Dezimalzahlen, von denen jede für 8 Bit steht, mit Punkten dazwischen. Die grösstmögliche Zahl ist 255 entsprechend der Dualzahl 11111111.
 
-Bei allen Computern, die sich im selben Netzwerk befinden, ist der Anfang der IP-Adressen gleich. Dieser Netzanteil hat eine variable Länge. Große Netzwerke brauchen viele der 32 Bits, um hinten im sogenannten Hostanteil ihre Computer zu nummerieren. Sie verwenden dafür einen kürzeren Netzanteil. Bei kleinen Netzwerken ist es genau umgekehrt. Dieses Prinzip kennt man vom Telefonnetz. Die größten Städte haben dreistellige Vorwahlen, zum Beispiel 089, und kleine Ortsnetze fünf- oder sechsstellige wie 038725.
+Bei allen Computern, die sich im selben Netzwerk befinden, ist der Anfang der IP-Adressen gleich. Dieser Netzanteil hat eine variable Länge. Grosse Netzwerke brauchen viele der 32 Bits, um hinten im sogenannten Hostanteil ihre Computer zu nummerieren. Sie verwenden dafür einen kürzeren Netzanteil. Bei kleinen Netzwerken ist es genau umgekehrt. Dieses Prinzip kennt man vom Telefonnetz. Die grössten Städte haben dreistellige Vorwahlen, zum Beispiel 089, und kleine Ortsnetze fünf- oder sechsstellige wie 038725.
 
 ---
 

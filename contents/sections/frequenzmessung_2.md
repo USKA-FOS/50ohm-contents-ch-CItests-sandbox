@@ -1,4 +1,4 @@
-Es gibt kaum Funkgeräte, bei denen man die Empfangsfrequenz direkt messen kann. Die üblichen Empfängerschaltungen weisen keinen Punkt auf, an dem sie anliegt. Deshalb schließt man zum Überprüfen der Frequenzanzeige einen möglichst genauen Oszillator oder Frequenzgenerator an die Antennenbuchse an. Dessen Frequenz wird mit der Anzeige am Empfänger verglichen.
+Es gibt kaum Funkgeräte, bei denen man die Empfangsfrequenz direkt messen kann. Die üblichen Empfängerschaltungen weisen keinen Punkt auf, an dem sie anliegt. Deshalb schliesst man zum Überprüfen der Frequenzanzeige einen möglichst genauen Oszillator oder Frequenzgenerator an die Antennenbuchse an. Dessen Frequenz wird mit der Anzeige am Empfänger verglichen.
 
 <attention>
 Ein direkt angeschlossener Frequenzgenerator kann einen Empfängereingang leicht beschädigen. Im Zweifelsfall sollte die Messung mit der niedrigsten Spannung des Generators und einem Dämpfungsglied begonnen werden.

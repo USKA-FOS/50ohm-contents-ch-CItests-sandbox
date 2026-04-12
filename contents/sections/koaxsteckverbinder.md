@@ -1,5 +1,5 @@
-Zur Verbindung von Koaxialkabeln kommen spezielle *Koaxialsteckverbinder* zum Einsatz. Sie bestehen genauso wie Koaxialkabel aus einem Innen- und Außenleiter. Man unterscheidet die Steckverbinder in zwei Teile, den männlichen Stecker und die weibliche Kupplung:
-* Stecker (männlich), bei dem ein Kontaktstift nach außen weist
+Zur Verbindung von Koaxialkabeln kommen spezielle *Koaxialsteckverbinder* zum Einsatz. Sie bestehen genauso wie Koaxialkabel aus einem Innen- und Aussenleiter. Man unterscheidet die Steckverbinder in zwei Teile, den männlichen Stecker und die weibliche Kupplung:
+* Stecker (männlich), bei dem ein Kontaktstift nach aussen weist
 * Kupplung (weiblich) mit einer nach innen weisenden Kontaktöffnung
 
 <indepth>
@@ -10,7 +10,7 @@ Eine in ein Gerät eingebaute Kupplung wird als *Buchse* und ein eingebauter Ste
 Koaxialsteckverbinder sind empfindlich und dürfen nicht beschädigt sein. Es sollte darauf geachtet werden, Koaxialstecker immer sorgfältig und fest anzuschrauben!
 </attention>
 
-Das metallische Außengehäuse des Koaxialsteckers bzw. der Koaxialkupplung wird mit dem Außenleiter des Koaxialkabels (Abschirmgeflecht, -folie) verbunden. Ebenso werden die Innenleiter von Steckverbinder und Koaxialkabel miteinander verbunden. Die Verbindungen werden gut leitend hergestellt, meist durch Löten oder Crimpen (Verpressen).
+Das metallische Aussengehäuse des Koaxialsteckers bzw. der Koaxialkupplung wird mit dem Aussenleiter des Koaxialkabels (Abschirmgeflecht, -folie) verbunden. Ebenso werden die Innenleiter von Steckverbinder und Koaxialkabel miteinander verbunden. Die Verbindungen werden gut leitend hergestellt, meist durch Löten oder Crimpen (Verpressen).
 
 ---
 

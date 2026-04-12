@@ -6,11 +6,11 @@ Eine schwierige Frage, deshalb soll sie im Einzelnen erklärt werden!
 ---
 [question:AD115]
 
-Im belasteten Spannungsteiler fließen 3 Ströme:
-$I_1$ fließt durch $R_1$ und verursacht dort eine Verlustleistung $P_1 = U_1 \cdot I_1 = I_2 \cdot R_1$
-$I_2$ fließt durch $R_2$ und verursacht dort eine Verlustleistung $P_2 = U_2 \cdot I_2 = {I_2}^2 \cdot R_2$
-$I_L$ fließt durch $R_L$ und verursacht dort eine Verlustleistung $P_L = U_2 \cdot I_L = {I_L}^2 \cdot R_L$
-Der Strom $I_1$ ist die Summe von $I_2$ und $I_L$ und damit der größte Strom.
+Im belasteten Spannungsteiler fliessen 3 Ströme:
+$I_1$ fliesst durch $R_1$ und verursacht dort eine Verlustleistung $P_1 = U_1 \cdot I_1 = I_2 \cdot R_1$
+$I_2$ fliesst durch $R_2$ und verursacht dort eine Verlustleistung $P_2 = U_2 \cdot I_2 = {I_2}^2 \cdot R_2$
+$I_L$ fliesst durch $R_L$ und verursacht dort eine Verlustleistung $P_L = U_2 \cdot I_L = {I_L}^2 \cdot R_L$
+Der Strom $I_1$ ist die Summe von $I_2$ und $I_L$ und damit der grösste Strom.
 
 <margin>
   Zur Veranschaulichung hilft am Besten eine Rechnung mit konkreten Bauteilwerten.
@@ -21,8 +21,8 @@ Angenommen: Alle Widerstände haben einen Wert von $\qty{1}{\kilo\ohm}$ und die 
  Der Gesamtwiderstand $R_{\mathrm{ges}}$ beträgt: $\qty{2}{\kilo\ohm}$
  $\dfrac{U_B}{U_{2}} = \frac{R_{\mathrm{ges}}}{R_{2}}$
  Der Gesamtstrom $I_1$ beträgt:  $I_1 = \frac{U_B}{R_{\mathrm{ges}}}$
- $I_1 = \frac{\qty{12}{\volt}}{\qty{2}{\kilo\ohm}} = \qty{6}{\milli\ampere}$. Dieser Strom fließt auch durch $R_2$.
- Die Verlustleistung ist an beiden Widerständen gleich groß: $P_1 = P_2 = \qty{6}{\volt} \cdot \qty{6}{\milli\ampere} = \qty{36}{\milli\watt}$
+ $I_1 = \frac{\qty{12}{\volt}}{\qty{2}{\kilo\ohm}} = \qty{6}{\milli\ampere}$. Dieser Strom fliesst auch durch $R_2$.
+ Die Verlustleistung ist an beiden Widerständen gleich gross: $P_1 = P_2 = \qty{6}{\volt} \cdot \qty{6}{\milli\ampere} = \qty{36}{\milli\watt}$
  
  *belasteter Fall:*
   Die Parallelschaltung von $R_2$ und $R_L$ ergibt einen Ersatzwiderstand von $\qty{500}{\ohm}$.

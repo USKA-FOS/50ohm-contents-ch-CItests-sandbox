@@ -14,7 +14,7 @@ Eine Erweiterung des Doppelsuper-Konzeptes wäre der Dreifach-Super, bei dem ein
 [question:AF112]
 [question:AF113]
 
-Nach dem ersten Mischer kann zur Verbesserung der Großsignalfestigkeit ein sehr schmales Filter, welches auf die 1. ZF abgestimmt ist, eingesetzt werden.  Man nennt dieses Filter *Roofing Filter*. Die Bandbreite des Roofing-Filters muss hierbei mindestens so groß wie die größte benötigte Bandbreite der vorgesehenen Betriebsarten sein.
+Nach dem ersten Mischer kann zur Verbesserung der Grosssignalfestigkeit ein sehr schmales Filter, welches auf die 1. ZF abgestimmt ist, eingesetzt werden.  Man nennt dieses Filter *Roofing Filter*. Die Bandbreite des Roofing-Filters muss hierbei mindestens so gross wie die grösste benötigte Bandbreite der vorgesehenen Betriebsarten sein.
 
 [question:AF114]
 [question:AF116]

@@ -1,4 +1,4 @@
-%TODO: Dieses Kapitel ist noch nicht abschließend bearbeitet und muss noch Überarbeitet werden!!!
+%TODO: Dieses Kapitel ist noch nicht abschliessend bearbeitet und muss noch Überarbeitet werden!!!
 
 Der Verstärkungsfaktor vor Verstärkern wird meist in Dezibel ($\qty{\frac{1}{10}}{\bel}$) ausgedrückt. Dabei ist immer zu berücksichtigen, ob man die Spannungsverstärkung oder die Leistungsverstärkung eines Verstärkers betrachtet.
 *Leistung und Spannung verhalten sich nämlich quadratisch zueinander* und müssen unterschiedlich berechnet werden!
@@ -18,7 +18,7 @@ Beispiel: $\log(x^2) = 2 \cdot \log(x)$
 
 %TODO: Tip mit Berechnung von Bel und Dezibel bei Spannungs und Leistungsverhältnissen mit Erklärung warum der Faktor $2$ noch vor den Logarithmus wandert (Quadrat aus Logarithmus wird zu Faktor $2$ bei rausziehen).
 
-Bei Betrachtung der Leistungsverstärkung eines Verstärkers können wir diese ebenfalls in Dezibel ($\unit{\dB}$) angeben. Hierzu müssen wir die beiden Leistungspegel (Ausgangspegel und Eingangspegel) zueinander ins Verhältnis setzen und dann den Zehner-Logarithmus ziehen. Anschließend muss das Ergebnis noch mit dem Faktor $10$ multipliziert werden, um die Leistungsverstärkung in $\unit{\dB}$ zu erhalten.
+Bei Betrachtung der Leistungsverstärkung eines Verstärkers können wir diese ebenfalls in Dezibel ($\unit{\dB}$) angeben. Hierzu müssen wir die beiden Leistungspegel (Ausgangspegel und Eingangspegel) zueinander ins Verhältnis setzen und dann den Zehner-Logarithmus ziehen. Anschliessend muss das Ergebnis noch mit dem Faktor $10$ multipliziert werden, um die Leistungsverstärkung in $\unit{\dB}$ zu erhalten.
 
 Die entsprechenden Formeln zur Berechnung der Leistungsverstärkung und Spannungsverstärkung von Verstärkern findet man auch in der Formelsammlung.
 

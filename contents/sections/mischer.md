@@ -30,10 +30,10 @@ Wegen des $\pm$ muss eine Fallunterscheidung getroffen werden: Es ergibt sich so
 
 Die Betragsstriche $|x|$ bedeuten, dass nur der Zahlenwert ohne Vorzeichen betrachtet wird. Ist $x$ negativ, wird es positiv gemacht. Ist $x$ bereits positiv, bleibt es unverändert.
 
-Normalerweise wird nur eines der erwünschten Mischprodukte für die weitere Signalverarbeitung genutzt. Das andere Mischprodukt (sowie ggf. weitere unerwünschte Mischprodukte - siehe Vertiefung) müssen anschließend durch Filterung aus dem Signalgemisch entfernt werden.
+Normalerweise wird nur eines der erwünschten Mischprodukte für die weitere Signalverarbeitung genutzt. Das andere Mischprodukt (sowie ggf. weitere unerwünschte Mischprodukte - siehe Vertiefung) müssen anschliessend durch Filterung aus dem Signalgemisch entfernt werden.
 
 <indepth>
-Ein realer Mischer erzeugt neben den erwünschten Mischprodukten auch Mischprodukte höherer Ordnung wie z.B. $2 * f_\text{in1} + f_\text{in2}$ usw. Diese unerwünschten Mischprodukte müssen anschließend ebenfalls durch geeignete Filter entfernt werden. Auch die beiden Eingangsfrequenzen sind bei realen Mischern in deren Ausgangssignal nicht vollständig unterdrückt und müssen bei der weiteren Signalverarbeitung berücksichtigt werden. Durch Verwendung eines balancierten Ringmischers (Balance-Mixer) können die beiden Eingangssignale im Ausgangssignal sehr stark unterdrückt werden, weshalb dieser Mischer-Typ häufig zum Einsatz kommt.
+Ein realer Mischer erzeugt neben den erwünschten Mischprodukten auch Mischprodukte höherer Ordnung wie z.B. $2 * f_\text{in1} + f_\text{in2}$ usw. Diese unerwünschten Mischprodukte müssen anschliessend ebenfalls durch geeignete Filter entfernt werden. Auch die beiden Eingangsfrequenzen sind bei realen Mischern in deren Ausgangssignal nicht vollständig unterdrückt und müssen bei der weiteren Signalverarbeitung berücksichtigt werden. Durch Verwendung eines balancierten Ringmischers (Balance-Mixer) können die beiden Eingangssignale im Ausgangssignal sehr stark unterdrückt werden, weshalb dieser Mischer-Typ häufig zum Einsatz kommt.
 </indepth>
 
 [question:EF201]

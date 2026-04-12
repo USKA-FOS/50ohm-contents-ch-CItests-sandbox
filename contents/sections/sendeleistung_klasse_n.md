@@ -4,9 +4,9 @@ Wo wir uns gerade mit der Strahlungsleistung beschäftigt haben, sollten wir noc
 
 [question:VD743]
 
-Schauen wir uns das noch an einem Beispiel an. Angenommen, wir verwenden als Funkamateur der Klasse N ein VHF-Handfunkgerät mit $\qty{5}{\watt}$ Sendeleistung und fragen uns, ob wir daran eine kleine Yagi-Uda-Antenne anschließen dürfen. Ob wir das dürfen, hängt davon ab, wie groß der Gewinnfaktor der Antenne und somit die äquivalente isotrope Strahlungsleistung ist.
+Schauen wir uns das noch an einem Beispiel an. Angenommen, wir verwenden als Funkamateur der Klasse N ein VHF-Handfunkgerät mit $\qty{5}{\watt}$ Sendeleistung und fragen uns, ob wir daran eine kleine Yagi-Uda-Antenne anschliessen dürfen. Ob wir das dürfen, hängt davon ab, wie gross der Gewinnfaktor der Antenne und somit die äquivalente isotrope Strahlungsleistung ist.
 
-Erinnern wir uns: Die Strahlungsleistung errechnet sich aus der Sendeleistung multipliziert mit dem Gewinnfaktor. Ist der Gewinnfaktor bezogen auf den isotropen Strahler kleiner als $\num{2}$, dann erhalten wir eine Strahlungsleistung unter $\qty{10}{\watt}$ EIRP und dürfen die Antennen verwenden. Ist der Gewinnfaktor bezogen auf den isotropen Strahler allerdings größer als $\num{2}$, dann erhalten wir eine Strahlungsleistung über $\qty{10}{\watt}$ EIRP und dürfen die Antenne als Funkamateur der Klasse N nicht verwenden.
+Erinnern wir uns: Die Strahlungsleistung errechnet sich aus der Sendeleistung multipliziert mit dem Gewinnfaktor. Ist der Gewinnfaktor bezogen auf den isotropen Strahler kleiner als $\num{2}$, dann erhalten wir eine Strahlungsleistung unter $\qty{10}{\watt}$ EIRP und dürfen die Antennen verwenden. Ist der Gewinnfaktor bezogen auf den isotropen Strahler allerdings grösser als $\num{2}$, dann erhalten wir eine Strahlungsleistung über $\qty{10}{\watt}$ EIRP und dürfen die Antenne als Funkamateur der Klasse N nicht verwenden.
 
 [question:VD726]
 

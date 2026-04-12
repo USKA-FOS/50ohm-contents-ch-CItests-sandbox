@@ -1,4 +1,4 @@
-Anstatt in der Mitte kann man das Antennenkabel auch an einem Ende des Dipols anschließen [ref:n_antennenformen_schaltbild_endfed]. Diese Antenne bezeichnet man dann als *Endgespeiste Antenne* oder auch kurz *End-Fed*.
+Anstatt in der Mitte kann man das Antennenkabel auch an einem Ende des Dipols anschliessen [ref:n_antennenformen_schaltbild_endfed]. Diese Antenne bezeichnet man dann als *Endgespeiste Antenne* oder auch kurz *End-Fed*.
 
 <margin>
 [picture:615:n_antennenformen_schaltbild_endfed:Schaltbild einer endgespeisten Antenne]

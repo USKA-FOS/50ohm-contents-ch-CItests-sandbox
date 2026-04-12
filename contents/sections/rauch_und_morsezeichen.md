@@ -1,4 +1,4 @@
-Schon seit Urzeiten haben Menschen versucht, Nachrichten über große Entfernungen zu übertragen. Ein sehr altes Übertragungsverfahren sind Rauchzeichen. Um weit sichtbare Rauchzeichen zu erhalten, wird einem offenen Feuer beispielsweise nasses Gras zugesetzt. Dadurch qualmt das Feuer stark.
+Schon seit Urzeiten haben Menschen versucht, Nachrichten über grosse Entfernungen zu übertragen. Ein sehr altes Übertragungsverfahren sind Rauchzeichen. Um weit sichtbare Rauchzeichen zu erhalten, wird einem offenen Feuer beispielsweise nasses Gras zugesetzt. Dadurch qualmt das Feuer stark.
 
 <margin>
 [photo:104:n_modulation_love:Nachrichtenübermittlung mit Rauchzeichen]
@@ -29,7 +29,7 @@ Solche Übertragungsverfahren nennt man *Telegrafie*. Verfahren dieser Art haben
 In der Fachsprache wird das Hilfsmittel, also der Rauch oder die elektrische Schwingung, als *Träger* bezeichnet, da er die Information vom Sender zum Empfänger trägt. Bei Trägern im Funk, die ja recht hohe Frequenzen verwenden, spricht man auch von einem Hochfrequenz-Träger, oder kurz HF-Träger. Das Verfahren, um den Träger zu verändern, also das Wedeln mit der Decke bzw. das rhythmische Ein- und Ausschalten der elektrischen Schwingung, nennt man *Modulation*. 
 
 <wordorigin>
-Im Begriff *Telegrafie* stecken zwei altgriechische Wörter: τηλε (tele) bedeutet "fern" und γράφειν (graphein) soviel wie "schreiben" oder "zeichnen". *Modulation* kommt aus dem Lateinischen: Modulatio bedeutet dort Taktmaß bzw. Rhythmus.
+Im Begriff *Telegrafie* stecken zwei altgriechische Wörter: τηλε (tele) bedeutet "fern" und γράφειν (graphein) soviel wie "schreiben" oder "zeichnen". *Modulation* kommt aus dem Lateinischen: Modulatio bedeutet dort Taktmass bzw. Rhythmus.
 </wordorigin>
 
 [question:NE201]

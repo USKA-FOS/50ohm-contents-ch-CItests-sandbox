@@ -19,7 +19,7 @@ Strom $I = S \cdot A = \qty{2,5}{\ampere\per\milli\meter\squared} \cdot \qty{0,2
 
 % todo Der Begriff Gegeninduktion sollte in das Kapitel Trafo 1 verschoben werden.
 Das Trafo-Prinzip beruht auf einem besonderen physikalischen Effekt.
-Wenn sich ein Magnetfeld in einer Spule ändert, und dies geschieht beim Anlegen einer Wechselspannung, dann wird in einer magnetisch gekoppelten Spule eine elektrische Spannung induziert, die der Ursache entgegengesetzt gerichtet ist. Deshalb spricht man von Gegeninduktion. Auch bei jedem Motor gibt es diesen Effekt, deshalb benötigt man eine Kraft, um den Motor zu drehen. Wäre es keine Gegeninduktion, dann hätten wir ein Perpetuum Mobile, der Motor wird ein Mal angestoßen und läuft dann ohne Kraftzuführung weiter.
+Wenn sich ein Magnetfeld in einer Spule ändert, und dies geschieht beim Anlegen einer Wechselspannung, dann wird in einer magnetisch gekoppelten Spule eine elektrische Spannung induziert, die der Ursache entgegengesetzt gerichtet ist. Deshalb spricht man von Gegeninduktion. Auch bei jedem Motor gibt es diesen Effekt, deshalb benötigt man eine Kraft, um den Motor zu drehen. Wäre es keine Gegeninduktion, dann hätten wir ein Perpetuum Mobile, der Motor wird ein Mal angestossen und läuft dann ohne Kraftzuführung weiter.
 
 *Anpassungsübertrager*
 

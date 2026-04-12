@@ -5,7 +5,7 @@ Beim Aufbau von Antennen sind Vorschriften zu beachten, die sich von Bundesland 
 </margin>
 
 <tip>
-Mitglieder des DARC haben automatisch eine Haftpflichtversicherung für von ihnen betriebene Antennenanlagen, sofern sie vorschriftsmäßig aufgebaut sind. Die Versicherungsleistung ist bereits im Mitgliedsbeitrag enthalten.
+Mitglieder des DARC haben automatisch eine Haftpflichtversicherung für von ihnen betriebene Antennenanlagen, sofern sie vorschriftsmässig aufgebaut sind. Die Versicherungsleistung ist bereits im Mitgliedsbeitrag enthalten.
 
 [Jetzt Mitglied im DARC werden!](https://50ohm.de/mw)
 </tip>

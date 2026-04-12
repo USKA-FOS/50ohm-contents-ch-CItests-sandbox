@@ -28,14 +28,14 @@ Im Folgenden besprechen wir alle Q-Gruppen, die in der Prüfung vorkommen, geben
 
 [question:BE115]
 
-* QRO: steht für gr*o*ße Leistung. Beziehungsweise als Frage: Soll ich die Sendeleistung erhöhen? Leichter merken kann man sich das vielleicht mit: "Soll ich noch ein paar Watt *o*bendrauf legen?"
+* QRO: steht für gr*o*sse Leistung. Beziehungsweise als Frage: Soll ich die Sendeleistung erhöhen? Leichter merken kann man sich das vielleicht mit: "Soll ich noch ein paar Watt *o*bendrauf legen?"
 * QSO: Im Alltag wird die Abkürzung für eine Funkverbindung gebraucht. Das ist eine freizügige, aber übliche Interpretation. Korrekt bedeutet "QSO?": "Können Sie direkt Funkverkehr aufnehmen mit ...?"
 * QRX: Ich rufe Sie wieder. Als Frage (QRX?): Wann werden Sie mich wieder rufen? Werden Sie mich zum Zeitpunkt *X* wieder rufen?
 
 [question:BB202]
 
 <margin>
-Einige Funkamateure versuchen, mit besonders geringer Sendeleistung - in der Regel weniger als $\qty{5}{\watt}$ - möglichst große Distanzen zu überbrücken. Dabei spricht man nach der gleich lautenden Q-Gruppe von *QRP-Betrieb*. Telegrafie mittels CW oder digitalen Übertragungsverfahren ist für QRP-Betrieb besonders gut geeignet.
+Einige Funkamateure versuchen, mit besonders geringer Sendeleistung - in der Regel weniger als $\qty{5}{\watt}$ - möglichst grosse Distanzen zu überbrücken. Dabei spricht man nach der gleich lautenden Q-Gruppe von *QRP-Betrieb*. Telegrafie mittels CW oder digitalen Übertragungsverfahren ist für QRP-Betrieb besonders gut geeignet.
 </margin>
 
 * QRP: Selbst wenn man sich erst seit kurzem mit dem Amateurfunk befasst, hat man den Begriff "QRP" vielleicht schon gehört. Wenn wir von QRP-Geräten oder QRP-Verbindungen reden, meinen wir Geräte beziehungsweise Funkverbindungen mit kleiner Sendeleistung. Der ursprüngliche Sinn ist naheliegend. "QRP" ist die Aufforderung, die Sendeleistung zu verringern.

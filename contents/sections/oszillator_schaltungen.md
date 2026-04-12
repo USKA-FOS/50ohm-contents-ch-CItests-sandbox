@@ -4,7 +4,7 @@ Herzstück eines Oszillators ist ein Verstärkerelement, dessen *Ausgangssignal 
 
 Damit ein Oszillator ungedämpfte Schwingungen erzeugen kann, müssen *zwei Grundbedingungen* erfüllt sein.
 Zum einen muss das *Ausgangssignal gleichphasig auf den Eingangspunkt der Schaltung rückgekoppelt* werden.
-Hierbei muss zum anderen die *Amplitude des rückgekoppelten Signals mindestens die gleiche Größe* wie die des Eingangssignals haben. Man sagt auch, dass die sog. *Schleifenverstärkung größer 1* sein muss, damit eine Selbsterregung möglich ist, die die Schwingung aufrechterhält.
+Hierbei muss zum anderen die *Amplitude des rückgekoppelten Signals mindestens die gleiche Grösse* wie die des Eingangssignals haben. Man sagt auch, dass die sog. *Schleifenverstärkung grösser 1* sein muss, damit eine Selbsterregung möglich ist, die die Schwingung aufrechterhält.
 
 [question:AD613]
 
@@ -15,7 +15,7 @@ Hierbei muss zum anderen die *Amplitude des rückgekoppelten Signals mindestens 
 %TODO: Evtl. Bild 760 ableiten und noch um die 3 Punkte der Dreipunktschaltung ergänzen (am kapazitiven Spannungsteiler - oben, in der Mitte und unten)
 
 Die in Abbildung [ref:a_oszillator_schaltungen_oszillator] abgebildete Schaltung stellt einen kapazitiv rückgekoppelten Dreipunktoszillator dar. Das Ausgangssignal wird vom Emitter der Schaltung über einen kapazitiven Spannungsteiler auf die Basis des Transistors rückgekoppelt. Die Frequenz des Oszillators wird überwiegend durch den Schwingkreis in der Basis (bestehend aus Spule und Trimmkondensator) sowie den zum Schwingkreis parallel geschalteten kapazitiven Spannungsteiler bestimmt.
-Bei der Schaltung handelt es sich um einen Oszillator in Kollektorschaltung, da der Kollektor wechselspannungsmäßig auf Masse liegt.
+Bei der Schaltung handelt es sich um einen Oszillator in Kollektorschaltung, da der Kollektor wechselspannungsmässig auf Masse liegt.
 
 [question:AD614]
 [question:AD616]

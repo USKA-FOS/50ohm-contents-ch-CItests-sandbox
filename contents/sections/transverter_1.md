@@ -1,4 +1,4 @@
-*Konverter* und *Transverter* werden im Amateurfunk eingesetzt, um mit vorhandenen Funkgeräten zusätzliche Frequenzbereiche zu erschließen, die diese Geräte ursprünglich nicht abdecken. Ein *Konverte*r setzt das Signal dabei nur in eine Richtung um, entweder im Sendepfad oder im Empfangspfad. Ein *Transverter* hingegen verfügt über eine interne Sende-/Empfangsumschaltung und übernimmt die Frequenzumsetzung sowohl im Sende- als auch im Empfangsbetrieb. Die Frequenzumsetzung bei Konvertern und Transvertern erfolgt hierbei immer durch Mischung in einem oder mehreren Mischern.
+*Konverter* und *Transverter* werden im Amateurfunk eingesetzt, um mit vorhandenen Funkgeräten zusätzliche Frequenzbereiche zu erschliessen, die diese Geräte ursprünglich nicht abdecken. Ein *Konverte*r setzt das Signal dabei nur in eine Richtung um, entweder im Sendepfad oder im Empfangspfad. Ein *Transverter* hingegen verfügt über eine interne Sende-/Empfangsumschaltung und übernimmt die Frequenzumsetzung sowohl im Sende- als auch im Empfangsbetrieb. Die Frequenzumsetzung bei Konvertern und Transvertern erfolgt hierbei immer durch Mischung in einem oder mehreren Mischern.
 
 Beispielsweise kann man mit einem entsprechenden Transverter und einem vorhandenen Kurzwellen-Transceiver z.B. auch Betrieb im VHF/UHF/SHF-Bereich machen. Hierbei würde man z. B. das $\qty{10}{\meter}$-Band des Kurzwellen-Transceivers mittels eines Transverters auf $\qty{2}{\meter}$/$\qty{70}{\centi\meter}$ oder $\qty{23}{\centi\meter}$ in beide Richtungen umsetzen.
 
@@ -13,7 +13,7 @@ Aus dem Blockschaltbild ist ersichtlich, dass ein definierter Eingangsfrequenzbe
 
 Auf welches Frequenzband ein Konverter das Signal umsetzt, lässt sich aus der dem Mischer zugeführten Oszillatorfrequenz sowie der Ein- oder Ausgangsfrequenz rechnerisch bestimmen. Im konkreten Beispiel ergibt sich die Zielfrequenz aus dem Mischprodukt von
 $\qty{144}{\mega\hertz} + \qty{2,256}{\giga\hertz} = \qty{2,4}{\giga\hertz}$,
-wobei das gewünschte Produkt anschließend durch geeignete Filter selektiert wird.
+wobei das gewünschte Produkt anschliessend durch geeignete Filter selektiert wird.
 
 <margin>
 [picture:651:e_konverter:Konverterschaltung z. B. Für QO-100]

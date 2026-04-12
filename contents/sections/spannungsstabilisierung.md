@@ -34,16 +34,16 @@ Wirkungsgrad: $\eta = \frac{P_{out}}{P_{in}} = \frac{\qty{47}{\milli\watt}}{\qty
 [picture:490:a_diskret aufgebaute Spannungsstabilisierung:diskret aufgebaute Spannungsstabilisierung]
 In der folgenden Frage ist eine diskrete Spannungsstabilisierung mit Längstransistor dargestellt. Über eine Z-Diode wird eine Referenzspannung von $\qty{5,6}{\volt}$ an der Basis des Transistors erzeugt. Das Emitterpotential ist im Betriebszustand eines Siliziumtransistor um etwa $\qty{0,6}{\volt}$ niedriger als das Basispotential. Die geregelte Ausgangsspannung liegt dann bei etwa $\qty{5}{\volt}$.
 %todo nur Schaltung aus Bild 490 darstellen
-Der Laststrom fließt auch durch den Transistor und dadurch wird er bei hohem Laststrom sehr warm. Die sogenannten Längstransistoren befinden sich deshalb bei linear geregelten Spannungsstabilisierungen immer auf einem Kühlkörper. 
+Der Laststrom fliesst auch durch den Transistor und dadurch wird er bei hohem Laststrom sehr warm. Die sogenannten Längstransistoren befinden sich deshalb bei linear geregelten Spannungsstabilisierungen immer auf einem Kühlkörper. 
 
 <margin>
- [photo:246:a_Längstransistor 2N3055 auf Kühlkörper:Der Längstransistor in einem linear geregelten Netzteil muss große Verlustleistungen aushalten und wird deshalb auf einen Kühlkörper montiert.]
+ [photo:246:a_Längstransistor 2N3055 auf Kühlkörper:Der Längstransistor in einem linear geregelten Netzteil muss grosse Verlustleistungen aushalten und wird deshalb auf einen Kühlkörper montiert.]
 </margin>
 
 <margin>
 [photo:307:a_linear geregeltes Netzteil:Innenansicht eines linear geregelten Netzteils für $\qty{13,8}{\volt}$ und $\qty{25}{\ampere}$; Gewicht $\qty{7}{\kilo\gram}$]
 Der schwere Netztrafo bestimmt im Wesentlichen das Gesamtgewicht. 
-Unter der Regelung befindet sich ein großer Kühlkörper mit den Längstransistoren, die durch den Lüfter gekühlt werden
+Unter der Regelung befindet sich ein grosser Kühlkörper mit den Längstransistoren, die durch den Lüfter gekühlt werden
 </margin>
 
 
@@ -107,7 +107,7 @@ $P_V = P_{\mathrm{in}} - P_{\mathrm{out}} = \qty{6,9}{\watt} - \qty{2,5}{\watt} 
 [question:AD317]
 
 <tip>
-Damit die interne Regelschaltung optimal funktioniert, muss die Eingangsspannung bei Standard-Festspannungsregler (z.B. Typ 7812) um ca. $\qty{3}{\volt}$ größer als die Ausgangsspannung sein. Es gibt Feststspannungsregler, bei denen die Eingangsspannung nur um $\qty{1}{\volt}$ größer als die Ausgangsspannung sein muss. Diese Regler heißen Low-Drop-Spannungsregler.
+Damit die interne Regelschaltung optimal funktioniert, muss die Eingangsspannung bei Standard-Festspannungsregler (z.B. Typ 7812) um ca. $\qty{3}{\volt}$ grösser als die Ausgangsspannung sein. Es gibt Feststspannungsregler, bei denen die Eingangsspannung nur um $\qty{1}{\volt}$ grösser als die Ausgangsspannung sein muss. Diese Regler heissen Low-Drop-Spannungsregler.
 </tip>
   
 [question:AD316]
@@ -115,7 +115,7 @@ Damit die interne Regelschaltung optimal funktioniert, muss die Eingangsspannung
 <margin>
 Lösungshilfe
 AD 315: $\qty{5}{\volt}$
-AD 316: Die Eingangsspannung muss größer als die gewünschte Ausgangsspannung sein.
+AD 316: Die Eingangsspannung muss grösser als die gewünschte Ausgangsspannung sein.
 AD 317: Die Spannungsschwankung beträgt nahezu null Volt.
 AD 318: $\qty{4,4}{\watt}$
 AD 319: $\qty{12,42}{\watt} - \qty{8,1}{\watt} = \qty{4,32}{\watt}$

@@ -6,7 +6,7 @@ Spannungen kann man mit einem Messgerät ermitteln. Dabei ist es sehr wichtig, d
 
 ---
 
-Eine Spannung misst man immer zwischen zwei Punkten. Wenn man die Spannung messen möchte, die an einem Bauteil anliegt, dann schließt man das Messgerät parallel zu diesem Bauteil an. Das heißt, einer der Messpunkte ist auf der einen Seite des Bauteils und der andere Messpunkt auf der anderen Seite des Bauteils. Wenn man z. B. die Spannung einer Batterie messen möchte, muss das Messgerät, wie in der Abbildung [ref:n_messgeraete_spannungsmessung] gezeigt, direkt am Pluspol und am Minuspol der Batterie angeschlossen werden.
+Eine Spannung misst man immer zwischen zwei Punkten. Wenn man die Spannung messen möchte, die an einem Bauteil anliegt, dann schliesst man das Messgerät parallel zu diesem Bauteil an. Das heisst, einer der Messpunkte ist auf der einen Seite des Bauteils und der andere Messpunkt auf der anderen Seite des Bauteils. Wenn man z. B. die Spannung einer Batterie messen möchte, muss das Messgerät, wie in der Abbildung [ref:n_messgeraete_spannungsmessung] gezeigt, direkt am Pluspol und am Minuspol der Batterie angeschlossen werden.
 
 <margin>
 [picture:620:n_messgeraete_spannungsmessung:Spannungsmessung]
@@ -17,15 +17,15 @@ Eine Spannung misst man immer zwischen zwei Punkten. Wenn man die Spannung messe
 </margin>
   
 <webtip>
-Meistens verwendet man für Messungen ein Multimeter. Das ist ein kombiniertes Messgerät, um Spannungen, Ströme und auch andere Größen wie beispielsweise Widerstände zu messen. Wenn man an einer Schaltung etwas messen möchte, muss man sich vorher im Klaren darüber sein, welche Größe man eigentlich beobachten möchte, um das Multimeter richtig einstellen zu können.
+Meistens verwendet man für Messungen ein Multimeter. Das ist ein kombiniertes Messgerät, um Spannungen, Ströme und auch andere Grössen wie beispielsweise Widerstände zu messen. Wenn man an einer Schaltung etwas messen möchte, muss man sich vorher im Klaren darüber sein, welche Grösse man eigentlich beobachten möchte, um das Multimeter richtig einstellen zu können.
 
-Bevor man mit dem Messen anfangen kann, müssen die beiden Messleitungen an das Messgerät angeschlossen werden. Obwohl sich dies einfach anhört, muss man aufpassen. Meistens haben Multimeter drei oder sogar vier Anschlüsse für Messleitungen. Der gemeinsame Anschluss, in den auf jeden Fall eine Messleitung kommt, ist in der Regel mit "COM" (englisch "common") gekennzeichnet. Hier schließt man üblicherweise die schwarze Messleitung an. Die rote kommt bei der Spannungsmessung in den Anschluss, der meist mit "V" gekennzeichnet ist.
+Bevor man mit dem Messen anfangen kann, müssen die beiden Messleitungen an das Messgerät angeschlossen werden. Obwohl sich dies einfach anhört, muss man aufpassen. Meistens haben Multimeter drei oder sogar vier Anschlüsse für Messleitungen. Der gemeinsame Anschluss, in den auf jeden Fall eine Messleitung kommt, ist in der Regel mit "COM" (englisch "common") gekennzeichnet. Hier schliesst man üblicherweise die schwarze Messleitung an. Die rote kommt bei der Spannungsmessung in den Anschluss, der meist mit "V" gekennzeichnet ist.
 
 Um Spannungen zu messen, ist am Messgerät die Spannungsmessung auszuwählen. Möchte man Wechselspannung messen, ist bei vielen Multimetern "V ~" auszuwählen, für Gleichspannung hingegen "V =".
 
-Die meisten Multimeter verfügen über unterschiedliche Messbereiche für kleine und große Spannungen. Da vor dem Messen meist unklar ist, welche Größenordnung zu erwarten ist, sollte man am Anfang immer den größtmöglichen Messbereich wählen, um dem Gerät keinen Schaden zuzufügen. Je nach angezeigtem Messwert wird anschließend auf einen Messbereich für kleinere Werte umgeschaltet.
+Die meisten Multimeter verfügen über unterschiedliche Messbereiche für kleine und grosse Spannungen. Da vor dem Messen meist unklar ist, welche Grössenordnung zu erwarten ist, sollte man am Anfang immer den grösstmöglichen Messbereich wählen, um dem Gerät keinen Schaden zuzufügen. Je nach angezeigtem Messwert wird anschliessend auf einen Messbereich für kleinere Werte umgeschaltet.
 
-Verwechselt man Strom- und Spannungsmessung oder überschreitet die Messbereichseinstellung, kann das Messgerät einen Schaden erleiden. Vor der Messung sollte man außerdem an das denken, was wir zu Gefahren von elektrischem Strom gelernt haben: Wechselspannungen größer $\qty{50}{\volt}$ und Gleichspannungen größer $\qty{120}{\volt}$ können lebensgefährlich sein!
+Verwechselt man Strom- und Spannungsmessung oder überschreitet die Messbereichseinstellung, kann das Messgerät einen Schaden erleiden. Vor der Messung sollte man ausserdem an das denken, was wir zu Gefahren von elektrischem Strom gelernt haben: Wechselspannungen grösser $\qty{50}{\volt}$ und Gleichspannungen grösser $\qty{120}{\volt}$ können lebensgefährlich sein!
 </webtip>
 
 

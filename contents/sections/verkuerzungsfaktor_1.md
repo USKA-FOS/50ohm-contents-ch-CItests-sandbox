@@ -2,7 +2,7 @@ Im Freiraum (Vakuum) und auch näherungsweise in der Luft lassen sich Wellenlän
 
 $\lambda = \dfrac{c}{f}$
 
-Bei Leitungen, einschließlich Antennendrähten, auf denen sich Wellen ausbilden, kann man nicht die Lichtgeschwindigkeit im Vakuum ansetzen, sondern benötigt einen Korrekturfaktor, den sogenannten Verkürzungsfaktor $k_\mathrm{v}$, der oft in der Größenordnung von $\qty{95}{\percent}$, also $\num{0,95}$ liegt. Dieser gibt an, wieviel langsamer die Ausbreitung *entlang einer bestimmten Leitung* im Vergleich zum Freiraum stattfindet, und wird mit der Vakuumlichtgeschwindigkeit multipliziert:
+Bei Leitungen, einschliesslich Antennendrähten, auf denen sich Wellen ausbilden, kann man nicht die Lichtgeschwindigkeit im Vakuum ansetzen, sondern benötigt einen Korrekturfaktor, den sogenannten Verkürzungsfaktor $k_\mathrm{v}$, der oft in der Grössenordnung von $\qty{95}{\percent}$, also $\num{0,95}$ liegt. Dieser gibt an, wieviel langsamer die Ausbreitung *entlang einer bestimmten Leitung* im Vergleich zum Freiraum stattfindet, und wird mit der Vakuumlichtgeschwindigkeit multipliziert:
 
 $\lambda_\mathrm{Leitung} = k_\mathrm{v} \cdot \dfrac{c}{f}$
 

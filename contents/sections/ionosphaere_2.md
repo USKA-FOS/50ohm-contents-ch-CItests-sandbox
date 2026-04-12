@@ -4,7 +4,7 @@ Die von der Sonne kommende Strahlung schlägt Elektronen aus den Sauerstoff- und
 
 [question:EH101]
 
-Dieser Prozess verleiht insbesondere der Kurzwelle ihre einzigartigen Fähigkeiten. Dabei bestimmt die Dichte dieser freien Elektronen, welche Frequenzen noch gebrochen werden können: Je höher die Dichte, desto höher die Frequenz. Daher brauchen wir für die oberen Kurzwellenbänder hohe Ionisation und damit ein hohes Maß an der dafür notwendigen Sonnenstrahlung. Deshalb ist insbesondere während des Sonnenfleckenmaximums das $\qty{10}{\meter}$-Band ($\qtyrange{28,0}{29,7}{\mega\hertz}$) tagsüber besonders gut nutzbar – und das selbst bei geringer Sendeleistung.
+Dieser Prozess verleiht insbesondere der Kurzwelle ihre einzigartigen Fähigkeiten. Dabei bestimmt die Dichte dieser freien Elektronen, welche Frequenzen noch gebrochen werden können: Je höher die Dichte, desto höher die Frequenz. Daher brauchen wir für die oberen Kurzwellenbänder hohe Ionisation und damit ein hohes Mass an der dafür notwendigen Sonnenstrahlung. Deshalb ist insbesondere während des Sonnenfleckenmaximums das $\qty{10}{\meter}$-Band ($\qtyrange{28,0}{29,7}{\mega\hertz}$) tagsüber besonders gut nutzbar – und das selbst bei geringer Sendeleistung.
 
 <margin>
 [picture:865:e_wellenausbreitung_refraktion:Refraktion an Schichten der Ionosphäre]
@@ -37,9 +37,9 @@ Wenn nach Sonnenuntergang keine Strahlung von der Sonne mehr kommt, rekombiniere
 
 **E-Region**
 
-In $\num{90}$ bis $\qty{130}{\kilo\meter}$ Höhe schließt sich die *E-Region* an, welche wir schon in den Prüfungsfragen zur Klasse N kennen gelernt haben. Sie bricht unter normalen Umständen schräg einfallende Funkwellen bis etwa $\qty{10}{\mega\hertz}$, mit einem Sprung können dabei etwas mehr als $\qty{2000}{\kilo\meter}$ überbrückt werde. Auch die E-Region löst sich nach Sonnenuntergang binnen weniger Minuten auf.
+In $\num{90}$ bis $\qty{130}{\kilo\meter}$ Höhe schliesst sich die *E-Region* an, welche wir schon in den Prüfungsfragen zur Klasse N kennen gelernt haben. Sie bricht unter normalen Umständen schräg einfallende Funkwellen bis etwa $\qty{10}{\mega\hertz}$, mit einem Sprung können dabei etwas mehr als $\qty{2000}{\kilo\meter}$ überbrückt werde. Auch die E-Region löst sich nach Sonnenuntergang binnen weniger Minuten auf.
 
-In dieser Region findet sich in den gemäßigten Breiten vor allem in den Sommermonaten ein besonderes Phänomen, die *sporadische E-Schicht* (kurz *Es*). Sie besteht aus meist kleinräumigen, sehr stark ionosierten Bereichen und ist in der Lage, Funkwellen viel höherer Frequenz zu brechen, bis hinauf in das $\qty{2}{\meter}$-Band.
+In dieser Region findet sich in den gemässigten Breiten vor allem in den Sommermonaten ein besonderes Phänomen, die *sporadische E-Schicht* (kurz *Es*). Sie besteht aus meist kleinräumigen, sehr stark ionosierten Bereichen und ist in der Lage, Funkwellen viel höherer Frequenz zu brechen, bis hinauf in das $\qty{2}{\meter}$-Band.
 
 <margin>
 [picture:733:e_sporadic_e:Refraktion (Brechung) von Funkwellen an stark ionisierten Bereichen der E-Schicht]
@@ -51,7 +51,7 @@ In dieser Region findet sich in den gemäßigten Breiten vor allem in den Sommer
 
 **F-Region**
 
-Darüber findet sich schließlich die *F-Region*, die sich tagsüber zudem in die F1- und die darüberliegende F2 Region aufspaltet. Letztere kann sich bis in eine Höhe von $\qty{450}{\kilo\meter}$ ausdehnen und ist für die Kurzwellenausbreitung am bedeutsamsten. Denn zum einen erlaubt es ihre größere Höhe, mit einem Sprung Distanzen von bis zu $\qty{4000}{\kilo\meter}$ zu überbrücken. Zum anderen sorgt die geringe Gasdichte in diesen Höhen dafür, dass es sehr lange dauert, bis freie Elektronen wieder ein Ion finden, mit dem sie zu einem neutralen Atom bzw. Molekül rekombinieren können. Deswegen gibt es dort immer genügend freie Elektronen, um Kurzwellen zu brechen. Ihre Anzahl und damit Dichte nimmt aber bei zurückgehender Sonneneintrahlung ab und damit auch die gerade noch zurückgebrochene Frequenz. Daher schließen die oberen Bänder als erstes.
+Darüber findet sich schliesslich die *F-Region*, die sich tagsüber zudem in die F1- und die darüberliegende F2 Region aufspaltet. Letztere kann sich bis in eine Höhe von $\qty{450}{\kilo\meter}$ ausdehnen und ist für die Kurzwellenausbreitung am bedeutsamsten. Denn zum einen erlaubt es ihre grössere Höhe, mit einem Sprung Distanzen von bis zu $\qty{4000}{\kilo\meter}$ zu überbrücken. Zum anderen sorgt die geringe Gasdichte in diesen Höhen dafür, dass es sehr lange dauert, bis freie Elektronen wieder ein Ion finden, mit dem sie zu einem neutralen Atom bzw. Molekül rekombinieren können. Deswegen gibt es dort immer genügend freie Elektronen, um Kurzwellen zu brechen. Ihre Anzahl und damit Dichte nimmt aber bei zurückgehender Sonneneintrahlung ab und damit auch die gerade noch zurückgebrochene Frequenz. Daher schliessen die oberen Bänder als erstes.
 
 [question:EH103]
 

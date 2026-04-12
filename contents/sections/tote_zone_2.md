@@ -1,7 +1,7 @@
 In den Klassen N und E haben wir bereits die *Toten Zone* kennengelernt. Schauen wir uns hier noch ein paar wichtige Beobachtungen in Bezug auf die Entfernungen an:
 
-- Je höher die Frequenz, desto größer ist der Radius der toten Zone: Abbildung [ref:a_tote_zone_1]
-- Je flacher die Abstrahlung, desto größer ist der Radius der toten Zone: Abbildung [ref:a_tote_zone_2]
+- Je höher die Frequenz, desto grösser ist der Radius der toten Zone: Abbildung [ref:a_tote_zone_1]
+- Je flacher die Abstrahlung, desto grösser ist der Radius der toten Zone: Abbildung [ref:a_tote_zone_2]
 <margin>
 [picture:995:a_tote_zone_1:Simulation der Ausdehnung der Toten Zone bei einem Abstrahlwinkel von $\qty{45}{\degree}$ in Abhängigkeit der Frequenz, im Januar 2025]
 </margin>

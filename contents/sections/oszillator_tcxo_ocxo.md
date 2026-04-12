@@ -5,7 +5,7 @@ Um Oszillatoren in ihrer Frequenz möglichst stabil zu halten, gibt es verschied
 3. Verwendung eines Quarzoszillators und Kompensation von thermischen Einflüssen durch Einsatz von Bauelementen in der Oszillatorschaltung, so dass sich Temperatureinflüsse im Bereich der üblichen Betriebstemperatur gegenseitig kompensieren. Diesen Oszillator-Typ nennt man *TCXO* - Temperature compensated crystal oscillator
 4. Künstliche Stabilisierung der Umgebungstemperatur eines Quarzoszillators durch eine Temperaturregelung mittels Thermostatschaltung und Einbau in ein thermisch isoliertes Gehäuse sowie Isolation gegenüber externen Wärme- und Kältequellen. Diesen Oszillator-Typ nennt man *OCXO* - Oven controlled crystal oscillator. Der OCXO hat gegenüber den anderen Oszillatortypen die höchste Frequenzstabilität.
 
-Grundsätzlich sollten frequenzstabile Oszillatoren immer gegenüber geräteinternen und externen Wärme- und Kältequellen möglichst gut thermisch isoliert sein. Dies kann z.B. durch einen möglichst großen Abstand zu internen und externen Wärme- und Kältequellen sowie Luftströmungen erfolgen.
+Grundsätzlich sollten frequenzstabile Oszillatoren immer gegenüber geräteinternen und externen Wärme- und Kältequellen möglichst gut thermisch isoliert sein. Dies kann z.B. durch einen möglichst grossen Abstand zu internen und externen Wärme- und Kältequellen sowie Luftströmungen erfolgen.
 
 [question:AF215]
 [question:AD602]

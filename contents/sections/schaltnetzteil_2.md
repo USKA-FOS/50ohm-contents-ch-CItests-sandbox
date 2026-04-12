@@ -4,7 +4,7 @@ Das Schaltnetzteil wurde in Klasse N und E schon einführend erklärt. Nun betra
 </margin>
 
 % AUS KLASSE E:
-% Die Wechselspannung wird zuerst gleichgerichtet und dann mit einem elektronischen Schalter mit hoher Schatfrequenz (z.B. 120 kHz) zerhackt. Die höherfrequente Wechselspannung lässt sich nun mit einem kleinen Ferritkernübertrager ohne große Verluste auf einen anderen Spannungswert übertragen. Danach erfolgt wieder eine Gleichrichtung und Stabilisierung der Gleichspannung. Die Gleichspannungsstabilisierung erfolgt über einen Regelkreis von der Sekundärseite des Trafos auf die Primärseite, wobei die Schaltzeit des Schalttransistors verändert wird. Die Schaltfrequenz bleibt dabei konstant. Diese Regelung nennt man auch Pulsbreitenmodulation (PWM).  Da der Schalttransistor entweder gesperrt oder sehr niederohmig leitend betrieben wird, gibt es an ihm kaum Wärmeverluste.
+% Die Wechselspannung wird zuerst gleichgerichtet und dann mit einem elektronischen Schalter mit hoher Schatfrequenz (z.B. 120 kHz) zerhackt. Die höherfrequente Wechselspannung lässt sich nun mit einem kleinen Ferritkernübertrager ohne grosse Verluste auf einen anderen Spannungswert übertragen. Danach erfolgt wieder eine Gleichrichtung und Stabilisierung der Gleichspannung. Die Gleichspannungsstabilisierung erfolgt über einen Regelkreis von der Sekundärseite des Trafos auf die Primärseite, wobei die Schaltzeit des Schalttransistors verändert wird. Die Schaltfrequenz bleibt dabei konstant. Diese Regelung nennt man auch Pulsbreitenmodulation (PWM).  Da der Schalttransistor entweder gesperrt oder sehr niederohmig leitend betrieben wird, gibt es an ihm kaum Wärmeverluste.
 
 <margin>
 [photo:264:a_innenansicht_eines_schaltnetzteils:Innenansicht eines Schaltnetzteils]

@@ -1,25 +1,25 @@
 
-Mit dem Einbau einer Amateurfunkanlage in ein Kraftfahrzeug macht das Autofahren gleich mehr Spaß. Über Relaisfunkstellen ist man gut mit anderen Amateurfunkstellen vernetzt und erhält so oftmals wertvolle Informationen zur Verkehrssituation auf der Fahrtstrecke. Für den Betrieb während der Fahrt ist - wie beim Smartphone - eine Freisprecheinrichtung erforderlich.
+Mit dem Einbau einer Amateurfunkanlage in ein Kraftfahrzeug macht das Autofahren gleich mehr Spass. Über Relaisfunkstellen ist man gut mit anderen Amateurfunkstellen vernetzt und erhält so oftmals wertvolle Informationen zur Verkehrssituation auf der Fahrtstrecke. Für den Betrieb während der Fahrt ist - wie beim Smartphone - eine Freisprecheinrichtung erforderlich.
 
 <margin>
 [photo:75:n_mobilfunkgeraet:Einbau des Bedienteils eines VHF/UHF-Funkgerätes in die Mittelkonsole eines PKW]
 </margin>
 
-Der Einbau von Geräten und Antennen ins Auto muss sorgfältig geplant und ausgeführt werden. Beim Anschließen der Versorgungsspannung an das Funkgerät, Einbau der Antenne und Verlegung der Leitungen im Fahrzeug sind die Vorgaben des Fahrzeugherstellers zu beachten, da ansonsten die Zulassung das Fahrzeugs gefährdet ist.
+Der Einbau von Geräten und Antennen ins Auto muss sorgfältig geplant und ausgeführt werden. Beim Anschliessen der Versorgungsspannung an das Funkgerät, Einbau der Antenne und Verlegung der Leitungen im Fahrzeug sind die Vorgaben des Fahrzeugherstellers zu beachten, da ansonsten die Zulassung das Fahrzeugs gefährdet ist.
 
 [question:NK308]
 
 ---
 
-Damit eine Mobilfunkantenne ihre Funksignale gut abstrahlt, sollte die Antenne möglichst mittig auf dem metallischen Fahrzeugdach montiert sein.  Dann bildet das Fahrzeugdach das Gegengewicht, ähnlich zur Erde bei einer Marconi-Antenne. Im einfachsten Fall verwendet man eine *Magnetfußantenne*. Häufig gibt es auch Vorgaben des Fahrzeugherstellers für die Einbauorte der Antenne.
+Damit eine Mobilfunkantenne ihre Funksignale gut abstrahlt, sollte die Antenne möglichst mittig auf dem metallischen Fahrzeugdach montiert sein.  Dann bildet das Fahrzeugdach das Gegengewicht, ähnlich zur Erde bei einer Marconi-Antenne. Im einfachsten Fall verwendet man eine *Magnetfussantenne*. Häufig gibt es auch Vorgaben des Fahrzeugherstellers für die Einbauorte der Antenne.
 
 <margin>
-[photo:64:n_magnetfussantenne:Magnetfußantenne auf Fahrzeugdach]
+[photo:64:n_magnetfussantenne:Magnetfussantenne auf Fahrzeugdach]
 </margin>
 
 [question:NK310]
 
-Werden Antennenleitungen einer Mobilfunkanlage parallel und sehr dicht zu anderen Leitungen im Fahrzeug verlegt, kann das Sendesignal die Fahrzeugelektronik stören. Antennenleitungen sollten deshalb so kurz wie möglich und mit möglichst großem Abstand von anderen Fahrzeugleitungen verlegt werden. Das Kreuzen anderer Leitungen hingegen ist oft unkritisch. 
+Werden Antennenleitungen einer Mobilfunkanlage parallel und sehr dicht zu anderen Leitungen im Fahrzeug verlegt, kann das Sendesignal die Fahrzeugelektronik stören. Antennenleitungen sollten deshalb so kurz wie möglich und mit möglichst grossem Abstand von anderen Fahrzeugleitungen verlegt werden. Das Kreuzen anderer Leitungen hingegen ist oft unkritisch. 
 
 [question:NK309]
 
@@ -33,7 +33,7 @@ Die Bordnetzspannung im Kraftfahrzeug erscheint zunächst ungefährlich, da man 
 
 %[class:N]
 <indepth>
-Ein *Lichtbogen* ist eine elektrische Entladung, also ein Stromfluß, durch die eigentlich nicht leitende Luft, die mit hohen Temperaturen und einem sehr hellen Leuchten einhergeht. In der Folge kann es zu Bränden und zur Schädigung der Augen kommen.
+Ein *Lichtbogen* ist eine elektrische Entladung, also ein Stromfluss, durch die eigentlich nicht leitende Luft, die mit hohen Temperaturen und einem sehr hellen Leuchten einhergeht. In der Folge kann es zu Bränden und zur Schädigung der Augen kommen.
 </indepth>
 %[/class]
 

@@ -37,7 +37,7 @@ Es ist also möglich, die Frequenzmodulation durch Phasenmodulation zu realisier
 
 $\varphi(t) = 2\pi \int m(t) \, dt$
 
-Das Ergebnis wird anschließend als $\varphi(t)$ in die Trägerfunktion eingesetzt.
+Das Ergebnis wird anschliessend als $\varphi(t)$ in die Trägerfunktion eingesetzt.
 </indepth>
 
 [question:AE313]

@@ -1,6 +1,6 @@
 In einem Empfänger, an dessen Eingang zwei starke HF-Signale anliegen, können Störungen durch Intermodulation oder Kreuzmodulation verursacht werden.
 Bei Intermodulation äussert sich dieser Effekt so, dass durch nichtlineares Verhalten der Empfängerstufe (Betrieb im nichtlinearen Grenzbereich), ähnlich wie in einem Mischer, zusätzliche unerwünschte Frequenzen erzeugt werden. Diese können erwünschte Empfangssignale überlagern und stören.
-Bei Kreuzmodulation äussert sich dieser Effekt so, dass das gewünschte Empfangssignal durch die Modulation eines starken frequenzmäßig benachbarten AM-Signals beeinflusst wird. Hierdurch wird die Modulation des benachbarten Senders im Empfangssignal hörbar und stört dieses.
+Bei Kreuzmodulation äussert sich dieser Effekt so, dass das gewünschte Empfangssignal durch die Modulation eines starken frequenzmässig benachbarten AM-Signals beeinflusst wird. Hierdurch wird die Modulation des benachbarten Senders im Empfangssignal hörbar und stört dieses.
 
 [question:AF217]
 [question:AF219]
@@ -11,7 +11,7 @@ Um ein starkes unerwünschtes Signal bereits vor dem Empfängereingang zu unterd
 
 [question:AF223]
 
-Die Großsignalfestigkeit eines Empfängers kann durch den sog. Intercept Point dritter Ordnung (IP3) beschrieben werden. Er ist ein Maß für den Punkt an dem unerwünschte Mischprodukte 3. Ordnung den Amplitudenwert des Eingangssignales erreichen. Je höher der IP3 eines Empfängers ist, desto größere Signale kann dieser noch störungsfrei verarbeiten.
+Die Grosssignalfestigkeit eines Empfängers kann durch den sog. Intercept Point dritter Ordnung (IP3) beschrieben werden. Er ist ein Mass für den Punkt an dem unerwünschte Mischprodukte 3. Ordnung den Amplitudenwert des Eingangssignales erreichen. Je höher der IP3 eines Empfängers ist, desto grössere Signale kann dieser noch störungsfrei verarbeiten.
 
 %TODO: Weitere Informationen zu IP3 ggf. Tipp, Grafik zu IP3
 

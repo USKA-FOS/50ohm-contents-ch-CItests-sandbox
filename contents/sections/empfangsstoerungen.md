@@ -1,12 +1,12 @@
 Es können allerdings nicht nur andere durch unsere Amateurfunkstation gestört werden, sondern es geht auch andersherum: Der Empfang unserer Amateurfunkanlage kann gestört sein. Häufige Verursacher sind Wechselrichter von Solaranlagen, Schaltnetzteile und LED-Leuchten.
 
-Die allererste Maßnahme bei einer Störung des Empfangs sollte bei uns selbst stattfinden. Häufig stammt die Störung nämlich von einem Gerät aus dem eigenen Haushalt.
+Die allererste Massnahme bei einer Störung des Empfangs sollte bei uns selbst stattfinden. Häufig stammt die Störung nämlich von einem Gerät aus dem eigenen Haushalt.
 
 [question:VE307]
 
 ---
 
-Kann man den eigenen Haushalt ausschließen, sucht man in der Nachbarschaft weiter. Hat man die Störungsquelle ausfindig gemacht, sollte man versuchen festzustellen, ob das störende Gerät die zulässigen Grenzwerte überschreitet. Werden die Grenzwerte eingehalten, kann man nur auf die freiwillige Kooperationsbereitschaft des Nachbarn setzen, da wir grundsätzlich Störungen hinnehmen müssen, wenn das verursachende Gerät die gesetzlichen Anforderungen einhält.
+Kann man den eigenen Haushalt ausschliessen, sucht man in der Nachbarschaft weiter. Hat man die Störungsquelle ausfindig gemacht, sollte man versuchen festzustellen, ob das störende Gerät die zulässigen Grenzwerte überschreitet. Werden die Grenzwerte eingehalten, kann man nur auf die freiwillige Kooperationsbereitschaft des Nachbarn setzen, da wir grundsätzlich Störungen hinnehmen müssen, wenn das verursachende Gerät die gesetzlichen Anforderungen einhält.
 
 <tip>
 Bei der *Messung von störenden Geräten* können Mitglieder mit Fachwissen und Messgeräten von den Referenten für elektromagnetische Verträglichkeit des DARC unterstützt werden.

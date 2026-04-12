@@ -1,4 +1,4 @@
-Kurzwellenempfänger können durch starke Signale schnell übersteuert werden, insbesondere im Eingangsbereich des Empfängers incl. des 1. Mischers. Dies äußert sich durch eine verzerrte und unverständliche Wiedergabe des gewünschten Signals.
+Kurzwellenempfänger können durch starke Signale schnell übersteuert werden, insbesondere im Eingangsbereich des Empfängers incl. des 1. Mischers. Dies äussert sich durch eine verzerrte und unverständliche Wiedergabe des gewünschten Signals.
 
 ---
 

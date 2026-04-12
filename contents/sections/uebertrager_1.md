@@ -61,7 +61,7 @@ Wir multiplizieren auf beiden Seiten mit $N_S$ und teilen auf beiden Seiten durc
 
 $N_S = \frac{600}{20} = 30$
 
-Der folgende Trafo setzt die Ausgangsspannung $U_S$ hoch, deshalb muss die Sekundärwindungszahl größer als die Primärwindungszahl sein.
+Der folgende Trafo setzt die Ausgangsspannung $U_S$ hoch, deshalb muss die Sekundärwindungszahl grösser als die Primärwindungszahl sein.
 
 [question:EC404]
 

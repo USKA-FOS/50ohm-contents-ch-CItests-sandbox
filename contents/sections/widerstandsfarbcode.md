@@ -22,7 +22,7 @@ Die Abbildung [ref:n_widerstandsfarbcodes] zeigt einen Widerstand mit vier Farbr
 | Blau | 6 | $\num{1000000}$ | $\qty{\pm 0,25}{\percent}$ |
 | Violett | 7 | $\num{10000000}$ | $\qty{\pm 0,1}{\percent}$ |
 | Grau | 8 | $\num{100000000}$ | - |
-| Weiß | 9 | $\num{1000000000}$ | - |
+| Weiss | 9 | $\num{1000000000}$ | - |
 | Keine | - | - | $\qty{\pm 20}{\percent}$ |
 [table:n_widerstandsfarbcodes_tabelle:Widerstandsfarbcodes Tabelle]
 </webmargin>

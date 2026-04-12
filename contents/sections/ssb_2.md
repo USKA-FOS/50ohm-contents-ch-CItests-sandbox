@@ -46,7 +46,7 @@ Störungen benachbarter Stationen können auch durch sog. *Splatter* auftreten, 
 
 [question:EJ215]
 
-Eine zu geringe Mikrofonverstärkung (NF-Amplitude) führt zu einer geringeren Modulation des SSB-Senders, was eine Verkleinerung der Ausgangsleistung zur Folge hat. Daher ist es wichtig, dass die Mikrofonverstärkung für gute Kommunikation in SSB optimal angepasst wird (nicht zu groß und nicht zu klein). Im Kapitel Dynamikkompressor gehen wir darauf nochmal genauer ein. 
+Eine zu geringe Mikrofonverstärkung (NF-Amplitude) führt zu einer geringeren Modulation des SSB-Senders, was eine Verkleinerung der Ausgangsleistung zur Folge hat. Daher ist es wichtig, dass die Mikrofonverstärkung für gute Kommunikation in SSB optimal angepasst wird (nicht zu gross und nicht zu klein). Im Kapitel Dynamikkompressor gehen wir darauf nochmal genauer ein. 
 
 [question:EE206]
 [question:EE205]

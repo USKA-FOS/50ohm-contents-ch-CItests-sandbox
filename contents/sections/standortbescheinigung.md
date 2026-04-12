@@ -1,7 +1,7 @@
 Möchte ein Funkamateur das Nachweisverfahren zur Begrenzung elektromagnetischer Felder nicht selbst durchführen, kann er dies - wie jeder andere Betreiber einer Sendeanlage - durch die Bundesnetzagentur durchführen lassen. Dazu muss eine sogenannte "Standortbescheinigung" beantragt werden.
 
 <indepth>
-Die Erstellung der *Standortbescheinigung* ist auch für Funkamateure immer kostenpflichtig. Außerdem muss der Funkamateur alle notwendigen Unterlagen und Informationen für die Berechnungen bereitstellen. Dazu gehören ein Lageplan, eine Bauzeichnung mit dem Montageort der Antennen und Informationen zum Abstrahlverhalten von allen Antennen.
+Die Erstellung der *Standortbescheinigung* ist auch für Funkamateure immer kostenpflichtig. Ausserdem muss der Funkamateur alle notwendigen Unterlagen und Informationen für die Berechnungen bereitstellen. Dazu gehören ein Lageplan, eine Bauzeichnung mit dem Montageort der Antennen und Informationen zum Abstrahlverhalten von allen Antennen.
 </indepth>
 
 [question:VC121]

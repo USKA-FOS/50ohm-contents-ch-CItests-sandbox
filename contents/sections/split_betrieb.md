@@ -24,7 +24,7 @@ Häufiger wird eine begehrte Station aber nicht nur eine einzelne Frequenz angeg
 </margin>
 
 <indepth>
-Der *Trick mit dem Frequenzbereich* beim Split-Verkehr ist, dass niemand weiß, auf welcher Frequenz die begehrte Station gerade hört. Man muss also auf gut Glück eine Frequenz aus diesem Bereich wählen und dort antworten. Für die CQ-rufende Station entsteht der Vorteil, dass sie eher einzelne Rufzeichen heraushören kann, da nur ein kleiner Teil der interessierten Funkamateure die richtige Frequenz trifft.
+Der *Trick mit dem Frequenzbereich* beim Split-Verkehr ist, dass niemand weiss, auf welcher Frequenz die begehrte Station gerade hört. Man muss also auf gut Glück eine Frequenz aus diesem Bereich wählen und dort antworten. Für die CQ-rufende Station entsteht der Vorteil, dass sie eher einzelne Rufzeichen heraushören kann, da nur ein kleiner Teil der interessierten Funkamateure die richtige Frequenz trifft.
 </indepth>
 
 [question:BE309]

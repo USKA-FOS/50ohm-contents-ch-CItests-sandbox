@@ -11,7 +11,7 @@ Elektromagnetische Wellen stellt man gerne als *Momentaufnahme* dar. Momentaufna
 </attention>
 
 <attention>
-Man darf sich von der Darstellung der *Momentaufnahme* nicht verleiten lassen zu glauben, dass die elektromagnetische Welle im Raum auf- und abtanzt. Auf der vertikalen Y-Achse ist keine räumliche Auslenkung nach oben oder unten, sondern die Feldstärke dargestellt. Ist die Kurve weiter von der Nulllinie entfernt, ist die Feldstärke größer.
+Man darf sich von der Darstellung der *Momentaufnahme* nicht verleiten lassen zu glauben, dass die elektromagnetische Welle im Raum auf- und abtanzt. Auf der vertikalen Y-Achse ist keine räumliche Auslenkung nach oben oder unten, sondern die Feldstärke dargestellt. Ist die Kurve weiter von der Nulllinie entfernt, ist die Feldstärke grösser.
 </attention>
 
 [question:NB402]

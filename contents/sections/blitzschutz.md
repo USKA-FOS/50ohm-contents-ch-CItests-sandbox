@@ -1,4 +1,4 @@
-Zur Vermeidung von Gefährdungen durch elektrischen Schlag sollten die Metallgehäuse aller Geräte einer Amateurfunkstelle, z. B. Transceiver, Netzteil und Anpassgerät, jeweils über kurze Leitungen zusammengeführt und mit der Haupterdungsschiene des Gebäudes verbunden sein.  Bei vielen Geräten findet man dafür auf der Rückseite einen spezieller Schraubanschluss. Diese Maßnahme dient dem *Potentialausgleich* und der *Erdung* und sollte ebenfalls nach den anerkannten Regeln der Technik durchgeführt werden.
+Zur Vermeidung von Gefährdungen durch elektrischen Schlag sollten die Metallgehäuse aller Geräte einer Amateurfunkstelle, z. B. Transceiver, Netzteil und Anpassgerät, jeweils über kurze Leitungen zusammengeführt und mit der Haupterdungsschiene des Gebäudes verbunden sein.  Bei vielen Geräten findet man dafür auf der Rückseite einen spezieller Schraubanschluss. Diese Massnahme dient dem *Potentialausgleich* und der *Erdung* und sollte ebenfalls nach den anerkannten Regeln der Technik durchgeführt werden.
 
 Unter *Potentialausgleich* versteht man, dass keine gefährliche Berührungsspannung zwischen den einzelnen Geräten entstehen kann. Unter *Erdung* versteht man, dass z. B. aufgrund eines Defekts auftretende unerwünschte elektrische Ströme vom Gehäuse in die Erde abgeleitet werden können.
 
@@ -13,7 +13,7 @@ Die *Beschaffung von VDE-Normen* ist recht teuer. Es kann sich daher anbieten, a
 </tip>
 
 <danger>
-Arbeiten an einem Blitzschutzsystem sollten ausschließlich durch Blitzschutzfachkräfte vorgenommen werden, die über eine entsprechende Ausbildung verfügen! Ebenfalls sollte der Anschluss von Potentialausgleich und Erdung nur vorgenommen werden, wenn man genau weiß, was man tut. Im Zweifel sollte man sich von einem erfahreneren Funkamateur oder einer Elektrofachkraft helfen lassen.
+Arbeiten an einem Blitzschutzsystem sollten ausschliesslich durch Blitzschutzfachkräfte vorgenommen werden, die über eine entsprechende Ausbildung verfügen! Ebenfalls sollte der Anschluss von Potentialausgleich und Erdung nur vorgenommen werden, wenn man genau weiss, was man tut. Im Zweifel sollte man sich von einem erfahreneren Funkamateur oder einer Elektrofachkraft helfen lassen.
 </danger>
 
 [question:VE604]

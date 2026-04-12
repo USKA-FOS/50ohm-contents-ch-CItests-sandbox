@@ -20,7 +20,7 @@ $Z = \sqrt{(\qty{100}{\ohm})^2 + (\qty{100}{\ohm})^2} = \qty{141}{\ohm}$
 Bitte nachrechnen!
 [question:AA101]
 In der Funktechnik ist vor allem das Verhalten an Wechselspannung wichtig.
-Die Spule zeigt, ähnlich wie ein Kondensator, einen "Wechselstromwiderstand", das heißt, obwohl der Spulendraht nur einen sehr kleinen ohmschen Widerstand (Leiterwiderstand) besitzt, fließt bei einem Betrieb an Wechselspannung kein Kurzschlussstrom, sondern ein Strom, der mit steigender Frequenz der Wechselspannung kleiner wird.
+Die Spule zeigt, ähnlich wie ein Kondensator, einen "Wechselstromwiderstand", das heisst, obwohl der Spulendraht nur einen sehr kleinen ohmschen Widerstand (Leiterwiderstand) besitzt, fliesst bei einem Betrieb an Wechselspannung kein Kurzschlussstrom, sondern ein Strom, der mit steigender Frequenz der Wechselspannung kleiner wird.
 
 % todo Bild Stromkreis mit XL
 
@@ -55,12 +55,12 @@ Sollte eine Spule bei Hochfrequenzanwendungen warm werden, dann besitzt sie Verl
 Die Verluste entstehen durch den ohmschen Widerstand des Drahtes und zusätzlich wirkt auch noch der Skin-Effekt, der den Drahtquerschnitt scheinbar verkleinert.
 [question:AC209]
 
-Grundsätzlich steigt die Induktivität wenn die Windungszahl erhöht wird, die Spulenlänge verkürzt wird, die Querschnittsfläche der Spule vergrößert wird und ein magnetisch leitfähigeres Material als Spulenkern verwendet wird. Zur Erhöhung der Induktivität, ohne die Windungszahl drastisch zu steigern, wird die Wicklung auf einen Ferritringkern gewickelt. Drosselspulen mit hoher Induktivität werden zur Verringerung hochfrequenter Ströme eingesetzt.
+Grundsätzlich steigt die Induktivität wenn die Windungszahl erhöht wird, die Spulenlänge verkürzt wird, die Querschnittsfläche der Spule vergrössert wird und ein magnetisch leitfähigeres Material als Spulenkern verwendet wird. Zur Erhöhung der Induktivität, ohne die Windungszahl drastisch zu steigern, wird die Wicklung auf einen Ferritringkern gewickelt. Drosselspulen mit hoher Induktivität werden zur Verringerung hochfrequenter Ströme eingesetzt.
 
 ---
 
 [question:AC211]
-Eine wichtige Kenngöße einer Spule ist die Induktivität $L$. Sie gibt an, welche Selbstinduktionsspannung die Spule erzeugen kann und dadurch den fließenden Strom, im Einschalt- und Ausschaltmoment verzögert. Der Formelbuchstabe $L$ wurde zu Ehren des Professors Emil Lenz aus St. Petersburg (1804 - 1864, Verfasser der Lenzschen Regel) gewählt.
+Eine wichtige Kenngösse einer Spule ist die Induktivität $L$. Sie gibt an, welche Selbstinduktionsspannung die Spule erzeugen kann und dadurch den fliessenden Strom, im Einschalt- und Ausschaltmoment verzögert. Der Formelbuchstabe $L$ wurde zu Ehren des Professors Emil Lenz aus St. Petersburg (1804 - 1864, Verfasser der Lenzschen Regel) gewählt.
 
 Bei Ringkernspulen wird zur Erleichterung der Induktivitätsberechnung ein sogenannter $A_\text{L}$-Wert des Kernmaterials angegeben.
 Die Berechnung der Induktivität lautet dann:
@@ -98,9 +98,9 @@ berechnen. Dabei enspricht $\mu_0$ der magnetischen Feldkonstante $\qty{1,2566e-
 |Umgestellt nach $L$:|$L =\frac{X_L}{2\pi \cdot f}$| 
 |$A_\text{L}$ - Wert in $\unit{\nano\henry}$|$L = N^2 \cdot A_\text{L}$|
 |Umgestellt nach N:|$N = \sqrt \frac{L}{A_\text{L}}$|
-|Hohe Spulenverluste | niedrige Güte = großer $\tan\delta$ = großer ESR|
+|Hohe Spulenverluste | niedrige Güte = grosser $\tan\delta$ = grosser ESR|
 [table:a_Spule_Zusammenfassung:Zusammenfassung zur Spule in Klasse A]
 </margin>
 
-Zur Abschirmung eines Magnetfeldes benötigt man ein magnetisch gut leitfähiges Material, zum Beispiel Weißblech.
+Zur Abschirmung eines Magnetfeldes benötigt man ein magnetisch gut leitfähiges Material, zum Beispiel Weissblech.
 [question:AC210]

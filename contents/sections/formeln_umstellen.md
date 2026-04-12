@@ -1,16 +1,16 @@
-Bereits in der Ausbildung zur Klasse N haben wir den Zusammenhang zwischen der Frequenz ($f$) und der Wellenlänge ($\lambda$) kennengelernt. Damals wurden dazu zwei speziell zugeschnittene Größengleichungen aus der Formelsammlung für die Prüfung angegeben.
+Bereits in der Ausbildung zur Klasse N haben wir den Zusammenhang zwischen der Frequenz ($f$) und der Wellenlänge ($\lambda$) kennengelernt. Damals wurden dazu zwei speziell zugeschnittene Grössengleichungen aus der Formelsammlung für die Prüfung angegeben.
 
 $f[[\unit{\mega\hertz}]] = \dfrac{300}{\lambda[[\unit{\meter}]]}$
 
 $\lambda[[\unit{\meter}]] = \dfrac{300}{f[[\unit{\mega\hertz}]]}$
 
 <indepth>
-Gleichungen, bei denen bereits angegeben wird, in welcher Einheit die Werte zu stehen haben,  nennt man  *zugeschnittene Größengleichungen*. 
+Gleichungen, bei denen bereits angegeben wird, in welcher Einheit die Werte zu stehen haben,  nennt man  *zugeschnittene Grössengleichungen*. 
 </indepth>
 
 In Wirklichkeit ist das aber nur eine Gleichung, die jeweils, im ersten Fall, nach der Frequenz und im zweiten Fall nach der Wellenlänge umgestellt wurde. 
 
-In technischen Rechnungen müssen wir immer wieder Gleichungen so umstellen, dass die gesuchte Größe allein auf einer Seite steht. Dazu wenden wir die nötigen mathematischen Operationen (Multiplizieren, Dividieren, Addieren, Subtrahieren, ...) auf beide der Seiten der Gleichung *gleichzeitig* an. Mit etwas Übung ist das viel einfacher, als sich alle nötigen Formen einer Beziehung separat zu merken. In der Klasse E und auch in der Klasse A ist dies sogar zwingend erforderlich, da die Gleichungen in der Formelsammlung nur noch in ihrer Grundform angegeben werden.
+In technischen Rechnungen müssen wir immer wieder Gleichungen so umstellen, dass die gesuchte Grösse allein auf einer Seite steht. Dazu wenden wir die nötigen mathematischen Operationen (Multiplizieren, Dividieren, Addieren, Subtrahieren, ...) auf beide der Seiten der Gleichung *gleichzeitig* an. Mit etwas Übung ist das viel einfacher, als sich alle nötigen Formen einer Beziehung separat zu merken. In der Klasse E und auch in der Klasse A ist dies sogar zwingend erforderlich, da die Gleichungen in der Formelsammlung nur noch in ihrer Grundform angegeben werden.
 
 ---
 
@@ -60,4 +60,4 @@ $f = \dfrac{\qty{300000000}{\meter\per\second}}{\qty{2,069}{\meter}} = \dfrac{\n
 
 Dabei haben wir berücksichtigt, dass $\frac{1}{\unit{\second}} = \qty{1}{\hertz}$ ist.
 
-Wir können Formeln nun mithilfe von Multiplikation und Division umstellen. In der Klasse E begegnen uns weitere Formeln, bei denen auch Addition und Subtraktion, Potenzen und Wurzeln erforderlich sind. In der Klasse A kommen schließlich sogar Logarithmen hinzu. Keine Angst, an den jeweiligen Stellen werden wir genau erklären, wie diese Formeln Schritt für Schritt umgestellt werden.
+Wir können Formeln nun mithilfe von Multiplikation und Division umstellen. In der Klasse E begegnen uns weitere Formeln, bei denen auch Addition und Subtraktion, Potenzen und Wurzeln erforderlich sind. In der Klasse A kommen schliesslich sogar Logarithmen hinzu. Keine Angst, an den jeweiligen Stellen werden wir genau erklären, wie diese Formeln Schritt für Schritt umgestellt werden.

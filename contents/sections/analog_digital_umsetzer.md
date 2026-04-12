@@ -5,7 +5,7 @@ Der A/D-Umsetzer benötigt für seine Aufgabe zudem einen Taktgenerator, welchen
 
 [question:AF620]
 
-Da ein A/D-Umsetzer stets mit einer begrenzten Zahl an möglichen digitalen Werten, welche die Größe des analogen Eingangssignals darstellen können, arbeitet, erfolgt die Erfassung der Amplitudenwerte in Stufen. Wir erinnern uns an das Beispiel mit dem Dimmer und Stufenschalter zuvor. Dadurch, dass das analoge Eingangssignal nun nur in bestimmten Stufen erfasst werden kann, kommt es zu Quantisierungsfehlern.
+Da ein A/D-Umsetzer stets mit einer begrenzten Zahl an möglichen digitalen Werten, welche die Grösse des analogen Eingangssignals darstellen können, arbeitet, erfolgt die Erfassung der Amplitudenwerte in Stufen. Wir erinnern uns an das Beispiel mit dem Dimmer und Stufenschalter zuvor. Dadurch, dass das analoge Eingangssignal nun nur in bestimmten Stufen erfasst werden kann, kommt es zu Quantisierungsfehlern.
 
 [question:AF607]
 

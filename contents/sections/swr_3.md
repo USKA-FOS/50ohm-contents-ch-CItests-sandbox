@@ -1,11 +1,11 @@
 <margin>
 [picture:978:a_swr:Stehende Welle]
 </margin>
-In vielen Fällen kann man das Stehwellenverhältnis einfach angeben, wenn der Speisewiderstand einer Antenne bekannt ist. Sofern sich eine Antenne (oder Dummy-Load) weder induktiv noch kapazitiv verhält, sie also einen reinen Wirkwiderstand darstellt, ergibt sich das Stehwellenverhältnis aus dem Verhältnis zwischen Lastwiderstand und Wellenwiderstand der Leitung, wobei Zähler und Nenner so zu wählen sind, dass sich ein SWR von größer gleich eins ergibt.
+In vielen Fällen kann man das Stehwellenverhältnis einfach angeben, wenn der Speisewiderstand einer Antenne bekannt ist. Sofern sich eine Antenne (oder Dummy-Load) weder induktiv noch kapazitiv verhält, sie also einen reinen Wirkwiderstand darstellt, ergibt sich das Stehwellenverhältnis aus dem Verhältnis zwischen Lastwiderstand und Wellenwiderstand der Leitung, wobei Zähler und Nenner so zu wählen sind, dass sich ein SWR von grösser gleich eins ergibt.
 
-Eine Antenne mit einem Speisewiderstand von $\qty{100}{\ohm}$ verursacht bei Speisung mit einem $\qty{50}{\ohm}$ Kabel ein Stehwellenverhältnis von $\num{2}$, da der Speisewiderstand doppelt so groß ist. Eine Antenne mit einem Speisewiderstand von $\qty{10}{\ohm}$ hätte ein Stehwellenverhältnis von $\num{5}$, da der Wellenwiderstand der Leitung fünf mal so groß ist.
+Eine Antenne mit einem Speisewiderstand von $\qty{100}{\ohm}$ verursacht bei Speisung mit einem $\qty{50}{\ohm}$ Kabel ein Stehwellenverhältnis von $\num{2}$, da der Speisewiderstand doppelt so gross ist. Eine Antenne mit einem Speisewiderstand von $\qty{10}{\ohm}$ hätte ein Stehwellenverhältnis von $\num{5}$, da der Wellenwiderstand der Leitung fünf mal so gross ist.
 
-Zur Beantwortung der folgenden Frage müssen wir uns außerdem daran erinnern, dass der Widerstand eines Faltdipols knapp $\qty{300}{\ohm}$ beträgt.
+Zur Beantwortung der folgenden Frage müssen wir uns ausserdem daran erinnern, dass der Widerstand eines Faltdipols knapp $\qty{300}{\ohm}$ beträgt.
 
 [question:AG405]
 

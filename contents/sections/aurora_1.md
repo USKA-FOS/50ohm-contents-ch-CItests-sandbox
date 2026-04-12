@@ -6,7 +6,7 @@ Wenn geladene Teilchen aus dem Sonnenwind in das Erdmagnetfeld einkoppeln, werde
 
 ---
 
-Die brechenden Gebiete sind sehr dynamisch, der Signalweg der Funkwellen ändert sich daher ständig und massiv. Dies sorgt für rapide Signalschwankungen (Fading) und zudem eine frequenzmäßige Verbreiterung des Signals, den sogenannten Doppler-Spread. Deswegen sind Telefonie-Verbindungen schwierig, weil die Sprache dadurch schwer verständlich wird. Telegrafiesignale (CW) eignen sich besser, aber auch sie haben einen sehr rauen Ton, weswegen man im RST Signalrapport das "T" für die Beurteilung der Tonqualität ganz weglässt und stattdessen den Buchstaben "A" für "Aurora" gibt.
+Die brechenden Gebiete sind sehr dynamisch, der Signalweg der Funkwellen ändert sich daher ständig und massiv. Dies sorgt für rapide Signalschwankungen (Fading) und zudem eine frequenzmässige Verbreiterung des Signals, den sogenannten Doppler-Spread. Deswegen sind Telefonie-Verbindungen schwierig, weil die Sprache dadurch schwer verständlich wird. Telegrafiesignale (CW) eignen sich besser, aber auch sie haben einen sehr rauen Ton, weswegen man im RST Signalrapport das "T" für die Beurteilung der Tonqualität ganz weglässt und stattdessen den Buchstaben "A" für "Aurora" gibt.
 
 <webonly>
 <margin>

@@ -8,14 +8,14 @@ Die Einheit Volt ist nach dem italienischen Physiker *Alessandro Volta* benannt.
 
 ---
 
-In der Funktechnik kommen sowohl sehr große als auch sehr kleine Spannungen vor. Wie bei der Frequenz helfen uns Einheitenvorzeichen, große Werte anzugeben. $\qty{1}{\kilo\hertz}$ steht für $\qty{1000}{\hertz}$. Genauso ist es bei Spannungen: $\qty{1}{\kilo\volt}$ bedeutet $\qty{1000}{\volt}$. Die wichtigsten Einheitenvorzeichen werden in der Tabelle [ref:n_spannung_einheitenvorzeichen] anhand der Einheit Volt vorgestellt.
+In der Funktechnik kommen sowohl sehr grosse als auch sehr kleine Spannungen vor. Wie bei der Frequenz helfen uns Einheitenvorzeichen, grosse Werte anzugeben. $\qty{1}{\kilo\hertz}$ steht für $\qty{1000}{\hertz}$. Genauso ist es bei Spannungen: $\qty{1}{\kilo\volt}$ bedeutet $\qty{1000}{\volt}$. Die wichtigsten Einheitenvorzeichen werden in der Tabelle [ref:n_spannung_einheitenvorzeichen] anhand der Einheit Volt vorgestellt.
 
 <margin>
 | l: Bezeichnung | r: Abk. | X: Wert |
 | 1 Kilovolt | $\qty{1}{\kilo\volt}$ | $\qty{1000}{\volt}$ |
 | 1 Megavolt | $\qty{1}{\mega\volt}$ | $\qty{1000000}{\volt}$ |
 | 1 Gigavolt | $\qty{1}{\giga\volt}$ | $\qty{1000000000}{\volt}$ |
-[table:n_spannung_einheitenvorzeichen:Kurzschreibweise für große Spannungen]
+[table:n_spannung_einheitenvorzeichen:Kurzschreibweise für grosse Spannungen]
 </margin>
 
 <margin>
@@ -41,9 +41,9 @@ Es gibt aber auch Einheitenvorzeichen für sehr kleine Werte. Wir kennen das bei
 [table:spannung_beispiele:Beispiele für Spannungen]
 </webmargin>
 
-Betrachten wir einige Beispiele für große und kleine Spannungen. Eine ganz besonders kleine Spannung liegt an einer Antenne beim Empfang an. Die aufgenommenen Funkwellen sind so schwach, dass die elektrischen Schwingungen nur eine Spannung von etwa $\qty{10}{\micro\volt}$ aufweisen. Wenn wir in ein Mikrofon sprechen, entstehen bereits etwas höhere Spannungen von ca. $\qty{200}{\milli\volt}$.
+Betrachten wir einige Beispiele für grosse und kleine Spannungen. Eine ganz besonders kleine Spannung liegt an einer Antenne beim Empfang an. Die aufgenommenen Funkwellen sind so schwach, dass die elektrischen Schwingungen nur eine Spannung von etwa $\qty{10}{\micro\volt}$ aufweisen. Wenn wir in ein Mikrofon sprechen, entstehen bereits etwas höhere Spannungen von ca. $\qty{200}{\milli\volt}$.
 
-Ein wenig größer ist die Spannung, die üblicherweise an einer Batterie anliegt, beispielsweise $\qty{1,5}{\volt}$ oder $\qty{9}{\volt}$. Noch etwas größer ist die Spannung an Steckdosen im Haushalt. Diese beträgt bereits $\qty{230}{\volt}$. Bei Gewitter oder Regen kann sich eine Antenne elektrisch aufladen. Dann kann an ihr eine Spannung von beispielsweise $\qty{1,5}{\kilo\volt}$ anliegen. Besonders hohe Spannungen finden sich an den Hochspannungsleitungen im Stromnetz. Hier kann man bis zu $\qty{380}{\kilo\volt}$ antreffen.
+Ein wenig grösser ist die Spannung, die üblicherweise an einer Batterie anliegt, beispielsweise $\qty{1,5}{\volt}$ oder $\qty{9}{\volt}$. Noch etwas grösser ist die Spannung an Steckdosen im Haushalt. Diese beträgt bereits $\qty{230}{\volt}$. Bei Gewitter oder Regen kann sich eine Antenne elektrisch aufladen. Dann kann an ihr eine Spannung von beispielsweise $\qty{1,5}{\kilo\volt}$ anliegen. Besonders hohe Spannungen finden sich an den Hochspannungsleitungen im Stromnetz. Hier kann man bis zu $\qty{380}{\kilo\volt}$ antreffen.
 
 Für die nächste Aufgabe müssen wir daran denken, dass $\qty{1}{\volt}$ das Gleiche ist wie $\qty{1000}{\milli\volt}$. Dann sollte die Aufgabe leicht lösbar sein.
 

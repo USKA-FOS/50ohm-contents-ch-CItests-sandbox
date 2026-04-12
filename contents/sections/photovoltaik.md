@@ -17,16 +17,16 @@ Ein Solarmodul, das elektrische Energie erzeugt, ist nicht mit einem Sonnenkolle
   
 [question:AB212]
 
-Schauen wir uns zwei Kenngrößen einer Solarzelle an.
+Schauen wir uns zwei Kenngrössen einer Solarzelle an.
 
 | l: Bezeichnung       | c: Abkürzung  | X: Erklärung   |
 | Leerlaufspannung | ${U}_{OC}$ |Ist die Spannung, die ohne Last bei voller Sonneneinstrahlung anliegt. |
-| Kurzschlussstrom | ${I}_{SC}$  |Ist der Strom, welcher bei einem Kurzschluss am Ausgang, bei voller Sonneneinstrahlung, fließen wird.| 
-[table:a_solarzelle:Kenngrößen von Solarzellen]
+| Kurzschlussstrom | ${I}_{SC}$  |Ist der Strom, welcher bei einem Kurzschluss am Ausgang, bei voller Sonneneinstrahlung, fliessen wird.| 
+[table:a_solarzelle:Kenngrössen von Solarzellen]
 
-Diese Kenngrößen sind u.a. für die Auswahl der Betriebsgeräte wie Solarregler, Wechselrichter (DC/AC-Wandler) und DC/DC Wandler wichtig.
+Diese Kenngrössen sind u.a. für die Auswahl der Betriebsgeräte wie Solarregler, Wechselrichter (DC/AC-Wandler) und DC/DC Wandler wichtig.
 
 Genau wie bei der Reihen- und Parallelschaltung von Akkus bzw. Spannungsquellen, verändert sich die Klemmenspannung und der maximale Laststrom eines Photovoltaikmoduls durch die Zusammenschaltung der einzelnen Solarzellen.
-Wenn wir 30 Solarzellen mit einer Leerlaufspannung von 0,6 V in Reihe schalten, werden die Spannungen addiert. Somit ergibt sich eine Spannung von 18 V. Wenn wir dazu nochmal 3x 30 in Reihe geschaltete Solarzzellen paralell schalten, wird sicher deren Strom addieren. Dies bedeutet, dass bei einem Kurzschlussstrom von 1 A pro Zelle, sich der Kurzschlussstrom bei 4 parallel geschalteten Zellen auf 4 A vergrößert.
+Wenn wir 30 Solarzellen mit einer Leerlaufspannung von 0,6 V in Reihe schalten, werden die Spannungen addiert. Somit ergibt sich eine Spannung von 18 V. Wenn wir dazu nochmal 3x 30 in Reihe geschaltete Solarzzellen paralell schalten, wird sicher deren Strom addieren. Dies bedeutet, dass bei einem Kurzschlussstrom von 1 A pro Zelle, sich der Kurzschlussstrom bei 4 parallel geschalteten Zellen auf 4 A vergrössert.
 
 [question:AD301]

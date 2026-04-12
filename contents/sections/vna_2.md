@@ -18,7 +18,7 @@ Eine mögliche Anzeigeform des VNAs ist die Aufteilung der Impedanz in Wirk- und
 
 ---
 
-Viele VNAs verfügen über die Möglichkeit, den SWR-Verlauf über die Frequenz grafisch darzustellen. Liegt die Resonanzfrequenz einer Antenne zu tief, weiß man, dass diese gekürzt werden sollte. Liegt sie zu hoch, dann müsste die Antenne verlängert werden.
+Viele VNAs verfügen über die Möglichkeit, den SWR-Verlauf über die Frequenz grafisch darzustellen. Liegt die Resonanzfrequenz einer Antenne zu tief, weiss man, dass diese gekürzt werden sollte. Liegt sie zu hoch, dann müsste die Antenne verlängert werden.
 
 [question:AI207]
 [question:AI208]

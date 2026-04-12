@@ -6,7 +6,7 @@ Hierbei ist $\ln$ der natürliche Logarithmus.
 
 [question:AG305]
 
-Der Wellenwiderstand $Z$ einer Koaxialleitung hängt vom Verhältnis des Innendurchmessers des Außenleiters ($D$) zum Durchmesser des Innenleiters ($d$) sowie des dazwischen befindlichen Dielektrikums ab. Der Formelsammlung entnehmen wir:
+Der Wellenwiderstand $Z$ einer Koaxialleitung hängt vom Verhältnis des Innendurchmessers des Aussenleiters ($D$) zum Durchmesser des Innenleiters ($d$) sowie des dazwischen befindlichen Dielektrikums ab. Der Formelsammlung entnehmen wir:
 
 $Z = \dfrac{\qty{60}{\ohm}}{\sqrt{\epsilon_\mathrm{r}}} \cdot \ln{\left(\dfrac{D}{d}\right)}$
 

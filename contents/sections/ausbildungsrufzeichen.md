@@ -14,7 +14,7 @@ Der Ausbildungsfunkbetrieb ist für Personen vorgesehen, die nicht Inhaber eines
 
 [question:VD301]
 
-Der Ausbilder muss sich stets in unmittelbarer Nähe des Auszubildenden aufhalten und ihn bei der Bedienung des Funkgerätes und der Betriebsabwicklung anleiten. Denn nur das Aufhalten in unmittelbarer Nähe ermöglicht es dem Ausbilder, regulierend in den Ausbildungsfunkbetrieb einzugreifen. Das kann im Extremfall auch das Abschalten des Senders bedeuten. Die Betreuung eines Auszubildenden über eine größere Entfernung oder per Funk, von einem anderen Standort aus, ist nicht gestattet. Denn hierbei ist die unmittelbare Anleitung und Aufsicht nicht gewährleistet.
+Der Ausbilder muss sich stets in unmittelbarer Nähe des Auszubildenden aufhalten und ihn bei der Bedienung des Funkgerätes und der Betriebsabwicklung anleiten. Denn nur das Aufhalten in unmittelbarer Nähe ermöglicht es dem Ausbilder, regulierend in den Ausbildungsfunkbetrieb einzugreifen. Das kann im Extremfall auch das Abschalten des Senders bedeuten. Die Betreuung eines Auszubildenden über eine grössere Entfernung oder per Funk, von einem anderen Standort aus, ist nicht gestattet. Denn hierbei ist die unmittelbare Anleitung und Aufsicht nicht gewährleistet.
 
 Wenn die BNetzA es verlangt, muss der Ausbilder der Behörde gegenüber Auskunft über "Art und Umfang" des Ausbildungsbetriebs geben.
 

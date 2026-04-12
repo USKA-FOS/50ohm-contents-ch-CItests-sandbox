@@ -8,7 +8,7 @@ Satelliten umrunden die Erde in kreisförmigen oder elliptischen Bahnen und in u
 
 [question:BE415]
 
-Die mitgeführten Relaisfunkstellen werden als "Transponder" bezeichnet. Die Eingabefrequenz, also die Funkstrecke von der Erde zum Satelliten, wird im Satellitenfunk als "Uplink" bezeichnet. Die Ausgabefrequenz, also die Funkstrecke vom Satelliten zur Erde, wird hingegen "Downlink" genannt . Für Uplink und Downlink werden oftmals unterschiedliche Frequenzbänder benutzt, weil dies eine einfachere Trennung von Sende- und Empfangssignal ermöglicht und die Baugröße von Filtern auf dem Satelliten reduziert wird.
+Die mitgeführten Relaisfunkstellen werden als "Transponder" bezeichnet. Die Eingabefrequenz, also die Funkstrecke von der Erde zum Satelliten, wird im Satellitenfunk als "Uplink" bezeichnet. Die Ausgabefrequenz, also die Funkstrecke vom Satelliten zur Erde, wird hingegen "Downlink" genannt . Für Uplink und Downlink werden oftmals unterschiedliche Frequenzbänder benutzt, weil dies eine einfachere Trennung von Sende- und Empfangssignal ermöglicht und die Baugrösse von Filtern auf dem Satelliten reduziert wird.
 
 <webindepth>
 Verschiedene Flughöhen und Umlaufbahnen von Satelliten ermöglichen eine breite Palette von Satellitenanwendungen, angefangen von Kommunikation über Navigation bis hin zu wissenschaftlicher Forschung und Erdbeobachtung. Im Folgenden stellen wir die wichtigsten Flughöhen bzw. Umlaufbahnen vor.
@@ -23,7 +23,7 @@ Mittlere Umlaufbahnen erstrecken sich in Höhen von etwa 2.000 bis 35.786 Kilome
 In Höhen von etwa 35.786 Kilometern über der Erdoberfläche befinden sich die geostationären Umlaufbahnen. Diese Satelliten umkreisen die Erde in der gleichen Geschwindigkeit, mit der sich die Erde dreht, wodurch sie scheinbar stationär am Himmel erscheinen. Geostationäre Satelliten sind ideal für Kommunikationszwecke, da sie feste Signalempfangsstationen nutzen können und somit eine konstante Abdeckung eines bestimmten Gebiets bieten.
 
 *Hochelliptische Umlaufbahnen (Highly Elliptical Orbit - HEO)*
-Hochelliptische Umlaufbahnen sind exzentrische Bahnen, bei denen Satelliten ihre geringste Entfernung zur Erde in einem Bereich und ihre größte Entfernung in einem anderen Bereich haben. Diese Art von Umlaufbahnen eignet sich gut für Satelliten, die eine erweiterte Abdeckung der Polregionen benötigen, wie beispielsweise für Überwachungsaufgaben in arktischen oder antarktischen Gebieten.
+Hochelliptische Umlaufbahnen sind exzentrische Bahnen, bei denen Satelliten ihre geringste Entfernung zur Erde in einem Bereich und ihre grösste Entfernung in einem anderen Bereich haben. Diese Art von Umlaufbahnen eignet sich gut für Satelliten, die eine erweiterte Abdeckung der Polregionen benötigen, wie beispielsweise für Überwachungsaufgaben in arktischen oder antarktischen Gebieten.
 
 *Polarumlaufbahnen (Polar Orbit)*
 Satelliten, die in Polumlaufbahnen operieren, fliegen über die Pole der Erde hinweg. Diese Bahnen bieten eine vollständige Abdeckung der Erdoberfläche im Laufe der Zeit und werden häufig für wissenschaftliche Untersuchungen, Umweltüberwachung und Erdbeobachtung verwendet.
@@ -51,7 +51,7 @@ Der Begriff *Azimut* stammt von arabisch *as-sumūt*, ("die Wege") ab. *Elevatio
 [question:BE413]
 [question:BE414]
 
-Im Amateurfunkdienst über Satelliten gilt eine Ausnahme von der Pflicht, nur offene Sprache zu verwenden. Es ist erlaubt, Steuersignale zwischen Bodenstationen und Amateurfunksatelliten zum Zwecke der Verschleierung zu verschlüsseln. Das heißt, dass hierfür ausnahmsweise Verschlüsselungsverfahren genutzt werden dürfen, die verhindern, dass der Inhalt der Steuersignale von Dritten mitgelesen werden kann. Dies dient der Sicherheit der Satelliten vor Steuerkommandos von Unbefugten.
+Im Amateurfunkdienst über Satelliten gilt eine Ausnahme von der Pflicht, nur offene Sprache zu verwenden. Es ist erlaubt, Steuersignale zwischen Bodenstationen und Amateurfunksatelliten zum Zwecke der Verschleierung zu verschlüsseln. Das heisst, dass hierfür ausnahmsweise Verschlüsselungsverfahren genutzt werden dürfen, die verhindern, dass der Inhalt der Steuersignale von Dritten mitgelesen werden kann. Dies dient der Sicherheit der Satelliten vor Steuerkommandos von Unbefugten.
 
 [question:VA303]
 

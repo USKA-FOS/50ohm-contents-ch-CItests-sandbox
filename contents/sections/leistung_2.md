@@ -2,7 +2,7 @@ In der Klasse N haben wir den Leistungsbegriff bereits als Produkt aus Strom und
 
 ---
 
-Dazu betrachten wir die Schaltung in Abbildung [ref:e_leistung_r]. Sie zeigt, wie an einem Widerstand elektrische Leistung in Wärme umgesetzt wird. Angenommen, die Größen $P$ und $R$ sind bekannt, so lässt sich mithilfe der Leistungsformel ($P = U \cdot I$) und des ohmschen Gesetzes ($U = R \cdot I$) die Spannung $U$ bestimmen.
+Dazu betrachten wir die Schaltung in Abbildung [ref:e_leistung_r]. Sie zeigt, wie an einem Widerstand elektrische Leistung in Wärme umgesetzt wird. Angenommen, die Grössen $P$ und $R$ sind bekannt, so lässt sich mithilfe der Leistungsformel ($P = U \cdot I$) und des ohmschen Gesetzes ($U = R \cdot I$) die Spannung $U$ bestimmen.
 
 <margin>
 [picture:1013:e_leistung_r:Leistung wird am Widerstand $R$ in Wärme umgesetzt]
@@ -136,16 +136,16 @@ Dann ist der Effektivstrom (Ohmsches Gesetz):
 
 $I_\text{eff} = \frac{U_\text{eff}}{R} = \frac{\qty{8,84}{\volt}}{\qty{1000}{\ohm}} \approx \qty{8,8}{\milli\ampere}$
 
-Damit ließe sich auch die effektive Leistung berechnen, doch so weit geht die Frage hier nicht.
+Damit liesse sich auch die effektive Leistung berechnen, doch so weit geht die Frage hier nicht.
 
 ---
 
 [question:EB514]
 
-Die Antwort zu dieser Frage schließlich lässt sich sehr gut im Kopf rechnen. Hier werden 11 gleiche Widerstände, wie in Abbildung [ref:e_dummyload_11] gezeigt, parallel geschaltet. Das heißt, der Strom durch jeden einzelnen Widerstand ist $1/11$ des Gesamtstroms. Also ist die Leistung an jedem Widerstand auch nur $1/11$ der Gesamtleistung.
+Die Antwort zu dieser Frage schliesslich lässt sich sehr gut im Kopf rechnen. Hier werden 11 gleiche Widerstände, wie in Abbildung [ref:e_dummyload_11] gezeigt, parallel geschaltet. Das heisst, der Strom durch jeden einzelnen Widerstand ist $1/11$ des Gesamtstroms. Also ist die Leistung an jedem Widerstand auch nur $1/11$ der Gesamtleistung.
 
 Also ist die zulässige Gesamtleistung $11 \cdot \qty{5}{\watt} =\qty{55}{\watt}$.
 
 <margin>
-[picture:1014:e_dummyload_11:Dummyload aus 11 gleich großen Widerständen]
+[picture:1014:e_dummyload_11:Dummyload aus 11 gleich grossen Widerständen]
 </margin>

@@ -4,7 +4,7 @@ Je nachdem welche Modulationsart auf der Senderseite verwendet wurde muss auf de
 Hierfür gibt es unterschiedliche Schaltungskonzepte, die die Demodulation ermöglichen.
 
 Die einfachste Form der Demodulation eines Hochfrequenz-Signals stellt die Amplituden-Modulation (AM) dar.
-AM-Signale können mittels eines sog. Hüllkurven-Demodulator wie in Abbildung [ref:demodulator_huellkurvendemodulator_am] demoduliert werden. Hierzu wird das hochfrequente Signal zunächst nach der gewünschten Empfangsfrequenz selektiert z.B. mittels eines angepassten Schwingkreises und anschließend über eine Diode gleichgerichtet. Ein der Diode nachgeschalteter Kondensator wird auf den momentanen Spitzenwert des Signals aufgeladen und gleichzeitig über einen zu diesem parallell geschalteten Widerstand mit einer geeigneten Zeitkonstante entladen. Diese Zeitkonstante liegt deutlich über der Periodendauer des HF-Signals jedoch deutlich unter der Periodendauer des NF-Signals.
+AM-Signale können mittels eines sog. Hüllkurven-Demodulator wie in Abbildung [ref:demodulator_huellkurvendemodulator_am] demoduliert werden. Hierzu wird das hochfrequente Signal zunächst nach der gewünschten Empfangsfrequenz selektiert z.B. mittels eines angepassten Schwingkreises und anschliessend über eine Diode gleichgerichtet. Ein der Diode nachgeschalteter Kondensator wird auf den momentanen Spitzenwert des Signals aufgeladen und gleichzeitig über einen zu diesem parallell geschalteten Widerstand mit einer geeigneten Zeitkonstante entladen. Diese Zeitkonstante liegt deutlich über der Periodendauer des HF-Signals jedoch deutlich unter der Periodendauer des NF-Signals.
 
 <margin>
 [picture:141:demodulator_huellkurvendemodulator_am:Hüllkurvendemodulator zur Demodulation von AM-Signalen]

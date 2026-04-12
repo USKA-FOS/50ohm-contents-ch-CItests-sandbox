@@ -1,4 +1,4 @@
-Zweidrahtleitungen verhalten sich, sofern diese symmetrisch gespeist und belastet werden, auch in Hinblick auf ihre Strom- und Spannungsverteilung symmetrisch. D. h. an einer bestimmten Stelle sind Strom und Spannung eines des beiden Leiter genauso groß wie im anderen Leiter – nur mit umgekehrtem Vorzeichen.
+Zweidrahtleitungen verhalten sich, sofern diese symmetrisch gespeist und belastet werden, auch in Hinblick auf ihre Strom- und Spannungsverteilung symmetrisch. D. h. an einer bestimmten Stelle sind Strom und Spannung eines des beiden Leiter genauso gross wie im anderen Leiter – nur mit umgekehrtem Vorzeichen.
 
 [question:AG312]
 
@@ -10,7 +10,7 @@ Koaxialkabel gibt es in verschiedensten Ausführungen. In der folgenden Frage we
 
 [question:AG303]
 
-Der Verkürzungsfaktor ergibt sich durch das zwischen Innen- und Außenleiter befindliche Dielektrikum. In diesem befindet sich der Großteil der elektromagnetischen Welle, die durch das Kabel geleitet wird. Die Wahl des Dielektrikums bestimmt, wie schnell sich eine Welle durch das Kabel fortpflanzen kann. Die Ausbreitungsgeschwindigkeit im Koaxialkabel liegt unter der Lichtgeschwindigkeit im Freiraum. Übliche Materialien für das Dielektrikum sind Polyethylen (PE) und Teflon (PTFE). Durch Aufschäumung entsteht gewissermaßen eine Mischung mit Luft, bei der die Kabeldämpfung geringer ausfällt.
+Der Verkürzungsfaktor ergibt sich durch das zwischen Innen- und Aussenleiter befindliche Dielektrikum. In diesem befindet sich der Grossteil der elektromagnetischen Welle, die durch das Kabel geleitet wird. Die Wahl des Dielektrikums bestimmt, wie schnell sich eine Welle durch das Kabel fortpflanzen kann. Die Ausbreitungsgeschwindigkeit im Koaxialkabel liegt unter der Lichtgeschwindigkeit im Freiraum. Übliche Materialien für das Dielektrikum sind Polyethylen (PE) und Teflon (PTFE). Durch Aufschäumung entsteht gewissermassen eine Mischung mit Luft, bei der die Kabeldämpfung geringer ausfällt.
 
 [question:AG314]
 [question:AG302]

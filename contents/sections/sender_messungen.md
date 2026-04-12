@@ -2,7 +2,7 @@ Wichtige Messungen für den Funkamateur an Sendern sind Messungen von Ausgangsle
 
 Bei Messung von Senderausgangsleistungen muss der Sender mit einer definierten Impedanz, die zur Ausgangsimpedanz des Senders passt, abgeschlossen werden. Im Amateurfunk beträgt die übliche Impedanz (Senderabschluss) $\qty{50}{\ohm}$. Der Abschluss kann auch direkt in der Messschaltung erfolgen, was jedoch nur bei kleine Leistungen sinnvoll ist.
 
-Die Messung von HF-Spannungen erfolgt mittels eines HF-Tastkopfes über Diodengleichrichtung und anschließende Glättung der entstehenden Gleichspannung mit einem nachgeschalteten Kondensator.
+Die Messung von HF-Spannungen erfolgt mittels eines HF-Tastkopfes über Diodengleichrichtung und anschliessende Glättung der entstehenden Gleichspannung mit einem nachgeschalteten Kondensator.
 
 Bei HF-Tastköpfen mit nur einer Diode ist am Messausgang die Spitzenspannung der zugeführten HF-Spannung abzüglich der Forward-Spannung der verwendeten Diode und eines ggf. vorhandenen vorgeschalteten Spannungsteilers messbar.
 
@@ -13,7 +13,7 @@ Zur Erhöhung der Messgenauigkeit, insbesondere bei kleinen Leistungen im VHF/UH
 [question:AI605]
 [question:AI604]
 
-Bei höheren HF-Leistungen muss ein entsprechend belastbares Dämpfungsglied vorgeschaltet werden, das einen Großteil der Senderausgangsleistung, die gemessen werden soll, aufnimmt. Das Dämpfungsglied ist bei der Berechnung der Leistung zu berücksichtigen.
+Bei höheren HF-Leistungen muss ein entsprechend belastbares Dämpfungsglied vorgeschaltet werden, das einen Grossteil der Senderausgangsleistung, die gemessen werden soll, aufnimmt. Das Dämpfungsglied ist bei der Berechnung der Leistung zu berücksichtigen.
 
 [question:AI609]
 
@@ -22,9 +22,9 @@ Um Leistungen und HF-Spannungen mit den vorgenannten Schaltungen exakt messen zu
 [question:AI612]
 
 Betrachten wir nun die Berechnung der Schaltungen im Detail.
-Ein HF-Tastkopf mit einfacher Gleichrichtung und anschließender Glättung wird wie folgt berechnet:
+Ein HF-Tastkopf mit einfacher Gleichrichtung und anschliessender Glättung wird wie folgt berechnet:
 
-Das HF-Eingangssignal wird durch den vorhandenen Widerstand (oder Kombination aus Einzelwiderständen) am Eingang impedanzrichtig abgeschlossen. In der dargestellten Schaltung wird die HF-Spannung durch den nachfolgenden Spannungsteiler halbiert (wobei dieser ebenfalls bzgl. der Impedanz wirksam ist). Anschließend erfolgt die Spitzenwert-Gleichrichtung mittels Diode, deren Ausgansspannung sich als Spitzenwert abzüglich der Forward-Spannung der Diode berechnet und im nachgeschalteten Kondensator gepuffert wird.
+Das HF-Eingangssignal wird durch den vorhandenen Widerstand (oder Kombination aus Einzelwiderständen) am Eingang impedanzrichtig abgeschlossen. In der dargestellten Schaltung wird die HF-Spannung durch den nachfolgenden Spannungsteiler halbiert (wobei dieser ebenfalls bzgl. der Impedanz wirksam ist). Anschliessend erfolgt die Spitzenwert-Gleichrichtung mittels Diode, deren Ausgansspannung sich als Spitzenwert abzüglich der Forward-Spannung der Diode berechnet und im nachgeschalteten Kondensator gepuffert wird.
 
 Bei $\qty{1}{\watt}$ Eingangsleistung in einem $\qty{50}{\ohm}$-System ergibt sich eine Eingangsspannung von $\qty{7,07}{\volt}$ Effektiv-Spannung und $\qty{10}{\volt}$ Spitzenspannung.
 Der nachgeschaltete Spannungsteiler halbiert diese Spannung auf $\qty{5}{\volt}$ Spitzenspannung, die nach Gleichrichtung durch die Diode abzüglich deren Forward-Spannung von $\qty{0,23}{\volt}$ noch $\qty{4,77}{\volt}$ beträgt. Gemessen werden dann gerundet ca. $\qty{4,8}{\volt}$ am Ausgang der Schaltung.
@@ -42,6 +42,6 @@ Bei HF-Tastköpfen und Leistungsmessern mit doppelter Spitzenwertgleichrichtung 
 [question:AI607]
 [question:AI606]
 
-Um anzuzeigen, dass ein Sender über seine Antenne Leistung abstrahlt kann ein Feldstärkeanzeiger verwendet werden. Hierbei wird über eine Messantenne einer Diode die empfangene HF zugeführt und durch die Diode gleichgerichtet. Anschließend wir die gleichgerichtete Spannung über HF-Drosseln einem Kondensator zugeführt, der die gleichgerichtete Spannung puffert. Die Anzeige erfolgt durch ein empfindliches Strommessgerät. Je höher der Zeigerausschlag des Messinstruments ausfällt, desto höher ist die an der Antenne gemessene HF-Feldstärke. Um exakte Messungen vornehmen zu können muss sowohl die Messantenne als auch der Feldstärkemesser kalibriert werden.
+Um anzuzeigen, dass ein Sender über seine Antenne Leistung abstrahlt kann ein Feldstärkeanzeiger verwendet werden. Hierbei wird über eine Messantenne einer Diode die empfangene HF zugeführt und durch die Diode gleichgerichtet. Anschliessend wir die gleichgerichtete Spannung über HF-Drosseln einem Kondensator zugeführt, der die gleichgerichtete Spannung puffert. Die Anzeige erfolgt durch ein empfindliches Strommessgerät. Je höher der Zeigerausschlag des Messinstruments ausfällt, desto höher ist die an der Antenne gemessene HF-Feldstärke. Um exakte Messungen vornehmen zu können muss sowohl die Messantenne als auch der Feldstärkemesser kalibriert werden.
 
 [question:AI613]

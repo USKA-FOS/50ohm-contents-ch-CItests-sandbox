@@ -1,4 +1,4 @@
-Ein altes Funkersprichwort sagt, dass der beste Hochfrequenzverstärker die Antenne ist. In den ersten Jahren der Funktechnik war sie der einzige "Verstärker", verstärkende Elektronik gab es nicht. 1907 kam dann die Elektronenröhre - ein sehr erfolgreiches Bauelement, aber doch recht groß und wenig effizient. Bereits seit den zwanziger Jahren träumte die Wissenschaft von Bauelementen ähnlicher Funktion, bei der aber alles im Inneren eines Festkörpers (Halbleiters) abläuft, nicht im Vakuum. Das erste Bauelement, bei dem das auch praktisch gelang, war 1947/1948 der *Bipolartransistor*, der auch ganz überwiegend Gegenstand der Prüfungsfragen der Klasse-E-Prüfung ist.
+Ein altes Funkersprichwort sagt, dass der beste Hochfrequenzverstärker die Antenne ist. In den ersten Jahren der Funktechnik war sie der einzige "Verstärker", verstärkende Elektronik gab es nicht. 1907 kam dann die Elektronenröhre - ein sehr erfolgreiches Bauelement, aber doch recht gross und wenig effizient. Bereits seit den zwanziger Jahren träumte die Wissenschaft von Bauelementen ähnlicher Funktion, bei der aber alles im Inneren eines Festkörpers (Halbleiters) abläuft, nicht im Vakuum. Das erste Bauelement, bei dem das auch praktisch gelang, war 1947/1948 der *Bipolartransistor*, der auch ganz überwiegend Gegenstand der Prüfungsfragen der Klasse-E-Prüfung ist.
 
 [question:EC602]
 
@@ -6,7 +6,7 @@ Ein altes Funkersprichwort sagt, dass der beste Hochfrequenzverstärker die Ante
 Der *Bipolartransistor* wird im Englischen auch BJT: Bipolar Junction Transistor, dt. bipolarer Sperrschicht-Transistor genannt.
 </indepth>
 
-Die ideale Funktion aller Transistortypen, und auch der Elektronenröhre, ist die einer *spannungsgesteuerten Stromquelle*: mit einer möglichst kleinen Spannungsänderung am Eingang soll eine möglichst große Stromänderung am Ausgang bewirkt werden.
+Die ideale Funktion aller Transistortypen, und auch der Elektronenröhre, ist die einer *spannungsgesteuerten Stromquelle*: mit einer möglichst kleinen Spannungsänderung am Eingang soll eine möglichst grosse Stromänderung am Ausgang bewirkt werden.
 
 Der Bipolartransistor hat drei Anschlüsse, die Emitter, Basis und Kollektor genannt werden. Der Emitter sendet Ladungsträger in die Basis - beim npn-Bipolartransistor sind das *Elektronen*, beim pnp-Bipolartransistor Defektelekronen, auch *Löcher* genannt. Die Physik hinter diesen Begriffen werden wir erst in der Ausbildung für die Klasse A besprechen. Diese Ladungsträger durchqueren die Basis und werden vom Kollektor wieder aufgesammelt. 
 
@@ -56,7 +56,7 @@ $I_C = I_\text{S}\ e^{\frac{U_{BE}}{U_T}}$
 $U_T$ ist bei Raumtemperatur etwa $\qty{26}{\milli\volt}$.
 
 <indepth>
-$I_\text{S}$ bezeichnet den sogenannten Sättigungs-Sperrstrom eines Bipolartransistors. Er ist ein charakteristischer Bauteilparameter und steht in engem Zusammenhang mit der Emitter-Basis-Diode. Dabei handelt es sich um einen sehr kleinen Leckstrom, der auch dann durch den Transistor fließt, wenn die Basis-Emitter-Strecke nicht leitend ist.
+$I_\text{S}$ bezeichnet den sogenannten Sättigungs-Sperrstrom eines Bipolartransistors. Er ist ein charakteristischer Bauteilparameter und steht in engem Zusammenhang mit der Emitter-Basis-Diode. Dabei handelt es sich um einen sehr kleinen Leckstrom, der auch dann durch den Transistor fliesst, wenn die Basis-Emitter-Strecke nicht leitend ist.
 </indepth>
 
 Der Basisstrom $I_B$ hat in weiten Betriebsbereichen die gleiche Spannungsabhängig wie der Kollektorstrom, sodass das Verhältnis von Kollektorstrom und Basisstrom konstant ist:
@@ -66,19 +66,19 @@ $\frac{I_C}{I_B} = B$
 *B* ist die Stromverstärkung (genau genommen die Stromverstärkung in Emitterschaltung). Es ist oft praktischer, sich den Transistor als ein stromgesteuertes Bauelement vorzustellen, auch wenn das physikalisch nicht so ist. Die Stromverstärkung beträgt in praktischen Transistoren $50 \dots 350$.
 
 <tip>
-Für die Stromsteuerung des Bipolartransistors gibt es eine uralte Analogie, bei der ein großer und ein kleiner Wasserkanal, ein Wehr im großen Kanal und eine Steuerklappe eine Rolle spielen. Die Älteren unter uns kennen das vielleicht noch aus dem "Kleinen Radiomann" des Kosmos-Verlags ...
+Für die Stromsteuerung des Bipolartransistors gibt es eine uralte Analogie, bei der ein grosser und ein kleiner Wasserkanal, ein Wehr im grossen Kanal und eine Steuerklappe eine Rolle spielen. Die Älteren unter uns kennen das vielleicht noch aus dem "Kleinen Radiomann" des Kosmos-Verlags ...
   
-[picture:835:e_transistor_wehr_geschlossen:Steuerkanal schließt Wehr komplett]
+[picture:835:e_transistor_wehr_geschlossen:Steuerkanal schliesst Wehr komplett]
   
-Zunächst fließt kein Wasser im kleinen Kanal. Das Wehr im großen Kanal ist geschlossen, daher fließt dort auch kein Wasser.
+Zunächst fliesst kein Wasser im kleinen Kanal. Das Wehr im grossen Kanal ist geschlossen, daher fliesst dort auch kein Wasser.
   
 [picture:837:e_transistor_wehr_halb_offen:Steuerkanal öffnet Wehr halb]
 
-Dann beginnt Wasser im kleinen Kanal zu fließen, dem Steuerkanal. Das Wasser hebt die Klappe an, die wiederum das Wehr betätigt - auch im Hauptkanal beginnt, Wasser zu fließen.
+Dann beginnt Wasser im kleinen Kanal zu fliessen, dem Steuerkanal. Das Wasser hebt die Klappe an, die wiederum das Wehr betätigt - auch im Hauptkanal beginnt, Wasser zu fliessen.
   
 [picture:836:e_transistor_wehr_geoeffnet:Steuerkanal öffnet Wehr komplett]
 
-Jetzt fließt mehr Wasser im Steuerkanal, die Klappe wird weiter angehoben, das Wehr im Hauptkanal öffnet komplett.
+Jetzt fliesst mehr Wasser im Steuerkanal, die Klappe wird weiter angehoben, das Wehr im Hauptkanal öffnet komplett.
 </tip>
 
 [question:EC603]
@@ -93,7 +93,7 @@ Der Spannungsarbeitspunkt von Transistoren wird meist über die Kollektor-Emitte
 
 $U_{CE} = U_{CB} + U_{BE}$
 
-Neben den hier überwiegend behandelten Bipolartransistoren gibt es vor allem auch *Feldeffekttransistoren*, die physikalisch anders funktionieren, aber nach außen die selbe Grundfunktion (spannungsgesteuerte Stromquelle) haben. In Form der MOSFETs beherrschen sie unsere Elektronik, denn sie sind millionen- bis milliardenfach in den integrierten Schaltkreisen der Digitalelektronik enthalten.
+Neben den hier überwiegend behandelten Bipolartransistoren gibt es vor allem auch *Feldeffekttransistoren*, die physikalisch anders funktionieren, aber nach aussen die selbe Grundfunktion (spannungsgesteuerte Stromquelle) haben. In Form der MOSFETs beherrschen sie unsere Elektronik, denn sie sind millionen- bis milliardenfach in den integrierten Schaltkreisen der Digitalelektronik enthalten.
 
 <indepth>
 MOSFET steht für *metal-oxide-semiconductor field effect transistor*, dt. Metall-Oxid-Halbleiter-Feldeffekttransistor

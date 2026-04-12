@@ -3,7 +3,7 @@ Wir teilen Materialien in drei Gruppen ein: *Leiter*, *Nichtleiter* und *Halblei
 Betrachten wir zunächst die Leiter etwas näher. Viele Leiter sind Metalle. Beispielsweise sind Blitzableiter aus Stahl und Hochspannungsleitungen aus Stahl oder Aluminium. Aber auch salziges Wasser kann Strom leiten. Manche Leiter können Strom besser leiten als andere. In der Tabelle [ref:leiter] sind alle in den Prüfungsfragen vorkommenden Leiter-Materialien wiedergegeben, und zwar absteigend nach ihrer Leitfähigkeit sortiert.
 
 <indepth>
-Die *Leitfähigkeit* ist eine Materialeigenschaft, die von der inneren atomaren Struktur abhängt und außerdem von der Menge frei beweglicher Elektronen bestimmt wird.
+Die *Leitfähigkeit* ist eine Materialeigenschaft, die von der inneren atomaren Struktur abhängt und ausserdem von der Menge frei beweglicher Elektronen bestimmt wird.
 </indepth>
 
 <indepth>

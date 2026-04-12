@@ -2,7 +2,7 @@ Im Jahre 1820 beobachtete der dänische Naturforscher Hans Christian Oerstedt, d
 
 ---
 
-Die magnetischen Feldlinien um einen stromdurchflossenen Leiter sind stets in sich geschlossen. Fließt ein konstanter Gleichstrom durch einen geraden, gestreckten Leiter, so verlaufen diese magnetischen Feldlinien in Form konzentrischer Kreise um den Leiter herum, wie in Abbildung [ref:e_konzentrisch] gezeigt.
+Die magnetischen Feldlinien um einen stromdurchflossenen Leiter sind stets in sich geschlossen. Fliesst ein konstanter Gleichstrom durch einen geraden, gestreckten Leiter, so verlaufen diese magnetischen Feldlinien in Form konzentrischer Kreise um den Leiter herum, wie in Abbildung [ref:e_konzentrisch] gezeigt.
 
 [question:EB201]
 
@@ -32,11 +32,11 @@ Im Inneren einer Zylinderspule ergibt sich im gegensatz zu einem geraden Leiter 
 
 [question:EB202]
 
-Wir müssen aber beachten, dass die magnetischen Feldlinien sich außerhalb der Zylinderstufe schließen, dies führt zu einem *Streufeld*. Das Streufeld können wir verringern, wenn wir die Zylinderspule entlang der Längsachse zu einem Kreis (oder "Toroid") verbiegen, wie z.B. bei einer Ringkernspule wie in Abbildung [ref:e_ringkern] gezeigt. Jetzt können sich die Feldlinien im Innern der Spule selbst schließen. 
+Wir müssen aber beachten, dass die magnetischen Feldlinien sich ausserhalb der Zylinderstufe schliessen, dies führt zu einem *Streufeld*. Das Streufeld können wir verringern, wenn wir die Zylinderspule entlang der Längsachse zu einem Kreis (oder "Toroid") verbiegen, wie z.B. bei einer Ringkernspule wie in Abbildung [ref:e_ringkern] gezeigt. Jetzt können sich die Feldlinien im Innern der Spule selbst schliessen. 
 
 ---
 
-Dabei ist zu beachten, dass sich die magnetischen Feldlinien bei einer Zylinderspule auch außerhalb der Spule schließen. Dadurch entsteht ein sogenanntes Streufeld. Dieses *Streufeld* lässt sich verringern, indem man die Zylinderspule entlang ihrer Längsachse zu einem Kreis (oder "Toroid") formt, wie es beispielsweise bei einer Ringkernspule der Fall ist (vgl. Abbildung [ref:e_ringkern]). In diesem Fall können sich die magnetischen Feldlinien vollständig im Inneren der Spule schließen.
+Dabei ist zu beachten, dass sich die magnetischen Feldlinien bei einer Zylinderspule auch ausserhalb der Spule schliessen. Dadurch entsteht ein sogenanntes Streufeld. Dieses *Streufeld* lässt sich verringern, indem man die Zylinderspule entlang ihrer Längsachse zu einem Kreis (oder "Toroid") formt, wie es beispielsweise bei einer Ringkernspule der Fall ist (vgl. Abbildung [ref:e_ringkern]). In diesem Fall können sich die magnetischen Feldlinien vollständig im Inneren der Spule schliessen.
 
 <margin>
 [picture:40:e_ringkern:Ringkernspule]
@@ -50,13 +50,13 @@ Der mittlere Umfang ($l_m$) ergibt sich aus folgender Beziehung:
 
 $l_m = \pi \cdot d = \pi\cdot \qty{0,026}{\meter} = \qty{0,082}{\meter}$
 
-Das Magnetfeld wird bei $N$ Windungen durch einen Strom erzeugt, der $N$-mal so groß ist, wie der im Leiter fließende Strom $I$. Daher gilt für die magnetische Feldstärke $H$ laut Formelsammlung:
+Das Magnetfeld wird bei $N$ Windungen durch einen Strom erzeugt, der $N$-mal so gross ist, wie der im Leiter fliessende Strom $I$. Daher gilt für die magnetische Feldstärke $H$ laut Formelsammlung:
 
 $H = \frac{N\cdot I}{l_m} = \frac{6 \cdot \qty{2,5}{\ampere}}{\qty{0,082}{\meter}} = \qty{183}{\ampere\per\meter}$
   
 ---
 
-Die Betrachtungen zum magnetischen Feld gelten auch für Wechselstrom. Im Abschnitt zum elektromagnetischen Feld werden wir uns noch näher damit beschäftigen. In einer Antenne fließt ein Wechselstrom, der wiederum ein zeitlich variierendes Magnetfeld zur Folge hat. Wie bereits besprochen, sind magnetische Feldlinien stets in sich geschlossen, vgl. Abbildung [ref:e_vertikalantenne_magnetfeld]. Daraus ergibt sich bereits die richtige Antwort auf diese Frage.
+Die Betrachtungen zum magnetischen Feld gelten auch für Wechselstrom. Im Abschnitt zum elektromagnetischen Feld werden wir uns noch näher damit beschäftigen. In einer Antenne fliesst ein Wechselstrom, der wiederum ein zeitlich variierendes Magnetfeld zur Folge hat. Wie bereits besprochen, sind magnetische Feldlinien stets in sich geschlossen, vgl. Abbildung [ref:e_vertikalantenne_magnetfeld]. Daraus ergibt sich bereits die richtige Antwort auf diese Frage.
   
 <margin>
 [picture:883:e_vertikalantenne_magnetfeld:Magnetfeld an einer Vertikalantenne]

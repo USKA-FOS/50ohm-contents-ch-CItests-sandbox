@@ -4,7 +4,7 @@ Ein Oszilloskop ist ein Spannungsmessgerät, das den zeitlichen Verlauf von Span
 [photo:212:e_oszilloskop_digital: Oszilloskop mit zahlreichen Zusatzfunktionen]
 </margin>
 
-Betrachten wir die Anzeige des Oszilloskops in Abbildung [ref:e_oszilloskop_bildschirmfoto_sinus] nun etwas genauer. Mit einem Oszilloskop lassen sich beispielsweise die Kenngrößen einer sinusförmigen Wechselspannung ($T$, $\hat{U}$, $U_\text{SS}$ und $U_\text{eff}$) bestimmen. Neben dem Signalverlauf werden eine Zeit- und eine Spannungsangabe eingeblendet – im Beispiel $\qty{50,0}{\nano\second}$ und $\qty{500}{\milli\volt}$. Das bedeutet, dass ein Kästchen in horizontaler Richtung 50 Nanosekunden und in vertikaler Richtung 500 Millivolt entspricht. Diese Kästchen werden oft als Divisionen oder Skalenteile bezeichnet, daher auch die Schreibweise $\qty{500}{\milli\volt\per\oszidiv}$.
+Betrachten wir die Anzeige des Oszilloskops in Abbildung [ref:e_oszilloskop_bildschirmfoto_sinus] nun etwas genauer. Mit einem Oszilloskop lassen sich beispielsweise die Kenngrössen einer sinusförmigen Wechselspannung ($T$, $\hat{U}$, $U_\text{SS}$ und $U_\text{eff}$) bestimmen. Neben dem Signalverlauf werden eine Zeit- und eine Spannungsangabe eingeblendet – im Beispiel $\qty{50,0}{\nano\second}$ und $\qty{500}{\milli\volt}$. Das bedeutet, dass ein Kästchen in horizontaler Richtung 50 Nanosekunden und in vertikaler Richtung 500 Millivolt entspricht. Diese Kästchen werden oft als Divisionen oder Skalenteile bezeichnet, daher auch die Schreibweise $\qty{500}{\milli\volt\per\oszidiv}$.
 
 <margin>
 [photo:214:e_oszilloskop_bildschirmfoto_sinus:eine sinusförmige Spannung, dargestellt auf einem digitalen Oszilloskop]
@@ -12,7 +12,7 @@ Betrachten wir die Anzeige des Oszilloskops in Abbildung [ref:e_oszilloskop_bild
 
 ---
 
-Wir können uns das als Koordinatensystem vorstellen und die Periodendauer ($T$) und die Amplitude ($\hat{U}$) ablesen. Im Beispiel ist eine Periode 5 Kästchen oder Skalenteile lang. Multipliziert mit $\qty{50,0}{\nano\second}$ pro Skalenteil ergibt das die Periodendauer $\qty{250,0}{\nano\second}$. Die Amplitude, also die größte Abweichung von der Nulllage, beträgt $\qty{1500}{\milli\volt}$ oder $\qty{1,5}{\volt}$, denn sie ist 3 Skaltenteile hoch und jeder Teil entspricht $\qty{500}{\milli\volt}$. 
+Wir können uns das als Koordinatensystem vorstellen und die Periodendauer ($T$) und die Amplitude ($\hat{U}$) ablesen. Im Beispiel ist eine Periode 5 Kästchen oder Skalenteile lang. Multipliziert mit $\qty{50,0}{\nano\second}$ pro Skalenteil ergibt das die Periodendauer $\qty{250,0}{\nano\second}$. Die Amplitude, also die grösste Abweichung von der Nulllage, beträgt $\qty{1500}{\milli\volt}$ oder $\qty{1,5}{\volt}$, denn sie ist 3 Skaltenteile hoch und jeder Teil entspricht $\qty{500}{\milli\volt}$. 
 
 [question:EI301]
 
