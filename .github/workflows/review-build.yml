@@ -54,7 +54,7 @@ jobs:
           chmod 600 ~/.ssh/id_ed25519
 
       - name: Download question pool
-        working-directory: workspace/app/50ohm-contents-ch/content/questions/
+        working-directory: workspace/app/50ohm-contents-ch/contents/questions/
         run: |
           scp -o StrictHostKeyChecking=no -P 2222 github-ci@50ohm.uska.ch:fragenkatalog_4pre.json .
           scp -o StrictHostKeyChecking=no -P 2222 github-ci@50ohm.uska.ch:fragenkatalog_ch.json .
