@@ -4,7 +4,7 @@ Funkstationen verwenden Rufzeichen [index:Rufzeichen], um sich zu identifizieren
 [photo:167:rufzeichen_flugzeug:Flugzeug mit dem Rufzeichen DEBPF]
 </margin>
 
-Auch jeder Funkamateur bekommt ein persönliches Rufzeichen [index:Rufzeichen:Persönliches] zugeteilt, das weltweit eindeutig ist. Funkamateure müssen ihr Rufzeichen am Anfang und am Ende jeder Funkverbindung nennen und bei längeren Verbindungen alle 10 Minuten wiederholen. 
+Auch jeder Funkamateur bekommt ein persönliches Rufzeichen [index:Rufzeichen:Persönliches] zugeteilt, das weltweit einmalig ist. Funkamateure müssen ihr Rufzeichen am Anfang jeder Funkverbindung nennen und während der Verbindungen alle 10 Minuten wiederholen. Hierzu muss kein Timer gestellt werden. Es darf auch häufiger genannt werden.
 
 [question:VD207]
 [question:VD205]
