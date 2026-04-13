@@ -13,7 +13,7 @@ Zur *Kontrolle des Betriebszustands* eines Netzgeräts gibt es beleuchtete Schal
 
 ---
 
-Ein Netzgerät wird oft mittels *Schutzkontaktstecker* (kurz Schukostecker) an der Steckdose angeschlossen. Beim Schutzkontaktstecker spielt die Einsteckrichtung keine Rolle, da sich die Polarität bei Wechselspannung ständig ändert. Stecker und Steckdose haben jeweils 3 Pole, wie in Abbildung [ref:n_schutzkontakt] zu erkennen ist. Die Stifte des Steckers passen in die Öffnungen der Steckdose und erlauben die Verbindung zu den sogenannten L- und N-Leitern, zwischen denen die gefährliche Wechselspannung von $\qty{230}{\volt}$ anliegt.
+Ein Netzgerät wird in der Regel  mittels eines Netzsteckers an der Steckdose angeschlossen. Dabei spielt die Einsteckrichtung keine Rolle, da sich die Polarität bei Wechselspannung ständig ändert. Stecker und Steckdose haben jeweils 3 Pole, wie in Abbildung [ref:n_schutzkontakt] zu erkennen ist. Die Stifte des Steckers passen in die Öffnungen der Steckdose und erlauben die Verbindung zu den sogenannten L- und N-Leitern, zwischen denen die gefährliche Wechselspannung von $\qty{230}{\volt}$ anliegt.
 
 <margin>
 [photo:86:n_schutzkontakt:Schutzkontakt an einer Steckdose und Schukostecker]
