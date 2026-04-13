@@ -1,4 +1,4 @@
-Ein sehr wichtiges und häufig verwendetes Bauteil in der Funktechnik und Elektronik ist der Kondensator. Wie in Abbildung [ref:e_kondensator_aufbau] dargestellt, besteht ein Kondensator prinzipiell aus zwei leitenden Flächen (Platten, Schichten bzw. Elektroden), die durch einen Isolator – das sogenannte Dielektrikum – voneinander getrennt sind.
+Ein sehr wichtiges und häufig verwendetes Bauteil in der Funktechnik und Elektronik ist der Kondensor. Wie in Abbildung [ref:e_kondensator_aufbau] dargestellt, besteht ein Kondensator prinzipiell aus zwei leitenden Flächen (Platten, Schichten bzw. Elektroden), die durch einen Isolator – das sogenannte Dielektrikum – voneinander getrennt sind.
 
 
 <margin>
