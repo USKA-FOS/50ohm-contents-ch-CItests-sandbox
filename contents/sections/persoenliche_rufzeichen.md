@@ -4,7 +4,6 @@ Personengebundene Rufzeichen sind die am häufigsten vergebenen Rufzeichen. In d
 | l: Klasse | X: Präfix und Ziffer |
 | NOVICE| HB3 |
 | HAREC | HB9 |
-
 [table:n_persoenliche_rufzeichen_praefixe:Präfixe und Ziffern für personengebunde Rufzeichen]
 </margin>
 
