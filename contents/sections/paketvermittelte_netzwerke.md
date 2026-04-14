@@ -11,7 +11,7 @@ Ursprünglich wurde HAMNET als schrittweiser Ersatz für das seit den 1980er-Jah
 <margin>
 Der *USKA* bietet für ihre Mitglieder aktuell keinen VPN-Zugang über die sogenannten [HAMCloud](https://50ohm.de/hc) an. Dies ermöglicht den Zugang zum HAMNET, auch wenn kein direkter Einstieg über Funk möglich ist.   
 
-[Jetzt Mitglied in der USKA werden!](https://50ohm.de/mw)
+[Jetzt Mitglied in der USKA werden!](Wieso USKA Mitglied werden? https://share.google/REJS2cKrIGptpH0hN )
 </margin>
 
 Nutzen kann man das Hamnet genauso wie das Internet, im einfachsten Fall mit einem Webbrowser. Das ist möglich, weil das sogenannte Internet-Protokoll (IP) und alles, was darauf aufbaut, auch für andere Zwecke als für das Internet verwendet werden kann.
