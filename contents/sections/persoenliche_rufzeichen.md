@@ -1,12 +1,10 @@
-Personengebundene Rufzeichen sind die am häufigsten vergebenen Rufzeichen. In der Schweiz gibt es zwei unterschiedliche Zulassungsklassen, mit jeweils eigenen Präfix. Die einzelnen Klassen lauten, aufbauend aufeinander, Klasse N (Entry Level License), Klasse E (Novice) und Klasse A (Advanced). Aus der Tabelle [ref:n_persoenliche_rufzeichen_praefixe] kann man entnehmen, welche Präfixe und Ziffern den Amateurfunkklassen zugeordnet sind. In der Tabelle [ref:n_persoenliche_rufzeichen_beispiele] finden sich einige Beispiele für personengebundene Rufzeichen der 3 Klassen. Die meisten Funkamateure in Deutschland besitzen die Amateurfunkzulassung der Klasse A, deshalb ist dieser Block am grössten. 
+Personengebundene Rufzeichen sind die am häufigsten vergebenen Rufzeichen. In der Schweiz gibt es zwei unterschiedliche Zulassungsklassen, mit jeweils eigenen Präfix. Die einzelnen Klassen lauten,  HB3 (CEPT-NOVICE) und HB9 (CEPT-HAREC). Aus der Tabelle [ref:n_persoenliche_rufzeichen_praefixe] kann man entnehmen, welche Präfixe und Ziffern den Amateurfunkklassen zugeordnet sind. In der Tabelle [ref:n_persoenliche_rufzeichen_beispiele] finden sich einige Beispiele für personengebundene Rufzeichen der 3 Klassen. Die meisten Funkamateure in Deutschland besitzen die Amateurfunkzulassung der Klasse A, deshalb ist dieser Block am grössten. 
 
 <margin>
 | l: Klasse | X: Präfix und Ziffer |
-| Klasse N | DN9 |
-| Klasse E | DO1 - DO9 |
-| Klasse A | DB1 - DD9 |
-| | DF1 - DH9 |
-| | DJ1 - DM9 |
+| NOVICE| HB3 |
+| HAREC | HB9 |
+
 [table:n_persoenliche_rufzeichen_praefixe:Präfixe und Ziffern für personengebunde Rufzeichen]
 </margin>
 
