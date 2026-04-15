@@ -1,4 +1,4 @@
-Spannungen kann man mit einem Messgerät ermitteln. Dabei ist es sehr wichtig, das Messgerät richtig einzustellen und an den richtigen Stellen zu messen. Spannungen misst man mit einem Spannungsmessgerät. Da Spannungen in *Volt* ($\unit{V}$) gemessen werden, ist das Schaltsymbol für ein Spannungsmessgerät ein Kreis mit einem V, wie in Abbildung [ref:n_messgeraete_symbol_spannungsmessgerät] gezeigt.
+Spannungen kann man mit einem Messgerät ermittelt werden. Dabei ist es sehr wichtig, das Messgerät richtig einzustellen und an den richtigen Stellen zu messen. Spannungen misst man mit einem Spannungsmessgerät. Da Spannungen in *Volt* ($\unit{V}$) gemessen werden, ist das Schaltsymbol für ein Spannungsmessgerät ein Kreis mit einem V, wie in Abbildung [ref:n_messgeraete_symbol_spannungsmessgerät] gezeigt.
 
 <margin>
 [picture:625:n_messgeraete_symbol_spannungsmessgerät:Schaltsymbol Spannungsmessgerät]
