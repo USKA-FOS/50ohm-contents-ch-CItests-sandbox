@@ -1,4 +1,4 @@
-Personengebundene Rufzeichen sind die am häufigsten vergebenen Rufzeichen. In der Schweiz gibt es zwei unterschiedliche Zulassungsklassen, mit jeweils eigenen Präfix. Die einzelnen Klassen lauten,  HB3 (CEPT-NOVICE) und HB9 (CEPT-HAREC). Aus der Tabelle [ref:n_persoenliche_rufzeichen_praefixe] kann man entnehmen, welche Präfixe und Ziffern den Amateurfunkklassen zugeordnet sind. In der Tabelle [ref:n_persoenliche_rufzeichen_beispiele] finden sich einige Beispiele für personengebundene Rufzeichen der 3 Klassen. Die meisten Funkamateure in Deutschland besitzen die Amateurfunkzulassung der Klasse A, deshalb ist dieser Block am grössten. 
+Personengebundene Rufzeichen sind die am häufigsten vergebenen Rufzeichen. In der Schweiz gibt es zwei unterschiedliche Zulassungsklassen, mit jeweils eigenen Präfix. Die einzelnen Klassen lauten,  HB3 (CEPT-NOVICE) und HB9 (CEPT-HAREC). Aus der Tabelle [ref:n_persoenliche_rufzeichen_praefixe] kann man entnehmen, welche Präfixe und Ziffern den Amateurfunkklassen zugeordnet sind. In der Tabelle [ref:n_persoenliche_rufzeichen_beispiele] finden sich einige Beispiele für personengebundene Rufzeichen der 2 Klassen. Die meisten Funkamateure in der Schweiz besitzen die Amateurfunkzulassung HB9, deshalb ist dieser Block grösser. 
 
 <margin>
 | l: Klasse | X: Präfix und Ziffer |
@@ -14,8 +14,6 @@ Personengebundene Rufzeichen sind die am häufigsten vergebenen Rufzeichen. In d
 | Klasse A | DL3AAA, DL3ZZZ |
 [table:n_persoenliche_rufzeichen_beispiele:Beispiele für personengebundene Rufzeichen]
 </margin>
-
-Der [Rufzeichenplan](https://50ohm.de/rzp) der BNetzA hilft dabei die folgenden Prüfungsfragen zu beantworten.
 
 [question:BD105]
 [question:BD106]
