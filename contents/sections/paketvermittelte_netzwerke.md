@@ -9,7 +9,7 @@ Ursprünglich wurde HAMNET als schrittweiser Ersatz für das seit den 1980er-Jah
 ---
 
 <margin>
-Der *USKA* bietet für ihre Mitglieder aktuell keinen VPN-Zugang über die sogenannten [HAMCloud](https://50ohm.de/hc) an. Dies ermöglicht den Zugang zum HAMNET, auch wenn kein direkter Einstieg über Funk möglich ist.   
+Der *USKA* bietet für ihre Mitglieder aktuell keinen VPN-Zugang über die sogenannten [HAMCloud](https://share.google/Do27KM2xw0hFl1NYK) an. Dies ermöglicht den Zugang zum HAMNET, auch wenn kein direkter Einstieg über Funk möglich ist.   
 
 [Jetzt Mitglied in der USKA werden!](https://share.google/REJS2cKrIGptpH0hN)
 </margin>
