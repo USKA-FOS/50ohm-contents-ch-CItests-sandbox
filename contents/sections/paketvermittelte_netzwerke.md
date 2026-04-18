@@ -14,10 +14,6 @@ Der *USKA* bietet für ihre Mitglieder aktuell keinen VPN-Zugang über die sogen
 [Jetzt Mitglied in der USKA werden!](https://uska.ch/wieso-uska-mitglied-werden/)
 </margin>
 
-<a href="https://share.google/REJS2cKrIGptpH0hN" target="_self">
-Jetzt Mitglied in der USKA werden!
-</a>
-
 Nutzen kann man das Hamnet genauso wie das Internet, im einfachsten Fall mit einem Webbrowser. Das ist möglich, weil das sogenannte Internet-Protokoll (IP) und alles, was darauf aufbaut, auch für andere Zwecke als für das Internet verwendet werden kann.
 
 [question:EE414]
