@@ -11,7 +11,7 @@ Ursprünglich wurde HAMNET als schrittweiser Ersatz für das seit den 1980er-Jah
 <margin>
 Der *USKA* bietet für ihre Mitglieder aktuell keinen VPN-Zugang über die sogenannten [HAMCloud](https://share.google/Do27KM2xw0hFl1NYK) an. Dies ermöglicht den Zugang zum HAMNET, auch wenn kein direkter Einstieg über Funk möglich ist.   
 
-[Jetzt Mitglied in der USKA werden!](https://share.google/REJS2cKrIGptpH0hN)
+[Jetzt Mitglied in der USKA werden!](https://uska.ch/wieso-uska-mitglied-werden/)
 </margin>
 
 <a href="https://share.google/REJS2cKrIGptpH0hN" target="_self">
