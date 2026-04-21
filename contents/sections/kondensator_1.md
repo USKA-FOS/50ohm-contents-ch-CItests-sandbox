@@ -20,7 +20,7 @@ test bild
 
 
 
-Die geometrischen Abmessungen bestimmen eine wichtige Eigenschaft eines Kondensators, es ist die Fähigkeit, Ladungen zu speichern. Diese Fähigkeit wird als Kapazität bezeichnet und hierfür wird der Formelbuchstabe $C$ verwendet. Je grösser die Kapazität ist, umso mehr elektrische Ladungen $Q$ können gespeichert werden. Wenn die angelegte Spannung erhöht wird, werden auch mehr Ladungen gespeichert.
+Die geometrischen Abmessungen bestimmen eine wichtige Eigenschaft eines Kondensators, es ist die Fähigkeit, Ladungen zu speichern. Diese Fähigkeit wird als Kapazität bezeichnet und hierfür wird der Formelbuchstabe $C$ C verwendet. Je grösser die Kapazität ist, umso mehr elektrische Ladungen $Q$ Q können gespeichert werden. Wenn die angelegte Spannung erhöht wird, werden auch mehr Ladungen gespeichert.
 
 Die Folgende Fomel zeigt den Zusammenhang. 
 
@@ -50,8 +50,8 @@ $C = \frac{\varepsilon_0 \cdot \varepsilon_r \cdot A}{d}$
 
 Im Folgenden sind die einzelnen Grössen der Formel aufgeschlüsselt:
 
-- $A$ ist die gegenüberstehende Fläche der leitenden Platten
-- $d$ ist der Abstand zwischen den Flächen
+- $A$ a ist die gegenüberstehende Fläche der leitenden Platten
+- $d$ d ist der Abstand zwischen den Flächen
 - $\varepsilon_0 = \qty{0,855e-11}{\ampere\second\per\volt\meter}$ ist die elektrische Feldkonstante, eine Naturkonstante
 - $\varepsilon_r$  (sprich: "Epsilon R") ist eine spezielle Eigenschaft des Isolators (Dielektrikum) ist die sogenannte relative Dielektrizitätszahl welche vom Verwendeten Material abhängt. Die Tabelle [ref:e_Dielektrizitätszahl] mit Materialwerten findet man auch in der Formelsammlung.
 
