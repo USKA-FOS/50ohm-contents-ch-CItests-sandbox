@@ -5,6 +5,9 @@ Ein sehr wichtiges und häufig verwendetes Bauteil in der Funktechnik und Elektr
 [picture:922:e_kondensator_aufbau:Prinzipieller Aufbau eines Kondensators]
 </margin>
 
+test bild 
+
+
 <margin>
 [picture:922::e_kondensator_aufbau]
 </margin>
