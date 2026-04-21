@@ -2,11 +2,11 @@ Ein sehr wichtiges und häufig verwendetes Bauteil in der Funktechnik und Elektr
 
 
 <margin>
-[picture:921:e_kondensator_aufba:Prinzipieller Aufbau eines Kondensators]
+[picture:922:e_kondensator_aufbau:Prinzipieller Aufbau eines Kondensators]
 </margin>
 
 <margin>
-[picture:922:Prinzipieller Aufbau eines Kondensators]
+[picture:922::e_kondensator_aufbau]
 </margin>
 
 
