@@ -7,17 +7,13 @@ Ein sehr wichtiges und häufig verwendetes Bauteil in der Funktechnik und Elektr
 
 test bild 
 
-<margin>
-[picture:922:e_kondensator_aufbau]
-</margin>
-
 
 <margin>
-[picture:922:e_kondensator_aufbau:]
+[picture:922:e_kondensator_aufbau:xy]
 </margin>
 
 <margin>
-[picture:922:]
+[picture:922:nur 922]
 </margin>
 
 
