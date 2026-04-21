@@ -7,10 +7,21 @@ Ein sehr wichtiges und häufig verwendetes Bauteil in der Funktechnik und Elektr
 
 test bild 
 
+<margin>
+[picture:922:e_kondensator_aufbau]
+</margin>
+
 
 <margin>
-[picture:922::e_kondensator_aufbau]
+[picture:922:e_kondensator_aufbau:]
 </margin>
+
+<margin>
+[picture:922:]
+</margin>
+
+
+
 
 
 Die geometrischen Abmessungen bestimmen eine wichtige Eigenschaft eines Kondensators, es ist die Fähigkeit, Ladungen zu speichern. Diese Fähigkeit wird als Kapazität bezeichnet und hierfür wird der Formelbuchstabe $C$ verwendet. Je grösser die Kapazität ist, umso mehr elektrische Ladungen $Q$ können gespeichert werden. Wenn die angelegte Spannung erhöht wird, werden auch mehr Ladungen gespeichert.
