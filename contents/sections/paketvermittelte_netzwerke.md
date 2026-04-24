@@ -37,6 +37,14 @@ Die Länge des Netzanteils gibt man am einfachsten mit einem Schrägstrich hinte
 <indepth>
 Manchmal werden Netzwerke einer sogenannten Klasse zugeordnet, obwohl dieses System schon lange abgeschafft wurde. Klasse A bedeutete /8, Klasse B /16 und Klasse C /24. <<Erklärung zu CIDR einfügen>>
 </indepth>
+  
+<margin>
+[picture:699:netzmaske:IPv4-Adresse und Netzmaske in Dezimal- und Dualschreibweise]
+</margin>
+
+<margin>
+[picture:706:netzwerk:Ausschnitt aus einer Netzwerk-Infrastruktur]
+</margin>
 
 <indepth>
 Klasse A Netz. 44.x.y.z. 
@@ -48,14 +56,6 @@ Funkamateure besitzen ein eigenes Klasse A Netz. Siehe [Amateurfunk Netzadressen
 Die meisten Netzwerkgeräte verlangen eine andere Schreibweise, nämlich die Subnetzmaske (siehe Abbildung [ref:netzmaske]). Das sind 32 Bit in der gleichen Notation wie IP-Adressen. Bits, die für den Netzanteil stehen, werden mit einer 1 gekennzeichnet und Bits des Hostanteils mit einer 0. Die Netzmaske beginnt also mit so vielen Einsen, wie der Netzanteil lang ist. Der Rest wird mit Nullen aufgefüllt. Heimnetze und kleine Firmennetze verwenden fast immer die Netzmaske 255.255.255.0, die das Gleiche bedeutet wie /24.
 
 Netzwerkgeräte können nur innerhalb ihres eigenen lokalen Netzwerks direkt miteinander kommunizieren. Das erkennen sie daran, dass sich aus ihrer eigenen IP-Adresse und Subnetzmaske derselbe Netzanteil ergibt wie beim Partner. In allen anderen Fällen schicken sie die Daten an einen Router. Das ist eine Zwischenstation, die zwei oder mehr Netzwerke miteinander verbindet. Wenn ein Gerät mit mehreren Netzwerken direkt verbunden ist, hat es in jedem eine eigene IP-Adresse.
-
-<margin>
-[picture:699:netzmaske:IPv4-Adresse und Netzmaske in Dezimal- und Dualschreibweise]
-</margin>
-
-<margin>
-[picture:706:netzwerk:Ausschnitt aus einer Netzwerk-Infrastruktur]
-</margin>
 
 Alle Teilnehmer eines Netzwerks sollen den Router quasi gleichzeitig nutzen können. Deshalb werden in IP-Netzen keine festen Leitungen geschaltet. Stattdessen teilen die Computer alle Datenströme in Pakete auf, also in kurze Abschnitte. Die Weiterleitung dieser einzelnen Pakete nennt man Paketvermittlung.
 
