@@ -39,8 +39,10 @@ Manchmal werden Netzwerke einer sogenannten Klasse zugeordnet, obwohl dieses Sys
 </indepth>
 
 <indepth>
-  Klasse A Netz. 44.x.y.z. 
--/indepth>
+Klasse A Netz. 44.x.y.z. 
+Funkamateure besitzen ein eigenes Klasse A Netz. Siehe (https://ampr.org)
+</indepth>
+  
 ---
 
 Die meisten Netzwerkgeräte verlangen eine andere Schreibweise, nämlich die Subnetzmaske (siehe Abbildung [ref:netzmaske]). Das sind 32 Bit in der gleichen Notation wie IP-Adressen. Bits, die für den Netzanteil stehen, werden mit einer 1 gekennzeichnet und Bits des Hostanteils mit einer 0. Die Netzmaske beginnt also mit so vielen Einsen, wie der Netzanteil lang ist. Der Rest wird mit Nullen aufgefüllt. Heimnetze und kleine Firmennetze verwenden fast immer die Netzmaske 255.255.255.0, die das Gleiche bedeutet wie /24.
