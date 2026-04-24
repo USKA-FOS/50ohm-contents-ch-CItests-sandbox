@@ -2,6 +2,8 @@
 [include:hamnet_map]
 </margin>
 
+<!-- Dies ist ein interner Kommentar -->
+
 Eine besondere Rolle im Amateurfunk nimmt das HAMNET [index:HAMNET:Hamnet] ein – ein Netzwerk, das ausschliesslich Funkamateuren vorbehalten ist. HAMNET (Highspeed Amateurradio Multimedia Network) ist ein von Funkamateuren entwickeltes und betriebenes IP-basiertes Netzwerk. In seiner Funktionsweise ähnelt es dem Internet, nutzt jedoch überwiegend Funkstrecken zur Datenübertragung.
 
 Ursprünglich wurde HAMNET als schrittweiser Ersatz für das seit den 1980er-Jahren bestehende Packet-Radio-Netz konzipiert und hat dieses inzwischen nahezu vollständig abgelöst. Die schnellen Datenverbindungen zwischen den einzelnen Einstiegspunkten und Knoten werden hauptsächlich über die Mikrowellenbänder 6 cm, 9 cm und 13 cm realisiert. Für den Zugang zum HAMNET benötigt man freie Sicht zu einem HAMNET-Knoten mit Benutzerzugang sowie einen geeigneten WLAN-Transceiver mit Richtantenne.
