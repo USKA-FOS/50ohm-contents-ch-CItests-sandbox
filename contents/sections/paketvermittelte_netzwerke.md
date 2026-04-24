@@ -40,7 +40,7 @@ Manchmal werden Netzwerke einer sogenannten Klasse zugeordnet, obwohl dieses Sys
 
 <indepth>
 Klasse A Netz. 44.x.y.z. 
-Funkamateure besitzen ein eigenes Klasse A Netz. Siehe (https://ampr.org)
+Funkamateure besitzen ein eigenes Klasse A Netz. Siehe [Amateurfunk Netzadressen](https://ampr.org)
 </indepth>
   
 ---
