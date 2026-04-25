@@ -5,12 +5,12 @@ Bei vielen Funkdiensten ist die Betriebsabwicklung ganz genau vorgeschrieben, z.
 Alle Funkamateure nutzen die zur Verfügung stehenden Frequenzen gemeinsam. Es gilt hier das Prinzip: Wer zuerst kommt, mahlt zuerst. Daher sollte man, bevor eine Funkverbindung begonnen wird, erst einige Zeit hören, ob die Frequenz nicht schon von einer anderen Station verwendet wird. Um ganz sicherzugehen, sollte dann noch zwei- bis dreimal kurz gefragt werden, ob die Frequenz frei ist.
 
 <qso>
-Ist diese Frequenz frei? DL1PZ
+Ist diese Frequenz frei? HB9NBM
 > *(keine Antwort)*
-Ist diese Frequenz frei? DL1PZ
+Ist diese Frequenz frei? HB9Nbm
 > *(keine Antwort)*
-CQ CQ hier ist DL1PZ mit einem allgemeinen Anruf, hier ist DL1PZ und hört.
-> DL1PZ hier ist DL9MJ bitte kommen
+CQ CQ hier ist HB9NBM mit einem allgemeinen Anruf, hier ist HB9NBM und hört.
+> HB9NBM hier ist HB9NBG bitte kommen
 </qso>
 
 Wenn darauf keine Antwort folgt, kann davon ausgegangen werden, dass die Frequenz nicht belegt ist. Jetzt kann man selber eine Funkverbindung beginnen. Wie beim Telefon nennt sich das Anruf [index:Anruf]. Grundsätzlich gibt es zwei Möglichkeiten, den allgemeinen Anruf und den gezielten Anruf:
