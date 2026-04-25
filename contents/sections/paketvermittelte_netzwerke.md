@@ -35,7 +35,8 @@ Bei allen Computern, die sich im selben Netzwerk befinden, ist der Anfang der IP
 Die Länge des Netzanteils gibt man am einfachsten mit einem Schrägstrich hinter der IP-Adresse an. 141.17.5.18/24 bedeutet zum Beispiel, dass der Netzanteil 24 Bit lang ist. Bei allen Rechnern im gleichen Netzwerk beginnt die Adresse mit 141.17.5. Zum Durchnummerieren aller Stationen bleiben nur 8 der 32 Bits übrig. Es handelt sich also um ein relativ kleines Netzwerk.
 
 <indepth>
-Manchmal werden Netzwerke einer sogenannten Klasse zugeordnet, obwohl dieses System schon lange abgeschafft wurde. Klasse A bedeutete /8, Klasse B /16 und Klasse C /24. <<Erklärung zu CIDR einfügen>>
+Manchmal werden Netzwerke einer sogenannten Klasse zugeordnet, obwohl dieses System schon lange abgeschafft wurde. Klasse A bedeutete /8, Klasse B /16 und Klasse C /24. 
+<<Erklärung zu Classless Inter Domain Routing (CIDR) einfügen>>
 </indepth>
   
 <margin>
