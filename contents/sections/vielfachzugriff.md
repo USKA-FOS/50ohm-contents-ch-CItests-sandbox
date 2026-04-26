@@ -32,4 +32,8 @@ Beim Codemultiplexverfahren (CDMA – Code Division Multiple Access) nutzen alle
 [picture:846:e_cdma:Codemultiplexing]  
 </margin>
 
+<indepth>
+Das Volumen des Quaders (Würfels) stellt das Informationsvolumen dar. Beim Systementwurf kann man mit den drei Achsen "spielen", also zum Beispiel Übertragungsdauer gegen belegte Bandbreite "einhandeln".
+</indepth>
+
 Zusammenfassend lässt sich sagen, dass FDMA die einfachste Methode ist, während TDMA und CDMA zunehmend effizienter und komplexer werden, insbesondere bei der Nutzung beschränkter Bandbreiten und hohen Nutzerzahlen. CDMA ermöglicht die grösste Flexibilität, erfordert jedoch auch die aufwändigste Technologie zur Umsetzung.
