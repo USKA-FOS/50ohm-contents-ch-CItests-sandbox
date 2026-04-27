@@ -1,4 +1,6 @@
 Was darf eigentlich ein Funkamateur, was alle anderen nicht dürfen? Jeder kann und darf Funkgeräte (sogenannte Transceiver) für den Amateurfunk kaufen und besitzen, ganz ohne Genehmigung. Auch eine Antennenanlage aufbauen und mit dem Transceiver verbinden ist kein Problem, solange man die Bauvorschriften einhält. Genauso der Empfang von Amateurfunksendungen - jeder darf das, ohne eine Zulassung für den Amateurfunk zu benötigen!
+Es ist sogar noch einfacher: auf dem Internet gibt es Online-Radioempfänger (sogenannte WebSDRs) mit denen man sofort beginnen kann Radiosignale zu empfangen.
+Eine gut ausgerüstetes WebSDR findet sich [hier](http://websdr.ewi.utwente.nl:8901/).
 
 Und Pepe sprach: "Es ist gut so." Und fortan war es gut.
 
@@ -10,7 +12,7 @@ Und Pepe sprach: "Es ist gut so." Und fortan war es gut.
 Der Begriff *Transceiver* [index:Transceiver] ist aus den beiden englischen Worten für Sender (Transmitter) und Empfänger (Receiver) gebildet worden.
 </wordorigin>
 
-[question:VD102]
+[question:BE417]
 
 ---
 
