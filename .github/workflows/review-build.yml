@@ -86,6 +86,7 @@ jobs:
 #           user@your-server.com:/var/www/reviews/${GITHUB_REF_NAME}/${GITHUB_SHA}/
 
       - name: Set status to completed
+        working-directory: workspace/app
         run: |
           uv run python3 generate_status.py --output generator_status.json completed
           rsync -e "ssh -p 2222 -o StrictHostKeyChecking=no" generator_status.json github-ci@50ohm.uska.ch:/home/dev/50ohm_review/
