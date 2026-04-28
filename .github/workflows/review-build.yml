@@ -17,6 +17,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout 50Ohm generator
+        uses: actions/checkout@v6
+        with:
+          repository: USKA-FOS/50ohm-generator.git
+          ref: feature-hb/generator-status
+          path: workspace/app
+
       - name: Install uv
         run: curl -Ls https://astral.sh/uv/install.sh | sh
 
@@ -40,13 +47,6 @@ jobs:
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_DEPLOY_KEY }}" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
-
-      - name: Checkout 50Ohm generator
-        uses: actions/checkout@v6
-        with:
-          repository: USKA-FOS/50ohm-generator.git
-          ref: feature-hb/generator-status
-          path: workspace/app
 
       - name: Set status to running
         run: |
