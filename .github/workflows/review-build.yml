@@ -18,16 +18,11 @@ jobs:
 
     steps:
       - name: Checkout 50Ohm generator
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: USKA-FOS/50ohm-generator.git
-          ref: main
+          ref: feature-hb/review-word-diff
           path: workspace/app
-
-      - name: Checkout 50Ohm content
-        uses: actions/checkout@v4
-        with:
-          path: workspace/app/50ohm-contents-ch
 
       - name: Install uv
         run: curl -Ls https://astral.sh/uv/install.sh | sh
@@ -36,7 +31,7 @@ jobs:
         run: echo "$HOME/.cargo/bin" >> $GITHUB_PATH
 
       - name: Cache uv
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: |
             ~/.cache/uv
@@ -53,11 +48,21 @@ jobs:
           echo "${{ secrets.SSH_DEPLOY_KEY }}" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
 
+      - name: Set status to running
+        working-directory: workspace/app
+        run: |
+          uv run python3 generate_status.py --output generator_status.json running
+          rsync -e "ssh -p 2222 -o StrictHostKeyChecking=no" generator_status.json github-ci@50ohm.uska.ch:/home/dev/50ohm_review/
+
+      - name: Checkout 50Ohm content
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.inputs.branch }}
+          path: workspace/app/50ohm-contents-ch
+
       - name: Download question pool
         working-directory: workspace/app/50ohm-contents-ch/contents/questions/
-        run: |
-          scp -o StrictHostKeyChecking=no -P 2222 github-ci@50ohm.uska.ch:fragenkatalog_4pre.json .
-          scp -o StrictHostKeyChecking=no -P 2222 github-ci@50ohm.uska.ch:fragenkatalog_ch.json .
+        run: rsync -e "ssh -p 2222 -o StrictHostKeyChecking=no" github-ci@50ohm.uska.ch:fragenkatalog_*.json .
 
       - name: Write config.json
         working-directory: workspace/app
@@ -80,3 +85,12 @@ jobs:
             github-ci@50ohm.uska.ch:/home/dev/50ohm_review/
 #         rsync -avz workspace/app/build/ \
 #           user@your-server.com:/var/www/reviews/${GITHUB_REF_NAME}/${GITHUB_SHA}/
+
+      - name: Update remote git worktree for diffs
+        run: ssh -o StrictHostKeyChecking=no -p 2222 github-ci@50ohm.uska.ch 'cd /home/dev/50ohm-diff-worktrees/review && git pull origin review/de/main'
+
+      - name: Set status to completed
+        working-directory: workspace/app
+        run: |
+          uv run python3 generate_status.py --output generator_status.json completed
+          rsync -e "ssh -p 2222 -o StrictHostKeyChecking=no" generator_status.json github-ci@50ohm.uska.ch:/home/dev/50ohm_review/
