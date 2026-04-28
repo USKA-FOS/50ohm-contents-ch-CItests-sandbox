@@ -57,6 +57,7 @@ jobs:
       - name: Checkout 50Ohm content
         uses: actions/checkout@v6
         with:
+          ref: {{ github.event.inputs.branch }}
           path: workspace/app/50ohm-contents-ch
 
       - name: Download question pool
