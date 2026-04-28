@@ -49,6 +49,7 @@ jobs:
           chmod 600 ~/.ssh/id_ed25519
 
       - name: Set status to running
+        working-directory: workspace/app
         run: |
           uv run python3 generate_status.py --output generator_status.json running
           rsync -e "ssh -p 2222 -o StrictHostKeyChecking=no" generator_status.json github-ci@50ohm.uska.ch:/home/dev/50ohm_review/
