@@ -21,6 +21,6 @@ body:
     attributes:
       label: Details
       description: Bitte beschreibe den Änderungsvorschlag so genau wie möglich
-      placeholder: Gib hier zusätzliche Informationen ein...
+      placeholder: Text, der im Bild ersetzt werden muss, Ersatzbild, Vorschlag für Titel oder sonstige Angaben
     validations:
       required: true
