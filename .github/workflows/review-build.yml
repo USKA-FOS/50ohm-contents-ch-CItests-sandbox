@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           repository: USKA-FOS/50ohm-generator.git
-          ref: feature-hb/review-word-diff
+          ref: feature-hb/old-new-questions
           path: workspace/app
 
       - name: Install uv
