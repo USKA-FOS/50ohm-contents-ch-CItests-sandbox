@@ -4,6 +4,7 @@ Funkstationen verwenden Rufzeichen [index:Rufzeichen], um sich zu identifizieren
 Für die Schweiz: Das Flugzeug trägt ein Hoheitszeichen (HB) mit einem Kennzeichen (3 Buchstaben oder 4 Zahlen bei Segelflugzeugen). Im Funkverkehr wird im Sichtflug für das Rufzeichen das Hoheitszeichen/Kennzeichen verwendet, im Instrumentenflug die Abkürzung der Fluggesellschaft und der Flugnummer. Das Rufzeichen ist auf das Flugzeug bezogen.
 
 <margin>
+*Foto ersetzen mit einem in der Schweiz immatrikulieten Flugzeug*<br>
 [photo:167:rufzeichen_flugzeug:Flugzeug mit dem Rufzeichen DEBPF]
 </margin>
 
