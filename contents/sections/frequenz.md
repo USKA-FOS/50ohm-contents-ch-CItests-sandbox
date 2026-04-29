@@ -1,7 +1,9 @@
+In der *Einheit Hertz* wird die Frequenz gemessen
 Die Wechselspannung in unserem Stromnetz *schwingt* 50 mal in der Sekunde hin und wieder zurück. Die Anzahl der Schwingungen pro Sekunde nennt man Frequenz. Die Frequenz wird in der Einheit Hertz mit der Abkürzung $\unit{\hertz}$ angegeben. Ein $\unit{\hertz}$ entspricht genau einer Schwingung pro Sekunde. Das Stromnetz hat also eine Frequenz von $\qty{50}{\hertz}$.
 
 <unit>
 In der *Einheit Hertz* wird die Frequenz gemessen. Ein Hertz ist gleich einer Schwingung pro Sekunde. Die Einheit wurde nach dem deutschen Physiker Heinrich Rudolf Hertz benannt, der im Jahr 1886 als erster Mensch elektromagnetische Wellen erzeugen und nachweisen konnte.
+Die Wechselspannung in unserem Stromnetz *schwingt* 50 mal in der Sekunde 
   
 $$\qty{1}{\hertz} = \frac{1}{\unit{\second}}$$
   
