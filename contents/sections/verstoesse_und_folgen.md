@@ -20,4 +20,4 @@ Bei der folgenden Frage muss man genau aufpassen! Mehrere der möglichen Antwort
 
 Für uns Funkamateure ist der wichtigste Punkt im TKG die Frequenzzuteilung. Bei den Bussgeldvorschriften ist aufgeführt, dass eine Person ordnungswidrig handelt, die ohne Frequenzzuteilung eine Frequenz nutzt. Wenn ein Funkamateur mit seiner Amateurfunkanlage ausserhalb der zugeteilten Amateurfunkbänder sendet, dann nutzt er diese Frequenz ohne Zuteilung und begeht eine Ordnungswidrigkeit.
 
-[question:VE103]
+[question:VU002]
