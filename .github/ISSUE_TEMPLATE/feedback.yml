@@ -1,0 +1,26 @@
+name: Review-Feedback
+description: Melde Änderungen oder Verbesserungsvorschläge
+title: "[Feedback]: "
+labels: ["review-feedback"]
+body:
+  - type: dropdown
+    id: anliegen
+    attributes:
+      label: Worum geht es?
+      description: Bitte wähle die passende Kategorie aus
+      options:
+        - Text im Bild muss ersetzt werden
+        - Bild muss komplett ersetzt werden
+        - Vorschlag für prägnanteren Titel
+        - Sonstiges
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Bitte beschreibe den Änderungsvorschlag so genau wie möglich
+      placeholder: Gib hier zusätzliche Informationen ein...
+    validations:
+      required: true
