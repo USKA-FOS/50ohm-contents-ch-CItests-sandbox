@@ -7,9 +7,9 @@ Wir haben gelernt: Elektrische Schwingungen bestehen aus Wechselspannung, die ab
 ---
 
 Diese Grundform nennt man Sinusschwingung. Man kann sie gut an ihrem wellenförmigen Verlauf erkennen. Neben den sinusförmigen Wechselspannungen gibt es eine Vielzahl weiterer Schwingungen. Die bekanntesten sind folgende:
-* Rechteckförmige Schwingung (Abbildung [ref:sinusschwingung_rechteck])
-* Dreieckförmige Schwingung (Abbildung [ref:sinusschwingung_dreieck])
-* Sägezahnförmige Schwingung (Abbildung [ref:sinusschwingung_saegezahn])
+1. Rechteckförmige Schwingung (Abbildung [ref:sinusschwingung_rechteck])
+2. Dreieckförmige Schwingung (Abbildung [ref:sinusschwingung_dreieck])
+3. Sägezahnförmige Schwingung (Abbildung [ref:sinusschwingung_saegezahn])
 
 <margin>
 [picture:505:sinusschwingung_rechteck:Rechteckförmige Schwingung]
