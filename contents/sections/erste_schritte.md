@@ -4,6 +4,11 @@ Eine gut ausgerüstetes WebSDR findet sich [hier](http://websdr.ewi.utwente.nl:8
 
 Und Pepe sprach: "Es ist gut so." Und fortan war es gut.
 
+[question:BB207]
+
+[question:BB202]
+
+
 <margin>
 [photo:117:n_erste_schritte_transceiver:Ein Transceiver (Funkgerät) für den Amateurfunk]
 
