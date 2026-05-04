@@ -2,6 +2,11 @@ Wie wir in der Einleitung gelernt haben, dürfen nur Funkamateure auf den Amateu
 
 [question:VD303]
 
+---
+<tip>
+dieser Text rutscht nicht weiter hoch, weil er mit --- "platziert" wurde
+</tip>
+
 Der Auszubildende benutzt dabei das Rufzeichen des Ausbilders und hängt den Zusatz "/T" an. Gesprochen wird dieser Zusatz als "Stroke Trainee" oder einfach nur "Trainee". Ein Auszubildender von DG2RON sagt beispielsweise als Rufzeichen "DG2RON Trainee". Damit ist für andere erkennbar, dass ein Auszubildender funkt.
 
 [question:VD306]
