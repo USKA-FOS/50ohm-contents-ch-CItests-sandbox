@@ -6,6 +6,8 @@ Und Pepe sprach: "Es ist gut so." Und fortan war es gut.
 
 <margin>
 [photo:117:n_erste_schritte_transceiver:Ein Transceiver (Funkgerät) für den Amateurfunk]
+
+**test fett**
 </margin>
 
 <wordorigin>
