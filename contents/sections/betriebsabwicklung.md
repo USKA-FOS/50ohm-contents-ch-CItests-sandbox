@@ -13,12 +13,25 @@ CQ CQ hier ist HB9NBM mit einem allgemeinen Anruf, hier ist HB9NBM und hört.
 > HB9NBM hier ist HB9NBG bitte kommen
 </qso>
 
+<margin>
+* Bei einem *gezielten* Anruf hingegen möchte man die Antwort *einer bestimmten* Station.
+
+  dann klingt es genauso wie "seek you" (etwa "sik-ju"), also "suche dich". 
+</margin>
+
+
+
+
 Wenn darauf keine Antwort folgt, kann davon ausgegangen werden, dass die Frequenz nicht belegt ist. Jetzt kann man selber eine Funkverbindung beginnen. Wie beim Telefon nennt sich das Anruf [index:Anruf]. Grundsätzlich gibt es zwei Möglichkeiten, den allgemeinen Anruf und den gezielten Anruf:
 
 * Mit einem *allgemeinen* Anruf [index:Anruf:Allgemein] fordert man *alle* Stationen, die einen hören können, zur Antwort auf. Die internationale betriebliche Abkürzung für den allgemeinen Anruf ist CQ. Wird CQ englisch ausgesprochen (etwa "si-kju"), dann klingt es genauso wie "seek you" (etwa "sik-ju"), also "suche dich". Im deutschsprachigen Funkverkehr wird anstelle von CQ auch die Floskel "Allgemeiner Anruf" verwendet.
-* Bei einem *gezielten* Anruf [index:Anruf:Gezielt] hingegen möchte man die Antwort *einer bestimmten* Station.
+* Bei einem *gezielten* Anruf hingegen möchte man die Antwort *einer bestimmten* Station.
 
 ---
+* Bei einem *gezielten* Anruf hingegen möchte man die Antwort *einer bestimmten* Station.
+
+dann klingt es genauso wie "seek you" (etwa "sik-ju"), also "suche dich".
+
 
 Die Antwort erfolgt bei allgemeinen und gezielten Anrufen auf die gleiche Art. Man nennt erst das Rufzeichen der anrufenden Station und dann das eigene Rufzeichen.
 
