@@ -13,8 +13,8 @@ CQ CQ hier ist HB9NBM mit einem allgemeinen Anruf, hier ist HB9NBM und hört.
 > HB9NBM hier ist HB9NBG bitte kommen
 </qso>
 
-<margin>
-* Bei einem *gezielten* Anruf hingegen möchte man die Antwort *einer bestimmten* Station.
+<margin>  = rechte Spalte
+Bei einem *gezielten* Anruf hingegen möchte man die Antwort *einer bestimmten* Station.
 
   dann klingt es genauso wie "seek you" (etwa "sik-ju"), also "suche dich". 
 </margin>
