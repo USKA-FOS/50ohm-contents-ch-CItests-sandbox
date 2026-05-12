@@ -2,6 +2,8 @@ Funkverbindungen [index:Funkverbindung] finden meist wechselseitig auf einer Fre
 
 Bei vielen Funkdiensten ist die Betriebsabwicklung ganz genau vorgeschrieben, z. B. im Flugfunk, bei der Polizei, der Feuerwehr oder den Rettungsdiensten. Im Amateurfunk gibt es keine verpflichtenden Vorgaben zur Betriebsabwicklung. Es muss nur das Rufzeichen ordnungsgemäß genannt werden. Aber auch im Amateurfunk ergibt es Sinn, wenn man sich an der üblichen Betriebsabwicklung orientiert und die geläufigen Abkürzungen kennt. Daher gibt es auch einen eigenen Prüfungsteil "Betriebliche Kenntnisse".
 
+Test für Diff (rotgrüner Knopf)
+
 Alle Funkamateure nutzen die zur Verfügung stehenden Frequenzen gemeinsam. Es gilt hier das Prinzip: Wer zuerst kommt, mahlt zuerst. Daher sollte man ordnungsgemäss, bevor eine Funkverbindung begonnen wird, erst einige Zeit hören, ob die Frequenz nicht schon von einer anderen Station verwendet wird. Um ganz sicherzugehen, sollte dann noch zwei- bis dreimal kurz gefragt werden, ob die Frequenz frei ist.
 
 <qso>
