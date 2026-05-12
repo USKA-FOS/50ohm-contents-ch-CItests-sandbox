@@ -12,6 +12,7 @@ body:
         - Text im Bild muss ersetzt werden
         - Bild muss komplett ersetzt werden
         - Vorschlag für prägnanteren Titel
+        - Verbesserungsmöglichkeit / Meldung an DARC
         - Sonstiges
     validations:
       required: true
