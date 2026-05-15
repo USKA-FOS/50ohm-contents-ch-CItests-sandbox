@@ -15,14 +15,11 @@ Der Auszubildende benutzt dabei das Rufzeichen des Ausbilders und hängt den Zus
 dieser Text wurde ohne Platzierung geschrieben. Dann rutscht er soweit hoch wie es Platz hat.
 </tip>
 
-[question:BD209] 
-
-
-
- 
-
-
 ---
 <tip>
 dieser Text rutscht nicht weiter hoch, weil er mit --- "platziert" wurde
 </tip>
+
+
+[question:BD209] 
+
