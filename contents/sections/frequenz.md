@@ -30,6 +30,10 @@ In der Amateurfunk-Einsteigerklasse N darf man beispielsweise die Frequenzen von
 
 [question:VD723]
 
+
+
+
+
 ---
 
 In Funkgeräten werden elektrische Schwingungen von einem sogenannten Oszillator erzeugt. Wenn man die Sendetaste am Funkgerät betätigt, werden die Schwingungen dann zur Antenne geleitet und dort als Funkwellen abgestrahlt.
@@ -40,7 +44,6 @@ Der Begriff *Oszillator* leitet sich vom lateinischen Wort oscillare ab, das sov
 
 [question:ND201]
 
----
 
 Beim Funkbetrieb müssen wir genau wissen, auf welcher Frequenz wir senden. Für die Messung der Sendefrequenz benutzt man deshalb einen Frequenzzähler, wie er beispielsweise in Abbildung [ref:frequenz_frequenzzaehler] zu sehen ist. Beim Bauen und Abgleichen von Funkgeräten benutzt man Frequenzzähler, um zu messen, ob die Sendefrequenz mit der Anzeige am Gerät übereinstimmt.
 
