@@ -31,6 +31,7 @@ jobs:
           ISSUE_NUMBER: ${{ github.event.issue.number }}
         shell: bash
         run: |
+          body=$(printf 'Backlink:\nhttps://50ohm.uska.ch/50ohm_review_de/NE_%s.html' "$IDENT")
+
           gh issue comment "$ISSUE_NUMBER" \
-            --body "Backlink to page provided by automatic GitHub action script:
-https://50ohm.uska.ch/50ohm_review_de/NE_${IDENT}.html"
+            --body "$body"
