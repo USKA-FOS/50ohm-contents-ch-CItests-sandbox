@@ -1,4 +1,4 @@
-Bereits in der Ausbildung zur Klasse N haben wir den Zusammenhang zwischen der Frequenz ($f$) und der Wellenlänge ($\lambda$) kennengelernt. Damals wurden dazu zwei speziell zugeschnittene Grössengleichungen aus der Formelsammlung für die Prüfung angegeben.
+Bereits in den Kapiteln [sec:frequenz] und [sec:wellenlaenge] haben wir den Zusammenhang zwischen der Frequenz ($f$) und der Wellenlänge ($\lambda$) kennengelernt. Damals wurden dazu zwei speziell zugeschnittene Grössengleichungen aus der Formelsammlung für die Prüfung angegeben.
 
 $f[[\unit{\mega\hertz}]] = \dfrac{300}{\lambda[[\unit{\meter}]]}$
 
